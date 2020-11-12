@@ -1,0 +1,20 @@
+{
+    "debug": {
+        "download": true,
+        "foo": "bar"
+    },
+    "directories": {
+        "main": "C:/Users/chang/Documents/Utilities/url-dl-v2",
+        "output": "C:/Users/chang/Documents/Utilities/url-dl Output",
+        "output folders": {
+            "youtube": [
+                "channels"
+            ],
+            "derpibooru": [],
+            "bandcamp": [],
+            "deviantart": [],
+            "soundcloud": [],
+            "other": []
+        }
+    }
+}
