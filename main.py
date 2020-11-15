@@ -1,85 +1,48 @@
-#temp -- move pls
-main_dir = r"C:\Users\chang\Documents\Utilities\url-dl-v2"
-
 import time
 import os
 import sys
 import json
 import re
 from resources.dl_items import *
-from dl_utils import *
+import dl_utils as utils
+import settings
+import dl_object_init as dl
 
+main_dir = os.getcwd()
 os.chdir(main_dir)
 
-class RunInfo(): #todo import this class in all files
-    def __init__(self):
-        self.target_status = None
-        self.settings = {}
-        self.start_time = time.time()
-        self.objects_list = []
-        self.current = 0
-
-    def get_duration(self): #duration in seconds
-        breakpoint()
-        return time.time() - self.start_time
-
-        def beautify(): #Deal with this later
-            duration_s = time.time()-start_time_int
-            if duration_s >= 60:
-                duration_m = int(duration_s/60)
-                duration_s = duration_s % 60
-                
-                if duration_m >= 60:
-                    duration_h = int(duration_m/60)
-                    duration_m = duration_m % 60
-                else:
-                    duration_h = 0
-            else:
-                duration_m,duration_h = 0,0
-            duration_s = "{:.2f}".format(duration_s)
-
-    def lol():
-        pass
-
-class DownloadObject():
-    def __init__(self):
-        self.object_type = None
-        self.site = None
-        self.data = {}
 
 def main(tgt):
-    global downloader
-    downloader = RunInfo()
-    downloader.target_status = tgt
-    load_settings()
+    global Downloader
+    Downloader = dl.RunInfo()
+    Downloader.target_status = tgt
+    Downloader.start_time = time.time()
+    Downloader.settings = settings.load_settings()
+
     create_output_directory()
     parse_input()
 
-def load_settings():
-    with open("settings.json") as f:
-        downloader.settings = json.load(f)
-
 def parse_input():
     download_list = []
-    if downloader.target_status == "local":
+    if Downloader.target_status == "local":
         path = "Links.txt"
         with open(path,"r") as f:
             for line in f.readlines():
                 if line.startswith("##") == False:
                     download_list.append(re.search(r'.*(?=\n)',line).group())
 
-    elif downloader.target_status == "network":
+    elif Downloader.target_status == "network":
         path = None
         raise Exception("WIP")
         breakpoint()
 
     for count, dl_object_string in enumerate(download_list):
-        a = DownloadObject()
-        downloader.objects_list.append(a)
-        downloader.current = count
+        a = dl.DownloadObject()
+        Downloader.objects_list.append(a)
+        Downloader.current = count
         dl_object_string += " "
 
-        dl_object = downloader.objects_list[count]
+        dl_object = Downloader.objects_list[count]
 
         if dl_object_string.startswith("http") == True:
             dl_object.object_type = "url"
@@ -93,7 +56,7 @@ def parse_input():
             from extractors.youtube import youtube_extractor
 
 def create_output_directory():
-    directories = downloader.settings["directories"]
+    directories = Downloader.settings["directories"]
     root = directories["output"]
     if os.path.exists(root):
         pass
@@ -115,12 +78,7 @@ def create_output_directory():
                     else:
                         os.mkdir(path)
 
-def create_settings(): #template for file
-    settings = {}
-    settings["debug"] = {}
-    settings["debug"]["download"] = True
-    settings["debug"]["foo"] = "bar"
 
-    file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
 
-main("local")
+settings.lol()
+#main("local")

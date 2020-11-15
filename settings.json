@@ -4,17 +4,17 @@
         "foo": "bar"
     },
     "directories": {
-        "main": "C:/Users/chang/Documents/Utilities/url-dl-v2",
-        "output": "C:/Users/chang/Documents/Utilities/url-dl Output",
+        "main": "C:\\Utilities\\Scripts\\url-dl-v2",
+        "output": "C:\\Utilities\\Scripts\\url-dl-v2 output",
         "output folders": {
+            "bandcamp": [],
+            "derpibooru": [],
+            "deviantart": [],
+            "other": [],
+            "soundcloud": [],
             "youtube": [
                 "channels"
-            ],
-            "derpibooru": [],
-            "bandcamp": [],
-            "deviantart": [],
-            "soundcloud": [],
-            "other": []
+            ]
         }
     }
 }
