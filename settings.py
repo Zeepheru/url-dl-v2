@@ -31,5 +31,5 @@ def load_settings():
 
 if __name__ == "__main__":
     #for changing settings
-    local_settings = load_settings()
+    local_settings = load_settings() #For checking
     change_settings_dir()

@@ -4,8 +4,8 @@
         "foo": "bar"
     },
     "directories": {
-        "main": "C:\\Utilities\\Scripts\\url-dl-v2",
-        "output": "C:\\Utilities\\Scripts\\url-dl-v2 output",
+        "main": "C:\\Users\\chang\\Documents\\Utilities\\url-dl-v2",
+        "output": "C:\\Users\\chang\\Documents\\Utilities\\url-dl-v2 output",
         "output folders": {
             "bandcamp": [],
             "derpibooru": [],
@@ -16,5 +16,7 @@
                 "channels"
             ]
         }
-    }
+    },
+    "get best stream": true,
+    "max download": 1
 }

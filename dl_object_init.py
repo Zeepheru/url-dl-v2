@@ -31,5 +31,5 @@ class DownloadObject():
     def __init__(self):
         self.object_type = None
         self.site = None
-        self.data = {}
-        self.download_info = {}
+        self.data = {"sub_objects":[]}
+        self.download_info = []

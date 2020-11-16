@@ -1,3 +1,6 @@
+#temp -- move pls
+main_dir = r"C:\Users\chang\Documents\Utilities\url-dl-v2"
+
 import time
 import os
 import sys
@@ -5,24 +8,24 @@ import json
 import re
 from resources.dl_items import *
 import dl_utils as utils
-import settings
+import dl_downloader as download
 import dl_object_init as dl
 
-main_dir = os.getcwd()
 os.chdir(main_dir)
-
 
 def main(tgt):
     global Downloader
     Downloader = dl.RunInfo()
     Downloader.target_status = tgt
-    Downloader.start_time = time.time()
-    Downloader.settings = settings.load_settings()
-
+    load_settings()
     create_output_directory()
-    parse_input()
+    parse_input(Downloader)
 
-def parse_input():
+def load_settings():
+    with open("settings.json") as f:
+        Downloader.settings = json.load(f)
+
+def parse_input(Downloader):
     download_list = []
     if Downloader.target_status == "local":
         path = "Links.txt"
@@ -35,25 +38,34 @@ def parse_input():
         path = None
         raise Exception("WIP")
         breakpoint()
-
+    
     for count, dl_object_string in enumerate(download_list):
-        a = dl.DownloadObject()
-        Downloader.objects_list.append(a)
-        Downloader.current = count
-        dl_object_string += " "
+        if count < Downloader.settings["max download"]:
+            a = dl.DownloadObject()
+            Downloader.objects_list.append(a)
+            Downloader.current = count
+            dl_object_string += " "
 
-        dl_object = Downloader.objects_list[count]
+            dl_object = Downloader.objects_list[count]
 
-        if dl_object_string.startswith("http") == True:
-            dl_object.object_type = "url"
-        else:
-            dl_object.object_type = "non_url"
+            if dl_object_string.startswith("http") == True:
+                dl_object.object_type = "url"
+            else:
+                dl_object.object_type = "non_url"
 
-        #youtube
-        link_match = re.search(r'(https).*(youtu).*(?= )',dl_object_string)
-        if link_match != None:
-            dl_object.data["url"] = link_match.group()
-            from extractors.youtube import youtube_extractor
+            ##log
+            print("Current: {}".format(dl_object_string))
+
+            #youtube
+            link_match = re.search(r'(https).*(youtu).*(?= )',dl_object_string)
+            if link_match != None:
+                dl_object.data["url"] = link_match.group()
+                from extractors.youtube import youtube_extractor
+                Downloader = youtube_extractor(Downloader)
+
+            #Download handler
+            Downloader = download.download(Downloader)
+            #convert NOTNWNTOWNOONONOWWWWW
 
 def create_output_directory():
     directories = Downloader.settings["directories"]
@@ -65,7 +77,7 @@ def create_output_directory():
 
     for f in list(directories["output folders"]):
         folder = directories["output folders"][f]
-        path = os.path.join(root,folder)
+        path = os.path.join(root,f)
         if os.path.exists(path):
             pass
         else:
@@ -78,7 +90,12 @@ def create_output_directory():
                     else:
                         os.mkdir(path)
 
+def create_settings(): #template for file
+    settings = {}
+    settings["debug"] = {}
+    settings["debug"]["download"] = True
+    settings["debug"]["foo"] = "bar"
 
+    file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
 
-settings.lol()
-#main("local")
+main("local")
