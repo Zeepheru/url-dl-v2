@@ -1,7 +1,9 @@
 ## Add a "##" To disable reading. NO BLANK LINES, that screws up my script. You are responsible for removing links.
-##&list=PL94A83DC128CC6B4B
+##
 ##--youtube_ids: cH-yA8U2XgI
-https://youtu.be/qjtfrX3iMIU
-##https://poniesatdawn.bandcamp.com/album/eclipse ##17 Oct premiere lol
+##https://youtu.be/qjtfrX3iMIU
+https://poniesatdawn.bandcamp.com/album/eclipse
+##https://poniesatdawn.bandcamp.com/album/eclipse
+##
 ##--derpi_images: 1835634, 1826212, 1818699, 416280, 423412,
 ## END.

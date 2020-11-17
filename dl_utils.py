@@ -10,15 +10,19 @@ def file_write(path,text):
         f.write(text)
 
 def apostrophe(text): #For  all string issues
-    return (text.replace("*","_")
-                .replace(":","_")
+    return (text.replace("*","")
+                .replace(":","")
                 .replace("\\","_")
                 .replace("//","_")
                 .replace("?","")
+                .replace("amp;","")
     )
 
 def print_json(data):
     print(json.dumps(data, indent=4, sort_keys=True))
+
+def dump_json(data):
+    return json.dumps(data, indent=4, sort_keys=True)
 
 def source_code(link): #may change
     response = requests.get(link) 
@@ -56,4 +60,9 @@ def byte_converter(size):
                 ext = "GB"
             else:
                 size = "{0:.2f}".format(size)
-    return size +" "+ ext
+    return str(size) +" "+ ext
+
+#regexes
+year_regex = re.compile(r'20[0-9][0-9]|19[0-9][0-9]')
+img_regex = re.compile(r'(?<=.)jpg|(?<=.)gif|(?<=.)png|(?<=.)psd|(?<=.)tif')
+audio_regex = re.compile(r'(?<=.)mp3|(?<=.)m4a|(?<=.)flac|(?<=.)ogg|(?<=.)wav')

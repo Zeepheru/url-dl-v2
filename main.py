@@ -1,6 +1,4 @@
 #temp -- move pls
-main_dir = r"C:\Users\chang\Documents\Utilities\url-dl-v2"
-
 import time
 import os
 import sys
@@ -11,13 +9,13 @@ import dl_utils as utils
 import dl_downloader as download
 import dl_object_init as dl
 
-os.chdir(main_dir)
 
 def main(tgt):
     global Downloader
     Downloader = dl.RunInfo()
     Downloader.target_status = tgt
     load_settings()
+    #print(Downloader.settings["debug"]["print download info"])
     create_output_directory()
     parse_input(Downloader)
 
@@ -63,6 +61,13 @@ def parse_input(Downloader):
                 from extractors.youtube import youtube_extractor
                 Downloader = youtube_extractor(Downloader)
 
+            #bandcamp
+            link_match = re.search(r'(https).*(.bandcamp.com).*(?= )',dl_object_string)
+            if link_match != None:
+                dl_object.data["url"] = link_match.group()
+                from extractors.bandcamp import bandcamp_extractor
+                Downloader = bandcamp_extractor(Downloader)
+
             #Download handler
             Downloader = download.download(Downloader)
             #convert NOTNWNTOWNOONONOWWWWW
@@ -82,13 +87,13 @@ def create_output_directory():
             pass
         else:
             os.mkdir(path)
-            if isinstance(folder,dict) and len(folder) > 0:
-                for folder_2 in folder:
-                    path = os.path.join(path,folder_2)
-                    if os.path.exists(path):
-                        pass
-                    else:
-                        os.mkdir(path)
+        if isinstance(folder,list) and len(folder) > 0:
+            for folder_2 in folder:
+                path = os.path.join(path,folder_2)
+                if os.path.exists(path):
+                    pass
+                else:
+                    os.mkdir(path)
 
 def create_settings(): #template for file
     settings = {}
@@ -98,4 +103,10 @@ def create_settings(): #template for file
 
     file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
 
-main("local")
+if __name__ == "__main__":
+    #try:
+    main("local")
+    input("COMPLETE")
+    #except Exception as e:
+        #print(e)    
+        #input("Press Enter to continue")

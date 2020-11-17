@@ -1,11 +1,11 @@
 {
     "debug": {
         "download": true,
-        "foo": "bar"
+        "print download info": false
     },
     "directories": {
-        "main": "C:\\Users\\chang\\Documents\\Utilities\\url-dl-v2",
-        "output": "C:\\Users\\chang\\Documents\\Utilities\\url-dl-v2 output",
+        "main": "C:\\Utilities\\Scripts\\url-dl-v2",
+        "output": "C:\\Utilities\\Scripts\\url-dl-v2 output",
         "output folders": {
             "bandcamp": [],
             "derpibooru": [],
