@@ -62,6 +62,9 @@ def byte_converter(size):
                 size = "{0:.2f}".format(size)
     return str(size) +" "+ ext
 
+def re_double_backslash(string):
+    return string.replace("\\"[0:1],"\\")
+
 #regexes
 year_regex = re.compile(r'20[0-9][0-9]|19[0-9][0-9]')
 img_regex = re.compile(r'(?<=.)jpg|(?<=.)gif|(?<=.)png|(?<=.)psd|(?<=.)tif')

@@ -110,7 +110,7 @@ def youtube_extractor(Downloader):
                         utils.give_it_some_time()
                         sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
         #DEBUG
-        print(sub_object["id"])
+        #print(sub_object["id"])
     
     download_handler(Downloader)
     return Downloader
@@ -218,6 +218,7 @@ Description:
 
 {}
 
+
 Streams downloaded: {}, {}
         """.format(
             video_info["title"],
@@ -240,10 +241,20 @@ Streams downloaded: {}, {}
             "thumbnail": None,
             "merge audio": None
         })
+        #Thumbnail - not sure if a forced png works
+        dl_object.download_info.append({
+            "path":(os.path.join(root_download_dir,"Thumbnail.png")),
+            "text file": False,
+            "download": True,
+            "contents": video_info["thumbnail url"],
+            "thumbnail": None,
+            "merge audio": None
+        })
         #audio file
         if audio_stream["url"].startswith("http") == True:
-            audio_filename = "video_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+            audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
             dl_object.download_info.append({
+                "filename":audio_filename,
                 "path":(os.path.join(root_download_dir,audio_filename)),
                 "text file": False,
                 "download": True,
@@ -255,14 +266,15 @@ Streams downloaded: {}, {}
             print("Audio stream undownloadable") #log some form of error
         #Video File
         if video_stream["url"].startswith("http") == True:
-            video_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+            video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
             dl_object.download_info.append({
+                "filename":video_filename,
                 "path":(os.path.join(root_download_dir,video_filename)),
                 "text file": True,
                 "download": True,
                 "contents": video_stream["url"],
-                "thumbnail": None,
-                "merge audio": (os.path.join(root_download_dir,audio_filename))
+                "thumbnail": video_info["thumbnail url"],
+                "merge audio": audio_filename
             })
         else:
             print("Video stream undownloadable")#log some form of error

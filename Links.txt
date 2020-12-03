@@ -2,8 +2,9 @@
 ##
 ##--youtube_ids: cH-yA8U2XgI
 ##https://youtu.be/qjtfrX3iMIU
-https://poniesatdawn.bandcamp.com/album/eclipse
+##https://poniesatdawn.bandcamp.com/album/eclipse
 ##https://poniesatdawn.bandcamp.com/album/eclipse
 ##
 ##--derpi_images: 1835634, 1826212, 1818699, 416280, 423412,
+##https://youtu.be/_cKkHVxkk1U
 ## END.
