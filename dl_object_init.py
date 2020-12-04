@@ -5,6 +5,8 @@ class RunInfo(): #todo import this class in all files
         self.objects_list = []
         self.current = 0
 
+        self.auto_command = False
+
     def get_duration(self): #duration in seconds
         breakpoint()
         return time.time() - self.start_time

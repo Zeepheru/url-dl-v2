@@ -89,6 +89,7 @@ def download_handler(Downloader):
         if track_info["url"].startswith("http") == True:
             filename = utils.apostrophe(track_info["title"])+"."+"mp3"
             dl_object.download_info.append({
+                "filename":filename,
                 "path":(os.path.join(root_download_dir,filename)),
                 "text file": False,
                 "download": True,
@@ -107,6 +108,7 @@ def download_handler(Downloader):
             print("Audio stream undownloadable") #log some form of error
         #Seperate cover art
     dl_object.download_info.append({
+        "filename":"Cover Art"+"."+re.search(utils.img_regex,dl_object.data["thumbnail url"]).group(),
         "path":(os.path.join(root_download_dir,"Cover Art"+"."+re.search(utils.img_regex,dl_object.data["thumbnail url"]).group())),
         "text file": False,
         "download": True,

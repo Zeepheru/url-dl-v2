@@ -1,7 +1,10 @@
 {
     "debug": {
+        "auto enable":false,
         "download": true,
-        "print download info": false
+        "print download info": false,
+        "export download info": true,
+        "autocommand":"run"
     },
     "directories": {
         "main": "C:\\Utilities\\Scripts\\url-dl-v2",
@@ -14,8 +17,10 @@
             "soundcloud": [],
             "youtube": [
                 "channels"
-            ]
-        }
+            ],
+            "json": []
+        },
+        "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json"
     },
     "get best stream": true,
     "max download": 1

@@ -9,7 +9,6 @@ import urllib
 import ffmpeg
 import shutil
 
-import eyed3
 import mutagen
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import EasyMP3
@@ -59,6 +58,67 @@ def mp3_apply_image(url, audio_path):
     )
     audio.save()
 
+def create_download_json(Downloader):
+    current = Downloader.objects_list[Downloader.current]
+    filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
+    if not os.path.exists((os.path.join(Downloader.settings["directories"]["json"],filename))):
+        with open (os.path.join(Downloader.settings["directories"]["json"],filename),'w', encoding = 'utf-8') as f:
+            f.write(utils.dump_json(current.download_info))
+
+def file_download_handler(download_object, Downloader):
+    if isinstance(download_object, dict):
+        output_path = download_object["path"]
+        url = download_object["contents"]
+
+        if download_object["text file"] == True:
+            utils.file_write(output_path,url)
+
+        if Downloader.settings["debug"]["print download info"] == True:
+            print(utils.print_json(download_object))
+
+        if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
+            try:
+                print("Downloading: {}".format(download_object["filename"]))
+            except:
+                print("Downloading to: {}".format(output_path)) #CHange this print statement
+            r = requests.get(url, stream=True)
+
+            total_size = int(r.headers.get('content-length', 0))
+
+            size = utils.byte_converter(total_size)
+
+            block_size = 1024 #1 Kibibyte
+
+            t=tqdm(total=total_size, unit='iB', unit_scale=True)  #Solved by running in python(w).exe via task scheduler
+
+            with open(output_path, 'wb') as f:
+                for data in r.iter_content(block_size):
+                    t.update(len(data))
+                    f.write(data)
+            t.close()
+
+            if re.search(r'.mp3',output_path) != None:
+                applymetadata(download_object)
+
+        if download_object["path"][-3:] == "mp3":
+            try:
+                mp3_apply_image(download_object["thumbnail"], download_object["path"])
+            except:
+                pass
+    K = None
+    try:
+        download_object["merge audio"]
+        if download_object["merge audio"] != None:
+            K = True
+        else:
+            k = False
+    except:
+        k = False
+
+    if K == True:
+        merge_streams(download_object)
+        os.chdir(Downloader.settings["directories"]["main"]) #might now be broken.
+
 def download(Downloader):
     if Downloader.objects_list[Downloader.current].site == "youtube" or Downloader.objects_list[Downloader.current].site == "bandcamp":
         global folder_path
@@ -66,59 +126,11 @@ def download(Downloader):
         if os.path.exists(folder_path) != True:
             os.mkdir(folder_path)
 
+    
+    if Downloader.settings["debug"]["export download info"] == True:
+        create_download_json(Downloader)
     for download_object in Downloader.objects_list[Downloader.current].download_info:
-
-        if isinstance(download_object, dict):
-            output_path = download_object["path"]
-            url = download_object["contents"]
-
-            if download_object["text file"] == True:
-                utils.file_write(output_path,url)
-
-            if Downloader.settings["debug"]["print download info"] == True:
-                print(utils.print_json(download_object))
-
-            if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
-                print("Downloading to: {}".format(output_path)) #CHange this print statement
-                r = requests.get(url, stream=True)
-
-                total_size = int(r.headers.get('content-length', 0))
-
-                size = utils.byte_converter(total_size)
-
-                block_size = 1024 #1 Kibibyte
-
-                t=tqdm(total=total_size, unit='iB', unit_scale=True)  #Solved by running in python(w).exe via task scheduler
-
-                with open(output_path, 'wb') as f:
-                    for data in r.iter_content(block_size):
-                        t.update(len(data))
-                        f.write(data)
-                t.close()
-
-                #Also needs thumbnails lol
-
-                if re.search(r'.mp3',output_path) != None: #Should be filename not path.
-                    applymetadata(download_object)
-
-            if download_object["path"][-3:] == "mp3":
-                try:
-                    mp3_apply_image(download_object["thumbnail"], download_object["path"])
-                except:
-                    pass
-        K = None
-        try:
-            download_object["merge audio"]
-            if download_object["merge audio"] != None:
-                K = True
-            else:
-                k = False
-        except:
-            k = False
-
-        if K == True:
-            merge_streams(download_object)
-            os.chdir(Downloader.settings["directories"]["main"])
+        file_download_handler(download_object, Downloader)
 
     return Downloader
 
@@ -130,13 +142,17 @@ def merge_streams(download_object):
     if new_video_path[-4:] == 'webm':
         new_video_path = new_video_path.replace(".webm",".mp4") #force this, I'm very tired
     new_audio_path = audio_path.replace("audio_","")
-
-    input_video = ffmpeg.input(video_path)
-    input_audio = ffmpeg.input(audio_path)
-    ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run()
+    try:
+        input_video = ffmpeg.input(video_path)
+        input_audio = ffmpeg.input(audio_path)
+        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+    except:
+        #print("BACKUP1")
+        #Backup if needed, unused on laptop as well
+        os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
     #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
 
-    #lets try this random bosh
+    #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
     new_new_video_path = new_video_path.replace("temp_","")
     #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
     os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
@@ -160,14 +176,25 @@ def merge_streams(download_object):
         elif ".m4aI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:
             new_new_audio_path = temp_new_audio_path.replace(".m4aI_AM_TOO_LAZY_TO_USE_REGEX",".mp3")
 
-        convert_input = ffmpeg.input(new_audio_path)
-        ffmpeg.output(convert_input.audio, new_new_audio_path, shortest=None, vcodec='copy').run()
+        try:
+            convert_input = ffmpeg.input(new_audio_path)
+            ffmpeg.output(convert_input.audio, new_new_audio_path, shortest=None, vcodec='copy').run()
+        except:
+            #print("BACKUP3")
+            #Backup if needed, unused on laptop as well
+            os.system("ffmpeg -i {} -acodec libmp3lame -ab 128k {}".format(new_audio_path, new_new_audio_path)) #128k bitrate temp 
+            
         try:
             os.remove(new_audio_path)
         except:
             pass
 
         mp3_apply_image(thumbnail, new_new_audio_path)
+        applymetadata({
+            "path": new_new_audio_path,
+            "metadata": download_object["metadata"]
+        }
+        )
 
 if __name__ == "__main__":
     def Tester_bandcamp_metadata():
@@ -200,4 +227,3 @@ if __name__ == "__main__":
             "thumbnail": None
         }
         )
-    

@@ -117,18 +117,55 @@ def youtube_extractor(Downloader):
     #print(utils.print_json(data))
 
 def extract_video_info(yt_id):
-
     url = "https://youtu.be/"+yt_id
 
-    response = requests.get(url)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text,'lxml')
-    test = soup.find(attrs = {"class":"skeleton flexy","id":"player"}).next_element.next_element.contents[5].string
-    test = re.search(r'(?<=player_response":").*(?="}};ytplayer.web_player_context_config)',test, re.DOTALL).group()
-    utils.file_write("Test_1.txt",test)
-    test = utils.string_escape(test)
-    utils.file_write("Test_2.txt",test)
-    test = json.loads(test)
+    def scrape_yt_link(url):
+
+        response = requests.get(url)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text,'lxml')
+        test = response.text
+
+        #append extra regexes here for other html shenanigans 
+        temp = re.search(r'(?<=player_response":").*|(?<=PlayerResponse = ).*',test).group()
+        if temp[0:1] == "{":
+            temp = temp [1:]
+        a = 1 #number of brackets
+        for i in range(len(temp)):
+            b = temp[i:i+1]
+            if a != 0:
+                if b == "{":
+                    a += 1
+                elif b == "}":
+                    a = a-1
+            elif a == 0:
+                k = i
+                break
+
+        test = '{'+temp[0:k]
+        print("Json scraped")
+
+        """For errors:
+        should be finding:
+        {"responseContext":{"serviceTrackingParams":[{"service":"GFEEDBACK","params":[{"key":"is_viewed_live","value":"False"},{"key":"logged_in","value":"0"},{"key":"e","value":"23970895,23932523,23970385,24590263,23942633,23963929,23857949,23942338,9407155,23969934,23884386,23839597,23882502,23976578,23804281,23946420,23948841,23972381,23911055,23969486,23972864,23918597,23976772,23973687,23968386,23951620,23973492,23944779,23890959,23961261,23744176,23934970,1714251,23965557,23940703,23958692,23973488,23970649,23978155,23973495,23961733,23970398,23973497,23735347,23970974"}]},{"service":"CSI","params":[{"key":"c","value":"WEB"},{"key":"cver","value":"2.20201202.08.00"},{"key":"yt_li","value":"0"},{"key":"GetPlayer_rid","value":"0x25485baf1f756f9c"}]},{"service":"GUIDED_HELP","params":[{"key":"logged_in","value":"0"}]},{"service":"ECATCHER","params":[{"key":"client.version","value":"2.20201202"},{"key":"client.name","value":"WEB"}]}],"webResponseContextExtensionData":{"hasDecorated":true}},"playabilityStatus":{"status":"OK","playableInEmbed":true,"miniplayer":{"miniplayerRenderer":{"playbackMode":"PLAYBACK_MODE_ALLOW"}},"contextParams":"Q0FFU0FnZ0I="},"streamingData":{"expiresInSeconds":"21540","formats":[{"itag":18,"url":"https://r2---sn-nu5gi0c-npoee.googlevideo.com/videoplayback?expire=1607088267\u0026ei=K-TJX_CJMrC73LUPx90n\u0026ip=218.212.223.31\u0026id=o-AIJ7tk6_fBnlj29Kes8FKX1MWBdOkNX1QVS49QVpzHVO\u0026itag=18"""
+        #utils.file_write("Test_3.txt",test)
+        #test = utils.string_escape(test) #Seems to be unnecessary
+        #utils.file_write("Test_4.txt",test)
+        print("Parsing json.")
+        test = json.loads(test) #Sometimes errors, best to just reload
+
+        return test
+
+    try:
+        test = scrape_yt_link(url)
+    except:
+        try:
+            test = scrape_yt_link(url)
+        except:
+            try:
+                test = scrape_yt_link(url)
+            except:
+                test = scrape_yt_link(url)
         
     streams = []
     ytformats = test["streamingData"]["adaptiveFormats"]
@@ -136,7 +173,7 @@ def extract_video_info(yt_id):
         stream_type = a["mimeType"][:a["mimeType"].find("/")]
         file_type = a["mimeType"][len(stream_type)+1:a["mimeType"].find("; ")]
         try:
-            url = a["url"]
+            url = utils.string_escape(a["url"])
             s=None
         except KeyError: #Just copied from https://i.stack.imgur.com/gwsZg.jpg
             url = a["signatureCipher"]
@@ -187,6 +224,9 @@ def extract_video_info(yt_id):
     video_info["title"] = foo["title"]["simpleText"]
     video_info["views"] = foo["viewCount"]
 
+    for k in dict(video_info):
+        video_info[k] = utils.string_escape(video_info[k])
+
     return video_info, streams
     
     #test = json.dumps(test, indent=4, sort_keys=True)
@@ -234,6 +274,7 @@ Streams downloaded: {}, {}
 
         #Text File
         dl_object.download_info.append({
+            "filename":"Info.txt",
             "path":(os.path.join(root_download_dir,"Info.txt")),
             "text file": True,
             "download": False,
@@ -243,6 +284,7 @@ Streams downloaded: {}, {}
         })
         #Thumbnail - not sure if a forced png works
         dl_object.download_info.append({
+            "filename":"Thumbnail.png",
             "path":(os.path.join(root_download_dir,"Thumbnail.png")),
             "text file": False,
             "download": True,
@@ -274,7 +316,14 @@ Streams downloaded: {}, {}
                 "download": True,
                 "contents": video_stream["url"],
                 "thumbnail": video_info["thumbnail url"],
-                "merge audio": audio_filename
+                "merge audio": audio_filename,
+                "metadata":{
+                    "title":video_filename,
+                    "artist":video_info["channel"],
+                    "track number":0,
+                    "playlist":"",
+                    "year":re.search(utils.year_regex,video_info["publish date"]).group()
+                }
             })
         else:
             print("Video stream undownloadable")#log some form of error
