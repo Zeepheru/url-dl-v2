@@ -1,0 +1,14 @@
+2021-02-06 14:09:25,709 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 14:09:26,450 - Channel has 28 videos downloaded.
+2021-02-06 14:09:26,451 - Scraping for id: 89aqjpIps6M
+2021-02-06 14:09:26,978 - Scraping for id: gLeWgC9WJhQ
+2021-02-06 14:09:27,447 - Scraping for id: Y0t-dmWkdSI
+2021-02-06 14:09:27,996 - Scraping for id: mKl5BMbOGfE
+2021-02-06 14:09:28,494 - Scraping for id: CPjPRzAjz1w
+2021-02-06 14:09:28,974 - Scraping for id: SK607ZReq_g
+2021-02-06 14:09:29,378 - Scraping for id: Kad9Pgz94Mo

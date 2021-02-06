@@ -1,0 +1,81 @@
+2021-02-06 14:12:11,392 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 14:12:11,392 - Autocommand from settings: dl -youtube https://youtu.be/eg0eRco7Zbs https://youtu.be/t2nz_3bCu7E
+2021-02-06 14:12:11,392 - Command: dl -youtube https://youtu.be/eg0eRco7Zbs https://youtu.be/t2nz_3bCu7E
+2021-02-06 14:12:11,392 - youtube link
+2021-02-06 14:12:11,457 - Scraping for id: eg0eRco7Zbs
+2021-02-06 14:12:11,912 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:12:11,913 - Video (https://youtu.be/eg0eRco7Zbs|) undownloadable (copyrighted music ftw)
+2021-02-06 14:12:11,914 - Creating download information json.
+2021-02-06 14:12:11,914 - Writing text file.
+2021-02-06 14:12:11,915 - Downloading: Thumbnail.png
+2021-02-06 14:12:12,574 - Download for |https://youtu.be/eg0eRco7Zbs| complete.
+
+2021-02-06 14:12:12,574 - youtube link
+2021-02-06 14:12:12,574 - Scraping for id: t2nz_3bCu7E
+2021-02-06 14:12:13,103 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:12:13,104 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Space Engines Blender Time lapse
+2021-02-06 14:12:13,104 - Creating download information json.
+2021-02-06 14:12:13,105 - Writing text file.
+2021-02-06 14:12:13,105 - Downloading: Thumbnail.png
+2021-02-06 14:12:13,246 - Downloading: audio_Space Engines Blender Time lapse.webm
+2021-02-06 14:13:18,443 - Writing text file.
+2021-02-06 14:13:18,443 - Downloading: video_Space Engines Blender Time lapse.mp4
+2021-02-06 14:16:05,330 - Merging audio and video files.
+2021-02-06 14:16:09,664 - Adding thumbnail to video file.
+2021-02-06 14:16:10,115 - Coverting audio file to mp3.
+2021-02-06 14:16:14,534 - Applying mp3 metadata to Space Engines Blender Time lapse.mp3
+2021-02-06 14:16:14,648 - Download for | https://youtu.be/t2nz_3bCu7E| complete.
+
+2021-02-06 14:17:25,166 - Command: dl -youtube https://youtu.be/mNn34ErU6kM youtu.be/xYbEj-qmajY https://www.youtube.com/watch?v=x8StHenh9S0&feature=youtu.be https://www.youtube.com/watch?v=78MH6lLj860 https://www.youtube.com/watch?v=Hd0-cGkClMQ https://www.youtube.com/watch?v=DueMN4SC4tU https://www.youtube.com/watch?v=KUTmmFY6TUA
+2021-02-06 14:17:25,166 - youtube link
+2021-02-06 14:17:25,168 - Scraping for id: mNn34ErU6kM
+2021-02-06 14:17:25,846 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:17:25,847 - Video (https://youtu.be/mNn34ErU6kM|[Trap] - Aero Chord - Boundless [Monstercat Release]) undownloadable (copyrighted music ftw)
+2021-02-06 14:17:25,849 - Creating download information json.
+2021-02-06 14:17:25,849 - Writing text file.
+2021-02-06 14:17:25,849 - Downloading: Thumbnail.png
+2021-02-06 14:17:26,030 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\[Trap] - Aero Chord - Boundless [Monstercat Release]
+2021-02-06 14:17:26,030 - Writing text file.
+2021-02-06 14:17:26,030 - Downloading: Thumbnail.png
+2021-02-06 14:17:26,073 - Download for |https://youtu.be/mNn34ErU6kM| complete.
+
+2021-02-06 14:17:26,076 - youtube link
+2021-02-06 14:17:26,078 - Scraping for id: None
+2021-02-06 14:17:26,178 - can only concatenate str (not "NoneType") to str
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 187, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 203, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 191, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 203, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 240, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 121, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 193, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 203, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+2021-02-06 14:17:26,184 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

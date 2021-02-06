@@ -1,0 +1,53 @@
+2021-02-06 14:10:52,593 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 14:10:52,593 - Autocommand from settings: dl -youtube https://youtu.be/gUfC1MvuWSo https://youtu.be/hVonXg6nYe0 https://youtu.be/S8GREti5-_0 https://youtu.be/6UryWp1qHe4 https://youtu.be/ABWn4mb0ses
+2021-02-06 14:10:52,594 - Command: dl -youtube https://youtu.be/gUfC1MvuWSo https://youtu.be/hVonXg6nYe0 https://youtu.be/S8GREti5-_0 https://youtu.be/6UryWp1qHe4 https://youtu.be/ABWn4mb0ses
+2021-02-06 14:10:52,594 - youtube link
+2021-02-06 14:10:52,663 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:10:53,149 - Creating download information json.
+2021-02-06 14:10:53,149 - Writing text file.
+2021-02-06 14:10:53,149 - Downloading: Thumbnail.png
+2021-02-06 14:10:53,323 - Download for |https://youtu.be/gUfC1MvuWSo| complete.
+
+2021-02-06 14:10:53,323 - youtube link
+2021-02-06 14:10:53,323 - Scraping for id: hVonXg6nYe0
+2021-02-06 14:10:53,791 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\L.M. - Dme [Melodic Dubstep]
+2021-02-06 14:10:53,791 - Creating download information json.
+2021-02-06 14:10:53,791 - Writing text file.
+2021-02-06 14:10:53,792 - Downloading: Thumbnail.png
+2021-02-06 14:10:54,382 - Download for | https://youtu.be/hVonXg6nYe0| complete.
+
+2021-02-06 14:10:54,382 - youtube link
+2021-02-06 14:10:54,382 - Scraping for id: S8GREti5-_0
+2021-02-06 14:10:55,098 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Faulty - Asunder (feat. Lilikha) [Progressive House]
+2021-02-06 14:10:55,098 - Creating download information json.
+2021-02-06 14:10:55,099 - Writing text file.
+2021-02-06 14:10:55,099 - Downloading: Thumbnail.png
+2021-02-06 14:10:55,735 - Download for | https://youtu.be/S8GREti5-_0| complete.
+
+2021-02-06 14:10:55,737 - youtube link
+2021-02-06 14:10:55,739 - Scraping for id: 6UryWp1qHe4
+2021-02-06 14:10:56,219 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\UndreamedPanic - Close Your Eyes (feat. Metajoker) [Future Pop]
+2021-02-06 14:10:56,219 - Creating download information json.
+2021-02-06 14:10:56,220 - Writing text file.
+2021-02-06 14:10:56,220 - Downloading: Thumbnail.png
+2021-02-06 14:10:56,838 - Download for | https://youtu.be/6UryWp1qHe4| complete.
+
+2021-02-06 14:10:56,841 - youtube link
+2021-02-06 14:10:56,843 - Scraping for id: ABWn4mb0ses
+2021-02-06 14:10:57,398 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:10:57,400 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\BlackIceMusic - Fluffy Marshmallows (feat. Chasing Dawn & Lennon Black) [Future Bounce]
+2021-02-06 14:10:57,400 - Creating download information json.
+2021-02-06 14:10:57,401 - Writing text file.
+2021-02-06 14:10:57,401 - Downloading: Thumbnail.png
+2021-02-06 14:10:57,468 - Download for | https://youtu.be/ABWn4mb0ses| complete.
+
+2021-02-06 14:11:00,797 - Command: close
+2021-02-06 14:11:00,797 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

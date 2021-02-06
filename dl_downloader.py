@@ -139,7 +139,7 @@ def file_download_handler(download_object, Downloader):
     except:
         k = False
 
-    if K == True:
+    if K == True and Downloader.settings["debug"]["download"] == True:
         merge_streams(download_object)
         os.chdir(Downloader.settings["directories"]["main"]) #might now be broken.
 

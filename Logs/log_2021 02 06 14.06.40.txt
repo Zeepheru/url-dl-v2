@@ -1,0 +1,23 @@
+2021-02-06 14:06:40,382 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 14:06:40,383 - Autocommand from settings: dl -youtube https://youtu.be/gUfC1MvuWSo https://youtu.be/hVonXg6nYe0 https://youtu.be/S8GREti5-_0 https://youtu.be/6UryWp1qHe4 https://youtu.be/ABWn4mb0ses
+2021-02-06 14:06:40,383 - Command: dl -youtube https://youtu.be/gUfC1MvuWSo https://youtu.be/hVonXg6nYe0 https://youtu.be/S8GREti5-_0 https://youtu.be/6UryWp1qHe4 https://youtu.be/ABWn4mb0ses
+2021-02-06 14:06:40,383 - youtube link
+2021-02-06 14:06:40,449 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:06:40,936 - youtube link
+2021-02-06 14:06:40,937 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:06:41,407 - youtube link
+2021-02-06 14:06:41,408 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:06:41,931 - youtube link
+2021-02-06 14:06:41,932 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:06:42,581 - youtube link
+2021-02-06 14:06:42,581 - Scraping for id: gUfC1MvuWSo
+2021-02-06 14:06:43,030 - Creating download information json.
+2021-02-06 14:06:43,030 - Writing text file.
+2021-02-06 14:06:43,031 - Downloading: Thumbnail.png
+2021-02-06 14:06:43,097 - Download for |https://youtu.be/gUfC1MvuWSo https://youtu.be/hVonXg6nYe0 https://youtu.be/S8GREti5-_0 https://youtu.be/6UryWp1qHe4 https://youtu.be/ABWn4mb0ses| complete.
+
