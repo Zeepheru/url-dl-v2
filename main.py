@@ -85,8 +85,6 @@ dl -youtube - idk what the hell to do here for now.
             download.download(Downloader)
             print("Download from json: {} complete.".format(command_2))
 
-<<<<<<< Updated upstream
-=======
         elif command_1 == "dl":
             dl_cmd_error = False
             
@@ -128,15 +126,6 @@ dl -youtube - idk what the hell to do here for now.
 
             else:
                 dl_cmd_error = True
-                
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
         #Appending links with a manual link add?
 
 def parse_file(Downloader): #if run - is initialized
