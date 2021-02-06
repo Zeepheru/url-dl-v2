@@ -1,0 +1,58 @@
+2020-12-15 22:36:08,955 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-15 22:36:08,955 - Autocommand from settings: run
+2020-12-15 22:36:08,955 - Command: run
+2020-12-15 22:36:08,956 - Current: https://youtu.be/9Fof8n3bZk0 
+2020-12-15 22:36:08,957 - youtube link
+2020-12-15 22:36:09,049 - Scraping for id: 9Fof8n3bZk0
+2020-12-15 22:36:09,579 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-15 22:36:09,582 - Video (https://youtu.be/9Fof8n3bZk0|David Mitchell - That Mitchell  Webb Sound Series 1 Audiobook) undownloadable (copyrighted music ftw)
+2020-12-15 22:36:09,583 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\David Mitchell - That Mitchell  Webb Sound Series 1 Audiobook
+2020-12-15 22:36:09,583 - Creating download information json.
+2020-12-15 22:36:09,584 - Writing text file.
+2020-12-15 22:36:09,584 - Downloading: Thumbnail.png
+2020-12-15 22:36:09,964 - Download for https://youtu.be/9Fof8n3bZk0 complete.
+
+2020-12-15 22:36:09,964 - Current: https://youtu.be/Cu7m264LdGc 
+2020-12-15 22:36:09,964 - youtube link
+2020-12-15 22:36:09,964 - Scraping for id: Cu7m264LdGc
+2020-12-15 22:36:10,333 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-15 22:36:10,334 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Megadimension Neptunia VII - VISION by Nao
+2020-12-15 22:36:10,334 - Creating download information json.
+2020-12-15 22:36:10,335 - Writing text file.
+2020-12-15 22:36:10,335 - Downloading: Thumbnail.png
+2020-12-15 22:36:10,862 - Downloading: audio_Megadimension Neptunia VII - VISION by Nao.m4a
+2020-12-15 22:36:55,413 - Writing text file.
+2020-12-15 22:36:55,413 - Downloading: video_Megadimension Neptunia VII - VISION by Nao.mp4
+2020-12-15 22:37:41,108 - Merging audio and video files.
+2020-12-15 22:37:43,993 - Adding thumbnail to video file.
+2020-12-15 22:37:44,160 - Coverting audio file to mp3.
+2020-12-15 22:37:47,346 - Applying mp3 metadata to Megadimension Neptunia VII - VISION by Nao.mp3
+2020-12-15 22:37:47,418 - Download for https://youtu.be/Cu7m264LdGc complete.
+
+2020-12-15 22:37:47,420 - Current: https://www.youtube.com/watch?v=ZYwDEkO9sYk 
+2020-12-15 22:37:47,421 - youtube link
+2020-12-15 22:37:47,422 - Scraping for id: ZYwDEkO9sYk
+2020-12-15 22:37:48,029 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-15 22:37:48,031 - Video (https://youtu.be/ZYwDEkO9sYk|Discommunication Alien _ Nanawo Akari) undownloadable (copyrighted music ftw)
+2020-12-15 22:37:48,032 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Discommunication Alien _ Nanawo Akari
+2020-12-15 22:37:48,032 - Creating download information json.
+2020-12-15 22:37:48,032 - Writing text file.
+2020-12-15 22:37:48,032 - Downloading: Thumbnail.png
+2020-12-15 22:37:48,111 - Download for https://www.youtube.com/watch?v=ZYwDEkO9sYk complete.
+
+2020-12-15 22:37:48,113 - Current: https://youtu.be/kss0X8oaeow 
+2020-12-15 22:37:48,114 - youtube link
+2020-12-15 22:37:48,115 - Scraping for id: kss0X8oaeow
+2020-12-15 22:37:48,489 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-15 22:37:48,490 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Kantai Kessen (Japanese Decisive Battle Doctrine) - Method or Madness
+2020-12-15 22:37:48,490 - Creating download information json.
+2020-12-15 22:37:48,491 - Writing text file.
+2020-12-15 22:37:48,491 - Downloading: Thumbnail.png
+2020-12-15 22:37:48,557 - Downloading: audio_Kantai Kessen (Japanese Decisive Battle Doctrine) - Method or Madness.m4a
+2020-12-15 22:47:11,189 - Writing text file.
+2020-12-15 22:47:11,189 - Downloading: video_Kantai Kessen (Japanese Decisive Battle Doctrine) - Method or Madness.mp4

@@ -1,0 +1,19 @@
+2020-12-24 23:36:42,703 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-24 23:36:42,704 - Autocommand from settings: run
+2020-12-24 23:36:42,704 - Command: run
+2020-12-24 23:36:42,705 - Current: https://www.youtube.com/watch?v=h3kSPHcjN34 
+2020-12-24 23:36:42,705 - youtube link
+2020-12-24 23:36:42,770 - Scraping for id: h3kSPHcjN34
+2020-12-24 23:36:43,325 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-24 23:36:43,327 - Video (https://youtu.be/h3kSPHcjN34|Lost On The Moon feat. Rina Chan [WoodenToaster + The Living Tombstone]) undownloadable (copyrighted music ftw)
+2020-12-24 23:36:43,328 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Lost On The Moon feat. Rina Chan [WoodenToaster + The Living Tombstone]
+2020-12-24 23:36:43,328 - Creating download information json.
+2020-12-24 23:36:43,328 - Writing text file.
+2020-12-24 23:36:43,329 - Downloading: Thumbnail.png
+2020-12-24 23:36:43,590 - Download for https://www.youtube.com/watch?v=h3kSPHcjN34 complete.
+

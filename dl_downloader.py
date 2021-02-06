@@ -16,6 +16,8 @@ from mutagen.id3 import ID3, APIC
 
 from PIL import Image
 
+import dl_logger as dl_logger
+
 def add_to_download_log(Downloader):
     pass
 
@@ -39,6 +41,7 @@ def applymetadata(download_object):
     
 
 def mp3_apply_image(url, audio_path):
+    dl_logger.log_to_file("Applying mp3 metadata to {}".format(audio_path))
     # album art. 
     # https://www.programcreek.com/python/example/63462/mutagen.mp3.EasyMP3
     # Thanks Internet
@@ -60,7 +63,20 @@ def mp3_apply_image(url, audio_path):
 
 def create_download_json(Downloader):
     current = Downloader.objects_list[Downloader.current]
-    filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
+    dl_logger.log_to_file("Creating download information json.")
+    if current.site == "Youtube":
+        if current.data["type"] == "channel" or current.data["type"] == "playlist":
+            filename = "{}_channel_{}.json".format(current.site, re.search(utils.parent_dir_regex,current.download_info[0]).group())
+        else:
+            filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
+    else:
+        filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
+        
+    try:
+        filename = filename.replace("_video_","_")
+    except:
+        pass
+
     if not os.path.exists((os.path.join(Downloader.settings["directories"]["json"],filename))):
         with open (os.path.join(Downloader.settings["directories"]["json"],filename),'w', encoding = 'utf-8') as f:
             f.write(utils.dump_json(current.download_info))
@@ -68,19 +84,27 @@ def create_download_json(Downloader):
 def file_download_handler(download_object, Downloader):
     if isinstance(download_object, dict):
         output_path = download_object["path"]
+        
+        #recheck just in case, also double path error check
+        parent_dir = re.search(utils.parent_dir_regex,download_object["path"]).group()
+        if os.path.exists(parent_dir) != True: 
+            os.mkdir(parent_dir)
+            dl_logger.log_to_file("Created directory: {}".format(parent_dir))
+
         url = download_object["contents"]
 
         if download_object["text file"] == True:
             utils.file_write(output_path,url)
+            dl_logger.log_to_file("Writing text file.")
 
         if Downloader.settings["debug"]["print download info"] == True:
             print(utils.print_json(download_object))
 
         if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
             try:
-                print("Downloading: {}".format(download_object["filename"]))
+                dl_logger.log_info("Downloading: {}".format(download_object["filename"]))
             except:
-                print("Downloading to: {}".format(output_path)) #CHange this print statement
+                dl_logger.log_info("Downloading to: {}".format(output_path)) #CHange this print statement
             r = requests.get(url, stream=True)
 
             total_size = int(r.headers.get('content-length', 0))
@@ -121,11 +145,11 @@ def file_download_handler(download_object, Downloader):
 
 def download(Downloader):
     if Downloader.objects_list[Downloader.current].site == "youtube" or Downloader.objects_list[Downloader.current].site == "bandcamp":
-        global folder_path
         folder_path = Downloader.objects_list[Downloader.current].download_info[0]
-        if os.path.exists(folder_path) != True:
-            os.mkdir(folder_path)
-
+        if isinstance(folder_path, str) == True: #only if a folder is required is the download_info[0] a string being the download folder.
+            if os.path.exists(folder_path) != True: 
+                os.mkdir(folder_path)
+                dl_logger.log_to_file("Created directory: {}".format(folder_path))
     
     if Downloader.settings["debug"]["export download info"] == True:
         create_download_json(Downloader)
@@ -135,6 +159,7 @@ def download(Downloader):
     return Downloader
 
 def merge_streams(download_object):
+    folder_path = re.search(utils.parent_dir_regex,download_object["path"]).group()
     os.chdir(folder_path)
     video_path, audio_path, thumbnail = download_object["filename"], download_object["merge audio"], download_object["thumbnail"]
     
@@ -142,6 +167,8 @@ def merge_streams(download_object):
     if new_video_path[-4:] == 'webm':
         new_video_path = new_video_path.replace(".webm",".mp4") #force this, I'm very tired
     new_audio_path = audio_path.replace("audio_","")
+
+    dl_logger.log_to_file("Merging audio and video files.")
     try:
         input_video = ffmpeg.input(video_path)
         input_audio = ffmpeg.input(audio_path)
@@ -151,8 +178,10 @@ def merge_streams(download_object):
         #Backup if needed, unused on laptop as well
         os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
     #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
+    
 
     #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
+    dl_logger.log_to_file("Adding thumbnail to video file.")
     new_new_video_path = new_video_path.replace("temp_","")
     #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
     os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
@@ -169,6 +198,7 @@ def merge_streams(download_object):
 
     #convert to mp3 for well? purposes.
     if new_audio_path[-4:] == 'webm' or new_audio_path[-3:] == 'm4a': #Youtube Checker removed, too lazy to fix it anyway so yeahhhhhhhhhh
+        dl_logger.log_to_file("Coverting audio file to mp3.")
         temp_new_audio_path = new_audio_path + "I_AM_TOO_LAZY_TO_USE_REGEX"
         
         if ".webmI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:

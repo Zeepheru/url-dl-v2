@@ -9,6 +9,7 @@ import dl_utils as utils
 import dl_downloader as download
 import dl_object_init as dl
 
+import dl_logger as dl_logger
 
 def main(tgt):
     Downloader.target_status = tgt
@@ -42,10 +43,12 @@ dl -youtube - idk what the hell to do here for now.
     while 1 > 0:
         if Downloader.settings["debug"]["autocommand"] != None and Downloader.auto_command == False:
             user_input = Downloader.settings['debug']["autocommand"]
-            print("Autocommand from settings: {}".format(user_input))       
+            dl_logger.log_info("Autocommand from settings: {}".format(user_input))       
             Downloader.auto_command = True                                                
         else:
             user_input = input()
+
+        dl_logger.log_to_file("Command: {}".format(user_input))
 
 
         try:
@@ -80,6 +83,7 @@ dl -youtube - idk what the hell to do here for now.
             download.download(Downloader)
             print("Download from json: {} complete.".format(command_2))
 
+        #Appending links with a manual link add?
 
 def parse_file(Downloader): #if run - is initialized
     download_list = []
@@ -96,44 +100,60 @@ def parse_file(Downloader): #if run - is initialized
         breakpoint()
 
     if download_list == []:
-        print("Download file is empty.")
+        dl_logger.log_info("Download file is empty. (No links specified for download)")
     
     for count, dl_object_string in enumerate(download_list):
-        if count < Downloader.settings["max download"]:
-            a = dl.DownloadObject()
-            Downloader.objects_list.append(a)
-            Downloader.current = count
-            dl_object_string += " "
+        try:
+            if count < Downloader.settings["max download"]:
+                a = dl.DownloadObject()
+                Downloader.objects_list.append(a)
+                Downloader.current = count
+                dl_object_string += " "
 
-            dl_object = Downloader.objects_list[count]
+                dl_object = Downloader.objects_list[count]
 
-            if dl_object_string.startswith("http") == True:
-                dl_object.object_type = "url"
-            else:
-                dl_object.object_type = "non_url"
+                if dl_object_string.startswith("http") == True:
+                    dl_object.object_type = "url"
+                else:
+                    dl_object.object_type = "non_url"
 
-            ##log
-            print("Current: {}".format(dl_object_string))
+                ##log
+                dl_logger.log_info("Current: {}".format(dl_object_string))
 
-            #NEED TO MOVE THIS OUT - seperate
+                #NEED TO MOVE THIS OUT - seperate
 
-            #youtube
-            link_match = re.search(r'(https).*(youtu).*(?= )',dl_object_string)
-            if link_match != None:
-                dl_object.data["url"] = link_match.group()
-                from extractors.youtube import youtube_extractor
-                Downloader = youtube_extractor(Downloader)
+                #youtube
+                link_match = re.search(r'(http).*(youtu).*(?= )',dl_object_string)
+                if link_match != None:
+                    dl_logger.log_to_file("youtube link")
+                    dl_object.data["url"] = link_match.group()
+                    from extractors.youtube import youtube_extractor
+                    print("Youtube Link. Extractor code may need to be edited if parsing takes too long, may mean a wrong regex because of changed html.")
+                    Downloader = youtube_extractor(Downloader)
 
-            #bandcamp
-            link_match = re.search(r'(https).*(.bandcamp.com).*(?= )',dl_object_string)
-            if link_match != None:
-                dl_object.data["url"] = link_match.group()
-                from extractors.bandcamp import bandcamp_extractor
-                Downloader = bandcamp_extractor(Downloader)
+                #bandcamp
+                link_match = re.search(r'(http).*(.bandcamp.com).*(?= )',dl_object_string)
+                if link_match != None:
+                    dl_logger.log_to_file("bandcamp link")
+                    dl_object.data["url"] = link_match.group()
+                    from extractors.bandcamp import bandcamp_extractor
+                    Downloader = bandcamp_extractor(Downloader)
 
-            #Download handler
-            Downloader = download.download(Downloader)
-            print("Download for {} complete.".format(dl_object_string))
+                #mediafire
+                link_match = re.search(r'(http).*(.mediafire.com).*(?= )',dl_object_string)
+                if link_match != None:
+                    dl_logger.log_to_file("mediafire link")
+                    dl_object.data["url"] = link_match.group()
+                    from extractors.mediafire import mediafire_extractor
+                    Downloader = mediafire_extractor(Downloader)
+
+                #Download handler
+                Downloader = download.download(Downloader)
+                dl_logger.log_info("Download for {} complete.\n".format(dl_object_string.replace(" ","")))
+                print("\n")
+
+        except (IOError,NameError,Exception) as e:
+            dl_logger.log_exception(e)
 
 def create_output_directory():
     directories = Downloader.settings["directories"]
@@ -170,10 +190,14 @@ if __name__ == "__main__":
     global Downloader
     Downloader = dl.RunInfo()
     load_settings()
-    if Downloader.settings["debug"]["auto enable"] == False:
+    dl_logger.init_logger(Downloader.settings["directories"]["main"])
+    try:
         parse_input()
-    else:
-        main("local")
+            
+    except (IOError,NameError,Exception) as e:
+        dl_logger.log_exception(e)
+
+    dl_logger.end_logger()
     #try:
     #except Exception as e:
         #print(e)    

@@ -1,10 +1,9 @@
 {
     "debug": {
-        "auto enable":false,
         "download": true,
         "print download info": false,
         "export download info": true,
-        "autocommand":"run"
+        "autocommand": "run"
     },
     "directories": {
         "main": "C:\\Utilities\\Scripts\\url-dl-v2",
@@ -18,7 +17,8 @@
             "youtube": [
                 "channels"
             ],
-            "json": []
+            "json": [],
+            "mediafire": []
         },
         "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json"
     },

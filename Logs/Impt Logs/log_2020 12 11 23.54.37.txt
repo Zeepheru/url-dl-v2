@@ -1,0 +1,29 @@
+2020-12-11 23:54:37,789 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-11 23:54:37,789 - Autocommand from settings: run
+2020-12-11 23:54:37,790 - Command: run
+2020-12-11 23:54:37,791 - Current: https://youtu.be/HLGdD1O7R7g 
+2020-12-11 23:54:37,791 - youtube link
+2020-12-11 23:54:37,864 - Scraping for id: HLGdD1O7R7g
+2020-12-11 23:54:38,475 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Jyc Row & Brianna Tam - Octavia, Cellist of Storms
+2020-12-11 23:54:38,475 - Creating download information json.
+2020-12-11 23:54:38,477 - Writing text file.
+2020-12-11 23:54:38,477 - Downloading: Thumbnail.png
+2020-12-11 23:54:40,047 - Downloading: audio_Jyc Row & Brianna Tam - Octavia, Cellist of Storms.m4a
+2020-12-11 23:55:01,392 - Writing text file.
+2020-12-11 23:55:01,392 - Downloading: video_Jyc Row & Brianna Tam - Octavia, Cellist of Storms.mp4
+2020-12-11 23:56:34,949 - Merging audio and video files.
+2020-12-11 23:56:37,094 - Adding thumbnail to video file.
+2020-12-11 23:56:37,253 - Coverting audio file to mp3.
+2020-12-11 23:56:39,880 - Applying mp3 metadata to Jyc Row & Brianna Tam - Octavia, Cellist of Storms.mp3
+2020-12-11 23:56:39,943 - Download for https://youtu.be/HLGdD1O7R7g  complete.
+
+2020-12-11 23:56:57,481 - Command: close
+2020-12-11 23:56:57,481 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

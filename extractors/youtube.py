@@ -16,12 +16,17 @@ import dl_utils as utils
 import settings
 import dl_object_init as dl
 
+import dl_logger as dl_logger
+
+#https://www.youtube.com/watch?v=X_TMtgjQuZI somehow is also ciphered, not even youtub-dl works.
+
 test_links = [
+    "https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg",
+    "https://www.youtube.com/channel/UC94Z4HZJkhPm94YPH1GE3bw",
     "https://youtu.be/g2Y69HPXiqU",
     "https://www.youtube.com/watch?v=72-ebRSMJdE&t=2442s",
     "https://music.youtube.com/watch?v=okt6g5nlvIs&list=RDAOQfKGzjsUG2vYFjtBNNLahw",
     "https://www.youtube.com/playlist?list=PL7Rm1eEDbAx0CFWAL9oBTEY3qaSTVNGzn",
-    "https://www.youtube.com/channel/UC94Z4HZJkhPm94YPH1GE3bw",
     "https://youtu.be/XqG9DC6ajFg",
     "https://youtu.be/jOpzP33_USs",
     "https://youtu.be/sbe1JYjLbJI",
@@ -68,12 +73,16 @@ def youtube_extractor(Downloader):
     def extract_video_id(url):
         if len(url) == 11:
             return url        
-        elif re.search(r'(https).*(youtu.be).*',url) != None:
+        elif re.search(r'(https).*(youtu.be/).*',url) != None:
             return re.search(r'(?<=https://youtu.be/).{11}',url).group()
         elif re.search(r'(https://www.youtube.com/watch)',url) != None:
             return re.search(r'(?<=https://www.youtube.com/watch\?v=).{11}',url).group()
 
     check_type(data["url"])
+    try:
+        data["url"].replace(' ','')
+    except:
+        pass
 
     if data["type"] == "playlist":
         a_prev = ""
@@ -86,14 +95,94 @@ def youtube_extractor(Downloader):
         data["playlist_length"] = len(data["sub_objects"])
 
     elif data["type"] == "channel":
-        #Channel stuff
-        pass
+        if re.search(r'https://www.youtube.com/channel/',data["url"]) != None:
+            channel_url = data["url"]
+        else:
+            channel_url = "I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME"
+        #main channel stuff.
+        #Go look at Eilemonty for private videos that I cant settle
+
+        response = requests.get(channel_url+"/about")
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text,'lxml')
+        #unfortunately I do not care about "about pages" sucks to be you -past me
+
+        video_list_url = channel_url +"/videos"
+        video_list_html = utils.source_code_b(video_list_url)
+        a_prev = ""
+        for a in re.findall(r'(?<=videoId":").{11}',video_list_html):
+            
+            if a != a_prev:
+                data["sub_objects"].append({"id":a})
+                a_prev = a
+        del a_prev
+        #Botch to get channel information from a video LOL
+        channel_scrape = False
+        list_of_ids = []
+        for i in data["sub_objects"]:
+            list_of_ids.append(i["id"])
+            if channel_scrape != True:
+                try:
+                    video_info,shit = extract_video_info(i["id"])
+                    del shit
+                    #To get data
+                    channel_scrape = True
+                except:
+                    pass
+        data["channel name"] = video_info["channel"]
+        data["channel image"] = video_info["channel image"]
+        data["channel description"] = video_info["channel description"]
+        channel_info_string = """Channel: {}
+Channel URL: {}
+Subscribers: NOT IMPLEMENTED
+Description: 
+
+{}
+
+Downloaded IDs: 
+{}
+
+{}
+""".format(
+    data["channel name"],
+    data["url"],
+    data["channel description"],
+    utils.dump_json(list_of_ids),
+    utils.give_me_the_time()
+)
+        dl_info = Downloader.objects_list[Downloader.current].download_info
+        dl_info.append(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",data["channel name"]))
+        #text file
+        dl_object.download_info.append({
+            "filename":"Info.txt",
+            "path":(os.path.join(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",data["channel name"]),"Info.txt")),
+            "text file": True,
+            "download": False,
+            "contents": channel_info_string,
+            "thumbnail": None,
+            "merge audio": None
+        })
+        #image
+        dl_object.download_info.append({
+            "filename":"Channel Image.png",
+            "path":(os.path.join(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",data["channel name"]),"Channel Image.png")),
+            "text file": False,
+            "download": True,
+            "contents": data["channel image"],
+            "thumbnail": None,
+            "merge audio": None
+        })
+
+        dl_logger.log_to_file("Channel has {} videos downloaded.".format(len(list_of_ids)))
+
     elif data["type"] == "music":
-        pass
+        pass #MAJSDJSADJSDSADKFSAHBKFCgdajshfkedsa jvfkhbdskfeg
     else:
         data["sub_objects"].append({"id":extract_video_id(data['url'])})
+        
 
     for sub_object in data["sub_objects"]:
+        dl_logger.log_info("Scraping for id: {}".format(sub_object["id"]))
         try:
             sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
         except:
@@ -101,14 +190,8 @@ def youtube_extractor(Downloader):
             try:
                 sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
             except:
-                try:
-                    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
-                except:
-                    try:
-                        sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
-                    except:
-                        utils.give_it_some_time()
-                        sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+                sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+
         #DEBUG
         #print(sub_object["id"])
     
@@ -125,9 +208,13 @@ def extract_video_info(yt_id):
         response.raise_for_status()
         soup = BeautifulSoup(response.text,'lxml')
         test = response.text
-
+        #utils.file_write("Test_1.txt",test)
+        
         #append extra regexes here for other html shenanigans 
-        temp = re.search(r'(?<=player_response":").*|(?<=PlayerResponse = ).*',test).group()
+        temp = re.search(r'(?<=player_response":").*|(?<=PlayerResponse = ).*|(?<=\["ytInitialPlayerResponse"\] = ).*',test).group()
+        
+        if temp[0:1] == '"':
+            temp = temp [1:]
         if temp[0:1] == "{":
             temp = temp [1:]
         a = 1 #number of brackets
@@ -143,15 +230,18 @@ def extract_video_info(yt_id):
                 break
 
         test = '{'+temp[0:k]
-        print("Json scraped")
+        if test.startswith(r'{\"') == True:
+            test = utils.string_escape(test)
+        #utils.file_write("Test_2.txt",test)
+        #print("Json scraped")
 
         """For errors:
         should be finding:
         {"responseContext":{"serviceTrackingParams":[{"service":"GFEEDBACK","params":[{"key":"is_viewed_live","value":"False"},{"key":"logged_in","value":"0"},{"key":"e","value":"23970895,23932523,23970385,24590263,23942633,23963929,23857949,23942338,9407155,23969934,23884386,23839597,23882502,23976578,23804281,23946420,23948841,23972381,23911055,23969486,23972864,23918597,23976772,23973687,23968386,23951620,23973492,23944779,23890959,23961261,23744176,23934970,1714251,23965557,23940703,23958692,23973488,23970649,23978155,23973495,23961733,23970398,23973497,23735347,23970974"}]},{"service":"CSI","params":[{"key":"c","value":"WEB"},{"key":"cver","value":"2.20201202.08.00"},{"key":"yt_li","value":"0"},{"key":"GetPlayer_rid","value":"0x25485baf1f756f9c"}]},{"service":"GUIDED_HELP","params":[{"key":"logged_in","value":"0"}]},{"service":"ECATCHER","params":[{"key":"client.version","value":"2.20201202"},{"key":"client.name","value":"WEB"}]}],"webResponseContextExtensionData":{"hasDecorated":true}},"playabilityStatus":{"status":"OK","playableInEmbed":true,"miniplayer":{"miniplayerRenderer":{"playbackMode":"PLAYBACK_MODE_ALLOW"}},"contextParams":"Q0FFU0FnZ0I="},"streamingData":{"expiresInSeconds":"21540","formats":[{"itag":18,"url":"https://r2---sn-nu5gi0c-npoee.googlevideo.com/videoplayback?expire=1607088267\u0026ei=K-TJX_CJMrC73LUPx90n\u0026ip=218.212.223.31\u0026id=o-AIJ7tk6_fBnlj29Kes8FKX1MWBdOkNX1QVS49QVpzHVO\u0026itag=18"""
-        #utils.file_write("Test_3.txt",test)
+        #utils.file_write("Test_3.txt",utils.dump_json(test))
         #test = utils.string_escape(test) #Seems to be unnecessary
         #utils.file_write("Test_4.txt",test)
-        print("Parsing json.")
+        #print("Parsing json.")
         test = json.loads(test) #Sometimes errors, best to just reload
 
         return test
@@ -173,10 +263,10 @@ def extract_video_info(yt_id):
         stream_type = a["mimeType"][:a["mimeType"].find("/")]
         file_type = a["mimeType"][len(stream_type)+1:a["mimeType"].find("; ")]
         try:
-            url = utils.string_escape(a["url"])
+            stream_url = utils.string_escape(a["url"])
             s=None
         except KeyError: #Just copied from https://i.stack.imgur.com/gwsZg.jpg
-            url = a["signatureCipher"]
+            stream_url = a["signatureCipher"]
 
         if stream_type == "audio":
             bitrate_actual = int(a["bitrate"])
@@ -200,7 +290,7 @@ def extract_video_info(yt_id):
         
         streams.append({})
         streams[i]["name"] = stream_name
-        streams[i]["url"] = url
+        streams[i]["url"] = stream_url
         streams[i]["stream_type"] = stream_type
         streams[i]["file_type"] = file_type
         try:
@@ -216,13 +306,25 @@ def extract_video_info(yt_id):
         video_info["category"] = foo["category"]
     except:
         video_info["category"] = ""
+    video_info["url"] = url
     video_info["channel id"] = foo["externalChannelId"]
     video_info["length"] = foo["lengthSeconds"]
     video_info["channel"] = foo["ownerChannelName"]
     video_info["publish date"] = foo["publishDate"]
     video_info["thumbnail url"] = foo["thumbnail"]["thumbnails"][0]["url"]
     video_info["title"] = foo["title"]["simpleText"]
+    video_info["title"] = utils.apostrophe(video_info["title"])
     video_info["views"] = foo["viewCount"]
+    try:
+        barbar = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
+        video_info["channel image"] = barbar["image"]["thumbnails"][-1]["url"]
+        #video_info["subscriber count"] = barbar - doesnt work lol (at least not there)
+        video_info["channel description"] = barbar["metadata"]["simpleText"]
+        #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+    except:
+        video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
+        video_info["channel description"] = "unavailable"
+        dl_logger.log_info('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
 
     for k in dict(video_info):
         video_info[k] = utils.string_escape(video_info[k])
@@ -237,9 +339,13 @@ def download_handler(Downloader):
     dl_object = Downloader.objects_list[Downloader.current]
     for sub_object in dl_object.data["sub_objects"]:
         video_info = sub_object["video_info"]
-
-        root_download_dir = os.path.join(Downloader.settings["directories"]["output"],"youtube",video_info["title"])
-        dl_object.download_info.append(root_download_dir)
+        if dl_object.data["type"] == "channel":
+            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",dl_object.data["channel name"],video_info["title"])
+            #already appended
+            #other Stuff for Download handler is in a seperate function
+        else:
+            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],"youtube",utils.apostrophe(video_info["title"]))
+            dl_object.download_info.append(root_download_dir)
 
         streams = sub_object["streams"]
 
@@ -248,6 +354,7 @@ def download_handler(Downloader):
         
         info_string = """{}
 
+Video URL: {}
 Channel: {}
 Channel ID: {}
 Category: {}
@@ -261,6 +368,7 @@ Description:
 
 Streams downloaded: {}, {}
         """.format(
+            video_info["url"],
             video_info["title"],
             video_info["channel"],
             video_info["channel id"],
@@ -305,7 +413,7 @@ Streams downloaded: {}, {}
                 "merge audio": None
             })
         else:
-            print("Audio stream undownloadable") #log some form of error
+            dl_logger.log_info("Video ({}|{}) undownloadable (copyrighted music ftw)".format(video_info["url"],video_info["title"])) #log some form of error
         #Video File
         if video_stream["url"].startswith("http") == True:
             video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
@@ -326,7 +434,10 @@ Streams downloaded: {}, {}
                 }
             })
         else:
-            print("Video stream undownloadable")#log some form of error
+            pass #happens for both so yea
+            #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
+
+    #utils.print_json(dl_object.download_info)
 
 def get_best_audio(streams, *selected_type):
     highest = 0
@@ -344,7 +455,7 @@ def get_best_audio(streams, *selected_type):
     if final_stream != None:
         return final_stream
     else:
-        print("No audio stream found")
+        dl_logger.log_info("No audio stream found")
 
 def get_best_video(streams,*selected_type):
     
@@ -364,11 +475,12 @@ def get_best_video(streams,*selected_type):
         
         return final_stream
     else:
-        print("No video stream found")
+        dl_logger.log_info("No video stream found")
 
 if __name__ == "__main__":
     
     Downloader = extractor_test_setup()
+    dl_logger.init_logger(Downloader.settings["directories"]["main"], "Youtube")
     for i in range(len(test_links)):
         Downloader.current = i
         youtube_extractor(Downloader)

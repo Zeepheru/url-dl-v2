@@ -1,0 +1,18 @@
+2021-01-27 16:16:35,596 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-01-27 16:16:35,597 - Autocommand from settings: run
+2021-01-27 16:16:35,597 - Command: run
+2021-01-27 16:16:35,600 - Current: https://youtu.be/rpmfsMbqgBE  
+2021-01-27 16:16:35,600 - youtube link
+2021-01-27 16:16:35,771 - Scraping for id: rpmfsMbqgBE
+2021-01-27 16:16:36,231 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3
+2021-01-27 16:16:36,231 - Creating download information json.
+2021-01-27 16:16:36,232 - Writing text file.
+2021-01-27 16:16:36,233 - Downloading: Thumbnail.png
+2021-01-27 16:16:36,317 - Downloading: audio_We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3.m4a
+2021-01-27 16:24:22,539 - Writing text file.
+2021-01-27 16:24:22,539 - Downloading: video_We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3.mp4

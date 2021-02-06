@@ -1,0 +1,17 @@
+2020-12-24 23:36:31,589 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-24 23:36:31,590 - Autocommand from settings: run
+2020-12-24 23:36:31,590 - Command: run
+2020-12-24 23:36:31,591 - Current: https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww 
+2020-12-24 23:36:31,591 - youtube link
+2020-12-24 23:36:32,402 - Channel has 30 videos downloaded.
+2020-12-24 23:36:32,402 - Scraping for id: ovAz92s9XF8
+2020-12-24 23:36:32,975 - Scraping for id: wuc0d_OArZI
+2020-12-24 23:36:33,427 - Scraping for id: Yepq7ugE_38
+2020-12-24 23:36:34,008 - Scraping for id: BtNJXjkk2hQ
+2020-12-24 23:36:34,471 - Scraping for id: 3Q5VEpEYsro
+2020-12-24 23:36:34,934 - Scraping for id: F2OJrRU5VWg

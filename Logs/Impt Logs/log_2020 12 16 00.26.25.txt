@@ -1,0 +1,127 @@
+2020-12-16 00:26:25,229 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-16 00:26:25,229 - Autocommand from settings: run
+2020-12-16 00:26:25,229 - Command: run
+2020-12-16 00:26:25,232 - Current: https://youtu.be/1Gw_Q7Io3Wo 
+2020-12-16 00:26:25,232 - youtube link
+2020-12-16 00:26:25,301 - Scraping for id: 1Gw_Q7Io3Wo
+2020-12-16 00:26:25,724 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-16 00:26:25,726 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Happy Go-Gurt Ponies
+2020-12-16 00:26:25,726 - Creating download information json.
+2020-12-16 00:26:25,727 - Writing text file.
+2020-12-16 00:26:25,727 - Downloading: Thumbnail.png
+2020-12-16 00:26:26,085 - Downloading: audio_Happy Go-Gurt Ponies.webm
+2020-12-16 00:26:26,601 - Writing text file.
+2020-12-16 00:26:26,601 - Downloading: video_Happy Go-Gurt Ponies.mp4
+2020-12-16 00:26:28,546 - Merging audio and video files.
+2020-12-16 00:26:28,768 - Adding thumbnail to video file.
+2020-12-16 00:26:28,899 - Coverting audio file to mp3.
+2020-12-16 00:26:29,113 - Applying mp3 metadata to Happy Go-Gurt Ponies.mp3
+2020-12-16 00:26:29,174 - Download for https://youtu.be/1Gw_Q7Io3Wo complete.
+
+2020-12-16 00:26:29,176 - Current: https://youtu.be/3JyjUV8603Q 
+2020-12-16 00:26:29,177 - youtube link
+2020-12-16 00:26:29,178 - Scraping for id: 3JyjUV8603Q
+2020-12-16 00:26:29,597 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-16 00:26:29,598 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Best Pet Owner
+2020-12-16 00:26:29,598 - Creating download information json.
+2020-12-16 00:26:29,599 - Writing text file.
+2020-12-16 00:26:29,599 - Downloading: Thumbnail.png
+2020-12-16 00:26:30,071 - Downloading: audio_Best Pet Owner.m4a
+2020-12-16 00:26:30,608 - Writing text file.
+2020-12-16 00:26:30,608 - Downloading: video_Best Pet Owner.mp4
+2020-12-16 00:26:31,842 - Merging audio and video files.
+2020-12-16 00:26:32,179 - Adding thumbnail to video file.
+2020-12-16 00:26:32,309 - Coverting audio file to mp3.
+2020-12-16 00:26:32,645 - Applying mp3 metadata to Best Pet Owner.mp3
+2020-12-16 00:26:32,820 - Download for https://youtu.be/3JyjUV8603Q complete.
+
+2020-12-16 00:26:32,823 - Current: https://youtu.be/npsRbJTJFDE 
+2020-12-16 00:26:32,824 - youtube link
+2020-12-16 00:26:32,825 - Scraping for id: npsRbJTJFDE
+2020-12-16 00:26:33,414 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 187, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 191, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 132, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 193, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2020-12-16 00:26:33,418 - Current: https://youtu.be/DrWEeJ54gUc 
+2020-12-16 00:26:33,419 - youtube link
+2020-12-16 00:26:33,420 - Scraping for id: DrWEeJ54gUc
+2020-12-16 00:26:33,899 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Pony Life Theme Song (Nyancat380 Remix) [Cumbiastep]
+2020-12-16 00:26:33,899 - Creating download information json.
+2020-12-16 00:26:33,900 - Writing text file.
+2020-12-16 00:26:33,900 - Downloading: Thumbnail.png
+2020-12-16 00:26:34,022 - Downloading: audio_Pony Life Theme Song (Nyancat380 Remix) [Cumbiastep].webm
+2020-12-16 00:26:57,975 - Writing text file.
+2020-12-16 00:26:57,975 - Downloading: video_Pony Life Theme Song (Nyancat380 Remix) [Cumbiastep].mp4
+2020-12-16 00:26:58,881 - Merging audio and video files.
+2020-12-16 00:26:59,019 - Adding thumbnail to video file.
+2020-12-16 00:26:59,096 - Coverting audio file to mp3.
+2020-12-16 00:27:01,847 - Applying mp3 metadata to Pony Life Theme Song (Nyancat380 Remix) [Cumbiastep].mp3
+2020-12-16 00:27:02,111 - Download for https://youtu.be/DrWEeJ54gUc complete.
+
+2020-12-16 00:27:02,114 - Current: https://youtu.be/_AbtCTbSWTk 
+2020-12-16 00:27:02,115 - youtube link
+2020-12-16 00:27:02,116 - Scraping for id: _AbtCTbSWTk
+2020-12-16 00:27:02,540 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-16 00:27:02,541 - Video (https://youtu.be/_AbtCTbSWTk|Rainbow Dash Presents Cupcakes) undownloadable (copyrighted music ftw)
+2020-12-16 00:27:02,542 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Rainbow Dash Presents Cupcakes
+2020-12-16 00:27:02,542 - Creating download information json.
+2020-12-16 00:27:02,543 - Writing text file.
+2020-12-16 00:27:02,543 - Downloading: Thumbnail.png
+2020-12-16 00:27:02,591 - Download for https://youtu.be/_AbtCTbSWTk complete.
+
+2020-12-16 00:27:02,594 - Current: https://www.youtube.com/watch?v=E-k6pY80u-I 
+2020-12-16 00:27:02,595 - youtube link
+2020-12-16 00:27:02,598 - Scraping for id: E-k6pY80u-I
+2020-12-16 00:27:03,015 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-16 00:27:03,016 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Stoner!Twi
+2020-12-16 00:27:03,016 - Creating download information json.
+2020-12-16 00:27:03,017 - Writing text file.
+2020-12-16 00:27:03,017 - Downloading: Thumbnail.png
+2020-12-16 00:27:03,294 - Downloading: audio_Stoner!Twi.m4a
+2020-12-16 00:27:03,505 - Writing text file.
+2020-12-16 00:27:03,506 - Downloading: video_Stoner!Twi.mp4
+2020-12-16 00:27:03,830 - Merging audio and video files.
+2020-12-16 00:27:04,161 - Adding thumbnail to video file.
+2020-12-16 00:27:04,294 - Coverting audio file to mp3.
+2020-12-16 00:27:04,634 - Applying mp3 metadata to Stoner!Twi.mp3
+2020-12-16 00:27:05,097 - Download for https://www.youtube.com/watch?v=E-k6pY80u-I complete.
+
+2020-12-16 00:27:05,100 - Current: https://www.youtube.com/watch?v=R3I4S0lHCYU&ab_channel=SilverWolf866 
+2020-12-16 00:27:05,100 - youtube link
+2020-12-16 00:27:05,102 - Scraping for id: R3I4S0lHCYU
+2020-12-16 00:27:05,479 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2020-12-16 00:27:05,480 - Video (https://youtu.be/R3I4S0lHCYU|When it Rains (MLP Speedpaint)) undownloadable (copyrighted music ftw)
+2020-12-16 00:27:05,481 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\When it Rains (MLP Speedpaint)
+2020-12-16 00:27:05,481 - Creating download information json.
+2020-12-16 00:27:05,482 - Writing text file.
+2020-12-16 00:27:05,482 - Downloading: Thumbnail.png
+2020-12-16 00:27:05,808 - Download for https://www.youtube.com/watch?v=R3I4S0lHCYU&ab_channel=SilverWolf866 complete.
+

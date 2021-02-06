@@ -3,6 +3,8 @@ import json
 import requests
 import time
 from resources.dl_items import i
+import urllib
+from selenium import webdriver
 
 def file_write(path,text):
     text = str(text)
@@ -14,9 +16,16 @@ def apostrophe(text): #For  all string issues
                 .replace(":","")
                 .replace("\\","_")
                 .replace("//","_")
+                .replace("\m"[0:1],"_")
+                .replace("/","_")
                 .replace("?","")
                 .replace("amp;","")
+                .replace('"',"'")
+                .replace('|'," ")
     )
+
+def give_me_the_time():
+    return time.strftime("%Y %m %d %H.%M.%S")
 
 def print_json(data):
     print(json.dumps(data, indent=4, sort_keys=True))
@@ -36,6 +45,35 @@ def source_code(link): #may change
     text = str(text.encode(encoding='utf-8'))
     return text
 
+def source_code_b(link): #may change
+    with urllib.request.urlopen(link) as response:
+        return response.read().decode('utf-8')
+
+def source_code_c(link):
+    url = link
+    driver = webdriver.Firefox()
+    driver.get(url)
+    SCROLL_PAUSE_TIME = 0.25
+
+    # Get scroll height
+    last_height = driver.execute_script("return document.body.scrollHeight")
+
+    while True:
+        # Scroll down to bottom
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+        # Wait to load page
+        time.sleep(SCROLL_PAUSE_TIME)
+
+        # Calculate new scroll height and compare with last scroll height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+
+    return driver.page_source
+
+
 def string_escape(s):
     return (s.encode('latin1',"ignore")         # To bytes, required by 'unicode-escape'
                 .decode('unicode-escape') # Perform the actual octal-escaping decode
@@ -46,7 +84,7 @@ def give_it_some_time():
     time.sleep(0.1)
 
 def byte_converter(size):
-    ext = None
+    ext = "B"
     if size/1000 > 1:
         size = size/1000
         size = int(size)
@@ -69,3 +107,5 @@ def re_double_backslash(string):
 year_regex = re.compile(r'20[0-9][0-9]|19[0-9][0-9]')
 img_regex = re.compile(r'(?<=.)jpg|(?<=.)gif|(?<=.)png|(?<=.)psd|(?<=.)tif')
 audio_regex = re.compile(r'(?<=.)mp3|(?<=.)m4a|(?<=.)flac|(?<=.)ogg|(?<=.)wav')
+
+parent_dir_regex = re.compile(r'.*(?=\\)')

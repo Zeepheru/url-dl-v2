@@ -1,0 +1,23 @@
+2020-12-11 23:58:59,300 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2020-12-11 23:58:59,301 - Autocommand from settings: run
+2020-12-11 23:58:59,301 - Command: run
+2020-12-11 23:58:59,302 - Current: https://youtu.be/HLGdD1O7R7g 
+2020-12-11 23:58:59,302 - youtube link
+2020-12-11 23:58:59,306 - invalid syntax (youtube.py, line 81)
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 130, in parse_file
+    from extractors.youtube import youtube_extractor
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 81
+    data["url"].replace(' '.'')
+                            ^
+SyntaxError: invalid syntax
+2020-12-11 23:59:14,960 - Command: close
+2020-12-11 23:59:14,960 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

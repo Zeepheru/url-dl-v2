@@ -1,2 +1,85 @@
 from dl_utils import *
 import logging
+import time
+import io
+import os
+
+def print_time():
+    timenow = time.strftime("%Y %m %d %H.%M.%S")
+    return timenow
+
+def init_logger(log_folder_path, *custom_start):
+    global logpath, logger, log_stream, logger_console
+    logpath = os.path.join(log_folder_path,"Logs","log_"+print_time()+".txt")
+
+    loglist = os.listdir(os.path.join(log_folder_path,"Logs")) #Old log removal
+    if len(loglist) > 9:
+        for i in range (len(loglist)-9):
+            try:
+                if loglist[i][-3:] == "txt":
+                    os.remove(os.path.join(log_folder_path,"Logs",loglist[i]))
+            except:
+                pass #Sometimes windows is using the log file?
+
+    log_stream = io.StringIO()
+    formatter = logging.Formatter('%(asctime)s - %(message)s')
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+
+    stream_handler = logging.StreamHandler(log_stream)
+    stream_handler.setFormatter(formatter)
+    stream_handler.setLevel(logging.INFO)
+    logger.addHandler(stream_handler)
+
+    info_handler = logging.FileHandler(logpath, "a")
+    info_handler.setFormatter(formatter)
+    info_handler.setLevel(logging.INFO)
+    logger.addHandler(info_handler)
+
+    print(log_stream.getvalue())
+
+    if isinstance(custom_start, str):
+        
+        log_to_file("""
+Downloading Utility Log. 
+Log started.
+CUSTOM LOGGER START: {}
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+""".format(custom_start))
+    else:
+        log_to_file("""
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+""".format())
+
+def end_logger():
+    logger.info("""
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+""".format())
+
+def log_exception(e):
+    #e = 'asdsads'+e +'asdsadsadsads'
+    logger.exception(e)
+    print(log_stream.getvalue())
+
+def log_info(e):
+    logger.info(e)
+    print(e)
+
+def log_to_file(e):
+    logger.info(e)
+
+"""
+HOWTO for this complicated thing
+
+dl_logger.log_exception - logs major exceptions, prints in full; ONLY FOR EXCEPTIONS WHERE TROUBLESHOOTING IS REQUIRED.
+dl_logger.log_info - small info tidbits, general errors
+dl_logger.log_to_file - logs to the log file only.
+"""
+
+if __name__ == "__main__":
+    init_logger(r'C:\Utilities\Scripts\url-dl-v2')

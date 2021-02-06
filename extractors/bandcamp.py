@@ -16,6 +16,8 @@ import dl_utils as utils
 import settings
 import dl_object_init as dl
 
+import dl_logger as dl_logger
+
 test_links = [
     "https://vyletpony.bandcamp.com/album/super-pony-world-fairytails"
 ]
@@ -43,6 +45,11 @@ def bandcamp_extractor(Downloader):
     data = dl_object.data
     data["sub_objects"] = []
 
+    try:
+        data["url"].replace(' ','')
+    except:
+        pass
+
     #BS4 for playlist art
     response = requests.get(data["url"])
     response.raise_for_status()
@@ -63,7 +70,7 @@ def bandcamp_extractor(Downloader):
     data["year"] = re.search(utils.year_regex,json_data["current"]["publish_date"]).group()
 
     if int(json_data["current"]["minimum_price"]) == 0:
-        print("This album can be downloaded for free.")
+        dl_logger.log_info("This album can be downloaded for free.")
 
     for track in json_data["trackinfo"]:
         track_info = {}
@@ -105,7 +112,7 @@ def download_handler(Downloader):
                 }
             })
         else:
-            print("Audio stream undownloadable") #log some form of error
+            dl_logger.log_info("Audio stream undownloadable") #log some form of error
         #Seperate cover art
     dl_object.download_info.append({
         "filename":"Cover Art"+"."+re.search(utils.img_regex,dl_object.data["thumbnail url"]).group(),
@@ -122,6 +129,7 @@ def download_handler(Downloader):
 if __name__ == "__main__":
     
     Downloader = extractor_test_setup()
+    dl_logger.init_logger(Downloader.settings["directories"]["main"], "bandcamp")
     for i in range(len(test_links)):
         Downloader.current = i
         bandcamp_extractor(Downloader)

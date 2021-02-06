@@ -1,0 +1,39 @@
+2021-01-27 21:54:26,922 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-01-27 21:54:26,922 - Autocommand from settings: run
+2021-01-27 21:54:26,922 - Command: run
+2021-01-27 21:54:26,923 - Current: https://youtu.be/rpmfsMbqgBE  
+2021-01-27 21:54:26,924 - youtube link
+2021-01-27 21:54:26,999 - Scraping for id: rpmfsMbqgBE
+2021-01-27 21:54:27,462 - Creating download information json.
+2021-01-27 21:54:27,463 - Writing text file.
+2021-01-27 21:54:27,463 - Downloading: Thumbnail.png
+2021-01-27 21:54:27,527 - Downloading: audio_We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3.m4a
+2021-01-27 21:58:34,091 - Writing text file.
+2021-01-27 21:58:34,092 - Downloading: video_We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3.mp4
+2021-01-27 22:34:01,827 - Merging audio and video files.
+2021-01-27 22:34:44,982 - Adding thumbnail to video file.
+2021-01-27 22:34:47,221 - Coverting audio file to mp3.
+2021-01-27 22:35:19,792 - Applying mp3 metadata to We Ship My Little Pony with a Cast Reunion plus Bella & Billy Bob Thornton - Part 2 of 3.mp3
+2021-01-27 22:35:19,891 - Download for https://youtu.be/rpmfsMbqgBE complete.
+
+2021-01-27 22:35:19,893 - Current: https://youtu.be/NiLnfSvSBoc 
+2021-01-27 22:35:19,893 - youtube link
+2021-01-27 22:35:19,894 - Scraping for id: NiLnfSvSBoc
+2021-01-27 22:35:20,456 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\We Ship My Little Pony with Cosplayers, Fans, and John de Lancie - Part 1 of 3
+2021-01-27 22:35:20,456 - Creating download information json.
+2021-01-27 22:35:20,457 - Writing text file.
+2021-01-27 22:35:20,457 - Downloading: Thumbnail.png
+2021-01-27 22:35:20,978 - Downloading: audio_We Ship My Little Pony with Cosplayers, Fans, and John de Lancie - Part 1 of 3.webm
+2021-01-27 22:39:34,191 - Writing text file.
+2021-01-27 22:39:34,191 - Downloading: video_We Ship My Little Pony with Cosplayers, Fans, and John de Lancie - Part 1 of 3.mp4
+2021-01-27 23:17:09,715 - Merging audio and video files.
+2021-01-27 23:18:06,362 - Adding thumbnail to video file.
+2021-01-27 23:18:08,774 - Coverting audio file to mp3.
+2021-01-27 23:18:59,908 - Applying mp3 metadata to We Ship My Little Pony with Cosplayers, Fans, and John de Lancie - Part 1 of 3.mp3
+2021-01-27 23:18:59,992 - Download for https://youtu.be/NiLnfSvSBoc complete.
+
