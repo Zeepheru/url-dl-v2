@@ -400,39 +400,40 @@ Streams downloaded: {}, {}
             "thumbnail": None,
             "merge audio": None
         })
-        #audio file
-        if audio_stream["url"].startswith("http") == True:
-            audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
-            dl_object.download_info.append({
-                "filename":audio_filename,
-                "path":(os.path.join(root_download_dir,audio_filename)),
-                "text file": False,
-                "download": True,
-                "contents": audio_stream["url"],
-                "thumbnail": video_info["thumbnail url"],
-                "merge audio": None
-            })
-        else:
-            dl_logger.log_info("Video ({}|{}) undownloadable (copyrighted music ftw)".format(video_info["url"],video_info["title"])) #log some form of error
-        #Video File
-        if video_stream["url"].startswith("http") == True:
-            video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
-            dl_object.download_info.append({
-                "filename":video_filename,
-                "path":(os.path.join(root_download_dir,video_filename)),
-                "text file": True,
-                "download": True,
-                "contents": video_stream["url"],
-                "thumbnail": video_info["thumbnail url"],
-                "merge audio": audio_filename,
-                "metadata":{
-                    "title":video_filename,
-                    "artist":video_info["channel"],
-                    "track number":0,
-                    "playlist":"",
-                    "year":re.search(utils.year_regex,video_info["publish date"]).group()
-                }
-            })
+        if not Downloader.settings["debug"]["descriptions only"]:
+            #audio file
+            if audio_stream["url"].startswith("http") == True:
+                audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+                dl_object.download_info.append({
+                    "filename":audio_filename,
+                    "path":(os.path.join(root_download_dir,audio_filename)),
+                    "text file": False,
+                    "download": True,
+                    "contents": audio_stream["url"],
+                    "thumbnail": video_info["thumbnail url"],
+                    "merge audio": None
+                })
+            else:
+                dl_logger.log_info("Video ({}|{}) undownloadable (copyrighted music ftw)".format(video_info["url"],video_info["title"])) #log some form of error
+            #Video File
+            if video_stream["url"].startswith("http") == True:
+                video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
+                dl_object.download_info.append({
+                    "filename":video_filename,
+                    "path":(os.path.join(root_download_dir,video_filename)),
+                    "text file": True,
+                    "download": True,
+                    "contents": video_stream["url"],
+                    "thumbnail": video_info["thumbnail url"],
+                    "merge audio": audio_filename,
+                    "metadata":{
+                        "title":video_filename,
+                        "artist":video_info["channel"],
+                        "track number":0,
+                        "playlist":"",
+                        "year":re.search(utils.year_regex,video_info["publish date"]).group()
+                    }
+                })
         else:
             pass #happens for both so yea
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error

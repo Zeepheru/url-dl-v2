@@ -8,7 +8,10 @@
 ##https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww
 ##--derpi_images: 1835634, 1826212, 1818699, 416280, 423412,
 ##https://www.youtube.com/watch?v=h3kSPHcjN34 ##even ytdl cant do this. (Lost On the Moon)
-##https://www.youtube.com/watch?v=8mYd2X_9rrs ##ALso music so yeahh (Crush by Pendulum btw)s
+##https://www.youtube.com/watch?v=8mYd2X_9rrs ##ALso music so yeahh (Crush by Pendulum btw)s REMEMBER TO SET MAX DOWNLOAD FOR MULTIPLE LINKS
+##
+https://www.youtube.com/watch?v=8XnSPvKR6qY
+## IDK whats after this
 https://youtu.be/YZrjyZhH8XM
 https://youtu.be/kss0X8oaeow
 https://youtu.be/9DgMKEF5T4Y

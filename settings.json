@@ -3,7 +3,8 @@
         "download": true,
         "print download info": false,
         "export download info": true,
-        "autocommand": "run"
+        "autocommand": "run",
+        "descriptions only": true
     },
     "directories": {
         "main": "C:\\Utilities\\Scripts\\url-dl-v2",

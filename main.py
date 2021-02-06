@@ -38,7 +38,7 @@ load_json - loads download info from a parsed download.json, in the default json
 
 dl - downloads single link behind, or:
 dl -derpi - special Derpibooru downloader, (WIP)
-dl -youtube - idk what the hell to do here for now.
+dl -youtube - idk what the hell to do here for now. Add a link behind. Single link only, full link (not id).
 """
     while 1 > 0:
         if Downloader.settings["debug"]["autocommand"] != None and Downloader.auto_command == False:
@@ -82,6 +82,23 @@ dl -youtube - idk what the hell to do here for now.
             
             download.download(Downloader)
             print("Download from json: {} complete.".format(command_2))
+
+        elif command_1 == "dl":
+            a = dl.DownloadObject()
+            Downloader.objects_list.append(a)
+            Downloader.current = 0
+
+            if command_2.startswith("-youtube") == True:
+                command_link = re.search(r'(?<=-youtube ).*',command_2).group()
+                if not command_link.startswith("http"):
+                    dl_logger.log_info("{} Is not a link.".format(command_link))
+                else:
+                    ##main yt_code (from below)
+                    dl_logger.log_to_file("youtube link")
+                    dl_object.data["url"] = command_link
+                    from extractors.youtube import youtube_extractor
+                    print("Youtube Link. Extractor code may need to be edited if parsing takes too long, may mean a wrong regex because of changed html.")
+                    Downloader = youtube_extractor(Downloader)
 
         #Appending links with a manual link add?
 

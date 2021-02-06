@@ -1,0 +1,17 @@
+2021-02-06 13:29:59,939 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 13:29:59,940 - local variable 'Downloader' referenced before assignment
+Traceback (most recent call last):
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 212, in <module>
+    parse_input()
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 44, in parse_input
+    if Downloader.settings["debug"]["autocommand"] != None and Downloader.auto_command == False:
+UnboundLocalError: local variable 'Downloader' referenced before assignment
+2021-02-06 13:29:59,941 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+
