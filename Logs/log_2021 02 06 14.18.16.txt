@@ -23,7 +23,10 @@ Move log to Impt Logs if required as only the 10 most recent logs are kept.
 2021-02-06 14:18:18,316 - Downloading: Thumbnail.png
 2021-02-06 14:18:18,396 - Downloading: audio_Winter Mountain Complete Digital Painting Process.webm
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 2021-02-06 14:27:08,091 - Writing text file.
 2021-02-06 14:27:08,091 - Downloading: video_Winter Mountain Complete Digital Painting Process.mp4
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

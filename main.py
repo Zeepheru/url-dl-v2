@@ -130,6 +130,9 @@ dl -youtube - idk what the hell to do here for now.
                 dl_cmd_error = True
                 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         #Appending links with a manual link add?
 
