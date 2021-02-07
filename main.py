@@ -43,7 +43,7 @@ dl -youtube - idk what the hell to do here for now.
 """
     while 1 > 0:
         #print("yes this is happening again" + str(Downloader.auto_command))
-        if (Downloader.settings["debug"]["autocommand"] != None or Downloader.settings["debug"]["autocommand"] != "") and Downloader.auto_command == False:
+        if Downloader.settings["debug"]["autocommand"] != None and Downloader.settings["debug"]["autocommand"] != "" and Downloader.auto_command == False:
             user_input = Downloader.settings['debug']["autocommand"]
             dl_logger.log_info("Autocommand from settings: {}".format(user_input))       
             Downloader.auto_command = True                                                

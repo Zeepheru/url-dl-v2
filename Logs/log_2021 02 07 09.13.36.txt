@@ -1,0 +1,17 @@
+2021-02-07 09:13:36,556 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-07 09:13:36,556 - local variable 'user_input' referenced before assignment
+Traceback (most recent call last):
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 239, in <module>
+    parse_input()
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 54, in parse_input
+    dl_logger.log_to_file("Command: {}".format(user_input))
+UnboundLocalError: local variable 'user_input' referenced before assignment
+2021-02-07 09:13:36,557 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

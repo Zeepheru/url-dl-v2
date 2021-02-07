@@ -18,6 +18,8 @@ import dl_object_init as dl
 
 import dl_logger as dl_logger
 
+import youtube_dl
+
 #https://www.youtube.com/watch?v=X_TMtgjQuZI somehow is also ciphered, not even youtub-dl works.
 
 test_links = [
@@ -50,6 +52,39 @@ def extractor_test_setup():
     return Downloader
 
 ##END OF TEMPLATE CODE
+
+def youtube_dl_backup(url,folder_path):
+    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
+
+    def my_hook_audio(d):
+        if d['status'] == 'finished':
+            dl_logger.log_info('Done downloading audio.')
+
+    ydl_opts_audio = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '256',
+        }],
+        'progress_hooks': [my_hook_audio],
+        'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
+    }
+    with youtube_dl.YoutubeDL(ydl_opts_audio) as ydl:
+        ydl.download([url])
+
+    #video
+    def my_hook_video(d):
+        if d['status'] == 'finished':
+            dl_logger.log_info('Done downloading audio.')
+
+    ydl_opts_video = {
+        'format': 'best',
+        'progress_hooks': [my_hook_video],
+        'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
+    }
+    with youtube_dl.YoutubeDL(ydl_opts_video) as ydl:
+        ydl.download([url])
 
 def youtube_extractor(Downloader):
     global dl_object
@@ -324,7 +359,7 @@ def extract_video_info(yt_id):
     except:
         video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
         video_info["channel description"] = "unavailable"
-        dl_logger.log_info('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+        dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
 
     for k in dict(video_info):
         video_info[k] = utils.string_escape(video_info[k])
@@ -413,7 +448,8 @@ Streams downloaded: {}, {}
                 "merge audio": None
             })
         else:
-            dl_logger.log_info("Video ({}|{}) undownloadable (copyrighted music ftw)".format(video_info["url"],video_info["title"])) #log some form of error
+            dl_logger.log_info("! Video ({}|{}) undownloadable - cipher needed.".format(video_info["url"],video_info["title"])) #log some form of error
+            
         #Video File
         if video_stream["url"].startswith("http") == True:
             video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
@@ -436,6 +472,7 @@ Streams downloaded: {}, {}
         else:
             pass #happens for both so yea
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
+            youtube_dl_backup(video_info["url"],root_download_dir)
 
     #utils.print_json(dl_object.download_info)
 

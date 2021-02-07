@@ -1,0 +1,44 @@
+2021-02-06 15:45:59,447 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 15:45:59,447 - Autocommand from settings: 
+2021-02-06 15:45:59,447 - Command: 
+2021-02-06 15:46:02,950 - Command: dl -youtube https://www.youtube.com/watch?v=4R3N1oeKbE4
+2021-02-06 15:46:02,950 - youtube link
+2021-02-06 15:46:03,015 - Scraping for id: 4R3N1oeKbE4
+2021-02-06 15:46:04,543 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 187, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 191, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 238, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 121, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 193, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-02-06 15:46:04,547 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

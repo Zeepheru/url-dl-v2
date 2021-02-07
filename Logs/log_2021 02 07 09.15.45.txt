@@ -1,0 +1,28 @@
+2021-02-07 09:15:45,252 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-07 09:16:00,239 - Command: dl -youtube https://youtu.be/m0WTPClqiO4
+2021-02-07 09:16:00,239 - youtube link
+2021-02-07 09:16:00,852 - Scraping for id: m0WTPClqiO4
+2021-02-07 09:16:01,334 - Video (https://youtu.be/m0WTPClqiO4|VRChat is a strange fever dream ft. EileMonty) undownloadable (copyrighted music ftw)
+2021-02-07 09:16:01,335 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-07 09:16:01,335 - 'function' object has no attribute 'YoutubeDL'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 238, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 121, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 220, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 462, in download_handler
+    youtube_dl(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 73, in youtube_dl
+    with youtube_dl.YoutubeDL(ydl_opts_audio) as ydl:
+AttributeError: 'function' object has no attribute 'YoutubeDL'
+2021-02-07 09:16:01,337 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+

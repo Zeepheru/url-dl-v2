@@ -1,0 +1,104 @@
+2021-02-06 14:39:17,793 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 14:39:17,794 - Autocommand from settings: dl -youtube https://youtu.be/mNn34ErU6kM https://youtu.be/xYbEj-qmajY https://www.youtube.com/watch?v=x8StHenh9S0&feature=youtu.be https://www.youtube.com/watch?v=78MH6lLj860 https://www.youtube.com/watch?v=Hd0-cGkClMQ https://www.youtube.com/watch?v=DueMN4SC4tU https://www.youtube.com/watch?v=KUTmmFY6TUA
+2021-02-06 14:39:17,794 - Command: dl -youtube https://youtu.be/mNn34ErU6kM https://youtu.be/xYbEj-qmajY https://www.youtube.com/watch?v=x8StHenh9S0&feature=youtu.be https://www.youtube.com/watch?v=78MH6lLj860 https://www.youtube.com/watch?v=Hd0-cGkClMQ https://www.youtube.com/watch?v=DueMN4SC4tU https://www.youtube.com/watch?v=KUTmmFY6TUA
+2021-02-06 14:39:17,794 - youtube link
+2021-02-06 14:39:17,863 - Scraping for id: mNn34ErU6kM
+2021-02-06 14:39:18,800 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:39:18,801 - Video (https://youtu.be/mNn34ErU6kM|[Trap] - Aero Chord - Boundless [Monstercat Release]) undownloadable (copyrighted music ftw)
+2021-02-06 14:39:18,801 - Creating download information json.
+2021-02-06 14:39:18,802 - Writing text file.
+2021-02-06 14:39:18,802 - Downloading: Thumbnail.png
+2021-02-06 14:39:18,864 - Download for |https://youtu.be/mNn34ErU6kM| complete.
+
+2021-02-06 14:39:18,864 - youtube link
+2021-02-06 14:39:18,865 - Scraping for id: xYbEj-qmajY
+2021-02-06 14:39:19,470 - Creating download information json.
+2021-02-06 14:39:19,471 - Writing text file.
+2021-02-06 14:39:19,471 - Downloading: Thumbnail.png
+2021-02-06 14:39:19,555 - Downloading: audio_Winter Mountain Complete Digital Painting Process.webm
+2021-02-06 14:43:04,405 - Writing text file.
+2021-02-06 14:43:04,406 - Downloading: video_Winter Mountain Complete Digital Painting Process.mp4
+2021-02-06 14:58:56,156 - Merging audio and video files.
+2021-02-06 14:59:21,197 - Adding thumbnail to video file.
+2021-02-06 14:59:22,305 - Coverting audio file to mp3.
+2021-02-06 14:59:54,679 - Applying mp3 metadata to Winter Mountain Complete Digital Painting Process.mp3
+2021-02-06 14:59:54,782 - Download for | https://youtu.be/xYbEj-qmajY| complete.
+
+2021-02-06 14:59:54,783 - youtube link
+2021-02-06 14:59:54,785 - Scraping for id: x8StHenh9S0
+2021-02-06 14:59:55,375 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:59:55,376 - Video (https://youtu.be/x8StHenh9S0|All Night (Painted Collab with SophieCabra)) undownloadable (copyrighted music ftw)
+2021-02-06 14:59:55,377 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\All Night (Painted Collab with SophieCabra)
+2021-02-06 14:59:55,377 - Creating download information json.
+2021-02-06 14:59:55,378 - Writing text file.
+2021-02-06 14:59:55,378 - Downloading: Thumbnail.png
+2021-02-06 14:59:55,903 - Download for | https://www.youtube.com/watch?v=x8StHenh9S0&feature=youtu.be| complete.
+
+2021-02-06 14:59:55,906 - youtube link
+2021-02-06 14:59:55,907 - Scraping for id: 78MH6lLj860
+2021-02-06 14:59:56,471 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 14:59:56,473 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Future Rainbow Dash_SpeedPaint.Mlp
+2021-02-06 14:59:56,473 - Creating download information json.
+2021-02-06 14:59:56,474 - Writing text file.
+2021-02-06 14:59:56,474 - Downloading: Thumbnail.png
+2021-02-06 14:59:56,760 - Downloading: audio_Future Rainbow Dash_SpeedPaint.Mlp.webm
+2021-02-06 15:00:40,671 - Writing text file.
+2021-02-06 15:00:40,671 - Downloading: video_Future Rainbow Dash_SpeedPaint.Mlp.mp4
+2021-02-06 15:03:34,829 - Merging audio and video files.
+2021-02-06 15:03:39,649 - Adding thumbnail to video file.
+2021-02-06 15:03:39,874 - Coverting audio file to mp3.
+2021-02-06 15:03:45,640 - Applying mp3 metadata to Future Rainbow Dash_SpeedPaint.Mlp.mp3
+2021-02-06 15:03:45,709 - Download for | https://www.youtube.com/watch?v=78MH6lLj860| complete.
+
+2021-02-06 15:03:45,711 - youtube link
+2021-02-06 15:03:45,712 - Scraping for id: Hd0-cGkClMQ
+2021-02-06 15:03:46,188 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:03:46,190 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\[] Let's Go and Meet the Bronies
+2021-02-06 15:03:46,190 - Creating download information json.
+2021-02-06 15:03:46,191 - Writing text file.
+2021-02-06 15:03:46,191 - Downloading: Thumbnail.png
+2021-02-06 15:03:46,796 - Downloading: audio_[] Let's Go and Meet the Bronies.webm
+2021-02-06 15:04:21,960 - Writing text file.
+2021-02-06 15:04:21,960 - Downloading: video_[] Let's Go and Meet the Bronies.mp4
+2021-02-06 15:06:15,365 - Merging audio and video files.
+2021-02-06 15:06:18,275 - Adding thumbnail to video file.
+2021-02-06 15:06:18,457 - Coverting audio file to mp3.
+2021-02-06 15:06:22,040 - Applying mp3 metadata to [] Let's Go and Meet the Bronies.mp3
+2021-02-06 15:06:22,602 - Download for | https://www.youtube.com/watch?v=Hd0-cGkClMQ| complete.
+
+2021-02-06 15:06:22,604 - youtube link
+2021-02-06 15:06:22,604 - Scraping for id: DueMN4SC4tU
+2021-02-06 15:06:23,383 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\CHRISSY (Original by Forest Rain)
+2021-02-06 15:06:23,383 - Creating download information json.
+2021-02-06 15:06:23,384 - Writing text file.
+2021-02-06 15:06:23,384 - Downloading: Thumbnail.png
+2021-02-06 15:06:23,583 - Downloading: audio_CHRISSY (Original by Forest Rain).webm
+2021-02-06 15:07:22,475 - Writing text file.
+2021-02-06 15:07:22,475 - Downloading: video_CHRISSY (Original by Forest Rain).mp4
+2021-02-06 15:09:28,953 - Merging audio and video files.
+2021-02-06 15:09:32,387 - Adding thumbnail to video file.
+2021-02-06 15:09:32,561 - Coverting audio file to mp3.
+2021-02-06 15:09:36,871 - Applying mp3 metadata to CHRISSY (Original by Forest Rain).mp3
+2021-02-06 15:09:37,512 - Download for | https://www.youtube.com/watch?v=DueMN4SC4tU| complete.
+
+2021-02-06 15:09:37,514 - youtube link
+2021-02-06 15:09:37,515 - Scraping for id: KUTmmFY6TUA
+2021-02-06 15:09:37,949 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:09:37,951 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\William Anderson - A New Hope (Orchestral Remake)
+2021-02-06 15:09:37,951 - Creating download information json.
+2021-02-06 15:09:37,952 - Writing text file.
+2021-02-06 15:09:37,952 - Downloading: Thumbnail.png
+2021-02-06 15:09:38,359 - Downloading: audio_William Anderson - A New Hope (Orchestral Remake).m4a
+2021-02-06 15:09:54,940 - Writing text file.
+2021-02-06 15:09:54,940 - Downloading: video_William Anderson - A New Hope (Orchestral Remake).mp4
+2021-02-06 15:10:34,870 - Merging audio and video files.
+2021-02-06 15:10:36,034 - Adding thumbnail to video file.
+2021-02-06 15:10:36,214 - Coverting audio file to mp3.
+2021-02-06 15:10:37,358 - Applying mp3 metadata to William Anderson - A New Hope (Orchestral Remake).mp3
+2021-02-06 15:10:37,437 - Download for | https://www.youtube.com/watch?v=KUTmmFY6TUA| complete.
+

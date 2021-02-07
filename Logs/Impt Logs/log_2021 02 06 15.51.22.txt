@@ -1,0 +1,503 @@
+2021-02-06 15:51:22,739 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-06 15:51:22,739 - Autocommand from settings: 
+2021-02-06 15:51:22,739 - Command: 
+2021-02-06 15:51:24,238 - Command: run
+2021-02-06 15:51:24,240 - Current: https://youtu.be/Ni632sTHZWU?t=86  
+2021-02-06 15:51:24,240 - youtube link
+2021-02-06 15:51:24,304 - Scraping for id: Ni632sTHZWU
+2021-02-06 15:51:24,802 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:51:24,804 - Video (https://youtu.be/Ni632sTHZWU|Weird Al's Alternative Polka) undownloadable (copyrighted music ftw)
+2021-02-06 15:51:24,804 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Weird Al's Alternative Polka
+2021-02-06 15:51:24,804 - Creating download information json.
+2021-02-06 15:51:24,805 - Writing text file.
+2021-02-06 15:51:24,805 - Downloading: Thumbnail.png
+2021-02-06 15:51:24,862 - Download for https://youtu.be/Ni632sTHZWU?t=86 complete.
+
+2021-02-06 15:51:24,863 - Current: https://www.youtube.com/watch?v=iKyfqOhyDrM  
+2021-02-06 15:51:24,863 - youtube link
+2021-02-06 15:51:24,863 - Scraping for id: iKyfqOhyDrM
+2021-02-06 15:51:25,331 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:51:25,332 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\TIFWhitney - Le Derp [Electro Swing_Glitch Hop]
+2021-02-06 15:51:25,332 - Creating download information json.
+2021-02-06 15:51:25,333 - Writing text file.
+2021-02-06 15:51:25,333 - Downloading: Thumbnail.png
+2021-02-06 15:51:25,650 - Downloading: audio_TIFWhitney - Le Derp [Electro Swing_Glitch Hop].webm
+2021-02-06 15:52:01,241 - Writing text file.
+2021-02-06 15:52:01,241 - Downloading: video_TIFWhitney - Le Derp [Electro Swing_Glitch Hop].mp4
+2021-02-06 15:52:45,552 - Merging audio and video files.
+2021-02-06 15:52:47,942 - Adding thumbnail to video file.
+2021-02-06 15:52:48,119 - Coverting audio file to mp3.
+2021-02-06 15:52:50,954 - Applying mp3 metadata to TIFWhitney - Le Derp [Electro Swing_Glitch Hop].mp3
+2021-02-06 15:52:51,009 - Download for https://www.youtube.com/watch?v=iKyfqOhyDrM complete.
+
+2021-02-06 15:52:51,013 - Current: https://youtu.be/A2TnYAmZDNg  
+2021-02-06 15:52:51,014 - youtube link
+2021-02-06 15:52:51,016 - Scraping for id: A2TnYAmZDNg
+2021-02-06 15:52:51,512 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:52:51,514 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Your little cat 4
+2021-02-06 15:52:51,514 - Creating download information json.
+2021-02-06 15:52:51,515 - Writing text file.
+2021-02-06 15:52:51,515 - Downloading: Thumbnail.png
+2021-02-06 15:52:51,571 - Downloading: audio_Your little cat 4.m4a
+2021-02-06 15:53:12,751 - Writing text file.
+2021-02-06 15:53:12,751 - Downloading: video_Your little cat 4.mp4
+2021-02-06 15:54:10,206 - Merging audio and video files.
+2021-02-06 15:54:11,667 - Adding thumbnail to video file.
+2021-02-06 15:54:11,823 - Coverting audio file to mp3.
+2021-02-06 15:54:12,757 - Applying mp3 metadata to Your little cat 4.mp3
+2021-02-06 15:54:12,844 - Download for https://youtu.be/A2TnYAmZDNg complete.
+
+2021-02-06 15:54:12,845 - Current: https://youtu.be/b1JDcBhm9w8 
+2021-02-06 15:54:12,845 - youtube link
+2021-02-06 15:54:12,846 - Scraping for id: b1JDcBhm9w8
+2021-02-06 15:54:13,257 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 15:54:13,258 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\RAM Overclocking VS Minecraft
+2021-02-06 15:54:13,258 - Creating download information json.
+2021-02-06 15:54:13,259 - Writing text file.
+2021-02-06 15:54:13,259 - Downloading: Thumbnail.png
+2021-02-06 15:54:13,641 - Downloading: audio_RAM Overclocking VS Minecraft.m4a
+2021-02-06 16:06:37,364 - Writing text file.
+2021-02-06 16:06:37,364 - Downloading: video_RAM Overclocking VS Minecraft.mp4
+2021-02-06 17:02:26,827 - Merging audio and video files.
+2021-02-06 17:03:30,568 - Adding thumbnail to video file.
+2021-02-06 17:03:34,262 - Coverting audio file to mp3.
+2021-02-06 17:04:30,077 - Applying mp3 metadata to RAM Overclocking VS Minecraft.mp3
+2021-02-06 17:04:30,181 - Download for https://youtu.be/b1JDcBhm9w8 complete.
+
+2021-02-06 17:04:30,183 - Current: https://youtu.be/WTJSo0QNsiM  
+2021-02-06 17:04:30,184 - youtube link
+2021-02-06 17:04:30,185 - Scraping for id: WTJSo0QNsiM
+2021-02-06 17:04:30,833 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\(Epic Orchestral) The Hour of Twilight
+2021-02-06 17:04:30,833 - Creating download information json.
+2021-02-06 17:04:30,835 - Writing text file.
+2021-02-06 17:04:30,835 - Downloading: Thumbnail.png
+2021-02-06 17:04:31,460 - Downloading: audio_(Epic Orchestral) The Hour of Twilight.webm
+2021-02-06 17:05:20,812 - Writing text file.
+2021-02-06 17:05:20,813 - Downloading: video_(Epic Orchestral) The Hour of Twilight.mp4
+2021-02-06 17:07:54,491 - Merging audio and video files.
+2021-02-06 17:07:58,132 - Adding thumbnail to video file.
+2021-02-06 17:07:58,333 - Coverting audio file to mp3.
+2021-02-06 17:08:03,176 - Applying mp3 metadata to (Epic Orchestral) The Hour of Twilight.mp3
+2021-02-06 17:08:04,498 - Download for https://youtu.be/WTJSo0QNsiM complete.
+
+2021-02-06 17:08:04,500 - Current: https://www.youtube.com/watch?v=8mYd2X_9rrs 
+2021-02-06 17:08:04,501 - youtube link
+2021-02-06 17:08:04,503 - Scraping for id: 8mYd2X_9rrs
+2021-02-06 17:08:05,108 - Video (https://youtu.be/8mYd2X_9rrs|Pendulum - Crush (Official Video)) undownloadable (copyrighted music ftw)
+2021-02-06 17:08:05,109 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Pendulum - Crush (Official Video)
+2021-02-06 17:08:05,109 - Creating download information json.
+2021-02-06 17:08:05,109 - Writing text file.
+2021-02-06 17:08:05,109 - Downloading: Thumbnail.png
+2021-02-06 17:08:05,449 - Download for https://www.youtube.com/watch?v=8mYd2X_9rrs complete.
+
+2021-02-06 17:08:05,453 - Current: https://youtu.be/gupwFSoZ4GQ  
+2021-02-06 17:08:05,454 - youtube link
+2021-02-06 17:08:05,456 - Scraping for id: gupwFSoZ4GQ
+2021-02-06 17:08:05,997 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:08:05,999 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Arecibo Observatory, The Last Dawn 32X speed
+2021-02-06 17:08:05,999 - Creating download information json.
+2021-02-06 17:08:06,000 - Writing text file.
+2021-02-06 17:08:06,000 - Downloading: Thumbnail.png
+2021-02-06 17:08:06,616 - Downloading: audio_Arecibo Observatory, The Last Dawn 32X speed.m4a
+2021-02-06 17:08:57,731 - Writing text file.
+2021-02-06 17:08:57,731 - Downloading: video_Arecibo Observatory, The Last Dawn 32X speed.mp4
+2021-02-06 17:11:34,452 - Merging audio and video files.
+2021-02-06 17:11:37,368 - Adding thumbnail to video file.
+2021-02-06 17:11:37,645 - Coverting audio file to mp3.
+2021-02-06 17:11:40,216 - Applying mp3 metadata to Arecibo Observatory, The Last Dawn 32X speed.mp3
+2021-02-06 17:11:40,285 - Download for https://youtu.be/gupwFSoZ4GQ complete.
+
+2021-02-06 17:11:40,289 - Current: https://youtu.be/8B4guKLlbVU  
+2021-02-06 17:11:40,290 - youtube link
+2021-02-06 17:11:40,292 - Scraping for id: 8B4guKLlbVU
+2021-02-06 17:11:40,943 - Video (https://youtu.be/8B4guKLlbVU|SUPER EUROBEAT MIX) undownloadable (copyrighted music ftw)
+2021-02-06 17:11:40,944 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\SUPER EUROBEAT MIX
+2021-02-06 17:11:40,944 - Creating download information json.
+2021-02-06 17:11:40,945 - Writing text file.
+2021-02-06 17:11:40,945 - Downloading: Thumbnail.png
+2021-02-06 17:11:41,035 - Download for https://youtu.be/8B4guKLlbVU complete.
+
+2021-02-06 17:11:41,039 - Current: https://www.youtube.com/watch?v=v45BN085i_M  
+2021-02-06 17:11:41,040 - youtube link
+2021-02-06 17:11:41,042 - Scraping for id: v45BN085i_M
+2021-02-06 17:11:41,508 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:11:41,510 - Video (https://youtu.be/v45BN085i_M|My Sweet Peace - WoodLore) undownloadable (copyrighted music ftw)
+2021-02-06 17:11:41,512 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\My Sweet Peace - WoodLore
+2021-02-06 17:11:41,512 - Creating download information json.
+2021-02-06 17:11:41,513 - Writing text file.
+2021-02-06 17:11:41,513 - Downloading: Thumbnail.png
+2021-02-06 17:11:42,075 - Download for https://www.youtube.com/watch?v=v45BN085i_M complete.
+
+2021-02-06 17:11:42,080 - Current: https://youtu.be/K1yENVSHUvw  
+2021-02-06 17:11:42,082 - youtube link
+2021-02-06 17:11:42,084 - Scraping for id: K1yENVSHUvw
+2021-02-06 17:11:42,674 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:11:42,676 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\ARIZONANOISES.MOV
+2021-02-06 17:11:42,676 - Creating download information json.
+2021-02-06 17:11:42,677 - Writing text file.
+2021-02-06 17:11:42,677 - Downloading: Thumbnail.png
+2021-02-06 17:11:43,034 - Downloading: audio_ARIZONANOISES.MOV.m4a
+2021-02-06 17:12:11,716 - Writing text file.
+2021-02-06 17:12:11,717 - Downloading: video_ARIZONANOISES.MOV.mp4
+2021-02-06 17:12:54,325 - Merging audio and video files.
+2021-02-06 17:12:55,926 - Adding thumbnail to video file.
+2021-02-06 17:12:56,103 - Coverting audio file to mp3.
+2021-02-06 17:12:57,277 - Applying mp3 metadata to ARIZONANOISES.MOV.mp3
+2021-02-06 17:12:58,008 - Download for https://youtu.be/K1yENVSHUvw complete.
+
+2021-02-06 17:12:58,014 - Current: https://youtu.be/DyF_IIixDM8 
+2021-02-06 17:12:58,014 - youtube link
+2021-02-06 17:12:58,017 - Scraping for id: DyF_IIixDM8
+2021-02-06 17:12:58,516 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:12:58,517 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\VELVETNOISES.MOV
+2021-02-06 17:12:58,518 - Creating download information json.
+2021-02-06 17:12:58,518 - Writing text file.
+2021-02-06 17:12:58,518 - Downloading: Thumbnail.png
+2021-02-06 17:12:59,282 - Downloading: audio_VELVETNOISES.MOV.m4a
+2021-02-06 17:13:30,128 - Writing text file.
+2021-02-06 17:13:30,128 - Downloading: video_VELVETNOISES.MOV.mp4
+2021-02-06 17:14:13,707 - Merging audio and video files.
+2021-02-06 17:14:15,677 - Adding thumbnail to video file.
+2021-02-06 17:14:15,856 - Coverting audio file to mp3.
+2021-02-06 17:14:17,224 - Applying mp3 metadata to VELVETNOISES.MOV.mp3
+2021-02-06 17:14:17,300 - Download for https://youtu.be/DyF_IIixDM8 complete.
+
+2021-02-06 17:14:17,304 - Current: https://youtu.be/lBdnti4_UUg  
+2021-02-06 17:14:17,305 - youtube link
+2021-02-06 17:14:17,306 - Scraping for id: lBdnti4_UUg
+2021-02-06 17:14:17,856 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:14:17,858 - Video (https://youtu.be/lBdnti4_UUg|Berserk - My Brother (Extended) (Definitive Version)) undownloadable (copyrighted music ftw)
+2021-02-06 17:14:17,861 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Berserk - My Brother (Extended) (Definitive Version)
+2021-02-06 17:14:17,861 - Creating download information json.
+2021-02-06 17:14:17,862 - Writing text file.
+2021-02-06 17:14:17,862 - Downloading: Thumbnail.png
+2021-02-06 17:14:17,939 - Download for https://youtu.be/lBdnti4_UUg complete.
+
+2021-02-06 17:14:17,943 - Current: https://www.youtube.com/watch?v=nzi7C2e2bTE 
+2021-02-06 17:14:17,944 - youtube link
+2021-02-06 17:14:17,947 - Scraping for id: nzi7C2e2bTE
+2021-02-06 17:14:18,483 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\MLP FiM Princess Trixie Sparkle 2 - Episode 1 - Deceit
+2021-02-06 17:14:18,483 - Creating download information json.
+2021-02-06 17:14:18,484 - Writing text file.
+2021-02-06 17:14:18,484 - Downloading: Thumbnail.png
+2021-02-06 17:14:18,567 - Downloading: audio_MLP FiM Princess Trixie Sparkle 2 - Episode 1 - Deceit.webm
+2021-02-06 17:17:21,588 - Writing text file.
+2021-02-06 17:17:21,589 - Downloading: video_MLP FiM Princess Trixie Sparkle 2 - Episode 1 - Deceit.mp4
+2021-02-06 17:55:39,722 - ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\response.py", line 437, in _error_catcher
+    yield
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\response.py", line 519, in read
+    data = self._fp.read(amt) if not fp_closed else b""
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 454, in read
+    n = self.readinto(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 498, in readinto
+    n = self.fp.readinto(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\models.py", line 751, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\response.py", line 576, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\response.py", line 541, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\contextlib.py", line 131, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\urllib3\response.py", line 455, in _error_catcher
+    raise ProtocolError("Connection broken: %r" % e, e)
+urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 194, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 157, in download
+    file_download_handler(download_object, Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 119, in file_download_handler
+    for data in r.iter_content(block_size):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\models.py", line 754, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2021-02-06 17:55:39,748 - Current: https://www.youtube.com/watch?v=yIy9vjg-hjc 
+2021-02-06 17:55:39,751 - youtube link
+2021-02-06 17:55:39,753 - Scraping for id: yIy9vjg-hjc
+2021-02-06 17:55:40,303 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip
+2021-02-06 17:55:40,303 - Creating download information json.
+2021-02-06 17:55:40,304 - Writing text file.
+2021-02-06 17:55:40,304 - Downloading: Thumbnail.png
+2021-02-06 17:55:40,394 - Downloading: audio_Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip.webm
+2021-02-06 17:56:01,749 - Writing text file.
+2021-02-06 17:56:01,749 - Downloading: video_Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip.mp4
+2021-02-06 17:57:25,632 - Merging audio and video files.
+2021-02-06 17:57:27,952 - Adding thumbnail to video file.
+2021-02-06 17:57:28,176 - Coverting audio file to mp3.
+2021-02-06 17:57:30,989 - Applying mp3 metadata to Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip.mp3
+2021-02-06 17:57:31,070 - Download for https://www.youtube.com/watch?v=yIy9vjg-hjc complete.
+
+2021-02-06 17:57:31,074 - Current: https://www.youtube.com/watch?v=34CZjsEI1yU  
+2021-02-06 17:57:31,075 - youtube link
+2021-02-06 17:57:31,077 - Scraping for id: 34CZjsEI1yU
+2021-02-06 17:57:31,706 - Video (https://youtu.be/34CZjsEI1yU|WIND ROSE - Diggy Diggy Hole (Official Video)   Napalm Records) undownloadable (copyrighted music ftw)
+2021-02-06 17:57:31,708 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\WIND ROSE - Diggy Diggy Hole (Official Video)   Napalm Records
+2021-02-06 17:57:31,708 - Creating download information json.
+2021-02-06 17:57:31,709 - Writing text file.
+2021-02-06 17:57:31,709 - Downloading: Thumbnail.png
+2021-02-06 17:57:31,781 - Download for https://www.youtube.com/watch?v=34CZjsEI1yU complete.
+
+2021-02-06 17:57:31,784 - Current: https://youtu.be/jiHKGmb7_jA 
+2021-02-06 17:57:31,785 - youtube link
+2021-02-06 17:57:31,787 - Scraping for id: jiHKGmb7_jA
+2021-02-06 17:57:32,236 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:57:32,239 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version)
+2021-02-06 17:57:32,239 - Creating download information json.
+2021-02-06 17:57:32,240 - Writing text file.
+2021-02-06 17:57:32,240 - Downloading: Thumbnail.png
+2021-02-06 17:57:32,280 - Downloading: audio_Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version).webm
+2021-02-06 17:58:00,460 - Writing text file.
+2021-02-06 17:58:00,460 - Downloading: video_Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version).mp4
+2021-02-06 17:58:07,630 - Merging audio and video files.
+2021-02-06 17:58:10,199 - Adding thumbnail to video file.
+2021-02-06 17:58:10,367 - Coverting audio file to mp3.
+2021-02-06 17:58:13,693 - Applying mp3 metadata to Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version).mp3
+2021-02-06 17:58:13,744 - Download for https://youtu.be/jiHKGmb7_jA complete.
+
+2021-02-06 17:58:13,749 - Current: https://youtu.be/a8G701_ahH8  
+2021-02-06 17:58:13,750 - youtube link
+2021-02-06 17:58:13,752 - Scraping for id: a8G701_ahH8
+2021-02-06 17:58:14,224 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 17:58:14,226 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Best of the MLP Voice Actor Panels (Part 1)
+2021-02-06 17:58:14,226 - Creating download information json.
+2021-02-06 17:58:14,227 - Writing text file.
+2021-02-06 17:58:14,227 - Downloading: Thumbnail.png
+2021-02-06 17:58:14,927 - Downloading: audio_Best of the MLP Voice Actor Panels (Part 1).m4a
+2021-02-06 17:59:53,484 - Writing text file.
+2021-02-06 17:59:53,484 - Downloading: video_Best of the MLP Voice Actor Panels (Part 1).mp4
+2021-02-06 18:04:50,203 - Merging audio and video files.
+2021-02-06 18:04:57,765 - Adding thumbnail to video file.
+2021-02-06 18:04:58,123 - Coverting audio file to mp3.
+2021-02-06 18:05:04,521 - Applying mp3 metadata to Best of the MLP Voice Actor Panels (Part 1).mp3
+2021-02-06 18:05:04,590 - Download for https://youtu.be/a8G701_ahH8 complete.
+
+2021-02-06 18:05:04,595 - Current: https://youtu.be/R3EvjMApOg8  
+2021-02-06 18:05:04,596 - youtube link
+2021-02-06 18:05:04,597 - Scraping for id: R3EvjMApOg8
+2021-02-06 18:05:05,339 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 18:05:05,341 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\kors k - smooooch2014
+2021-02-06 18:05:05,342 - Creating download information json.
+2021-02-06 18:05:05,343 - Writing text file.
+2021-02-06 18:05:05,343 - Downloading: Thumbnail.png
+2021-02-06 18:05:05,424 - Downloading: audio_kors k - smooooch2014.webm
+2021-02-06 18:05:47,586 - Writing text file.
+2021-02-06 18:05:47,587 - Downloading: video_kors k - smooooch2014.mp4
+2021-02-06 18:06:37,753 - Merging audio and video files.
+2021-02-06 18:06:40,892 - Adding thumbnail to video file.
+2021-02-06 18:06:41,082 - Coverting audio file to mp3.
+2021-02-06 18:06:44,706 - Applying mp3 metadata to kors k - smooooch2014.mp3
+2021-02-06 18:06:45,377 - Download for https://youtu.be/R3EvjMApOg8 complete.
+
+2021-02-06 18:06:45,381 - Current: https://youtu.be/DH2ZW1vgTe8  
+2021-02-06 18:06:45,382 - youtube link
+2021-02-06 18:06:45,384 - Scraping for id: DH2ZW1vgTe8
+2021-02-06 18:06:46,017 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\The Path to Harmony 2020 - Happy 10th Birthday to MLPFiM!
+2021-02-06 18:06:46,017 - Creating download information json.
+2021-02-06 18:06:46,018 - Writing text file.
+2021-02-06 18:06:46,018 - Downloading: Thumbnail.png
+2021-02-06 18:06:46,109 - Downloading: audio_The Path to Harmony 2020 - Happy 10th Birthday to MLPFiM!.webm
+2021-02-06 18:07:28,310 - Writing text file.
+2021-02-06 18:07:28,310 - Downloading: video_The Path to Harmony 2020 - Happy 10th Birthday to MLPFiM!.mp4
+2021-02-06 18:10:07,488 - Merging audio and video files.
+2021-02-06 18:10:11,483 - Adding thumbnail to video file.
+2021-02-06 18:10:11,810 - Coverting audio file to mp3.
+2021-02-06 18:10:16,821 - Applying mp3 metadata to The Path to Harmony 2020 - Happy 10th Birthday to MLPFiM!.mp3
+2021-02-06 18:10:16,879 - Download for https://youtu.be/DH2ZW1vgTe8 complete.
+
+2021-02-06 18:10:16,883 - Current: https://www.youtube.com/watch?v=3UnK5rw_6hM 
+2021-02-06 18:10:16,884 - youtube link
+2021-02-06 18:10:16,886 - Scraping for id: 3UnK5rw_6hM
+2021-02-06 18:10:17,448 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 18:10:17,450 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Ryu ga Gotoku Zero - OST [Side B] - 35 - Friday Night [EXTENDED]
+2021-02-06 18:10:17,450 - Creating download information json.
+2021-02-06 18:10:17,451 - Writing text file.
+2021-02-06 18:10:17,451 - Downloading: Thumbnail.png
+2021-02-06 18:10:17,537 - Downloading: audio_Ryu ga Gotoku Zero - OST [Side B] - 35 - Friday Night [EXTENDED].m4a
+2021-02-06 18:11:27,928 - Writing text file.
+2021-02-06 18:11:27,928 - Downloading: video_Ryu ga Gotoku Zero - OST [Side B] - 35 - Friday Night [EXTENDED].mp4
+2021-02-06 18:12:17,272 - Merging audio and video files.
+2021-02-06 18:12:23,512 - Adding thumbnail to video file.
+2021-02-06 18:12:23,717 - Coverting audio file to mp3.
+2021-02-06 18:12:30,900 - Applying mp3 metadata to Ryu ga Gotoku Zero - OST [Side B] - 35 - Friday Night [EXTENDED].mp3
+2021-02-06 18:12:30,992 - Download for https://www.youtube.com/watch?v=3UnK5rw_6hM complete.
+
+2021-02-06 18:12:30,993 - Current: https://youtu.be/8b2xPnqkso4 
+2021-02-06 18:12:30,994 - youtube link
+2021-02-06 18:12:30,994 - Scraping for id: 8b2xPnqkso4
+2021-02-06 18:12:31,658 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 18:12:31,659 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Study Concludes All Singaporeans Love Their Country Vehemently
+2021-02-06 18:12:31,659 - Creating download information json.
+2021-02-06 18:12:31,660 - Writing text file.
+2021-02-06 18:12:31,660 - Downloading: Thumbnail.png
+2021-02-06 18:12:31,730 - Downloading: audio_Study Concludes All Singaporeans Love Their Country Vehemently.m4a
+2021-02-06 18:12:52,849 - Writing text file.
+2021-02-06 18:12:52,849 - Downloading: video_Study Concludes All Singaporeans Love Their Country Vehemently.mp4
+2021-02-06 18:13:48,745 - Merging audio and video files.
+2021-02-06 18:13:50,208 - Adding thumbnail to video file.
+2021-02-06 18:13:50,374 - Coverting audio file to mp3.
+2021-02-06 18:13:52,178 - Applying mp3 metadata to Study Concludes All Singaporeans Love Their Country Vehemently.mp3
+2021-02-06 18:13:52,248 - Download for https://youtu.be/8b2xPnqkso4 complete.
+
+2021-02-06 18:13:52,249 - Current: https://youtu.be/sIRodWfO-fk 
+2021-02-06 18:13:52,250 - youtube link
+2021-02-06 18:13:52,250 - Scraping for id: sIRodWfO-fk
+2021-02-06 18:13:52,977 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 187, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 191, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 175, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 193, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-02-06 18:13:52,988 - Current: https://youtu.be/srZdDAJbHfc 
+2021-02-06 18:13:52,988 - youtube link
+2021-02-06 18:13:52,989 - Scraping for id: srZdDAJbHfc
+2021-02-06 18:13:53,517 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 18:13:53,518 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\UNDERTALE 5th Anniversary Concert
+2021-02-06 18:13:53,518 - Creating download information json.
+2021-02-06 18:13:53,519 - Writing text file.
+2021-02-06 18:13:53,519 - Downloading: Thumbnail.png
+2021-02-06 18:13:53,572 - Downloading: audio_UNDERTALE 5th Anniversary Concert.webm
+2021-02-06 18:24:41,257 - Writing text file.
+2021-02-06 18:24:41,257 - Downloading: video_UNDERTALE 5th Anniversary Concert.mp4
+2021-02-06 20:00:26,711 - Merging audio and video files.
+2021-02-06 20:02:37,222 - Adding thumbnail to video file.
+2021-02-06 20:02:45,514 - Coverting audio file to mp3.
+2021-02-06 20:05:30,130 - Applying mp3 metadata to UNDERTALE 5th Anniversary Concert.mp3
+2021-02-06 20:05:30,242 - Download for https://youtu.be/srZdDAJbHfc complete.
+
+2021-02-06 20:05:30,243 - Current: https://youtu.be/L7lCZJvBYHs 
+2021-02-06 20:05:30,244 - youtube link
+2021-02-06 20:05:30,244 - Scraping for id: L7lCZJvBYHs
+2021-02-06 20:05:30,674 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 20:05:30,676 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Loading a Royal Navy battleship 15 inch gun
+2021-02-06 20:05:30,676 - Creating download information json.
+2021-02-06 20:05:30,677 - Writing text file.
+2021-02-06 20:05:30,677 - Downloading: Thumbnail.png
+2021-02-06 20:05:30,714 - Downloading: audio_Loading a Royal Navy battleship 15 inch gun.m4a
+2021-02-06 20:05:44,803 - Writing text file.
+2021-02-06 20:05:44,804 - Downloading: video_Loading a Royal Navy battleship 15 inch gun.mp4
+2021-02-06 20:06:14,131 - Merging audio and video files.
+2021-02-06 20:06:14,461 - Adding thumbnail to video file.
+2021-02-06 20:06:14,589 - Coverting audio file to mp3.
+2021-02-06 20:06:14,899 - Applying mp3 metadata to Loading a Royal Navy battleship 15 inch gun.mp3
+2021-02-06 20:06:14,935 - Download for https://youtu.be/L7lCZJvBYHs complete.
+
+2021-02-06 20:06:14,937 - Current: https://youtu.be/_wICIwMNCjg 
+2021-02-06 20:06:14,937 - youtube link
+2021-02-06 20:06:14,938 - Scraping for id: _wICIwMNCjg
+2021-02-06 20:06:15,472 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\I have been forever changed by VRChat ft. EileMonty
+2021-02-06 20:06:15,473 - Creating download information json.
+2021-02-06 20:06:15,474 - Writing text file.
+2021-02-06 20:06:15,474 - Downloading: Thumbnail.png
+2021-02-06 20:06:16,031 - Downloading: audio_I have been forever changed by VRChat ft. EileMonty.webm
+2021-02-06 20:07:47,698 - Writing text file.
+2021-02-06 20:07:47,698 - Downloading: video_I have been forever changed by VRChat ft. EileMonty.mp4
+2021-02-06 20:13:56,161 - Merging audio and video files.
+2021-02-06 20:14:05,688 - Adding thumbnail to video file.
+2021-02-06 20:14:06,241 - Coverting audio file to mp3.
+2021-02-06 20:14:17,247 - Applying mp3 metadata to I have been forever changed by VRChat ft. EileMonty.mp3
+2021-02-06 20:14:17,695 - Download for https://youtu.be/_wICIwMNCjg complete.
+
+2021-02-06 20:14:17,697 - Current: https://youtu.be/_f_BnneFanM 
+2021-02-06 20:14:17,697 - youtube link
+2021-02-06 20:14:17,698 - Scraping for id: _f_BnneFanM
+2021-02-06 20:14:18,192 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\DOOM Eternal - The Best Epic Tracks (Personal Mix)
+2021-02-06 20:14:18,192 - Creating download information json.
+2021-02-06 20:14:18,193 - Writing text file.
+2021-02-06 20:14:18,193 - Downloading: Thumbnail.png
+2021-02-06 20:14:18,263 - Downloading: audio_DOOM Eternal - The Best Epic Tracks (Personal Mix).m4a
+2021-02-06 20:16:10,755 - Writing text file.
+2021-02-06 20:16:10,755 - Downloading: video_DOOM Eternal - The Best Epic Tracks (Personal Mix).mp4
+2021-02-06 20:18:38,565 - Merging audio and video files.
+2021-02-06 20:18:49,850 - Adding thumbnail to video file.
+2021-02-06 20:18:50,176 - Coverting audio file to mp3.
+2021-02-06 20:19:03,830 - Applying mp3 metadata to DOOM Eternal - The Best Epic Tracks (Personal Mix).mp3
+2021-02-06 20:19:03,963 - Download for https://youtu.be/_f_BnneFanM complete.
+
+2021-02-06 20:19:03,966 - Current: https://youtu.be/QHRuTYtSbJQ 
+2021-02-06 20:19:03,966 - youtube link
+2021-02-06 20:19:03,967 - Scraping for id: QHRuTYtSbJQ
+2021-02-06 20:19:04,491 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 20:19:04,493 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Mick Gordon - 11. BFG Division
+2021-02-06 20:19:04,493 - Creating download information json.
+2021-02-06 20:19:04,494 - Writing text file.
+2021-02-06 20:19:04,494 - Downloading: Thumbnail.png
+2021-02-06 20:19:04,640 - Downloading: audio_Mick Gordon - 11. BFG Division.webm
+2021-02-06 20:19:47,150 - Writing text file.
+2021-02-06 20:19:47,150 - Downloading: video_Mick Gordon - 11. BFG Division.mp4
+2021-02-06 20:23:44,399 - Merging audio and video files.
+2021-02-06 20:23:50,419 - Adding thumbnail to video file.
+2021-02-06 20:23:50,712 - Coverting audio file to mp3.
+2021-02-06 20:23:58,412 - Applying mp3 metadata to Mick Gordon - 11. BFG Division.mp3
+2021-02-06 20:23:58,483 - Download for https://youtu.be/QHRuTYtSbJQ complete.
+
+2021-02-06 20:23:58,484 - Current: https://youtu.be/m0WTPClqiO4 
+2021-02-06 20:23:58,485 - youtube link
+2021-02-06 20:23:58,486 - Scraping for id: m0WTPClqiO4
+2021-02-06 20:23:59,051 - Video (https://youtu.be/m0WTPClqiO4|VRChat is a strange fever dream ft. EileMonty) undownloadable (copyrighted music ftw)
+2021-02-06 20:23:59,052 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\VRChat is a strange fever dream ft. EileMonty
+2021-02-06 20:23:59,052 - Creating download information json.
+2021-02-06 20:23:59,053 - Writing text file.
+2021-02-06 20:23:59,053 - Downloading: Thumbnail.png
+2021-02-06 20:23:59,105 - Download for https://youtu.be/m0WTPClqiO4 complete.
+
+2021-02-06 20:23:59,107 - Current: https://youtu.be/OMJiYAM9dO0 
+2021-02-06 20:23:59,107 - youtube link
+2021-02-06 20:23:59,108 - Scraping for id: OMJiYAM9dO0
+2021-02-06 20:23:59,737 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-06 20:23:59,738 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\[Confetto] LOP STEP RABBITS! #03 - 
+2021-02-06 20:23:59,738 - Creating download information json.
+2021-02-06 20:23:59,739 - [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\[Confetto] LOP STEP RABBITS! #03 - \\Info.txt'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 194, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 157, in download
+    file_download_handler(download_object, Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 97, in file_download_handler
+    utils.file_write(output_path,url)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 11, in file_write
+    with open(path,'w', encoding = 'utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\[Confetto] LOP STEP RABBITS! #03 - \\Info.txt'
+2021-02-07 08:47:27,448 - Command: --help

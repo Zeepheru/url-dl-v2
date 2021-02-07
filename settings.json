@@ -3,7 +3,7 @@
         "download": true,
         "print download info": false,
         "export download info": true,
-        "autocommand": "dl -youtube https://youtu.be/mNn34ErU6kM https://youtu.be/xYbEj-qmajY https://www.youtube.com/watch?v=x8StHenh9S0&feature=youtu.be https://www.youtube.com/watch?v=78MH6lLj860 https://www.youtube.com/watch?v=Hd0-cGkClMQ https://www.youtube.com/watch?v=DueMN4SC4tU https://www.youtube.com/watch?v=KUTmmFY6TUA",
+        "autocommand": "",
         "descriptions only": false
     },
     "directories": {
@@ -24,5 +24,5 @@
         "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json"
     },
     "get best stream": true,
-    "max download": 1
+    "max download": 29
 }

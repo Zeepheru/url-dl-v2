@@ -1,0 +1,24 @@
+2021-02-07 09:11:55,308 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-07 09:11:55,308 - Autocommand from settings: 
+2021-02-07 09:11:55,309 - Command: 
+2021-02-07 09:12:02,816 - Command: dl -youtube https://youtu.be/m0WTPClqiO4
+2021-02-07 09:12:02,817 - youtube link
+2021-02-07 09:12:02,821 - expected an indented block (youtube.py, line 60)
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 238, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 119, in parse_input
+    from extractors.youtube import youtube_extractor
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 60
+    if d['status'] == 'finished':
+    ^
+IndentationError: expected an indented block
+2021-02-07 09:12:02,822 - 
+Log Ended.
+Total time: NOT IMPLEMENTED YET
+
