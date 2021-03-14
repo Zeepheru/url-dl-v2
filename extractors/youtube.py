@@ -444,6 +444,8 @@ Streams downloaded: {}, {}
             "thumbnail": None,
             "merge audio": None
         })
+
+        video_stream["url"], audio_stream["url"] ="","" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
         #audio file
         if audio_stream["url"].startswith("http") == True:
             audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
@@ -459,6 +461,7 @@ Streams downloaded: {}, {}
         else:
             dl_logger.log_info("! Video ({}|{}) undownloadable - cipher needed.".format(video_info["url"],video_info["title"])) #log some form of error
             
+        
         #Video File
         if video_stream["url"].startswith("http") == True:
             video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
