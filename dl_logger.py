@@ -8,8 +8,26 @@ def print_time():
     timenow = time.strftime("%Y %m %d %H.%M.%S")
     return timenow
 
+def print_duration(start_time):
+    duration_s = time.time()-start_time
+    if duration_s >=60:
+        duration_m = int(duration_s/60)
+        duration_s = duration_s % 60
+        
+        if duration_m >=60:
+            duration_h = int(duration_m/60)
+            duration_m = duration_m % 60
+        else:
+            duration_h = 0
+    else:
+        duration_m,duration_h = 0,0
+    duration_s = "{:.2f}".format(duration_s)
+
+    return ("{} hrs {} min {} sec".format(duration_h,duration_m,duration_s))
+
 def init_logger(log_folder_path, *custom_start):
-    global logpath, logger, log_stream, logger_console
+    global logpath, logger, log_stream, logger_console, start_time
+    start_time = time.time()
     logpath = os.path.join(log_folder_path,"Logs","log_"+print_time()+".txt")
 
     loglist = os.listdir(os.path.join(log_folder_path,"Logs")) #Old log removal
@@ -58,8 +76,8 @@ Move log to Impt Logs if required as only the 10 most recent logs are kept.
 def end_logger():
     logger.info("""
 Log Ended.
-Total time: NOT IMPLEMENTED YET
-""".format())
+Total time: {}
+""".format(print_duration(start_time)))
 
 def log_exception(e):
     #e = 'asdsads'+e +'asdsadsadsads'
@@ -67,11 +85,11 @@ def log_exception(e):
     print(log_stream.getvalue())
 
 def log_info(e):
-    logger.info(e)
-    print(e)
+    logger.info(string_escape_latin(e))
+    print(string_escape_latin(e))
 
 def log_to_file(e):
-    logger.info(e)
+    logger.info(string_escape_latin(e))
 
 """
 HOWTO for this complicated thing

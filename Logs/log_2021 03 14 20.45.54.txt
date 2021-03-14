@@ -1,0 +1,24 @@
+2021-03-14 20:45:54,231 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-14 20:45:58,676 - Command: dl -youtube string_escape_latin(e)
+2021-03-14 20:45:58,677 - string_escape_latin(e) Is not a link.
+2021-03-14 20:46:09,985 - Command: dl -youtube https://www.youtube.com/c/ZUTOMAYO
+2021-03-14 20:46:09,986 - youtube link
+2021-03-14 20:46:09,988 - closing parenthesis ')' does not match opening parenthesis '{' on line 424 (youtube.py, line 426)
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\main.py", line 239, in <module>
+    parse_input()
+  File "c:\Utilities\Scripts\url-dl-v2\main.py", line 120, in parse_input
+    from extractors.youtube import youtube_extractor
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 426
+    "path":(os.path.join(root_download_dir,video_info["title"])+" - Info.txt")),
+                                                                              ^
+SyntaxError: closing parenthesis ')' does not match opening parenthesis '{' on line 424
+2021-03-14 20:46:09,991 - 
+Log Ended.
+Total time: 0 hrs 0 min 15.76 sec
+

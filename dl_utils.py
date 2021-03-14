@@ -75,7 +75,16 @@ def source_code_c(link):
 
 
 def string_escape(s):
-    return (s.encode('latin1',"ignore")         # To bytes, required by 'unicode-escape'
+    return (s.encode("utf-8","ignore")       # To bytes, required by 'unicode-escape' ###Note: Changed to utf8 for non latin character support, in a sense
+                .decode('unicode-escape') # Perform the actual octal-escaping decode
+                .encode('latin1',"ignore")         # 1:1 mapping back to bytes
+                .decode("utf-8",'ignore'))
+
+
+    #original is latin1
+
+def string_escape_latin(s):
+    return (s.encode("latin1","ignore")       # To bytes, required by 'unicode-escape' 
                 .decode('unicode-escape') # Perform the actual octal-escaping decode
                 .encode('latin1',"ignore")         # 1:1 mapping back to bytes
                 .decode("utf-8",'ignore'))
@@ -109,3 +118,10 @@ img_regex = re.compile(r'(?<=.)jpg|(?<=.)gif|(?<=.)png|(?<=.)psd|(?<=.)tif')
 audio_regex = re.compile(r'(?<=.)mp3|(?<=.)m4a|(?<=.)flac|(?<=.)ogg|(?<=.)wav')
 
 parent_dir_regex = re.compile(r'.*(?=\\)')
+
+
+if __name__ == "__main__":
+    a = ["ずっと真夜中でいいのに。『胸の煙』lool","руппа кровиasdss"]
+    for i in a:
+        print(i.encode())
+        print(string_escape(i))

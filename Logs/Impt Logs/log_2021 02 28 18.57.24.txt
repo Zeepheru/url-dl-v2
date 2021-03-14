@@ -1,0 +1,182 @@
+2021-02-28 18:57:24,919 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 18:57:26,353 - Command: run
+2021-02-28 18:57:26,354 - Current: https://youtu.be/2ywOPrA1aGI 
+2021-02-28 18:57:26,354 - youtube link
+2021-02-28 18:57:26,818 - Scraping for id: 2ywOPrA1aGI
+2021-02-28 18:57:27,207 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 18:57:27,208 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Katyusha rock version
+2021-02-28 18:57:27,208 - Creating download information json.
+2021-02-28 18:57:27,209 - Writing text file.
+2021-02-28 18:57:27,209 - Downloading: Katyusha rock version - Thumbnail.png
+2021-02-28 18:57:27,458 - Downloading: audio_Katyusha rock version.m4a
+2021-02-28 18:58:04,651 - Writing text file.
+2021-02-28 18:58:04,651 - Downloading: video_Katyusha rock version.mp4
+2021-02-28 18:59:07,921 - Merging audio and video files.
+2021-02-28 18:59:09,774 - Adding thumbnail to video file.
+2021-02-28 18:59:09,904 - Coverting audio file to mp3.
+2021-02-28 18:59:11,831 - Applying mp3 metadata to Katyusha rock version.mp3
+2021-02-28 18:59:11,888 - Download for https://youtu.be/2ywOPrA1aGI complete.
+
+2021-02-28 18:59:11,889 - Current: https://youtu.be/fgIz5N11TZ8 
+2021-02-28 18:59:11,890 - youtube link
+2021-02-28 18:59:11,890 - Scraping for id: fgIz5N11TZ8
+2021-02-28 18:59:12,335 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 18:59:12,336 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\U.S. 'Super Prop' Fighters P-51H, XP-72, and more
+2021-02-28 18:59:12,336 - Creating download information json.
+2021-02-28 18:59:12,337 - Writing text file.
+2021-02-28 18:59:12,337 - Downloading: U.S. 'Super Prop' Fighters P-51H, XP-72, and more - Thumbnail.png
+2021-02-28 18:59:12,368 - Downloading: audio_U.S. 'Super Prop' Fighters P-51H, XP-72, and more.webm
+2021-02-28 19:01:04,911 - Writing text file.
+2021-02-28 19:01:04,911 - Downloading: video_U.S. 'Super Prop' Fighters P-51H, XP-72, and more.mp4
+2021-02-28 19:02:29,302 - Merging audio and video files.
+2021-02-28 19:02:44,857 - Adding thumbnail to video file.
+2021-02-28 19:02:45,088 - Coverting audio file to mp3.
+2021-02-28 19:03:05,721 - Applying mp3 metadata to U.S. 'Super Prop' Fighters P-51H, XP-72, and more.mp3
+2021-02-28 19:03:05,761 - Download for https://youtu.be/fgIz5N11TZ8 complete.
+
+2021-02-28 19:03:05,763 - Current: https://youtu.be/Pp6zwwM-lN4 
+2021-02-28 19:03:05,763 - youtube link
+2021-02-28 19:03:05,764 - Scraping for id: Pp6zwwM-lN4
+2021-02-28 19:03:06,289 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:03:06,289 - ! Video (https://youtu.be/Pp6zwwM-lN4|Story Untold - Drown In My Mind (Official Music Video)) undownloadable - cipher needed.
+2021-02-28 19:03:06,290 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:03:07,525 - Done downloading audio.
+2021-02-28 19:03:11,220 - Done downloading audio.
+2021-02-28 19:03:11,221 - Creating download information json.
+2021-02-28 19:03:11,222 - Writing text file.
+2021-02-28 19:03:11,222 - Downloading: Story Untold - Drown In My Mind (Official Music Video) - Thumbnail.png
+2021-02-28 19:03:11,673 - Download for https://youtu.be/Pp6zwwM-lN4 complete.
+
+2021-02-28 19:03:11,674 - Current: https://youtu.be/A_qbWflVtG4 
+2021-02-28 19:03:11,674 - youtube link
+2021-02-28 19:03:11,675 - Scraping for id: A_qbWflVtG4
+2021-02-28 19:03:12,271 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\John Kenza & 4Everfreebrony - Warm
+2021-02-28 19:03:12,272 - Creating download information json.
+2021-02-28 19:03:12,272 - Writing text file.
+2021-02-28 19:03:12,273 - Downloading: John Kenza & 4Everfreebrony - Warm - Thumbnail.png
+2021-02-28 19:03:12,588 - Downloading: audio_John Kenza & 4Everfreebrony - Warm.webm
+2021-02-28 19:03:54,964 - Writing text file.
+2021-02-28 19:03:54,964 - Downloading: video_John Kenza & 4Everfreebrony - Warm.mp4
+2021-02-28 19:05:46,851 - Merging audio and video files.
+2021-02-28 19:05:49,525 - Adding thumbnail to video file.
+2021-02-28 19:05:49,673 - Coverting audio file to mp3.
+2021-02-28 19:05:52,671 - Applying mp3 metadata to John Kenza & 4Everfreebrony - Warm.mp3
+2021-02-28 19:05:52,721 - Download for https://youtu.be/A_qbWflVtG4 complete.
+
+2021-02-28 19:05:52,722 - Current: https://youtu.be/Ar8s4NtLI8g 
+2021-02-28 19:05:52,722 - youtube link
+2021-02-28 19:05:52,723 - Scraping for id: Ar8s4NtLI8g
+2021-02-28 19:05:53,292 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\4everfreebrony - Here On The Moon (Acoustic)
+2021-02-28 19:05:53,292 - Creating download information json.
+2021-02-28 19:05:53,293 - Writing text file.
+2021-02-28 19:05:53,293 - Downloading: 4everfreebrony - Here On The Moon (Acoustic) - Thumbnail.png
+2021-02-28 19:05:53,738 - Downloading: audio_4everfreebrony - Here On The Moon (Acoustic).webm
+2021-02-28 19:06:28,924 - Writing text file.
+2021-02-28 19:06:28,924 - Downloading: video_4everfreebrony - Here On The Moon (Acoustic).mp4
+2021-02-28 19:08:09,030 - Merging audio and video files.
+2021-02-28 19:08:12,038 - Adding thumbnail to video file.
+2021-02-28 19:08:12,156 - Coverting audio file to mp3.
+2021-02-28 19:08:15,600 - Applying mp3 metadata to 4everfreebrony - Here On The Moon (Acoustic).mp3
+2021-02-28 19:08:15,649 - Download for https://youtu.be/Ar8s4NtLI8g complete.
+
+2021-02-28 19:08:15,650 - Current: https://youtu.be/JM4rTwHTxPs 
+2021-02-28 19:08:15,650 - youtube link
+2021-02-28 19:08:15,651 - Scraping for id: JM4rTwHTxPs
+2021-02-28 19:08:16,302 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:08:16,302 - ! Video (https://youtu.be/JM4rTwHTxPs|Story Untold - Everything Is Okay) undownloadable - cipher needed.
+2021-02-28 19:08:16,303 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:08:17,612 - Done downloading audio.
+2021-02-28 19:08:22,818 - Done downloading audio.
+2021-02-28 19:08:22,819 - Creating download information json.
+2021-02-28 19:08:22,819 - Writing text file.
+2021-02-28 19:08:22,820 - Downloading: Story Untold - Everything Is Okay - Thumbnail.png
+2021-02-28 19:08:23,411 - Download for https://youtu.be/JM4rTwHTxPs complete.
+
+2021-02-28 19:08:23,412 - Current: https://youtu.be/czb_CZfWko8 
+2021-02-28 19:08:23,412 - youtube link
+2021-02-28 19:08:23,412 - Scraping for id: czb_CZfWko8
+2021-02-28 19:08:24,057 - ! Video (https://youtu.be/czb_CZfWko8|I Prevail - Blank Space (Taylor Swift Cover) - Punk Goes Pop Vol. 6) undownloadable - cipher needed.
+2021-02-28 19:08:24,058 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:08:24,769 - Done downloading audio.
+2021-02-28 19:08:28,901 - Done downloading audio.
+2021-02-28 19:08:28,902 - Creating download information json.
+2021-02-28 19:08:28,902 - Writing text file.
+2021-02-28 19:08:28,902 - Downloading: I Prevail - Blank Space (Taylor Swift Cover) - Punk Goes Pop Vol. 6 - Thumbnail.png
+2021-02-28 19:08:28,936 - Download for https://youtu.be/czb_CZfWko8 complete.
+
+2021-02-28 19:08:28,937 - Current: https://youtu.be/xtxjm7ciwmc 
+2021-02-28 19:08:28,937 - youtube link
+2021-02-28 19:08:28,937 - Scraping for id: xtxjm7ciwmc
+2021-02-28 19:08:29,371 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:08:29,371 - ! Video (https://youtu.be/xtxjm7ciwmc| ) undownloadable - cipher needed.
+2021-02-28 19:08:29,372 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:08:30,331 - Done downloading audio.
+2021-02-28 19:08:34,015 - Done downloading audio.
+2021-02-28 19:08:34,016 - Creating download information json.
+2021-02-28 19:08:34,016 - [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\ \\Info.txt'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 195, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 157, in download
+    file_download_handler(download_object, Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 97, in file_download_handler
+    utils.file_write(output_path,url)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 11, in file_write
+    with open(path,'w', encoding = 'utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\ \\Info.txt'
+2021-02-28 19:08:34,021 - Current: https://youtu.be/dqFCrSTrEM4 
+2021-02-28 19:08:34,021 - youtube link
+2021-02-28 19:08:34,022 - Scraping for id: dqFCrSTrEM4
+2021-02-28 19:08:34,438 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\In the Hall of the Mountain King but it's a 6_8 latin jazz piece
+2021-02-28 19:08:34,438 - Creating download information json.
+2021-02-28 19:08:34,439 - Writing text file.
+2021-02-28 19:08:34,439 - Downloading: In the Hall of the Mountain King but it's a 6_8 latin jazz piece - Thumbnail.png
+2021-02-28 19:08:34,477 - Downloading: audio_In the Hall of the Mountain King but it's a 6_8 latin jazz piece.m4a
+2021-02-28 19:08:55,601 - Writing text file.
+2021-02-28 19:08:55,601 - Downloading: video_In the Hall of the Mountain King but it's a 6_8 latin jazz piece.mp4
+2021-02-28 19:09:16,727 - Merging audio and video files.
+2021-02-28 19:09:18,285 - Adding thumbnail to video file.
+2021-02-28 19:09:18,388 - Coverting audio file to mp3.
+2021-02-28 19:09:20,083 - Applying mp3 metadata to In the Hall of the Mountain King but it's a 6_8 latin jazz piece.mp3
+2021-02-28 19:09:20,126 - Download for https://youtu.be/dqFCrSTrEM4 complete.
+
+2021-02-28 19:09:20,127 - Current: https://youtu.be/MH9FyLsfDzw 
+2021-02-28 19:09:20,127 - youtube link
+2021-02-28 19:09:20,127 - Scraping for id: MH9FyLsfDzw
+2021-02-28 19:09:20,580 - ! Video (https://youtu.be/MH9FyLsfDzw|Toto - Africa (metal cover by Leo Moracchioli feat. Rabea & Hannah)) undownloadable - cipher needed.
+2021-02-28 19:09:20,581 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:09:21,545 - Done downloading audio.
+2021-02-28 19:09:27,413 - Done downloading audio.
+2021-02-28 19:09:27,413 - Creating download information json.
+2021-02-28 19:09:27,414 - Writing text file.
+2021-02-28 19:09:27,414 - Downloading: Toto - Africa (metal cover by Leo Moracchioli feat. Rabea & Hannah) - Thumbnail.png
+2021-02-28 19:09:27,458 - Download for https://youtu.be/MH9FyLsfDzw complete.
+
+2021-02-28 19:09:27,459 - Current: https://youtu.be/tta8dVgshVk 
+2021-02-28 19:09:27,459 - youtube link
+2021-02-28 19:09:27,459 - Scraping for id: tta8dVgshVk
+2021-02-28 19:09:27,936 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:09:27,937 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Ten Years of Friendship is Magic
+2021-02-28 19:09:27,937 - Creating download information json.
+2021-02-28 19:09:27,938 - Writing text file.
+2021-02-28 19:09:27,938 - Downloading: Ten Years of Friendship is Magic - Thumbnail.png
+2021-02-28 19:09:27,980 - Downloading: audio_Ten Years of Friendship is Magic.m4a
+2021-02-28 19:09:49,148 - Writing text file.
+2021-02-28 19:09:49,148 - Downloading: video_Ten Years of Friendship is Magic.mp4
+2021-02-28 19:10:43,590 - Merging audio and video files.
+2021-02-28 19:10:44,731 - Adding thumbnail to video file.
+2021-02-28 19:10:44,851 - Coverting audio file to mp3.
+2021-02-28 19:10:46,138 - Applying mp3 metadata to Ten Years of Friendship is Magic.mp3
+2021-02-28 19:10:46,182 - Download for https://youtu.be/tta8dVgshVk complete.
+
+2021-02-28 19:56:48,665 - Command: closae
+2021-02-28 19:56:50,915 - Command: close
+2021-02-28 19:56:50,915 - 
+Log Ended.
+Total time: 0 hrs 59 min 26.00 sec
+

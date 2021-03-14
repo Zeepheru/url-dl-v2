@@ -1,0 +1,201 @@
+2021-02-28 18:57:52,020 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 18:57:53,750 - Command: run
+2021-02-28 18:57:53,751 - Current: https://youtu.be/bxi1_hk1MzY 
+2021-02-28 18:57:53,752 - youtube link
+2021-02-28 18:57:54,226 - Scraping for id: bxi1_hk1MzY
+2021-02-28 18:57:54,635 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Aviators - The Man in the Chair (4EverfreeBrony Remix   Rock)
+2021-02-28 18:57:54,635 - Creating download information json.
+2021-02-28 18:57:54,636 - Writing text file.
+2021-02-28 18:57:54,636 - Downloading: Aviators - The Man in the Chair (4EverfreeBrony Remix   Rock) - Thumbnail.png
+2021-02-28 18:57:55,075 - Downloading: audio_Aviators - The Man in the Chair (4EverfreeBrony Remix   Rock).webm
+2021-02-28 18:58:53,981 - Writing text file.
+2021-02-28 18:58:53,981 - Downloading: video_Aviators - The Man in the Chair (4EverfreeBrony Remix   Rock).mp4
+2021-02-28 19:01:59,252 - Merging audio and video files.
+2021-02-28 19:02:03,177 - Adding thumbnail to video file.
+2021-02-28 19:02:03,342 - Coverting audio file to mp3.
+2021-02-28 19:02:08,038 - Applying mp3 metadata to Aviators - The Man in the Chair (4EverfreeBrony Remix   Rock).mp3
+2021-02-28 19:02:08,097 - Download for https://youtu.be/bxi1_hk1MzY complete.
+
+2021-02-28 19:02:08,098 - Current: https://youtu.be/vFBUpL7HFAY 
+2021-02-28 19:02:08,099 - youtube link
+2021-02-28 19:02:08,099 - Scraping for id: vFBUpL7HFAY
+2021-02-28 19:02:08,542 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:02:08,542 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Lavender - Gilded (feat. Namii) [Melodic Dubstep]
+2021-02-28 19:02:08,542 - Creating download information json.
+2021-02-28 19:02:08,543 - Writing text file.
+2021-02-28 19:02:08,543 - Downloading: Lavender - Gilded (feat. Namii) [Melodic Dubstep] - Thumbnail.png
+2021-02-28 19:02:08,971 - Downloading: audio_Lavender - Gilded (feat. Namii) [Melodic Dubstep].m4a
+2021-02-28 19:02:46,877 - Writing text file.
+2021-02-28 19:02:46,877 - Downloading: video_Lavender - Gilded (feat. Namii) [Melodic Dubstep].webm
+2021-02-28 19:04:19,155 - Merging audio and video files.
+2021-02-28 19:04:20,889 - Adding thumbnail to video file.
+2021-02-28 19:04:21,176 - Coverting audio file to mp3.
+2021-02-28 19:04:23,057 - Applying mp3 metadata to Lavender - Gilded (feat. Namii) [Melodic Dubstep].mp3
+2021-02-28 19:04:23,132 - Download for https://youtu.be/vFBUpL7HFAY complete.
+
+2021-02-28 19:04:23,134 - Current: https://youtu.be/DMoCM_FgLP8 
+2021-02-28 19:04:23,134 - youtube link
+2021-02-28 19:04:23,134 - Scraping for id: DMoCM_FgLP8
+2021-02-28 19:04:23,508 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:04:23,508 - ! Video (https://youtu.be/DMoCM_FgLP8|Our Dream - Sovietwave Mix) undownloadable - cipher needed.
+2021-02-28 19:04:23,509 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:04:26,724 - Done downloading audio.
+2021-02-28 19:04:59,598 - Done downloading audio.
+2021-02-28 19:04:59,599 - Creating download information json.
+2021-02-28 19:04:59,600 - Writing text file.
+2021-02-28 19:04:59,600 - Downloading: Our Dream - Sovietwave Mix - Thumbnail.png
+2021-02-28 19:04:59,650 - Download for https://youtu.be/DMoCM_FgLP8 complete.
+
+2021-02-28 19:04:59,651 - Current: https://youtu.be/i7PQ9IO-7fU 
+2021-02-28 19:04:59,651 - youtube link
+2021-02-28 19:04:59,652 - Scraping for id: i7PQ9IO-7fU
+2021-02-28 19:05:00,052 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:05:00,052 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Lullaby for a Princess Animation
+2021-02-28 19:05:00,053 - Creating download information json.
+2021-02-28 19:05:00,053 - Writing text file.
+2021-02-28 19:05:00,053 - Downloading: Lullaby for a Princess Animation - Thumbnail.png
+2021-02-28 19:05:00,102 - Downloading: audio_Lullaby for a Princess Animation.webm
+2021-02-28 19:05:49,296 - Writing text file.
+2021-02-28 19:05:49,296 - Downloading: video_Lullaby for a Princess Animation.mp4
+2021-02-28 19:09:05,516 - Merging audio and video files.
+2021-02-28 19:09:09,798 - Adding thumbnail to video file.
+2021-02-28 19:09:09,978 - Coverting audio file to mp3.
+2021-02-28 19:09:14,696 - Applying mp3 metadata to Lullaby for a Princess Animation.mp3
+2021-02-28 19:09:14,752 - Download for https://youtu.be/i7PQ9IO-7fU complete.
+
+2021-02-28 19:09:14,753 - Current: https://youtu.be/_c1NJQ0UP_Q 
+2021-02-28 19:09:14,753 - youtube link
+2021-02-28 19:09:14,753 - Scraping for id: _c1NJQ0UP_Q
+2021-02-28 19:09:15,331 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:09:15,331 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\hi, i'm steve
+2021-02-28 19:09:15,331 - Creating download information json.
+2021-02-28 19:09:15,332 - Writing text file.
+2021-02-28 19:09:15,332 - Downloading: hi, i'm steve - Thumbnail.png
+2021-02-28 19:09:15,370 - Downloading: audio_hi, i'm steve.m4a
+2021-02-28 19:09:29,432 - Writing text file.
+2021-02-28 19:09:29,432 - Downloading: video_hi, i'm steve.mp4
+2021-02-28 19:09:51,796 - Merging audio and video files.
+2021-02-28 19:09:52,495 - Adding thumbnail to video file.
+2021-02-28 19:09:52,591 - Coverting audio file to mp3.
+2021-02-28 19:09:53,333 - Applying mp3 metadata to hi, i'm steve.mp3
+2021-02-28 19:09:53,371 - Download for https://youtu.be/_c1NJQ0UP_Q complete.
+
+2021-02-28 19:09:53,372 - Current: https://youtu.be/wpz7RR7-CSM 
+2021-02-28 19:09:53,372 - youtube link
+2021-02-28 19:09:53,373 - Scraping for id: wpz7RR7-CSM
+2021-02-28 19:09:53,800 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\John Kenza - Celestial Dance VIP [Happy Hardcore]
+2021-02-28 19:09:53,800 - Creating download information json.
+2021-02-28 19:09:53,801 - Writing text file.
+2021-02-28 19:09:53,801 - Downloading: John Kenza - Celestial Dance VIP [Happy Hardcore] - Thumbnail.png
+2021-02-28 19:09:54,251 - Downloading: audio_John Kenza - Celestial Dance VIP [Happy Hardcore].webm
+2021-02-28 19:10:23,114 - Writing text file.
+2021-02-28 19:10:23,115 - Downloading: video_John Kenza - Celestial Dance VIP [Happy Hardcore].webm
+2021-02-28 19:12:03,967 - Merging audio and video files.
+2021-02-28 19:12:06,385 - Adding thumbnail to video file.
+2021-02-28 19:12:06,623 - Coverting audio file to mp3.
+2021-02-28 19:12:09,157 - Applying mp3 metadata to John Kenza - Celestial Dance VIP [Happy Hardcore].mp3
+2021-02-28 19:12:09,415 - Download for https://youtu.be/wpz7RR7-CSM complete.
+
+2021-02-28 19:12:09,416 - Current: https://youtu.be/BMe1IKuCovc 
+2021-02-28 19:12:09,416 - youtube link
+2021-02-28 19:12:09,417 - Scraping for id: BMe1IKuCovc
+2021-02-28 19:12:09,863 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Frustrated Political Scientist Patton Oswalt Attempts To Explain Gerrymandering Without Visual Aids
+2021-02-28 19:12:09,863 - Creating download information json.
+2021-02-28 19:12:09,864 - Writing text file.
+2021-02-28 19:12:09,864 - Downloading: Frustrated Political Scientist Patton Oswalt Attempts To Explain Gerrymandering Without Visual Aids - Thumbnail.png
+2021-02-28 19:12:09,908 - Downloading: audio_Frustrated Political Scientist Patton Oswalt Attempts To Explain Gerrymandering Without Visual Aids.m4a
+2021-02-28 19:14:25,970 - Writing text file.
+2021-02-28 19:14:25,970 - Downloading: video_Frustrated Political Scientist Patton Oswalt Attempts To Explain Gerrymandering Without Visual Aids.mp4
+2021-02-28 19:23:38,978 - Merging audio and video files.
+2021-02-28 19:23:48,611 - Adding thumbnail to video file.
+2021-02-28 19:23:49,083 - Coverting audio file to mp3.
+2021-02-28 19:23:56,572 - Applying mp3 metadata to Frustrated Political Scientist Patton Oswalt Attempts To Explain Gerrymandering Without Visual Aids.mp3
+2021-02-28 19:23:56,634 - Download for https://youtu.be/BMe1IKuCovc complete.
+
+2021-02-28 19:23:56,635 - Current: https://youtu.be/vFBUpL7HFAY 
+2021-02-28 19:23:56,635 - youtube link
+2021-02-28 19:23:56,636 - Scraping for id: vFBUpL7HFAY
+2021-02-28 19:23:57,044 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:23:57,045 - Creating download information json.
+2021-02-28 19:23:57,045 - Writing text file.
+2021-02-28 19:23:57,045 - Downloading: Lavender - Gilded (feat. Namii) [Melodic Dubstep] - Thumbnail.png
+2021-02-28 19:23:57,333 - Downloading: audio_Lavender - Gilded (feat. Namii) [Melodic Dubstep].m4a
+2021-02-28 19:24:28,195 - Writing text file.
+2021-02-28 19:24:28,195 - Downloading: video_Lavender - Gilded (feat. Namii) [Melodic Dubstep].webm
+2021-02-28 19:26:01,435 - Merging audio and video files.
+2021-02-28 19:26:03,159 - Adding thumbnail to video file.
+2021-02-28 19:56:55,091 - Coverting audio file to mp3.
+2021-02-28 19:56:58,548 - Applying mp3 metadata to Lavender - Gilded (feat. Namii) [Melodic Dubstep].mp3
+2021-02-28 19:56:59,426 - Download for https://youtu.be/vFBUpL7HFAY complete.
+
+2021-02-28 19:56:59,427 - Current: https://youtu.be/_PDWCk-L1lg 
+2021-02-28 19:56:59,428 - youtube link
+2021-02-28 19:56:59,428 - Scraping for id: _PDWCk-L1lg
+2021-02-28 19:57:00,067 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\IKX - Wishes [Melodic Dubstep]
+2021-02-28 19:57:00,067 - Creating download information json.
+2021-02-28 19:57:00,068 - Writing text file.
+2021-02-28 19:57:00,068 - Downloading: IKX - Wishes [Melodic Dubstep] - Thumbnail.png
+2021-02-28 19:57:00,347 - Downloading: audio_IKX - Wishes [Melodic Dubstep].webm
+2021-02-28 19:57:37,731 - Writing text file.
+2021-02-28 19:57:37,731 - Downloading: video_IKX - Wishes [Melodic Dubstep].webm
+2021-02-28 19:59:13,788 - Merging audio and video files.
+2021-02-28 19:59:16,132 - Adding thumbnail to video file.
+2021-02-28 19:59:16,458 - Coverting audio file to mp3.
+2021-02-28 19:59:18,981 - Applying mp3 metadata to IKX - Wishes [Melodic Dubstep].mp3
+2021-02-28 19:59:19,269 - Download for https://youtu.be/_PDWCk-L1lg complete.
+
+2021-02-28 19:59:19,271 - Current: https://youtu.be/zWw5BE8z9KA 
+2021-02-28 19:59:19,271 - youtube link
+2021-02-28 19:59:19,271 - Scraping for id: zWw5BE8z9KA
+2021-02-28 19:59:19,727 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Mey 'IF CUPID HAD A HEART'  EileMonty
+2021-02-28 19:59:19,727 - Creating download information json.
+2021-02-28 19:59:19,727 - Writing text file.
+2021-02-28 19:59:19,728 - Downloading: Mey 'IF CUPID HAD A HEART'  EileMonty - Thumbnail.png
+2021-02-28 19:59:19,851 - Downloading: audio_Mey 'IF CUPID HAD A HEART'  EileMonty.m4a
+2021-02-28 20:00:12,324 - Writing text file.
+2021-02-28 20:00:12,324 - Downloading: video_Mey 'IF CUPID HAD A HEART'  EileMonty.mp4
+2021-02-28 20:02:11,010 - Merging audio and video files.
+2021-02-28 20:02:13,410 - Adding thumbnail to video file.
+2021-02-28 20:02:13,620 - Coverting audio file to mp3.
+2021-02-28 20:02:16,337 - Applying mp3 metadata to Mey 'IF CUPID HAD A HEART'  EileMonty.mp3
+2021-02-28 20:02:16,405 - Download for https://youtu.be/zWw5BE8z9KA complete.
+
+2021-02-28 20:02:16,407 - Current: https://youtu.be/Ijk4j-r7qPA 
+2021-02-28 20:02:16,407 - youtube link
+2021-02-28 20:02:16,408 - Scraping for id: Ijk4j-r7qPA
+2021-02-28 20:02:16,931 - ! Video (https://youtu.be/Ijk4j-r7qPA|Franz Ferdinand - Take Me Out (Video)) undownloadable - cipher needed.
+2021-02-28 20:02:16,931 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 20:02:17,994 - Done downloading audio.
+2021-02-28 20:02:22,555 - Done downloading audio.
+2021-02-28 20:02:22,556 - Creating download information json.
+2021-02-28 20:02:22,557 - Writing text file.
+2021-02-28 20:02:22,557 - Downloading: Franz Ferdinand - Take Me Out (Video) - Thumbnail.png
+2021-02-28 20:02:22,607 - Download for https://youtu.be/Ijk4j-r7qPA complete.
+
+2021-02-28 20:02:22,609 - Current: https://youtu.be/VxouoTF_3Ks 
+2021-02-28 20:02:22,609 - youtube link
+2021-02-28 20:02:22,609 - Scraping for id: VxouoTF_3Ks
+2021-02-28 20:02:23,045 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 20:02:23,045 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\history of equestria  (Pony Parody)
+2021-02-28 20:02:23,045 - Creating download information json.
+2021-02-28 20:02:23,046 - Writing text file.
+2021-02-28 20:02:23,046 - Downloading: history of equestria  (Pony Parody) - Thumbnail.png
+2021-02-28 20:02:23,636 - Downloading: audio_history of equestria  (Pony Parody).webm
+2021-02-28 20:03:29,061 - Writing text file.
+2021-02-28 20:03:29,061 - Downloading: video_history of equestria  (Pony Parody).mp4
+2021-02-28 20:06:42,955 - Merging audio and video files.
+2021-02-28 20:06:47,465 - Adding thumbnail to video file.
+2021-02-28 20:06:47,701 - Coverting audio file to mp3.
+2021-02-28 20:06:52,059 - Applying mp3 metadata to history of equestria  (Pony Parody).mp3
+2021-02-28 20:06:52,508 - Download for https://youtu.be/VxouoTF_3Ks complete.
+
+2021-02-28 20:08:18,531 - Command: close
+2021-02-28 20:08:18,531 - 
+Log Ended.
+Total time: 1 hrs 10 min 26.51 sec
+

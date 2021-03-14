@@ -1,0 +1,51 @@
+2021-03-14 20:32:26,819 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-14 20:32:31,490 - Command: dl -youtube https://www.youtube.com/watch?v=wQPgM-9LatM
+2021-03-14 20:32:31,490 - youtube link
+2021-03-14 20:32:32,200 - Scraping for id: wQPgM-9LatM
+2021-03-14 20:32:32,791 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:32:33,333 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:32:33,820 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:32:33,820 - unknown encoding: ignore
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 227, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in extract_video_info
+    video_info[k] = utils.string_escape(video_info[k])
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 78, in string_escape
+    return (s.encode("ignore")       # To bytes, required by 'unicode-escape'
+LookupError: unknown encoding: ignore
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 231, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in extract_video_info
+    video_info[k] = utils.string_escape(video_info[k])
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 78, in string_escape
+    return (s.encode("ignore")       # To bytes, required by 'unicode-escape'
+LookupError: unknown encoding: ignore
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 239, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 122, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 233, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in extract_video_info
+    video_info[k] = utils.string_escape(video_info[k])
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 78, in string_escape
+    return (s.encode("ignore")       # To bytes, required by 'unicode-escape'
+LookupError: unknown encoding: ignore
+2021-03-14 20:32:33,825 - 
+Log Ended.
+Total time: 0 hrs 0 min 7.01 sec
+

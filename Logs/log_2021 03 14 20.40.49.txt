@@ -1,0 +1,17 @@
+2021-03-14 20:40:49,424 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-14 20:40:55,351 - Command: dl -youtube https://www.youtube.com/watch?v=ugpywe34_30
+2021-03-14 20:40:55,352 - youtube link
+2021-03-14 20:40:55,814 - Scraping for id: ugpywe34_30
+2021-03-14 20:40:56,621 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:40:56,624 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-14 20:40:57,649 - Done downloading audio.
+2021-03-14 20:41:00,850 - Done downloading audio.
+2021-03-14 20:41:00,850 - Creating download information json.
+2021-03-14 20:41:00,851 - Writing text file.
+2021-03-14 20:41:00,905 - Download for |https://www.youtube.com/watch?v=ugpywe34_30| complete.
+

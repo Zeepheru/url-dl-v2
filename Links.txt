@@ -2,37 +2,12 @@
 ##
 ##--youtube_ids: cH-yA8U2XgI
 ##https://youtu.be/qjtfrX3iMIU
-##https://poniesatdawn.bandcamp.com/album/eclipse
-##https://poniesatdawn.bandcamp.com/album/eclipse
 ##
-##https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww
-##--derpi_images: 1835634, 1826212, 1818699, 416280, 423412,
-##https://www.youtube.com/watch?v=h3kSPHcjN34 ##even ytdl cant do this. (Lost On the Moon)
-##https://www.youtube.com/watch?v=8mYd2X_9rrs ##ALso music so yeahh (Crush by Pendulum btw)s
+##https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww ##chichi
+https://youtu.be/PC1RmNV3Q3k
+https://youtu.be/NvRHXnb039Q
+https://youtu.be/tVE-z-2yts8
 ## -----
-https://youtu.be/YZrjyZhH8XM
-https://youtu.be/kss0X8oaeow
-https://youtu.be/9DgMKEF5T4Y
-https://youtu.be/UN8bJb8biZU
-https://youtu.be/F--3aBhAKCY
-https://www.youtube.com/watch?v=4chsWIEaYvU
-https://youtu.be/wxsk-DRcacY
-https://youtu.be/d_Px5bZF2_M
-https://youtu.be/DxRRDHL1BAA
-https://youtu.be/bLOzSgF7L6I
-https://youtu.be/Xd42_mgdi4A
-https://youtu.be/AiNVhkyBuns
-https://youtu.be/0yhGDsXKQkc
-https://youtu.be/-GB-V7OM9PM
-https://youtu.be/6ON4AAvTunk
-https://youtu.be/eoKh0GU38BA
-https://youtu.be/Unzc731iCUY
-https://youtu.be/1tPskeYTRdA
-https://youtu.be/1G18aEZKJwM
-https://www.youtube.com/watch?v=tt2sOZu4eRU&ab_channel=InkPotts
-https://www.youtube.com/watch?v=E8eBdZR0Qeo
-https://youtu.be/SjGdkD8l-uI
-https://www.youtube.com/watch?v=RgRQoMc0t94&ab_channel=Lioncfalcon
 ##
 ##Chi Chi above
 ## END.

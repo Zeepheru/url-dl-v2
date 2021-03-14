@@ -1,0 +1,23 @@
+2021-02-28 19:02:45,774 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 19:02:47,947 - Command: dl -youtube https://youtu.be/8mYd2X_9rrs
+2021-02-28 19:02:47,947 - youtube link
+2021-02-28 19:02:48,435 - Scraping for id: 8mYd2X_9rrs
+2021-02-28 19:02:48,955 - ! Video (https://youtu.be/8mYd2X_9rrs|Pendulum - Crush (Official Video)) undownloadable - cipher needed.
+2021-02-28 19:02:48,956 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:02:50,031 - Done downloading audio.
+2021-02-28 19:02:54,169 - Done downloading audio.
+2021-02-28 19:02:54,169 - Creating download information json.
+2021-02-28 19:02:54,170 - Writing text file.
+2021-02-28 19:02:54,170 - Downloading: Pendulum - Crush (Official Video) - Thumbnail.png
+2021-02-28 19:02:54,210 - Download for |https://youtu.be/8mYd2X_9rrs| complete.
+
+2021-02-28 19:04:59,141 - Command: close
+2021-02-28 19:04:59,142 - 
+Log Ended.
+Total time: 0 hrs 2 min 13.37 sec
+

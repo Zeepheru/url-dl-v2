@@ -56,6 +56,7 @@ def extractor_test_setup():
 def youtube_dl_backup(url,folder_path):
     dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
 
+    #audio
     def my_hook_audio(d):
         if d['status'] == 'finished':
             dl_logger.log_info('Done downloading audio.')
@@ -98,7 +99,7 @@ def youtube_extractor(Downloader):
 
         if re.search(r'https://music.youtube',url):
             set_youtube_type("music")
-        elif re.search(r'https://www.youtube.com/channel',url):
+        elif re.search(r'https://www.youtube.com/channel',url) or re.search(r'https://www.youtube.com/c/',url):
             set_youtube_type("channel")
         elif re.search(r'https://www.youtube.com/playlist',url):
             set_youtube_type("playlist")
@@ -108,11 +109,15 @@ def youtube_extractor(Downloader):
     def extract_video_id(url):
         if len(url) == 11:
             return url        
+        elif re.search(r'=youtu.be&v=',url) != None:
+            return re.search(r'(?<==youtu.be&v=).{11}',url).group()
         elif re.search(r'(https).*(youtu.be/).*',url) != None:
             return re.search(r'(?<=https://youtu.be/).{11}',url).group()
-        elif re.search(r'(https://www.youtube.com/watch)',url) != None:
-            return re.search(r'(?<=https://www.youtube.com/watch\?v=).{11}',url).group()
+        elif re.search(r'(youtube.com/watch)',url) != None:
+            return re.search(r'(?<=youtube.com/watch\?v=).{11}',url).group()
 
+        
+            
     check_type(data["url"])
     try:
         data["url"].replace(' ','')
@@ -130,7 +135,7 @@ def youtube_extractor(Downloader):
         data["playlist_length"] = len(data["sub_objects"])
 
     elif data["type"] == "channel":
-        if re.search(r'https://www.youtube.com/channel/',data["url"]) != None:
+        if re.search(r'https://www.youtube.com/channel/|https://www.youtube.com/c/',data["url"]) != None:
             channel_url = data["url"]
         else:
             channel_url = "I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME"
@@ -190,7 +195,7 @@ Downloaded IDs:
         #text file
         dl_object.download_info.append({
             "filename":"Info.txt",
-            "path":(os.path.join(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",data["channel name"]),"Info.txt")),
+            "path":(os.path.join(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",data["channel name"]),data["channel name"]+" - Info.txt")),
             "text file": True,
             "download": False,
             "contents": channel_info_string,
@@ -270,14 +275,18 @@ def extract_video_info(yt_id):
         #utils.file_write("Test_2.txt",test)
         #print("Json scraped")
 
-        """For errors:
+        """For errors/random problems:
         should be finding:
         {"responseContext":{"serviceTrackingParams":[{"service":"GFEEDBACK","params":[{"key":"is_viewed_live","value":"False"},{"key":"logged_in","value":"0"},{"key":"e","value":"23970895,23932523,23970385,24590263,23942633,23963929,23857949,23942338,9407155,23969934,23884386,23839597,23882502,23976578,23804281,23946420,23948841,23972381,23911055,23969486,23972864,23918597,23976772,23973687,23968386,23951620,23973492,23944779,23890959,23961261,23744176,23934970,1714251,23965557,23940703,23958692,23973488,23970649,23978155,23973495,23961733,23970398,23973497,23735347,23970974"}]},{"service":"CSI","params":[{"key":"c","value":"WEB"},{"key":"cver","value":"2.20201202.08.00"},{"key":"yt_li","value":"0"},{"key":"GetPlayer_rid","value":"0x25485baf1f756f9c"}]},{"service":"GUIDED_HELP","params":[{"key":"logged_in","value":"0"}]},{"service":"ECATCHER","params":[{"key":"client.version","value":"2.20201202"},{"key":"client.name","value":"WEB"}]}],"webResponseContextExtensionData":{"hasDecorated":true}},"playabilityStatus":{"status":"OK","playableInEmbed":true,"miniplayer":{"miniplayerRenderer":{"playbackMode":"PLAYBACK_MODE_ALLOW"}},"contextParams":"Q0FFU0FnZ0I="},"streamingData":{"expiresInSeconds":"21540","formats":[{"itag":18,"url":"https://r2---sn-nu5gi0c-npoee.googlevideo.com/videoplayback?expire=1607088267\u0026ei=K-TJX_CJMrC73LUPx90n\u0026ip=218.212.223.31\u0026id=o-AIJ7tk6_fBnlj29Kes8FKX1MWBdOkNX1QVS49QVpzHVO\u0026itag=18"""
         #utils.file_write("Test_3.txt",utils.dump_json(test))
         #test = utils.string_escape(test) #Seems to be unnecessary
         #utils.file_write("Test_4.txt",test)
         #print("Parsing json.")
-        test = json.loads(test) #Sometimes errors, best to just reload
+        try:
+            test = json.loads(test) #Sometimes errors, best to just reload
+        except Exception as e:
+            dl_logger.log_exception(e)
+            utils.file_write("Error json.txt",test)
 
         return test
 
@@ -351,10 +360,10 @@ def extract_video_info(yt_id):
     video_info["title"] = utils.apostrophe(video_info["title"])
     video_info["views"] = foo["viewCount"]
     try:
-        barbar = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
-        video_info["channel image"] = barbar["image"]["thumbnails"][-1]["url"]
-        #video_info["subscriber count"] = barbar - doesnt work lol (at least not there)
-        video_info["channel description"] = barbar["metadata"]["simpleText"]
+        random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
+        video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
+        #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
+        video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
         #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
     except:
         video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
@@ -417,8 +426,8 @@ Streams downloaded: {}, {}
 
         #Text File
         dl_object.download_info.append({
-            "filename":"Info.txt",
-            "path":(os.path.join(root_download_dir,"Info.txt")),
+            "filename":utils.apostrophe(video_info["title"])+" - Info.txt", #Better to organsise with the video name as well
+            "path":(os.path.join(root_download_dir,video_info["title"]+" - Info.txt")),
             "text file": True,
             "download": False,
             "contents": info_string,
@@ -427,8 +436,8 @@ Streams downloaded: {}, {}
         })
         #Thumbnail - not sure if a forced png works
         dl_object.download_info.append({
-            "filename":"Thumbnail.png",
-            "path":(os.path.join(root_download_dir,"Thumbnail.png")),
+            "filename":utils.apostrophe(video_info["title"])+" - Thumbnail.png",
+            "path":(os.path.join(root_download_dir,video_info["title"]+" - Thumbnail.png")),
             "text file": False,
             "download": True,
             "contents": video_info["thumbnail url"],

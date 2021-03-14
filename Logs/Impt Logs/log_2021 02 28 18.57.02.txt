@@ -1,0 +1,178 @@
+2021-02-28 18:57:02,258 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 18:57:03,369 - Command: run
+2021-02-28 18:57:03,371 - Current: https://youtu.be/_eQLFVpOYm4 
+2021-02-28 18:57:03,371 - youtube link
+2021-02-28 18:57:04,871 - Scraping for id: _eQLFVpOYm4
+2021-02-28 18:57:05,483 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\How an AK-47 Works
+2021-02-28 18:57:05,483 - Creating download information json.
+2021-02-28 18:57:05,483 - Writing text file.
+2021-02-28 18:57:05,484 - Downloading: How an AK-47 Works - Thumbnail.png
+2021-02-28 18:57:05,550 - Downloading: audio_How an AK-47 Works.m4a
+2021-02-28 18:57:26,687 - Writing text file.
+2021-02-28 18:57:26,687 - Downloading: video_How an AK-47 Works.mp4
+2021-02-28 18:58:22,586 - Merging audio and video files.
+2021-02-28 18:58:23,862 - Adding thumbnail to video file.
+2021-02-28 18:58:23,986 - Coverting audio file to mp3.
+2021-02-28 18:58:25,548 - Applying mp3 metadata to How an AK-47 Works.mp3
+2021-02-28 18:58:25,627 - Download for https://youtu.be/_eQLFVpOYm4 complete.
+
+2021-02-28 18:58:25,628 - Current: https://youtu.be/kd6e_ZfTyqI 
+2021-02-28 18:58:25,628 - youtube link
+2021-02-28 18:58:25,629 - Scraping for id: kd6e_ZfTyqI
+2021-02-28 18:58:26,316 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 18:58:26,317 - ! Video (https://youtu.be/kd6e_ZfTyqI|Song - Good ol' Days feat. Mic The Microphone and Jackle App) undownloadable - cipher needed.
+2021-02-28 18:58:26,318 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 18:58:27,420 - Done downloading audio.
+2021-02-28 18:58:31,910 - Done downloading audio.
+2021-02-28 18:58:31,910 - Creating download information json.
+2021-02-28 18:58:31,911 - Writing text file.
+2021-02-28 18:58:31,911 - Downloading: Song - Good ol' Days feat. Mic The Microphone and Jackle App - Thumbnail.png
+2021-02-28 18:58:32,347 - Download for https://youtu.be/kd6e_ZfTyqI complete.
+
+2021-02-28 18:58:32,348 - Current: https://youtu.be/hnmVVG7LIHU 
+2021-02-28 18:58:32,349 - youtube link
+2021-02-28 18:58:32,350 - Scraping for id: hnmVVG7LIHU
+2021-02-28 18:58:32,975 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 18:58:32,975 - ! Video (https://youtu.be/hnmVVG7LIHU|Cartoon - Vinyl and Canni go to GalaCon '14) undownloadable - cipher needed.
+2021-02-28 18:58:32,975 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 18:58:34,086 - Done downloading audio.
+2021-02-28 18:58:41,336 - Done downloading audio.
+2021-02-28 18:58:41,336 - Creating download information json.
+2021-02-28 18:58:41,337 - Writing text file.
+2021-02-28 18:58:41,337 - Downloading: Cartoon - Vinyl and Canni go to GalaCon '14 - Thumbnail.png
+2021-02-28 18:58:41,765 - Download for https://youtu.be/hnmVVG7LIHU complete.
+
+2021-02-28 18:58:41,766 - Current: https://youtu.be/7IqnGoa76eA 
+2021-02-28 18:58:41,766 - youtube link
+2021-02-28 18:58:41,767 - Scraping for id: 7IqnGoa76eA
+2021-02-28 18:58:42,330 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 18:58:42,330 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Tonight... Every Top Gear Opening
+2021-02-28 18:58:42,330 - Creating download information json.
+2021-02-28 18:58:42,331 - Writing text file.
+2021-02-28 18:58:42,331 - Downloading: Tonight... Every Top Gear Opening - Thumbnail.png
+2021-02-28 18:58:42,374 - Downloading: audio_Tonight... Every Top Gear Opening.m4a
+2021-02-28 19:00:48,906 - Writing text file.
+2021-02-28 19:00:48,906 - Downloading: video_Tonight... Every Top Gear Opening.mp4
+2021-02-28 19:16:00,590 - Merging audio and video files.
+2021-02-28 19:16:15,866 - Adding thumbnail to video file.
+2021-02-28 19:16:16,519 - Coverting audio file to mp3.
+2021-02-28 19:16:32,677 - Applying mp3 metadata to Tonight... Every Top Gear Opening.mp3
+2021-02-28 19:16:33,113 - Download for https://youtu.be/7IqnGoa76eA complete.
+
+2021-02-28 19:16:33,114 - Current: https://youtu.be/QPAxzr6ihu8 
+2021-02-28 19:16:33,114 - youtube link
+2021-02-28 19:16:33,114 - Scraping for id: QPAxzr6ihu8
+2021-02-28 19:16:33,742 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:16:33,743 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Quantum Field Theory What is a particle
+2021-02-28 19:16:33,743 - Creating download information json.
+2021-02-28 19:16:33,744 - Writing text file.
+2021-02-28 19:16:33,744 - Downloading: Quantum Field Theory What is a particle - Thumbnail.png
+2021-02-28 19:16:33,796 - Downloading: audio_Quantum Field Theory What is a particle.webm
+2021-02-28 19:18:47,401 - Writing text file.
+2021-02-28 19:18:47,401 - Downloading: video_Quantum Field Theory What is a particle.mp4
+2021-02-28 19:21:22,348 - Merging audio and video files.
+2021-02-28 19:21:45,095 - Adding thumbnail to video file.
+2021-02-28 19:21:45,470 - Coverting audio file to mp3.
+2021-02-28 19:22:07,982 - Applying mp3 metadata to Quantum Field Theory What is a particle.mp3
+2021-02-28 19:22:08,061 - Download for https://youtu.be/QPAxzr6ihu8 complete.
+
+2021-02-28 19:22:08,062 - Current: https://youtu.be/aB0cpsXaULk 
+2021-02-28 19:22:08,062 - youtube link
+2021-02-28 19:22:08,062 - Scraping for id: aB0cpsXaULk
+2021-02-28 19:22:08,558 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:22:08,558 - ! Video (https://youtu.be/aB0cpsXaULk|[The Worcester]) undownloadable - cipher needed.
+2021-02-28 19:22:08,558 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:22:10,024 - Done downloading audio.
+2021-02-28 19:22:45,650 - Done downloading audio.
+2021-02-28 19:22:45,650 - Creating download information json.
+2021-02-28 19:22:45,651 - Writing text file.
+2021-02-28 19:22:45,651 - Downloading: [The Worcester] - Thumbnail.png
+2021-02-28 19:22:45,701 - Download for https://youtu.be/aB0cpsXaULk complete.
+
+2021-02-28 19:22:45,702 - Current: https://youtu.be/uI9tl0QJPog 
+2021-02-28 19:22:45,702 - youtube link
+2021-02-28 19:22:45,702 - Scraping for id: uI9tl0QJPog
+2021-02-28 19:22:46,365 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:22:46,365 - ! Video (https://youtu.be/uI9tl0QJPog|Dasha and The Living Tombstone - Good Girl (Aviators Remix)) undownloadable - cipher needed.
+2021-02-28 19:22:46,365 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:22:47,691 - Done downloading audio.
+2021-02-28 19:22:55,890 - Done downloading audio.
+2021-02-28 19:22:55,890 - Creating download information json.
+2021-02-28 19:22:55,891 - Writing text file.
+2021-02-28 19:22:55,891 - Downloading: Dasha and The Living Tombstone - Good Girl (Aviators Remix) - Thumbnail.png
+2021-02-28 19:22:56,138 - Download for https://youtu.be/uI9tl0QJPog complete.
+
+2021-02-28 19:22:56,138 - Current: https://youtu.be/NdBvbHyqg1c 
+2021-02-28 19:22:56,139 - youtube link
+2021-02-28 19:22:56,139 - Scraping for id: NdBvbHyqg1c
+2021-02-28 19:22:56,602 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:22:56,603 - ! Video (https://youtu.be/NdBvbHyqg1c|BRONY MUSIC MEGAMIX 2018) undownloadable - cipher needed.
+2021-02-28 19:22:56,603 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:23:16,358 - Done downloading audio.
+2021-02-28 19:29:59,180 - Done downloading audio.
+2021-02-28 19:29:59,181 - Creating download information json.
+2021-02-28 19:29:59,182 - Writing text file.
+2021-02-28 19:29:59,182 - Downloading: BRONY MUSIC MEGAMIX 2018 - Thumbnail.png
+2021-02-28 19:29:59,229 - Download for https://youtu.be/NdBvbHyqg1c complete.
+
+2021-02-28 19:29:59,230 - Current: https://youtu.be/ShhhkTgiM4I 
+2021-02-28 19:29:59,230 - youtube link
+2021-02-28 19:29:59,230 - Scraping for id: ShhhkTgiM4I
+2021-02-28 19:29:59,870 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:29:59,870 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\MLPFiM - Winter Wrap Up (Orchestral _ Instrumental)
+2021-02-28 19:29:59,870 - Creating download information json.
+2021-02-28 19:29:59,871 - Writing text file.
+2021-02-28 19:29:59,871 - Downloading: MLPFiM - Winter Wrap Up (Orchestral _ Instrumental) - Thumbnail.png
+2021-02-28 19:30:00,314 - Downloading: audio_MLPFiM - Winter Wrap Up (Orchestral _ Instrumental).webm
+2021-02-28 19:30:21,542 - Writing text file.
+2021-02-28 19:30:21,543 - Downloading: video_MLPFiM - Winter Wrap Up (Orchestral _ Instrumental).mp4
+2021-02-28 19:31:32,267 - Merging audio and video files.
+2021-02-28 19:31:34,142 - Adding thumbnail to video file.
+2021-02-28 19:31:34,259 - Coverting audio file to mp3.
+2021-02-28 19:31:36,659 - Applying mp3 metadata to MLPFiM - Winter Wrap Up (Orchestral _ Instrumental).mp3
+2021-02-28 19:31:36,717 - Download for https://youtu.be/ShhhkTgiM4I complete.
+
+2021-02-28 19:31:36,718 - Current: https://youtu.be/JPLGVsP2gg0 
+2021-02-28 19:31:36,718 - youtube link
+2021-02-28 19:31:36,718 - Scraping for id: JPLGVsP2gg0
+2021-02-28 19:31:37,155 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:31:37,156 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\The Failures Behind the Fw 190
+2021-02-28 19:31:37,156 - Creating download information json.
+2021-02-28 19:31:37,157 - Writing text file.
+2021-02-28 19:31:37,157 - Downloading: The Failures Behind the Fw 190 - Thumbnail.png
+2021-02-28 19:31:37,646 - Downloading: audio_The Failures Behind the Fw 190.m4a
+2021-02-28 19:34:10,637 - Writing text file.
+2021-02-28 19:34:10,637 - Downloading: video_The Failures Behind the Fw 190.mp4
+2021-02-28 19:43:56,608 - Merging audio and video files.
+2021-02-28 19:44:06,799 - Adding thumbnail to video file.
+2021-02-28 19:44:07,101 - Coverting audio file to mp3.
+2021-02-28 19:44:16,391 - Applying mp3 metadata to The Failures Behind the Fw 190.mp3
+2021-02-28 19:44:16,451 - Download for https://youtu.be/JPLGVsP2gg0 complete.
+
+2021-02-28 19:44:16,452 - Current: https://youtu.be/OrYHuCwfvb4 
+2021-02-28 19:44:16,453 - youtube link
+2021-02-28 19:44:16,453 - Scraping for id: OrYHuCwfvb4
+2021-02-28 19:44:16,848 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:44:16,848 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Luna (Remix) - Eurobeat Brony
+2021-02-28 19:44:16,848 - Creating download information json.
+2021-02-28 19:44:16,849 - Writing text file.
+2021-02-28 19:44:16,849 - Downloading: Luna (Remix) - Eurobeat Brony - Thumbnail.png
+2021-02-28 19:44:16,885 - Downloading: audio_Luna (Remix) - Eurobeat Brony.m4a
+2021-02-28 19:44:45,545 - Writing text file.
+2021-02-28 19:44:45,545 - Downloading: video_Luna (Remix) - Eurobeat Brony.mp4
+2021-02-28 19:45:46,921 - Merging audio and video files.
+2021-02-28 19:45:48,408 - Adding thumbnail to video file.
+2021-02-28 19:45:48,528 - Coverting audio file to mp3.
+2021-02-28 19:45:50,194 - Applying mp3 metadata to Luna (Remix) - Eurobeat Brony.mp3
+2021-02-28 19:45:50,235 - Download for https://youtu.be/OrYHuCwfvb4 complete.
+
+2021-02-28 19:56:59,237 - Command: close
+2021-02-28 19:56:59,237 - 
+Log Ended.
+Total time: 0 hrs 59 min 56.98 sec
+

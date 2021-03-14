@@ -1,0 +1,57 @@
+2021-02-28 19:57:29,786 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 19:57:45,617 - Command: run
+2021-02-28 19:57:45,618 - Current: https://youtu.be/PC1RmNV3Q3k 
+2021-02-28 19:57:45,618 - youtube link
+2021-02-28 19:57:46,349 - Scraping for id: PC1RmNV3Q3k
+2021-02-28 19:57:46,874 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\The Scammers Who Dumped Me - Part 3 (Scambaiting)
+2021-02-28 19:57:46,874 - Creating download information json.
+2021-02-28 19:57:46,875 - Writing text file.
+2021-02-28 19:57:46,875 - Downloading: The Scammers Who Dumped Me - Part 3 (Scambaiting) - Thumbnail.png
+2021-02-28 19:57:46,935 - Downloading: audio_The Scammers Who Dumped Me - Part 3 (Scambaiting).webm
+2021-02-28 19:59:25,510 - Writing text file.
+2021-02-28 19:59:25,510 - Downloading: video_The Scammers Who Dumped Me - Part 3 (Scambaiting).mp4
+2021-02-28 20:04:45,570 - Merging audio and video files.
+2021-02-28 20:05:01,902 - Adding thumbnail to video file.
+2021-02-28 20:05:02,339 - Coverting audio file to mp3.
+2021-02-28 20:05:19,111 - Applying mp3 metadata to The Scammers Who Dumped Me - Part 3 (Scambaiting).mp3
+2021-02-28 20:05:19,560 - Download for https://youtu.be/PC1RmNV3Q3k complete.
+
+2021-02-28 20:05:19,561 - Current: https://youtu.be/NvRHXnb039Q 
+2021-02-28 20:05:19,561 - youtube link
+2021-02-28 20:05:19,561 - Scraping for id: NvRHXnb039Q
+2021-02-28 20:05:20,032 - ! Video (https://youtu.be/NvRHXnb039Q|Serenity - Sovietwave Mix) undownloadable - cipher needed.
+2021-02-28 20:05:20,032 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 20:05:24,386 - Done downloading audio.
+2021-02-28 20:06:26,833 - Done downloading audio.
+2021-02-28 20:06:26,833 - Creating download information json.
+2021-02-28 20:06:26,834 - Writing text file.
+2021-02-28 20:06:26,834 - Downloading: Serenity - Sovietwave Mix - Thumbnail.png
+2021-02-28 20:06:27,329 - Download for https://youtu.be/NvRHXnb039Q complete.
+
+2021-02-28 20:06:27,334 - Current: https://youtu.be/tVE-z-2yts8 
+2021-02-28 20:06:27,336 - youtube link
+2021-02-28 20:06:27,339 - Scraping for id: tVE-z-2yts8
+2021-02-28 20:06:27,805 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 20:06:27,805 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Everything Right_Wrong With Holidays Unwrapped in 15 Minutes or Less
+2021-02-28 20:06:27,805 - Creating download information json.
+2021-02-28 20:06:27,806 - Writing text file.
+2021-02-28 20:06:27,806 - Downloading: Everything Right_Wrong With Holidays Unwrapped in 15 Minutes or Less - Thumbnail.png
+2021-02-28 20:06:28,631 - Downloading: audio_Everything Right_Wrong With Holidays Unwrapped in 15 Minutes or Less.webm
+2021-02-28 20:08:35,484 - Writing text file.
+2021-02-28 20:08:35,484 - Downloading: video_Everything Right_Wrong With Holidays Unwrapped in 15 Minutes or Less.mp4
+2021-02-28 20:16:37,693 - Merging audio and video files.
+2021-02-28 20:16:47,634 - Adding thumbnail to video file.
+2021-02-28 20:16:47,906 - Coverting audio file to mp3.
+2021-02-28 20:16:57,538 - Applying mp3 metadata to Everything Right_Wrong With Holidays Unwrapped in 15 Minutes or Less.mp3
+2021-02-28 20:16:57,744 - Download for https://youtu.be/tVE-z-2yts8 complete.
+
+2021-02-28 20:24:44,787 - Command: close
+2021-02-28 20:24:44,787 - 
+Log Ended.
+Total time: 0 hrs 27 min 15.00 sec
+

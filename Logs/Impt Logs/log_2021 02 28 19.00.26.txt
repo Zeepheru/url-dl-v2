@@ -1,0 +1,69 @@
+2021-02-28 19:00:26,847 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-02-28 19:00:28,782 - Command: run
+2021-02-28 19:00:28,783 - Current: https://youtu.be/ujsOCQbTI4E 
+2021-02-28 19:00:28,783 - youtube link
+2021-02-28 19:00:29,253 - Scraping for id: ujsOCQbTI4E
+2021-02-28 19:00:29,661 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-02-28 19:00:29,661 - ! Video (https://youtu.be/ujsOCQbTI4E|The Weaboo Fantasy) undownloadable - cipher needed.
+2021-02-28 19:00:29,662 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:00:30,596 - Done downloading audio.
+2021-02-28 19:00:36,634 - Done downloading audio.
+2021-02-28 19:00:36,634 - Creating download information json.
+2021-02-28 19:00:36,635 - Writing text file.
+2021-02-28 19:00:36,635 - Downloading: The Weaboo Fantasy - Thumbnail.png
+2021-02-28 19:00:36,698 - Download for https://youtu.be/ujsOCQbTI4E complete.
+
+2021-02-28 19:00:36,698 - Current: https://youtu.be/ba8LLomFa7Q 
+2021-02-28 19:00:36,698 - youtube link
+2021-02-28 19:00:36,699 - Scraping for id: ba8LLomFa7Q
+2021-02-28 19:00:37,306 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\Mufaya - Enraged Forest [Orchestral]
+2021-02-28 19:00:37,307 - Creating download information json.
+2021-02-28 19:00:37,307 - Writing text file.
+2021-02-28 19:00:37,307 - Downloading: Mufaya - Enraged Forest [Orchestral] - Thumbnail.png
+2021-02-28 19:00:37,739 - Downloading: audio_Mufaya - Enraged Forest [Orchestral].webm
+2021-02-28 19:01:07,926 - Writing text file.
+2021-02-28 19:01:07,926 - Downloading: video_Mufaya - Enraged Forest [Orchestral].webm
+2021-02-28 19:02:31,405 - Merging audio and video files.
+2021-02-28 19:02:33,403 - Adding thumbnail to video file.
+2021-02-28 19:02:33,628 - Coverting audio file to mp3.
+2021-02-28 19:02:35,955 - Applying mp3 metadata to Mufaya - Enraged Forest [Orchestral].mp3
+2021-02-28 19:02:36,013 - Download for https://youtu.be/ba8LLomFa7Q complete.
+
+2021-02-28 19:02:36,017 - Current: https://youtu.be/HNKPM5MwcWY 
+2021-02-28 19:02:36,019 - youtube link
+2021-02-28 19:02:36,020 - Scraping for id: HNKPM5MwcWY
+2021-02-28 19:02:36,444 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\HoI4 Equestria at War - The Yale Rectorate (Part 1)
+2021-02-28 19:02:36,444 - Creating download information json.
+2021-02-28 19:02:36,445 - Writing text file.
+2021-02-28 19:02:36,445 - Downloading: HoI4 Equestria at War - The Yale Rectorate (Part 1) - Thumbnail.png
+2021-02-28 19:02:36,897 - Downloading: audio_HoI4 Equestria at War - The Yale Rectorate (Part 1).webm
+2021-02-28 19:06:34,093 - Writing text file.
+2021-02-28 19:06:34,093 - Downloading: video_HoI4 Equestria at War - The Yale Rectorate (Part 1).mp4
+2021-02-28 19:22:24,580 - Merging audio and video files.
+2021-02-28 19:22:45,261 - Adding thumbnail to video file.
+2021-02-28 19:22:45,912 - Coverting audio file to mp3.
+2021-02-28 19:23:08,834 - Applying mp3 metadata to HoI4 Equestria at War - The Yale Rectorate (Part 1).mp3
+2021-02-28 19:23:09,429 - Download for https://youtu.be/HNKPM5MwcWY complete.
+
+2021-02-28 19:23:09,430 - Current: https://youtu.be/jZZJ_Bq3EQM 
+2021-02-28 19:23:09,430 - youtube link
+2021-02-28 19:23:09,430 - Scraping for id: jZZJ_Bq3EQM
+2021-02-28 19:23:09,923 - ! Video (https://youtu.be/jZZJ_Bq3EQM|Maximum improvement! #HDMI) undownloadable - cipher needed.
+2021-02-28 19:23:09,924 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-02-28 19:23:11,824 - Done downloading audio.
+2021-02-28 19:23:23,192 - Done downloading audio.
+2021-02-28 19:23:23,193 - Creating download information json.
+2021-02-28 19:23:23,194 - Writing text file.
+2021-02-28 19:23:23,194 - Downloading: Maximum improvement! #HDMI - Thumbnail.png
+2021-02-28 19:23:23,245 - Download for https://youtu.be/jZZJ_Bq3EQM complete.
+
+2021-02-28 19:56:52,545 - Command: close
+2021-02-28 19:56:52,546 - 
+Log Ended.
+Total time: 0 hrs 56 min 25.70 sec
+

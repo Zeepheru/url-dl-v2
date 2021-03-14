@@ -1,0 +1,237 @@
+2021-03-14 20:46:54,348 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-14 20:46:57,535 - Command: dl -youtube https://www.youtube.com/c/ZUTOMAYO
+2021-03-14 20:46:57,537 - youtube link
+2021-03-14 20:46:58,817 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:46:58,819 - Channel has 21 videos downloaded.
+2021-03-14 20:46:58,819 - Scraping for id: wQPgM-9LatM
+2021-03-14 20:46:59,680 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:46:59,680 - Scraping for id: BCZZogDJJgk
+2021-03-14 20:47:00,144 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:00,144 - Scraping for id: ER4Xykgdono
+2021-03-14 20:47:00,528 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:00,528 - Scraping for id: dcOwj-QE_ZE
+2021-03-14 20:47:01,041 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:01,041 - Scraping for id: 258qUAI7rck
+2021-03-14 20:47:01,625 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:01,625 - Scraping for id: ugpywe34_30
+2021-03-14 20:47:02,097 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:02,098 - Scraping for id: ouLndhBRL4w
+2021-03-14 20:47:02,628 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:02,629 - Scraping for id: COll6PdtI5w
+2021-03-14 20:47:03,193 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:03,193 - Scraping for id: I88PrE-KUPk
+2021-03-14 20:47:03,882 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:03,883 - Scraping for id: Atvsg_zogxo
+2021-03-14 20:47:04,355 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:04,355 - Scraping for id: ubrovjZUi64
+2021-03-14 20:47:04,896 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:04,896 - Scraping for id: Qw-FSw7d2zE
+2021-03-14 20:47:05,303 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:05,303 - Scraping for id: PwVFxexqenE
+2021-03-14 20:47:05,689 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:05,689 - Scraping for id: ElnxZtiBDvs
+2021-03-14 20:47:06,230 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:06,230 - Scraping for id: mlA-Z7zSLHU
+2021-03-14 20:47:06,682 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:06,682 - Scraping for id: iyCRK5WfFOI
+2021-03-14 20:47:07,222 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:07,223 - Scraping for id: 7kUbX4DoZoc
+2021-03-14 20:47:07,823 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-14 20:47:07,823 - Scraping for id: VJy8qZ77bpE
+2021-03-14 20:47:13,183 - Expecting ',' delimiter: line 1 column 68179 (char 68178)
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 290, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 66948 (char 66947)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 293, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67024 (char 67023)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 296, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 68168 (char 68167)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 227, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 298, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67610 (char 67609)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 290, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67910 (char 67909)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 293, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67831 (char 67830)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 296, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67881 (char 67880)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 231, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 298, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67776 (char 67775)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 290, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67069 (char 67068)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 293, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 67838 (char 67837)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 296, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 68598 (char 68597)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\main.py", line 239, in <module>
+    parse_input()
+  File "c:\Utilities\Scripts\url-dl-v2\main.py", line 122, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 233, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 298, in extract_video_info
+    test = scrape_yt_link(url)
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 285, in scrape_yt_link
+    test = json.loads(test) #Sometimes errors, best to just reload
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 1 column 68179 (char 68178)
+2021-03-14 20:47:13,195 - 
+Log Ended.
+Total time: 0 hrs 0 min 18.85 sec
+

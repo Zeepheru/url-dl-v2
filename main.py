@@ -39,6 +39,7 @@ load_json - loads download info from a parsed download.json, in the default json
 
 dl - downloads single link behind, or:
 dl -derpi - special Derpibooru downloader, (WIP)
+    For batch download of images, add image tag (up to a 7 digit integer), or image link into a list (python syntax: [])
 dl -youtube - idk what the hell to do here for now.
 """
     while 1 > 0:
