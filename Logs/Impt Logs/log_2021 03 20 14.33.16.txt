@@ -1,0 +1,315 @@
+2021-03-20 14:33:16,063 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-20 14:33:17,090 - Command: run
+2021-03-20 14:33:17,092 - Current: https://youtu.be/9ZmQR9ApBD4 
+2021-03-20 14:33:17,093 - youtube link
+2021-03-20 14:33:18,591 - Scraping for id: 9ZmQR9ApBD4
+2021-03-20 14:33:19,013 - ! Video (https://youtu.be/9ZmQR9ApBD4|6a3yka ft. SilverTatsu (RUS Cover) - Time To Be Awesome) undownloadable - cipher needed.
+2021-03-20 14:33:19,014 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:33:22,378 - Done downloading audio.
+2021-03-20 14:33:28,060 - Done downloading audio.
+2021-03-20 14:33:28,061 - Creating download information json.
+2021-03-20 14:33:28,061 - Writing text file.
+2021-03-20 14:33:28,062 - Downloading: 6a3yka ft. SilverTatsu (RUS Cover) - Time To Be Awesome - Thumbnail.png
+2021-03-20 14:33:28,421 - Download for https://youtu.be/9ZmQR9ApBD4 complete.
+
+2021-03-20 14:33:28,422 - Current: https://youtu.be/E80taMLM4C4 
+2021-03-20 14:33:28,422 - youtube link
+2021-03-20 14:33:28,423 - Scraping for id: E80taMLM4C4
+2021-03-20 14:33:29,157 - ! Video (https://youtu.be/E80taMLM4C4|Let's Install Bitwarden on Docker and Nginx) undownloadable - cipher needed.
+2021-03-20 14:33:29,157 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:33:30,187 - Done downloading audio.
+2021-03-20 14:33:41,632 - Done downloading audio.
+2021-03-20 14:33:41,633 - Creating download information json.
+2021-03-20 14:33:41,634 - Writing text file.
+2021-03-20 14:33:41,634 - Downloading: Let's Install Bitwarden on Docker and Nginx - Thumbnail.png
+2021-03-20 14:33:42,115 - Download for https://youtu.be/E80taMLM4C4 complete.
+
+2021-03-20 14:33:42,116 - Current: https://www.youtube.com/watch?v=miCVIMd-56Q 
+2021-03-20 14:33:42,117 - youtube link
+2021-03-20 14:33:42,117 - Scraping for id: miCVIMd-56Q
+2021-03-20 14:33:42,522 - ! Video (https://youtu.be/miCVIMd-56Q|Yona (Remastered)  By Voltex Pixel   MY LITTLE PONY Fan-made Music ) undownloadable - cipher needed.
+2021-03-20 14:33:42,524 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:33:43,187 - Done downloading audio.
+2021-03-20 14:33:49,464 - Done downloading audio.
+2021-03-20 14:33:49,464 - Creating download information json.
+2021-03-20 14:33:49,465 - Writing text file.
+2021-03-20 14:33:49,465 - Downloading: Yona (Remastered)  By Voltex Pixel   MY LITTLE PONY Fan-made Music  - Thumbnail.png
+2021-03-20 14:33:49,922 - Download for https://www.youtube.com/watch?v=miCVIMd-56Q complete.
+
+2021-03-20 14:33:49,924 - Current: https://www.youtube.com/watch?v=poHS5TIHZRk 
+2021-03-20 14:33:49,924 - youtube link
+2021-03-20 14:33:49,924 - Scraping for id: poHS5TIHZRk
+2021-03-20 14:33:50,641 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:33:50,641 - ! Video (https://youtu.be/poHS5TIHZRk|Resonate _ Animation Meme (MLP Tribute)) undownloadable - cipher needed.
+2021-03-20 14:33:50,641 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:33:51,254 - Done downloading audio.
+2021-03-20 14:33:52,827 - Done downloading audio.
+2021-03-20 14:33:52,827 - Creating download information json.
+2021-03-20 14:33:52,828 - Writing text file.
+2021-03-20 14:33:52,828 - Downloading: Resonate _ Animation Meme (MLP Tribute) - Thumbnail.png
+2021-03-20 14:33:52,874 - Download for https://www.youtube.com/watch?v=poHS5TIHZRk complete.
+
+2021-03-20 14:33:52,875 - Current: https://youtu.be/63Yzx4CNSI4 
+2021-03-20 14:33:52,876 - youtube link
+2021-03-20 14:33:52,876 - Scraping for id: 63Yzx4CNSI4
+2021-03-20 14:33:53,322 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:33:53,323 - ! Video (https://youtu.be/63Yzx4CNSI4|MelodyBrony - ONWARD [G5 SONG]) undownloadable - cipher needed.
+2021-03-20 14:33:53,323 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:33:54,597 - Done downloading audio.
+2021-03-20 14:34:10,796 - Done downloading audio.
+2021-03-20 14:34:10,797 - Creating download information json.
+2021-03-20 14:34:10,798 - Writing text file.
+2021-03-20 14:34:10,798 - Downloading: MelodyBrony - ONWARD [G5 SONG] - Thumbnail.png
+2021-03-20 14:34:11,265 - Download for https://youtu.be/63Yzx4CNSI4 complete.
+
+2021-03-20 14:34:11,266 - Current: https://www.youtube.com/watch?v=DueMN4SC4tU 
+2021-03-20 14:34:11,266 - youtube link
+2021-03-20 14:34:11,267 - Scraping for id: DueMN4SC4tU
+2021-03-20 14:34:11,684 - ! Video (https://youtu.be/DueMN4SC4tU|CHRISSY (Original by Forest Rain)) undownloadable - cipher needed.
+2021-03-20 14:34:11,684 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:14,688 - Done downloading audio.
+2021-03-20 14:34:20,750 - Done downloading audio.
+2021-03-20 14:34:20,750 - Creating download information json.
+2021-03-20 14:34:20,751 - Writing text file.
+2021-03-20 14:34:20,751 - Downloading: CHRISSY (Original by Forest Rain) - Thumbnail.png
+2021-03-20 14:34:21,019 - Download for https://www.youtube.com/watch?v=DueMN4SC4tU complete.
+
+2021-03-20 14:34:21,021 - Current: https://youtu.be/krMM6bV_OCc 
+2021-03-20 14:34:21,022 - youtube link
+2021-03-20 14:34:21,022 - Scraping for id: krMM6bV_OCc
+2021-03-20 14:34:21,444 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:34:21,444 - ! Video (https://youtu.be/krMM6bV_OCc|Musicaura) undownloadable - cipher needed.
+2021-03-20 14:34:21,444 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:23,052 - Done downloading audio.
+2021-03-20 14:34:27,078 - Done downloading audio.
+2021-03-20 14:34:27,079 - Creating download information json.
+2021-03-20 14:34:27,080 - Writing text file.
+2021-03-20 14:34:27,080 - Downloading: Musicaura - Thumbnail.png
+2021-03-20 14:34:27,535 - Download for https://youtu.be/krMM6bV_OCc complete.
+
+2021-03-20 14:34:27,535 - Current: https://youtu.be/s0Hzi9Y4Z_o 
+2021-03-20 14:34:27,536 - youtube link
+2021-03-20 14:34:27,536 - Scraping for id: s0Hzi9Y4Z_o
+2021-03-20 14:34:27,905 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:34:27,905 - ! Video (https://youtu.be/s0Hzi9Y4Z_o|My Little Pony Friendship is Magic Theme Tune; DANIEL INGRAM ~ Piano and Orchestra Fan Art) undownloadable - cipher needed.
+2021-03-20 14:34:27,906 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:30,127 - Done downloading audio.
+2021-03-20 14:34:41,405 - Done downloading audio.
+2021-03-20 14:34:41,406 - Creating download information json.
+2021-03-20 14:34:41,407 - Writing text file.
+2021-03-20 14:34:41,407 - Downloading: My Little Pony Friendship is Magic Theme Tune; DANIEL INGRAM ~ Piano and Orchestra Fan Art - Thumbnail.png
+2021-03-20 14:34:41,824 - Download for https://youtu.be/s0Hzi9Y4Z_o complete.
+
+2021-03-20 14:34:41,826 - Current: https://youtu.be/812IIH7okA0 
+2021-03-20 14:34:41,827 - youtube link
+2021-03-20 14:34:41,827 - Scraping for id: 812IIH7okA0
+2021-03-20 14:34:42,501 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:34:42,502 - ! Video (https://youtu.be/812IIH7okA0|Rainbow Roadtrip - Opening Song (JTH Remix)) undownloadable - cipher needed.
+2021-03-20 14:34:42,502 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:43,160 - Done downloading audio.
+2021-03-20 14:34:48,495 - Done downloading audio.
+2021-03-20 14:34:48,496 - Creating download information json.
+2021-03-20 14:34:48,497 - Writing text file.
+2021-03-20 14:34:48,497 - Downloading: Rainbow Roadtrip - Opening Song (JTH Remix) - Thumbnail.png
+2021-03-20 14:34:48,764 - Download for https://youtu.be/812IIH7okA0 complete.
+
+2021-03-20 14:34:48,765 - Current: https://youtu.be/tew0rWgRBBw 
+2021-03-20 14:34:48,766 - youtube link
+2021-03-20 14:34:48,766 - Scraping for id: tew0rWgRBBw
+2021-03-20 14:34:49,493 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:34:49,493 - ! Video (https://youtu.be/tew0rWgRBBw|My past is not today- (Cover)) undownloadable - cipher needed.
+2021-03-20 14:34:49,493 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:51,905 - Done downloading audio.
+2021-03-20 14:34:55,579 - Done downloading audio.
+2021-03-20 14:34:55,580 - Creating download information json.
+2021-03-20 14:34:55,580 - Writing text file.
+2021-03-20 14:34:55,580 - Downloading: My past is not today- (Cover) - Thumbnail.png
+2021-03-20 14:34:56,010 - Download for https://youtu.be/tew0rWgRBBw complete.
+
+2021-03-20 14:34:56,011 - Current: https://www.youtube.com/watch?v=xlCcfxPd2xI 
+2021-03-20 14:34:56,012 - youtube link
+2021-03-20 14:34:56,012 - Scraping for id: xlCcfxPd2xI
+2021-03-20 14:34:56,406 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:34:56,406 - ! Video (https://youtu.be/xlCcfxPd2xI|TRIXIE'S GREAT AND POWERFUL WINKS) undownloadable - cipher needed.
+2021-03-20 14:34:56,407 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:34:58,420 - Done downloading audio.
+2021-03-20 14:35:02,274 - Done downloading audio.
+2021-03-20 14:35:02,275 - Creating download information json.
+2021-03-20 14:35:02,276 - Writing text file.
+2021-03-20 14:35:02,276 - Downloading: TRIXIE'S GREAT AND POWERFUL WINKS - Thumbnail.png
+2021-03-20 14:35:02,400 - Download for https://www.youtube.com/watch?v=xlCcfxPd2xI complete.
+
+2021-03-20 14:35:02,402 - Current: https://www.youtube.com/watch?v=7ccjPJUROzA 
+2021-03-20 14:35:02,403 - youtube link
+2021-03-20 14:35:02,403 - Scraping for id: 7ccjPJUROzA
+2021-03-20 14:35:02,945 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:02,945 - ! Video (https://youtu.be/7ccjPJUROzA|PCK - Singapore Be Steady!) undownloadable - cipher needed.
+2021-03-20 14:35:02,945 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:03,572 - Done downloading audio.
+2021-03-20 14:35:05,838 - Done downloading audio.
+2021-03-20 14:35:05,838 - Creating download information json.
+2021-03-20 14:35:05,839 - Writing text file.
+2021-03-20 14:35:05,840 - Downloading: PCK - Singapore Be Steady! - Thumbnail.png
+2021-03-20 14:35:05,889 - Download for https://www.youtube.com/watch?v=7ccjPJUROzA complete.
+
+2021-03-20 14:35:05,890 - Current: https://m.youtube.com/watch?v=ulteZYyWAA8 
+2021-03-20 14:35:05,891 - youtube link
+2021-03-20 14:35:05,891 - Scraping for id: ulteZYyWAA8
+2021-03-20 14:35:06,870 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 227, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 305, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 231, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 305, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 176, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 233, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 305, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-03-20 14:35:06,875 - Current: https://youtu.be/zbbG__QjNNg 
+2021-03-20 14:35:06,875 - youtube link
+2021-03-20 14:35:06,876 - Scraping for id: zbbG__QjNNg
+2021-03-20 14:35:07,606 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:07,606 - ! Video (https://youtu.be/zbbG__QjNNg|Kirin) undownloadable - cipher needed.
+2021-03-20 14:35:07,606 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:09,394 - Done downloading audio.
+2021-03-20 14:35:13,895 - Done downloading audio.
+2021-03-20 14:35:13,895 - Creating download information json.
+2021-03-20 14:35:13,896 - Writing text file.
+2021-03-20 14:35:13,896 - Downloading: Kirin - Thumbnail.png
+2021-03-20 14:35:14,171 - Download for https://youtu.be/zbbG__QjNNg complete.
+
+2021-03-20 14:35:14,172 - Current: https://youtu.be/QKeMCXKSk5c 
+2021-03-20 14:35:14,172 - youtube link
+2021-03-20 14:35:14,173 - Scraping for id: QKeMCXKSk5c
+2021-03-20 14:35:14,612 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:14,612 - ! Video (https://youtu.be/QKeMCXKSk5c|Avast Fluttershy's Ass - 20% Cooler Yay Equaliser Edition) undownloadable - cipher needed.
+2021-03-20 14:35:14,613 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:15,037 - ERROR: Error in output template: unsupported format character 'C' (0x43) at index 75 (encoding: 'cp1252')
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 714, in prepare_filename
+    filename = expand_path(outtmpl).replace(sep, '') % template_dict
+ValueError: unsupported format character 'C' (0x43) at index 75
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 176, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 238, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 487, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 75, in youtube_dl_backup
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2055, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1679, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1786, in process_info
+    info_dict['_filename'] = filename = self.prepare_filename(info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 723, in prepare_filename
+    self.report_error('Error in output template: ' + str(err) + ' (encoding: ' + repr(preferredencoding()) + ')')
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: Error in output template: unsupported format character 'C' (0x43) at index 75 (encoding: 'cp1252')
+2021-03-20 14:35:15,048 - Current: https://www.youtube.com/watch?v=oKAwx4DVr9s&feature=youtu.be 
+2021-03-20 14:35:15,048 - youtube link
+2021-03-20 14:35:15,049 - Scraping for id: oKAwx4DVr9s
+2021-03-20 14:35:15,397 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:15,397 - ! Video (https://youtu.be/oKAwx4DVr9s|Original Song Midnight Frenzy - Duo Cartoonist - ft. Emily Koch and Spiral Harmonies) undownloadable - cipher needed.
+2021-03-20 14:35:15,398 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:16,131 - Done downloading audio.
+2021-03-20 14:35:19,464 - Done downloading audio.
+2021-03-20 14:35:19,465 - Creating download information json.
+2021-03-20 14:35:19,466 - Writing text file.
+2021-03-20 14:35:19,466 - Downloading: Original Song Midnight Frenzy - Duo Cartoonist - ft. Emily Koch and Spiral Harmonies - Thumbnail.png
+2021-03-20 14:35:19,677 - Download for https://www.youtube.com/watch?v=oKAwx4DVr9s&feature=youtu.be complete.
+
+2021-03-20 14:35:19,678 - Current: https://youtu.be/eOm-Q2aie_s 
+2021-03-20 14:35:19,679 - youtube link
+2021-03-20 14:35:19,679 - Scraping for id: eOm-Q2aie_s
+2021-03-20 14:35:20,046 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:20,046 - ! Video (https://youtu.be/eOm-Q2aie_s|NeverLastStanding - Fire Heart [Electro]) undownloadable - cipher needed.
+2021-03-20 14:35:20,047 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:20,741 - Done downloading audio.
+2021-03-20 14:35:26,220 - Done downloading audio.
+2021-03-20 14:35:26,221 - Creating download information json.
+2021-03-20 14:35:26,222 - Writing text file.
+2021-03-20 14:35:26,222 - Downloading: NeverLastStanding - Fire Heart [Electro] - Thumbnail.png
+2021-03-20 14:35:26,285 - Download for https://youtu.be/eOm-Q2aie_s complete.
+
+2021-03-20 14:35:26,287 - Current: https://www.youtube.com/watch?v=vk00EVdG7-4 
+2021-03-20 14:35:26,287 - youtube link
+2021-03-20 14:35:26,288 - Scraping for id: vk00EVdG7-4
+2021-03-20 14:35:26,698 - ! Video (https://youtu.be/vk00EVdG7-4|Komm, Ssser Tod - The End of Evangelion (Cover)) undownloadable - cipher needed.
+2021-03-20 14:35:26,698 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:27,349 - Done downloading audio.
+2021-03-20 14:35:32,471 - Done downloading audio.
+2021-03-20 14:35:32,471 - Creating download information json.
+2021-03-20 14:35:32,472 - Writing text file.
+2021-03-20 14:35:32,472 - Downloading: Komm, Ssser Tod - The End of Evangelion (Cover) - Thumbnail.png
+2021-03-20 14:35:32,617 - Download for https://www.youtube.com/watch?v=vk00EVdG7-4 complete.
+
+2021-03-20 14:35:32,618 - Current: https://youtu.be/AZoBuqOP1mI 
+2021-03-20 14:35:32,619 - youtube link
+2021-03-20 14:35:32,619 - Scraping for id: AZoBuqOP1mI
+2021-03-20 14:35:33,001 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:35:33,001 - ! Video (https://youtu.be/AZoBuqOP1mI|Was It Something I Said Uncut S01E04) undownloadable - cipher needed.
+2021-03-20 14:35:33,002 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:35:34,772 - Done downloading audio.
+2021-03-20 14:36:03,961 - Done downloading audio.
+2021-03-20 14:36:03,961 - Creating download information json.
+2021-03-20 14:36:03,962 - Writing text file.
+2021-03-20 14:36:03,962 - Downloading: Was It Something I Said Uncut S01E04 - Thumbnail.png
+2021-03-20 14:36:04,008 - Download for https://youtu.be/AZoBuqOP1mI complete.
+
+2021-03-20 14:36:04,009 - Current: https://www.youtube.com/watch?v=6Hj6hPqKiS4 
+2021-03-20 14:36:04,009 - youtube link
+2021-03-20 14:36:04,010 - Scraping for id: 6Hj6hPqKiS4
+2021-03-20 14:36:04,407 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-20 14:36:04,407 - ! Video (https://youtu.be/6Hj6hPqKiS4|Cowboy Bebop OST) undownloadable - cipher needed.
+2021-03-20 14:36:04,407 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-20 14:36:06,781 - Done downloading audio.
+2021-03-20 14:36:52,853 - Done downloading audio.
+2021-03-20 14:36:52,853 - Creating download information json.
+2021-03-20 14:36:52,854 - Writing text file.
+2021-03-20 14:36:52,854 - Downloading: Cowboy Bebop OST - Thumbnail.png
+2021-03-20 14:36:52,901 - Download for https://www.youtube.com/watch?v=6Hj6hPqKiS4 complete.
+
+2021-03-20 14:38:43,379 - Command: close
+2021-03-20 14:38:43,379 - 
+Log Ended.
+Total time: 0 hrs 5 min 27.32 sec
+
