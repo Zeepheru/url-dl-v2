@@ -1,0 +1,113 @@
+2021-03-27 16:41:07,749 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 16:41:08,786 - Command: run
+2021-03-27 16:41:08,787 - Current: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg 
+2021-03-27 16:41:08,787 - youtube link
+2021-03-27 16:41:09,433 - file_cache is only supported with oauth2client<4.0.0
+2021-03-27 16:41:09,692 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 16:41:09,693 - Channel video counts differ (68, 68).
+2021-03-27 16:41:09,693 - Channel has 68 videos downloaded.
+2021-03-27 16:41:09,693 - Scraping for id: -_XFArcUtrA
+2021-03-27 16:41:10,119 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:10,119 - Scraping for id: RaIl_146p-Q
+2021-03-27 16:41:10,492 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:10,492 - Scraping for id: ARqmJyMOZtA
+2021-03-27 16:41:10,837 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:10,838 - Scraping for id: vMLvzSH1Jok
+2021-03-27 16:41:11,399 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:11,400 - Scraping for id: O4vHgFY7TSA
+2021-03-27 16:41:11,765 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:11,765 - Scraping for id: 9o19EaposFE
+2021-03-27 16:41:12,145 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:12,145 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 16:41:12,528 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:12,528 - Scraping for id: PW6lg-7L7yk
+2021-03-27 16:41:12,925 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:12,926 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 16:41:13,274 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:13,275 - Scraping for id: c75SYmKBTS0
+2021-03-27 16:41:13,704 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:13,704 - Scraping for id: jBEEUPjqu-s
+2021-03-27 16:41:14,078 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:14,078 - Scraping for id: pOJUJKCpG2k
+2021-03-27 16:41:14,431 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:14,431 - Scraping for id: FlmuM1h13rs
+2021-03-27 16:41:14,763 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:14,763 - Scraping for id: J7lxO7vlbmA
+2021-03-27 16:41:15,135 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:15,135 - Scraping for id: chlF5oubFHU
+2021-03-27 16:41:15,552 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:15,552 - Scraping for id: azThd0R7Bt0
+2021-03-27 16:41:15,909 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:15,910 - Scraping for id: KzUfAnhRjmw
+2021-03-27 16:41:16,252 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:16,252 - Scraping for id: gkx-OF5XkMk
+2021-03-27 16:41:16,609 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:16,610 - Scraping for id: xVodkE47aLw
+2021-03-27 16:41:16,983 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:16,984 - Scraping for id: VbfSlTIfMig
+2021-03-27 16:41:17,331 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:17,331 - Scraping for id: fwOOalYd5TQ
+2021-03-27 16:41:17,985 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:17,985 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 16:41:18,307 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:18,307 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 16:41:18,666 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:18,666 - Scraping for id: sWvagC5ccyY
+2021-03-27 16:41:19,024 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:19,024 - Scraping for id: YVaMNHQQCs0
+2021-03-27 16:41:19,376 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:19,376 - Scraping for id: f7Qop_64qqk
+2021-03-27 16:41:19,716 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:19,717 - Scraping for id: F1y-2CUetwM
+2021-03-27 16:41:20,129 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:20,130 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 16:41:20,493 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:20,493 - Scraping for id: iz1sMv5C60Q
+2021-03-27 16:41:20,830 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:20,831 - Scraping for id: 2bvltmNno_A
+2021-03-27 16:41:21,250 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:21,250 - Scraping for id: B4nYxtLsTj0
+2021-03-27 16:41:21,660 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:21,660 - Scraping for id: i5OkTfOLqx8
+2021-03-27 16:41:22,021 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:22,021 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 16:41:22,335 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:22,335 - Scraping for id: xHqzUTTZWyI
+2021-03-27 16:41:22,689 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:22,689 - Scraping for id: lonzTuWd3Xk
+2021-03-27 16:41:23,072 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:23,072 - Scraping for id: b_WhhRshZCg
+2021-03-27 16:41:23,434 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:23,434 - Scraping for id: hGgu07xhdHQ
+2021-03-27 16:41:23,791 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:23,791 - Scraping for id: V0Si76AlRU4
+2021-03-27 16:41:24,197 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:24,197 - Scraping for id: qW48CIGuvZE
+2021-03-27 16:41:24,547 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:24,547 - Scraping for id: M9z87U9yn0Y
+2021-03-27 16:41:24,893 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:24,893 - Scraping for id: 34rdxDgpaaA
+2021-03-27 16:41:25,229 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:25,229 - Scraping for id: o1HT8Gaykjo
+2021-03-27 16:41:25,570 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:25,570 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 16:41:26,033 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:26,033 - Scraping for id: vCKVreNqMjI
+2021-03-27 16:41:26,428 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:26,428 - Scraping for id: g_vUw_AnCe4
+2021-03-27 16:41:26,800 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:26,800 - Scraping for id: ciF1p_GMrmw
+2021-03-27 16:41:27,166 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:27,166 - Scraping for id: QueMqRjW5Eo
+2021-03-27 16:41:27,493 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:27,493 - Scraping for id: vxv04lgJYVs
+2021-03-27 16:41:27,871 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:27,871 - Scraping for id: 38-MKEap0AQ
+2021-03-27 16:41:28,252 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 16:41:28,252 - Scraping for id: 2yXmFVTeprU

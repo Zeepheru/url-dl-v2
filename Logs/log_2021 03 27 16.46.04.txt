@@ -1,0 +1,260 @@
+2021-03-27 16:46:04,286 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 16:46:05,605 - Command: run
+2021-03-27 16:46:05,606 - Current: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg 
+2021-03-27 16:46:05,606 - youtube link
+2021-03-27 16:46:06,281 - file_cache is only supported with oauth2client<4.0.0
+2021-03-27 16:46:06,503 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 16:46:06,504 - Channel has 68 videos downloaded.
+2021-03-27 16:46:06,504 - Scraping for id: -_XFArcUtrA
+2021-03-27 16:46:06,956 - Scraping for id: RaIl_146p-Q
+2021-03-27 16:46:07,294 - Scraping for id: ARqmJyMOZtA
+2021-03-27 16:46:07,630 - Scraping for id: vMLvzSH1Jok
+2021-03-27 16:46:07,976 - Scraping for id: O4vHgFY7TSA
+2021-03-27 16:46:08,352 - Scraping for id: 9o19EaposFE
+2021-03-27 16:46:08,689 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 16:46:09,009 - Scraping for id: PW6lg-7L7yk
+2021-03-27 16:46:09,357 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 16:46:09,730 - Scraping for id: c75SYmKBTS0
+2021-03-27 16:46:10,134 - Scraping for id: jBEEUPjqu-s
+2021-03-27 16:46:10,529 - Scraping for id: pOJUJKCpG2k
+2021-03-27 16:46:10,889 - Scraping for id: FlmuM1h13rs
+2021-03-27 16:46:11,257 - Scraping for id: J7lxO7vlbmA
+2021-03-27 16:46:11,666 - Scraping for id: chlF5oubFHU
+2021-03-27 16:46:12,033 - Scraping for id: azThd0R7Bt0
+2021-03-27 16:46:12,369 - Scraping for id: KzUfAnhRjmw
+2021-03-27 16:46:12,740 - Scraping for id: gkx-OF5XkMk
+2021-03-27 16:46:13,069 - Scraping for id: xVodkE47aLw
+2021-03-27 16:46:13,406 - Scraping for id: VbfSlTIfMig
+2021-03-27 16:46:13,940 - Scraping for id: fwOOalYd5TQ
+2021-03-27 16:46:14,659 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 16:46:15,005 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 16:46:15,350 - Scraping for id: sWvagC5ccyY
+2021-03-27 16:46:15,757 - Scraping for id: YVaMNHQQCs0
+2021-03-27 16:46:16,304 - Scraping for id: f7Qop_64qqk
+2021-03-27 16:46:16,647 - Scraping for id: F1y-2CUetwM
+2021-03-27 16:46:16,988 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 16:46:17,354 - Scraping for id: iz1sMv5C60Q
+2021-03-27 16:46:17,751 - Scraping for id: 2bvltmNno_A
+2021-03-27 16:46:18,091 - Scraping for id: B4nYxtLsTj0
+2021-03-27 16:46:18,623 - Scraping for id: i5OkTfOLqx8
+2021-03-27 16:46:19,185 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 16:46:19,529 - Scraping for id: xHqzUTTZWyI
+2021-03-27 16:46:20,074 - Scraping for id: lonzTuWd3Xk
+2021-03-27 16:46:20,440 - Scraping for id: b_WhhRshZCg
+2021-03-27 16:46:20,803 - Scraping for id: hGgu07xhdHQ
+2021-03-27 16:46:21,142 - Scraping for id: V0Si76AlRU4
+2021-03-27 16:46:21,567 - Scraping for id: qW48CIGuvZE
+2021-03-27 16:46:21,919 - Scraping for id: M9z87U9yn0Y
+2021-03-27 16:46:22,351 - Scraping for id: 34rdxDgpaaA
+2021-03-27 16:46:22,724 - Scraping for id: o1HT8Gaykjo
+2021-03-27 16:46:23,120 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 16:46:23,719 - Scraping for id: vCKVreNqMjI
+2021-03-27 16:46:24,098 - Scraping for id: g_vUw_AnCe4
+2021-03-27 16:46:24,408 - Scraping for id: ciF1p_GMrmw
+2021-03-27 16:46:24,752 - Scraping for id: QueMqRjW5Eo
+2021-03-27 16:46:25,101 - Scraping for id: vxv04lgJYVs
+2021-03-27 16:46:25,438 - Scraping for id: 38-MKEap0AQ
+2021-03-27 16:46:25,827 - Scraping for id: 2yXmFVTeprU
+2021-03-27 16:46:26,133 - Scraping for id: oifinZTKxKo
+2021-03-27 16:46:26,497 - Scraping for id: dgKU0zu6KB8
+2021-03-27 16:46:26,909 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 16:46:27,209 - Scraping for id: AxA1vb6P2lU
+2021-03-27 16:46:27,545 - Scraping for id: JaRVy31lTlQ
+2021-03-27 16:46:27,889 - Scraping for id: MjSyYRyokPo
+2021-03-27 16:46:28,342 - Scraping for id: G77GkxZrxIs
+2021-03-27 16:46:28,715 - Scraping for id: SjOduiPSF1Q
+2021-03-27 16:46:29,038 - Scraping for id: q3bVHov-D-A
+2021-03-27 16:46:29,454 - Scraping for id: yvM6vaZKKm4
+2021-03-27 16:46:29,842 - Scraping for id: j2BjTfwhbh8
+2021-03-27 16:46:30,194 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 16:46:30,570 - Scraping for id: lMcriPJKPdI
+2021-03-27 16:46:31,004 - Scraping for id: epkCrB8aKXA
+2021-03-27 16:46:31,374 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 16:46:31,739 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 16:46:32,106 - Scraping for id: UdtQi6TEcjs
+2021-03-27 16:46:32,523 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 16:46:33,134 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 16:46:33,134 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:46:33,853 - Done downloading audio.
+2021-03-27 16:47:26,858 - Done downloading audio.
+2021-03-27 16:47:26,859 - ! Video (https://youtu.be/RaIl_146p-Q|Well There's Your Problem   BONUS EPISODE 13 PREVIEW The Bradley Fighting Vehicle) usual forced error.
+2021-03-27 16:47:26,860 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:47:28,527 - Done downloading audio.
+2021-03-27 16:47:34,991 - Done downloading audio.
+2021-03-27 16:47:34,992 - ! Video (https://youtu.be/ARqmJyMOZtA|Well There's Your Problem   Episode 59 Eschede Derailment) usual forced error.
+2021-03-27 16:47:34,992 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:47:39,690 - Done downloading audio.
+2021-03-27 16:49:07,508 - Done downloading audio.
+2021-03-27 16:49:07,509 - ! Video (https://youtu.be/vMLvzSH1Jok|Well There's Your Problem   Episode 58 The Station Nightclub Fire) usual forced error.
+2021-03-27 16:49:07,511 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:49:17,626 - Done downloading audio.
+2021-03-27 16:50:35,760 - Done downloading audio.
+2021-03-27 16:50:35,761 - ! Video (https://youtu.be/O4vHgFY7TSA|Well There's Your Problem   Episode 57 It Snowed in Texas) usual forced error.
+2021-03-27 16:50:35,762 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:51:03,146 - Done downloading audio.
+2021-03-27 16:54:03,681 - Done downloading audio.
+2021-03-27 16:54:03,682 - ! Video (https://youtu.be/9o19EaposFE|Well There's Your Problem   Episode 56 The Vulcan Bridge) usual forced error.
+2021-03-27 16:54:03,682 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:54:28,319 - Done downloading audio.
+2021-03-27 16:56:12,134 - Done downloading audio.
+2021-03-27 16:56:12,135 - ! Video (https://youtu.be/39-S9-ZXzqA|Well There's Your Problem   Episode 55 Kursk Disaster) usual forced error.
+2021-03-27 16:56:12,135 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:56:20,877 - Done downloading audio.
+2021-03-27 16:57:24,872 - Done downloading audio.
+2021-03-27 16:57:24,873 - ! Video (https://youtu.be/PW6lg-7L7yk|Well There's Your Problem   Episode 54 Gulf State Vanity Projects) usual forced error.
+2021-03-27 16:57:24,874 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:58:04,223 - Done downloading audio.
+2021-03-27 16:59:16,498 - ERROR: giving up after 0 retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 307, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 558, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 109, in youtube_dl_backup
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2055, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1679, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1963, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1902, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 363, in real_download
+    self.report_error('giving up after %s retries' % retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 retries
+2021-03-27 16:59:16,502 - Current: https://www.youtube.com/channel/UCk_Xz2CvOZ6VzdxkaDqTz9g 
+2021-03-27 16:59:16,503 - youtube link
+2021-03-27 16:59:16,509 - [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 183, in youtube_extractor
+    response = request.execute()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 905, in execute
+    resp, content = _retry_request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 207, in _retry_request
+    raise exception
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 176, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1708, in request
+    (response, content) = self._request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1424, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1376, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-03-27 16:59:16,516 - Current: https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w 
+2021-03-27 16:59:16,519 - youtube link
+2021-03-27 16:59:16,759 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 16:59:16,760 - Channel has 68 videos downloaded.
+2021-03-27 16:59:16,760 - Scraping for id: -_XFArcUtrA
+2021-03-27 16:59:17,159 - Scraping for id: RaIl_146p-Q
+2021-03-27 16:59:17,549 - Scraping for id: ARqmJyMOZtA
+2021-03-27 16:59:17,947 - Scraping for id: vMLvzSH1Jok
+2021-03-27 16:59:18,342 - Scraping for id: O4vHgFY7TSA
+2021-03-27 16:59:18,673 - Scraping for id: 9o19EaposFE
+2021-03-27 16:59:18,985 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 16:59:19,332 - Scraping for id: PW6lg-7L7yk
+2021-03-27 16:59:19,650 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 16:59:19,999 - Scraping for id: c75SYmKBTS0
+2021-03-27 16:59:20,428 - Scraping for id: jBEEUPjqu-s
+2021-03-27 16:59:20,786 - Scraping for id: pOJUJKCpG2k
+2021-03-27 16:59:21,167 - Scraping for id: FlmuM1h13rs
+2021-03-27 16:59:21,533 - Scraping for id: J7lxO7vlbmA
+2021-03-27 16:59:21,874 - Scraping for id: chlF5oubFHU
+2021-03-27 16:59:22,655 - Scraping for id: azThd0R7Bt0
+2021-03-27 16:59:22,956 - Scraping for id: KzUfAnhRjmw
+2021-03-27 16:59:23,459 - Scraping for id: gkx-OF5XkMk
+2021-03-27 16:59:23,840 - Scraping for id: xVodkE47aLw
+2021-03-27 16:59:24,212 - Scraping for id: VbfSlTIfMig
+2021-03-27 16:59:24,602 - Scraping for id: fwOOalYd5TQ
+2021-03-27 16:59:24,928 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 16:59:25,220 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 16:59:25,570 - Scraping for id: sWvagC5ccyY
+2021-03-27 16:59:25,934 - Scraping for id: YVaMNHQQCs0
+2021-03-27 16:59:26,412 - Scraping for id: f7Qop_64qqk
+2021-03-27 16:59:27,067 - Scraping for id: F1y-2CUetwM
+2021-03-27 16:59:27,434 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 16:59:27,829 - Scraping for id: iz1sMv5C60Q
+2021-03-27 16:59:28,129 - Scraping for id: 2bvltmNno_A
+2021-03-27 16:59:28,472 - Scraping for id: B4nYxtLsTj0
+2021-03-27 16:59:28,918 - Scraping for id: i5OkTfOLqx8
+2021-03-27 16:59:29,329 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 16:59:29,681 - Scraping for id: xHqzUTTZWyI
+2021-03-27 16:59:30,054 - Scraping for id: lonzTuWd3Xk
+2021-03-27 16:59:30,456 - Scraping for id: b_WhhRshZCg
+2021-03-27 16:59:30,805 - Scraping for id: hGgu07xhdHQ
+2021-03-27 16:59:31,251 - Scraping for id: V0Si76AlRU4
+2021-03-27 16:59:31,667 - Scraping for id: qW48CIGuvZE
+2021-03-27 16:59:32,041 - Scraping for id: M9z87U9yn0Y
+2021-03-27 16:59:32,423 - Scraping for id: 34rdxDgpaaA
+2021-03-27 16:59:32,820 - Scraping for id: o1HT8Gaykjo
+2021-03-27 16:59:33,147 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 16:59:33,646 - Scraping for id: vCKVreNqMjI
+2021-03-27 16:59:34,009 - Scraping for id: g_vUw_AnCe4
+2021-03-27 16:59:34,353 - Scraping for id: ciF1p_GMrmw
+2021-03-27 16:59:34,710 - Scraping for id: QueMqRjW5Eo
+2021-03-27 16:59:35,095 - Scraping for id: vxv04lgJYVs
+2021-03-27 16:59:35,449 - Scraping for id: 38-MKEap0AQ
+2021-03-27 16:59:35,816 - Scraping for id: 2yXmFVTeprU
+2021-03-27 16:59:36,183 - Scraping for id: oifinZTKxKo
+2021-03-27 16:59:36,541 - Scraping for id: dgKU0zu6KB8
+2021-03-27 16:59:36,881 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 16:59:37,217 - Scraping for id: AxA1vb6P2lU
+2021-03-27 16:59:37,556 - Scraping for id: JaRVy31lTlQ
+2021-03-27 16:59:37,985 - Scraping for id: MjSyYRyokPo
+2021-03-27 16:59:38,355 - Scraping for id: G77GkxZrxIs
+2021-03-27 16:59:38,736 - Scraping for id: SjOduiPSF1Q
+2021-03-27 16:59:39,112 - Scraping for id: q3bVHov-D-A
+2021-03-27 16:59:39,449 - Scraping for id: yvM6vaZKKm4
+2021-03-27 16:59:39,795 - Scraping for id: j2BjTfwhbh8
+2021-03-27 16:59:40,174 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 16:59:40,476 - Scraping for id: lMcriPJKPdI
+2021-03-27 16:59:40,889 - Scraping for id: epkCrB8aKXA
+2021-03-27 16:59:41,269 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 16:59:41,603 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 16:59:41,934 - Scraping for id: UdtQi6TEcjs
+2021-03-27 16:59:42,270 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 16:59:42,703 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 16:59:42,703 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 16:59:46,626 - Done downloading audio.

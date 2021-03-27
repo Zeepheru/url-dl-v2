@@ -1,27 +1,27 @@
 {
     "debug": {
-        "download": false,
-        "print download info": false,
-        "export download info": false,
         "autocommand": "",
-        "descriptions only": false
+        "descriptions only": false,
+        "download": false,
+        "export download info": false,
+        "print download info": false
     },
     "directories": {
+        "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json",
         "main": "C:\\Utilities\\Scripts\\url-dl-v2",
         "output": "C:\\Utilities\\Scripts\\url-dl-v2 output",
         "output folders": {
             "bandcamp": [],
             "derpibooru": [],
             "deviantart": [],
+            "json": [],
+            "mediafire": [],
             "other": [],
             "soundcloud": [],
             "youtube": [
                 "channels"
-            ],
-            "json": [],
-            "mediafire": []
-        },
-        "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json"
+            ]
+        }
     },
     "get best stream": true,
     "max download": 20000

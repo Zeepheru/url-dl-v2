@@ -1,0 +1,89 @@
+2021-03-27 16:41:00,675 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 16:41:02,119 - Command: run
+2021-03-27 16:41:02,120 - Current: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg 
+2021-03-27 16:41:02,120 - youtube link
+2021-03-27 16:41:02,763 - file_cache is only supported with oauth2client<4.0.0
+2021-03-27 16:41:02,976 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:02,978 - Current: https://www.youtube.com/channel/UCk_Xz2CvOZ6VzdxkaDqTz9g 
+2021-03-27 16:41:02,978 - youtube link
+2021-03-27 16:41:03,185 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:03,188 - Current: https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w 
+2021-03-27 16:41:03,188 - youtube link
+2021-03-27 16:41:03,381 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:03,384 - Current: https://www.youtube.com/channel/UCEe_5rnLszBINYHjgDqcfRg 
+2021-03-27 16:41:03,384 - youtube link
+2021-03-27 16:41:03,569 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:03,571 - Current: https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw 
+2021-03-27 16:41:03,572 - youtube link
+2021-03-27 16:41:03,780 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:03,783 - Current: https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA 
+2021-03-27 16:41:03,783 - youtube link
+2021-03-27 16:41:04,047 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:04,050 - Current: https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww 
+2021-03-27 16:41:04,050 - youtube link
+2021-03-27 16:41:04,284 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:04,287 - Current: https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg 
+2021-03-27 16:41:04,287 - youtube link
+2021-03-27 16:41:04,521 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined
+2021-03-27 16:41:04,525 - Current: https://www.youtube.com/channel/UCkg5I1Z4sKGyBLC5nAOLz3A 
+2021-03-27 16:41:04,525 - youtube link
+2021-03-27 16:41:04,771 - name 'dl_loger' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 224, in youtube_extractor
+    dl_loger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+NameError: name 'dl_loger' is not defined

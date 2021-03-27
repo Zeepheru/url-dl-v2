@@ -75,6 +75,7 @@ def get_youtube_api(Downloader):
         
 
 def youtube_dl_backup(url,folder_path):
+    
     dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
 
     #audio
@@ -207,6 +208,8 @@ def youtube_extractor(Downloader):
         date_created = response_items["snippet"]["publishedAt"]
         channel_name = response_items["snippet"]["title"]
 
+        data["channel name"] = channel_name
+
         subscribers = response_items["statistics"]["subscriberCount"]
         video_count = response_items["statistics"]["videoCount"]
         view_count = response_items["statistics"]["viewCount"]
@@ -220,10 +223,10 @@ def youtube_extractor(Downloader):
             list_of_ids.append(a)
             id_string += (a + "\n")
 
-        print(data["sub_objects"])
-
-        if len(list_of_ids) != video_count:
-            dl_logger.log_info("Channel video counts differ.")
+        #print(data["sub_objects"])
+        dl_logger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+        if len(list_of_ids) != int(video_count):
+            dl_logger.log_info("Channel video counts differ ({}, {}).".format(len(list_of_ids), video_count))
 
         channel_info_string = """Channel: {channel_name}
 Channel URL: {url}
@@ -256,7 +259,7 @@ Downloaded IDs:
     time = utils.give_me_the_time()
 )
 
-        print(channel_info_string)
+        #print(channel_info_string)
         dl_info = Downloader.objects_list[Downloader.current].download_info
         dl_info.append(os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",channel_name))
         #text file
@@ -426,16 +429,18 @@ def extract_video_info(yt_id):
     video_info["title"] = foo["title"]["simpleText"]
     video_info["title"] = utils.apostrophe(video_info["title"])
     video_info["views"] = foo["viewCount"]
-    try:
-        random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
-        video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
-        #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
-        video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
-        #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
-    except:
-        video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
-        video_info["channel description"] = "unavailable"
-        dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+
+    def what():
+        try:
+            random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
+            video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
+            #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
+            video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
+            #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+        except:
+            video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
+            video_info["channel description"] = "unavailable"
+            dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
 
     for k in dict(video_info):
         video_info[k] = utils.string_escape(video_info[k])
@@ -526,7 +531,7 @@ Streams downloaded: {}, {}
                 "merge audio": None
             })
         else:
-            dl_logger.log_info("! Video ({}|{}) undownloadable - cipher needed.".format(video_info["url"],video_info["title"])) #log some form of error
+            dl_logger.log_info("! Video ({}|{}) usual forced error.".format(video_info["url"],video_info["title"])) #log some form of error
             
         
         #Video File
@@ -551,7 +556,11 @@ Streams downloaded: {}, {}
         else:
             pass #happens for both so yea
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
-            youtube_dl_backup(video_info["url"],root_download_dir)
+            if Downloader.settings["debug"]["download"] == True:
+                try:
+                    youtube_dl_backup(video_info["url"],root_download_dir)
+                except Exception as e:
+                    dl_loger.log_exception(e)
 
     #utils.print_json(dl_object.download_info)
 

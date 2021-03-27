@@ -1,0 +1,589 @@
+2021-03-27 17:03:46,876 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 17:03:47,576 - Command: run
+2021-03-27 17:03:47,577 - Current: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg 
+2021-03-27 17:03:47,578 - youtube link
+2021-03-27 17:03:48,255 - file_cache is only supported with oauth2client<4.0.0
+2021-03-27 17:03:48,508 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:03:48,508 - Channel has 68 videos downloaded.
+2021-03-27 17:03:48,508 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:03:48,830 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:03:49,292 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:03:49,904 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:03:50,519 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:03:50,886 - Scraping for id: 9o19EaposFE
+2021-03-27 17:03:51,203 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:03:51,526 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:03:51,904 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:03:52,275 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:03:52,600 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:03:52,982 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:03:53,358 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:03:53,704 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:03:54,224 - Scraping for id: chlF5oubFHU
+2021-03-27 17:03:54,616 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:03:54,969 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:03:55,345 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:03:55,683 - Scraping for id: xVodkE47aLw
+2021-03-27 17:03:56,035 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:03:56,449 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:03:56,840 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:03:57,200 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:03:57,890 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:03:58,253 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:03:58,602 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:03:58,952 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:03:59,323 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:03:59,679 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:04:00,107 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:04:00,454 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:04:00,811 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:04:01,162 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:04:01,536 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:04:01,954 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:04:02,304 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:04:02,858 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:04:03,225 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:04:03,543 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:04:03,865 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:04:04,537 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:04:04,918 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:04:05,312 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:04:05,766 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:04:06,174 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:04:06,541 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:04:06,949 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:04:07,264 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:04:07,606 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:04:07,988 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:04:08,363 - Scraping for id: oifinZTKxKo
+2021-03-27 17:04:08,898 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:04:09,257 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:04:09,752 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:04:10,125 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:04:10,484 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:04:10,868 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:04:11,220 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:04:11,653 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:04:12,055 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:04:12,409 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:04:12,731 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:04:13,125 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:04:13,504 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:04:13,877 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:04:14,233 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:04:14,573 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:04:14,914 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:04:15,256 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:04:15,257 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:04:15,258 - Current: https://www.youtube.com/channel/UCk_Xz2CvOZ6VzdxkaDqTz9g 
+2021-03-27 17:04:15,259 - youtube link
+2021-03-27 17:04:15,467 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:04:15,468 - Channel has 68 videos downloaded.
+2021-03-27 17:04:15,468 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:04:15,820 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:04:16,148 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:04:16,687 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:04:17,040 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:04:17,370 - Scraping for id: 9o19EaposFE
+2021-03-27 17:04:17,753 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:04:18,081 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:04:18,606 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:04:18,972 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:04:19,345 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:04:19,697 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:04:20,051 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:04:20,576 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:04:20,955 - Scraping for id: chlF5oubFHU
+2021-03-27 17:04:21,361 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:04:21,719 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:04:22,095 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:04:22,425 - Scraping for id: xVodkE47aLw
+2021-03-27 17:04:22,820 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:04:23,168 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:04:23,593 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:04:23,922 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:04:24,231 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:04:24,619 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:04:25,003 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:04:25,372 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:04:25,687 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:04:26,046 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:04:26,427 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:04:26,780 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:04:27,178 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:04:27,470 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:04:27,765 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:04:28,123 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:04:28,480 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:04:28,838 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:04:29,137 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:04:29,557 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:04:29,917 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:04:30,298 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:04:30,673 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:04:31,100 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:04:31,496 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:04:31,825 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:04:32,179 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:04:32,591 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:04:32,954 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:04:33,312 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:04:33,684 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:04:33,995 - Scraping for id: oifinZTKxKo
+2021-03-27 17:04:34,360 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:04:34,683 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:04:35,200 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:04:35,539 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:04:35,924 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:04:36,271 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:04:36,665 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:04:37,007 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:04:37,398 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:04:37,936 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:04:38,296 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:04:38,635 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:04:39,135 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:04:39,493 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:04:39,808 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:04:40,147 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:04:40,514 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:04:40,920 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:04:40,920 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:04:40,922 - Current: https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w 
+2021-03-27 17:04:40,923 - youtube link
+2021-03-27 17:04:41,128 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:04:41,129 - Channel has 68 videos downloaded.
+2021-03-27 17:04:41,129 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:04:41,500 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:04:41,808 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:04:42,190 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:04:42,707 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:04:43,076 - Scraping for id: 9o19EaposFE
+2021-03-27 17:04:43,653 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:04:43,983 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:04:44,402 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:04:44,811 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:04:45,196 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:04:45,554 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:04:45,905 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:04:46,265 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:04:46,632 - Scraping for id: chlF5oubFHU
+2021-03-27 17:04:47,011 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:04:47,423 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:04:47,747 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:04:48,084 - Scraping for id: xVodkE47aLw
+2021-03-27 17:04:48,502 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:04:48,907 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:04:49,226 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:04:49,584 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:04:49,915 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:04:50,262 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:04:50,598 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:04:50,954 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:04:51,317 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:04:51,640 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:04:52,056 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:04:52,392 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:04:52,762 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:04:53,120 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:04:53,506 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:04:53,860 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:04:54,252 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:04:54,608 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:04:54,933 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:04:55,309 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:04:55,685 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:04:56,022 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:04:56,375 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:04:56,795 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:04:57,233 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:04:57,614 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:04:57,942 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:04:58,311 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:04:58,678 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:04:59,059 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:04:59,413 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:04:59,763 - Scraping for id: oifinZTKxKo
+2021-03-27 17:05:00,115 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:05:00,422 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:05:00,805 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:05:01,202 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:05:01,567 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:05:02,004 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:05:02,372 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:05:02,713 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:05:03,098 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:05:03,485 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:05:03,904 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:05:04,228 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:05:04,584 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:05:05,046 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:05:05,369 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:05:05,696 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:05:06,032 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:05:06,397 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:05:06,398 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:05:06,401 - Current: https://www.youtube.com/channel/UCEe_5rnLszBINYHjgDqcfRg 
+2021-03-27 17:05:06,401 - youtube link
+2021-03-27 17:05:06,604 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:05:06,605 - Channel has 68 videos downloaded.
+2021-03-27 17:05:06,605 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:05:06,930 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:05:07,292 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:05:07,627 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:05:07,957 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:05:08,316 - Scraping for id: 9o19EaposFE
+2021-03-27 17:05:08,720 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:05:09,058 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:05:09,453 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:05:09,808 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:05:10,172 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:05:10,533 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:05:10,886 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:05:11,227 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:05:11,534 - Scraping for id: chlF5oubFHU
+2021-03-27 17:05:11,868 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:05:12,254 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:05:12,584 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:05:12,948 - Scraping for id: xVodkE47aLw
+2021-03-27 17:05:13,283 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:05:13,624 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:05:14,042 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:05:14,415 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:05:14,769 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:05:15,192 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:05:15,523 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:05:15,901 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:05:16,246 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:05:16,606 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:05:16,972 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:05:17,370 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:05:17,702 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:05:18,009 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:05:18,350 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:05:18,773 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:05:19,121 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:05:19,501 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:05:19,886 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:05:20,231 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:05:20,590 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:05:20,962 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:05:21,333 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:05:21,693 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:05:22,123 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:05:22,482 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:05:22,819 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:05:23,203 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:05:23,568 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:05:24,035 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:05:24,349 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:05:24,690 - Scraping for id: oifinZTKxKo
+2021-03-27 17:05:25,051 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:05:25,380 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:05:25,751 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:05:26,140 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:05:26,532 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:05:26,975 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:05:27,360 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:05:27,849 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:05:28,291 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:05:28,651 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:05:29,039 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:05:29,425 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:05:29,831 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:05:30,213 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:05:30,543 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:05:30,900 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:05:31,320 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:05:31,708 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:05:31,708 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:05:31,712 - Current: https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw 
+2021-03-27 17:05:31,713 - youtube link
+2021-03-27 17:05:31,916 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:05:31,917 - Channel has 68 videos downloaded.
+2021-03-27 17:05:31,917 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:05:32,267 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:05:32,666 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:05:33,037 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:05:33,373 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:05:33,722 - Scraping for id: 9o19EaposFE
+2021-03-27 17:05:34,062 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:05:34,575 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:05:35,140 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:05:35,499 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:05:35,942 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:05:36,298 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:05:36,655 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:05:36,955 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:05:37,292 - Scraping for id: chlF5oubFHU
+2021-03-27 17:05:37,649 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:05:37,997 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:05:38,406 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:05:38,782 - Scraping for id: xVodkE47aLw
+2021-03-27 17:05:39,215 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:05:39,528 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:05:39,925 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:05:40,351 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:05:40,690 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:05:41,183 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:05:41,555 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:05:41,907 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:05:42,227 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:05:42,578 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:05:42,948 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:05:43,319 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:05:43,680 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:05:44,026 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:05:44,362 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:05:44,730 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:05:45,122 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:05:45,473 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:05:45,814 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:05:46,371 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:05:46,726 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:05:47,076 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:05:47,446 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:05:47,845 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:05:48,357 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:05:48,755 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:05:49,112 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:05:49,459 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:05:49,836 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:05:50,218 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:05:50,544 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:05:50,858 - Scraping for id: oifinZTKxKo
+2021-03-27 17:05:51,204 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:05:51,559 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:05:51,948 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:05:52,322 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:05:52,669 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:05:52,994 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:05:53,310 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:05:53,651 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:05:54,039 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:05:54,409 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:05:54,852 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:05:55,242 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:05:55,636 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:05:55,985 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:05:56,331 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:05:56,735 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:05:57,077 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:05:57,440 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:05:57,440 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:05:57,446 - Current: https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA 
+2021-03-27 17:05:57,447 - youtube link
+2021-03-27 17:05:57,652 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:05:57,653 - Channel has 68 videos downloaded.
+2021-03-27 17:05:57,653 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:05:58,039 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:05:58,383 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:05:58,795 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:05:59,199 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:05:59,719 - Scraping for id: 9o19EaposFE
+2021-03-27 17:06:00,097 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:06:00,629 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:06:00,942 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:06:01,351 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:06:01,773 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:06:02,185 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:06:02,554 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:06:03,143 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:06:03,475 - Scraping for id: chlF5oubFHU
+2021-03-27 17:06:03,821 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:06:04,276 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:06:04,598 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:06:04,974 - Scraping for id: xVodkE47aLw
+2021-03-27 17:06:05,339 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:06:05,675 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:06:06,045 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:06:06,493 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:06:06,832 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:06:07,222 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:06:07,567 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:06:07,950 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:06:08,260 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:06:08,614 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:06:08,990 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:06:09,337 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:06:09,640 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:06:10,093 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:06:10,463 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:06:10,819 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:06:11,163 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:06:11,587 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:06:12,201 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:06:12,594 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:06:12,997 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:06:13,366 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:06:13,777 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:06:14,103 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:06:14,542 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:06:14,868 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:06:15,204 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:06:15,532 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:06:15,864 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:06:16,233 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:06:16,594 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:06:16,950 - Scraping for id: oifinZTKxKo
+2021-03-27 17:06:17,356 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:06:17,685 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:06:18,045 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:06:18,399 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:06:18,773 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:06:19,261 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:06:19,617 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:06:19,960 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:06:20,520 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:06:20,914 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:06:21,254 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:06:21,816 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:06:22,136 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:06:22,553 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:06:22,921 - Scraping for id: lJU-Q9gw_sg
+2021-03-27 17:06:23,263 - Scraping for id: UdtQi6TEcjs
+2021-03-27 17:06:23,677 - Scraping for id: 3eMfv1i3eFk
+2021-03-27 17:06:24,052 - ! Video (https://youtu.be/-_XFArcUtrA|Well There's Your Problem   Episode 60 Andrew Cuomo) usual forced error.
+2021-03-27 17:06:24,053 - name 'Downloader' is not defined
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 177, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 308, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 559, in download_handler
+    youtube_dl_backup(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 78, in youtube_dl_backup
+    if Downloader.settings["debug"]["download"] == True:
+NameError: name 'Downloader' is not defined
+2021-03-27 17:06:24,059 - Current: https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww 
+2021-03-27 17:06:24,059 - youtube link
+2021-03-27 17:06:24,262 - Now downloading channel: Well There's Your Problem Podcast
+Video Count: 68
+2021-03-27 17:06:24,263 - Channel has 68 videos downloaded.
+2021-03-27 17:06:24,263 - Scraping for id: -_XFArcUtrA
+2021-03-27 17:06:24,834 - Scraping for id: RaIl_146p-Q
+2021-03-27 17:06:25,175 - Scraping for id: ARqmJyMOZtA
+2021-03-27 17:06:25,508 - Scraping for id: vMLvzSH1Jok
+2021-03-27 17:06:25,852 - Scraping for id: O4vHgFY7TSA
+2021-03-27 17:06:26,164 - Scraping for id: 9o19EaposFE
+2021-03-27 17:06:26,526 - Scraping for id: 39-S9-ZXzqA
+2021-03-27 17:06:26,894 - Scraping for id: PW6lg-7L7yk
+2021-03-27 17:06:27,222 - Scraping for id: ACk0Jl4ORk8
+2021-03-27 17:06:27,576 - Scraping for id: c75SYmKBTS0
+2021-03-27 17:06:27,907 - Scraping for id: jBEEUPjqu-s
+2021-03-27 17:06:28,255 - Scraping for id: pOJUJKCpG2k
+2021-03-27 17:06:28,627 - Scraping for id: FlmuM1h13rs
+2021-03-27 17:06:28,961 - Scraping for id: J7lxO7vlbmA
+2021-03-27 17:06:29,315 - Scraping for id: chlF5oubFHU
+2021-03-27 17:06:29,696 - Scraping for id: azThd0R7Bt0
+2021-03-27 17:06:30,060 - Scraping for id: KzUfAnhRjmw
+2021-03-27 17:06:30,476 - Scraping for id: gkx-OF5XkMk
+2021-03-27 17:06:30,811 - Scraping for id: xVodkE47aLw
+2021-03-27 17:06:31,153 - Scraping for id: VbfSlTIfMig
+2021-03-27 17:06:31,488 - Scraping for id: fwOOalYd5TQ
+2021-03-27 17:06:31,954 - Scraping for id: tC6vqGVB6Fk
+2021-03-27 17:06:32,314 - Scraping for id: _AHRJi7-1GQ
+2021-03-27 17:06:32,650 - Scraping for id: sWvagC5ccyY
+2021-03-27 17:06:32,984 - Scraping for id: YVaMNHQQCs0
+2021-03-27 17:06:33,370 - Scraping for id: f7Qop_64qqk
+2021-03-27 17:06:33,696 - Scraping for id: F1y-2CUetwM
+2021-03-27 17:06:34,020 - Scraping for id: 7ejyhTkMd6U
+2021-03-27 17:06:34,422 - Scraping for id: iz1sMv5C60Q
+2021-03-27 17:06:34,904 - Scraping for id: 2bvltmNno_A
+2021-03-27 17:06:35,287 - Scraping for id: B4nYxtLsTj0
+2021-03-27 17:06:35,641 - Scraping for id: i5OkTfOLqx8
+2021-03-27 17:06:36,156 - Scraping for id: QjEI3Ko-kp8
+2021-03-27 17:06:36,531 - Scraping for id: xHqzUTTZWyI
+2021-03-27 17:06:36,860 - Scraping for id: lonzTuWd3Xk
+2021-03-27 17:06:37,220 - Scraping for id: b_WhhRshZCg
+2021-03-27 17:06:37,591 - Scraping for id: hGgu07xhdHQ
+2021-03-27 17:06:37,935 - Scraping for id: V0Si76AlRU4
+2021-03-27 17:06:38,306 - Scraping for id: qW48CIGuvZE
+2021-03-27 17:06:38,666 - Scraping for id: M9z87U9yn0Y
+2021-03-27 17:06:39,010 - Scraping for id: 34rdxDgpaaA
+2021-03-27 17:06:39,343 - Scraping for id: o1HT8Gaykjo
+2021-03-27 17:06:39,646 - Scraping for id: EEKzJ7h54Uc
+2021-03-27 17:06:40,224 - Scraping for id: vCKVreNqMjI
+2021-03-27 17:06:40,707 - Scraping for id: g_vUw_AnCe4
+2021-03-27 17:06:41,096 - Scraping for id: ciF1p_GMrmw
+2021-03-27 17:06:41,524 - Scraping for id: QueMqRjW5Eo
+2021-03-27 17:06:41,878 - Scraping for id: vxv04lgJYVs
+2021-03-27 17:06:42,280 - Scraping for id: 38-MKEap0AQ
+2021-03-27 17:06:42,825 - Scraping for id: 2yXmFVTeprU
+2021-03-27 17:06:43,200 - Scraping for id: oifinZTKxKo
+2021-03-27 17:06:43,700 - Scraping for id: dgKU0zu6KB8
+2021-03-27 17:06:44,019 - Scraping for id: s6jDfXVpZ2o
+2021-03-27 17:06:44,398 - Scraping for id: AxA1vb6P2lU
+2021-03-27 17:06:44,756 - Scraping for id: JaRVy31lTlQ
+2021-03-27 17:06:45,116 - Scraping for id: MjSyYRyokPo
+2021-03-27 17:06:45,436 - Scraping for id: G77GkxZrxIs
+2021-03-27 17:06:46,008 - Scraping for id: SjOduiPSF1Q
+2021-03-27 17:06:46,393 - Scraping for id: q3bVHov-D-A
+2021-03-27 17:06:46,795 - Scraping for id: yvM6vaZKKm4
+2021-03-27 17:06:47,162 - Scraping for id: j2BjTfwhbh8
+2021-03-27 17:06:47,492 - Scraping for id: 5Dq7BFmUWIk
+2021-03-27 17:06:47,963 - Scraping for id: lMcriPJKPdI
+2021-03-27 17:06:48,313 - Scraping for id: epkCrB8aKXA
+2021-03-27 17:06:48,695 - Scraping for id: Sm5p2K9eW9o
+2021-03-27 17:06:49,017 - Scraping for id: lJU-Q9gw_sg
