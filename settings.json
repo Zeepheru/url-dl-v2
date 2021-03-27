@@ -1,8 +1,8 @@
 {
     "debug": {
-        "download": true,
+        "download": false,
         "print download info": false,
-        "export download info": true,
+        "export download info": false,
         "autocommand": "",
         "descriptions only": false
     },

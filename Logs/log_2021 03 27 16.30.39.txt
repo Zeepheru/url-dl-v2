@@ -1,0 +1,23 @@
+2021-03-27 16:30:39,527 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 16:30:40,519 - Command: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg
+2021-03-27 16:30:44,730 - Command: dl -youtube https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg
+2021-03-27 16:30:44,730 - youtube link
+2021-03-27 16:30:45,383 - file_cache is only supported with oauth2client<4.0.0
+2021-03-27 16:30:45,699 - list indices must be integers or slices, not str
+Traceback (most recent call last):
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 240, in <module>
+    parse_input()
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 123, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 219, in youtube_extractor
+    data["sub_objects"]["id"] = a
+TypeError: list indices must be integers or slices, not str
+2021-03-27 16:30:45,701 - 
+Log Ended.
+Total time: 0 hrs 0 min 6.17 sec
+

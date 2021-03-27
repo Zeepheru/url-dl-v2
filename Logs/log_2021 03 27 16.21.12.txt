@@ -1,0 +1,22 @@
+2021-03-27 16:21:12,339 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 16:21:22,644 - Command: dl -youtube https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg
+2021-03-27 16:21:22,645 - youtube link
+2021-03-27 16:21:22,648 - invalid syntax (youtube.py, line 261)
+Traceback (most recent call last):
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 240, in <module>
+    parse_input()
+  File "c:/Utilities/Scripts/url-dl-v2/main.py", line 121, in parse_input
+    from extractors.youtube import youtube_extractor
+  File "c:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 261
+    "text file": True,
+               ^
+SyntaxError: invalid syntax
+2021-03-27 16:21:22,649 - 
+Log Ended.
+Total time: 0 hrs 0 min 10.31 sec
+

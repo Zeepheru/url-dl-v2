@@ -7,6 +7,9 @@ class RunInfo(): #todo import this class in all files
 
         self.auto_command = False
 
+        ##apis
+        self.apis = {}
+
     def get_duration(self): #duration in seconds
         breakpoint()
         return time.time() - self.start_time
