@@ -40,7 +40,8 @@ load_json - loads download info from a parsed download.json, in the default json
 dl - downloads single link behind, or:
 dl -derpi - special Derpibooru downloader, (WIP)
     For batch download of images, add image tag (up to a 7 digit integer), or image link into a list (python syntax: [])
-dl -youtube - idk what the hell to do here for now.
+dl -youtube - downloads youtube links
+    NOTE that channel links are htttps://www/youtube.com/channel/<channel_ID>
 """
     while 1 > 0:
         #print("yes this is happening again" + str(Downloader.auto_command))

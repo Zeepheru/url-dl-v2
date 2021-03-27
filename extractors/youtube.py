@@ -125,13 +125,18 @@ def youtube_extractor(Downloader):
         pass
 
     if data["type"] == "playlist":
-        a_prev = ""
-        for a in re.findall(r'(?<=videoId":").{11}',utils.source_code(data['url'])):
-            
-            if a != a_prev:
-                data["sub_objects"].append({"id":a})
-                a_prev = a
-        del a_prev
+
+        list_of_playlist_ids = re.findall(r'(?<=videoId":").{11}',utils.source_code(data['url']))
+        newlist_of_playlist_ids = []
+        for a in list_of_playlist_ids:
+            if a not in newlist_of_playlist_ids:
+                newlist_of_playlist_ids.append(a)
+
+        del list_of_playlist_ids
+
+        for a in newlist_of_playlist_ids:    
+            data["sub_objects"].append({"id":a})
+
         data["playlist_length"] = len(data["sub_objects"])
 
     elif data["type"] == "channel":

@@ -1,0 +1,260 @@
+2021-03-27 13:33:54,849 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 13:34:07,813 - Command: dl -youtube https://www.youtube.com/channel/UCEe_5rnLszBINYHjgDqcfRg
+2021-03-27 13:34:07,813 - youtube link
+2021-03-27 13:34:08,950 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:08,951 - Channel has 30 videos downloaded.
+2021-03-27 13:34:08,951 - Scraping for id: RmY6LJq6uTQ
+2021-03-27 13:34:09,263 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:09,264 - Scraping for id: oEfPuolsu2s
+2021-03-27 13:34:09,625 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:09,625 - Scraping for id: kaIVmH7kS0Y
+2021-03-27 13:34:09,969 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:09,969 - Scraping for id: Lt8YUpsKTTU
+2021-03-27 13:34:10,372 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:10,372 - Scraping for id: wPp4BFIMtDg
+2021-03-27 13:34:10,772 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:10,772 - Scraping for id: e24oSr-J1iU
+2021-03-27 13:34:11,175 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:11,175 - Scraping for id: Bgp5zys9afs
+2021-03-27 13:34:11,546 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:11,547 - Scraping for id: YbM2O7au8ps
+2021-03-27 13:34:11,949 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:11,949 - Scraping for id: Rvs1Iv3A7sk
+2021-03-27 13:34:12,262 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:12,262 - Scraping for id: 0P412Vp1dLY
+2021-03-27 13:34:12,666 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:12,666 - Scraping for id: NCzpPLbV3_s
+2021-03-27 13:34:13,092 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:13,092 - Scraping for id: yci4CE1uOVA
+2021-03-27 13:34:13,406 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:13,406 - Scraping for id: CT7la0B_lG8
+2021-03-27 13:34:13,970 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:13,970 - Scraping for id: C9VjCt2uDGY
+2021-03-27 13:34:14,296 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:14,296 - Scraping for id: 9ciIqLYv0eo
+2021-03-27 13:34:14,687 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:14,687 - Scraping for id: SmEJK2i39E0
+2021-03-27 13:34:15,024 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:15,024 - Scraping for id: sRG_y5VGptQ
+2021-03-27 13:34:15,474 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:15,474 - Scraping for id: gCP3MwilZVs
+2021-03-27 13:34:15,915 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:15,916 - Scraping for id: WO6CREpxijc
+2021-03-27 13:34:16,268 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:16,269 - Scraping for id: Oxlnu6I1onc
+2021-03-27 13:34:16,699 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:16,699 - Scraping for id: _Cn5RE4WyqU
+2021-03-27 13:34:16,996 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:16,996 - Scraping for id: Fv8Wc9b228Y
+2021-03-27 13:34:17,349 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:17,349 - Scraping for id: qXPlPOO4WgE
+2021-03-27 13:34:17,773 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:17,773 - Scraping for id: 49FujMQ_wFg
+2021-03-27 13:34:18,099 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:18,099 - Scraping for id: a46Rx56xIZw
+2021-03-27 13:34:18,929 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:18,930 - Scraping for id: kDf8fEL-5VQ
+2021-03-27 13:34:19,287 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:19,287 - Scraping for id: D_uIZTiv0N0
+2021-03-27 13:34:19,575 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:19,575 - Scraping for id: 3aDdhyT4ZQM
+2021-03-27 13:34:19,902 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:19,902 - Scraping for id: H_z2cGgTtNE
+2021-03-27 13:34:20,251 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:20,251 - Scraping for id: A5ZXBZPFeBQ
+2021-03-27 13:34:20,601 - json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).
+2021-03-27 13:34:20,601 - ! Video (https://youtu.be/RmY6LJq6uTQ|Miraculous Ladybug - 'Emilie' (Fan Made Music)) undownloadable - cipher needed.
+2021-03-27 13:34:20,601 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:34:22,639 - Done downloading audio.
+2021-03-27 13:34:26,447 - Done downloading audio.
+2021-03-27 13:34:26,447 - ! Video (https://youtu.be/oEfPuolsu2s|Master Onion 'Kick and Punch' (Original Remix)) undownloadable - cipher needed.
+2021-03-27 13:34:26,447 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:34:27,579 - Done downloading audio.
+2021-03-27 13:34:30,750 - Done downloading audio.
+2021-03-27 13:34:30,750 - ! Video (https://youtu.be/kaIVmH7kS0Y|RWBY - Fighting Theme of Weiss 'Snowfall' (Fan Made Music)) undownloadable - cipher needed.
+2021-03-27 13:34:30,750 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:34:32,086 - Done downloading audio.
+2021-03-27 13:34:36,038 - Done downloading audio.
+2021-03-27 13:34:36,038 - ! Video (https://youtu.be/Lt8YUpsKTTU|Distress Signal (Original Soul Eater Music) Fan Made) undownloadable - cipher needed.
+2021-03-27 13:34:36,038 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:34:39,079 - Done downloading audio.
+2021-03-27 13:34:47,579 - Done downloading audio.
+2021-03-27 13:34:47,580 - ! Video (https://youtu.be/wPp4BFIMtDg|'Running Mad' - (Comedic Music)) undownloadable - cipher needed.
+2021-03-27 13:34:47,580 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:34:48,850 - Done downloading audio.
+2021-03-27 13:35:01,877 - Done downloading audio.
+2021-03-27 13:35:01,878 - ! Video (https://youtu.be/e24oSr-J1iU|JRPG Music - The Fall Festival) undownloadable - cipher needed.
+2021-03-27 13:35:01,878 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:35:02,973 - Done downloading audio.
+2021-03-27 13:35:07,305 - Done downloading audio.
+2021-03-27 13:35:07,305 - ! Video (https://youtu.be/Bgp5zys9afs|Final Fantasy Dissidia - Freya's Theme (Fan made music)) undownloadable - cipher needed.
+2021-03-27 13:35:07,306 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:35:08,278 - Done downloading audio.
+2021-03-27 13:35:24,826 - Done downloading audio.
+2021-03-27 13:35:24,827 - ! Video (https://youtu.be/YbM2O7au8ps|She's a Vampire (M-Type) Ft EileMonty and Nowacking) undownloadable - cipher needed.
+2021-03-27 13:35:24,827 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:35:26,436 - Done downloading audio.
+2021-03-27 13:35:30,803 - Done downloading audio.
+2021-03-27 13:35:30,803 - ! Video (https://youtu.be/Rvs1Iv3A7sk|RWBY - 'Bang! Love, Yang' Fighting Theme of Yang (Original)) undownloadable - cipher needed.
+2021-03-27 13:35:30,804 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:35:32,093 - Done downloading audio.
+2021-03-27 13:35:49,418 - Done downloading audio.
+2021-03-27 13:35:49,418 - ! Video (https://youtu.be/0P412Vp1dLY|VOCALOID - 'Lost One's Weeping' (Metal Cover ft. Hatsune Miku)) undownloadable - cipher needed.
+2021-03-27 13:35:49,419 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:35:50,274 - Done downloading audio.
+2021-03-27 13:35:59,311 - Done downloading audio.
+2021-03-27 13:35:59,311 - ! Video (https://youtu.be/NCzpPLbV3_s|Vocaloid - Madness of Duke Venomania (Metal Cover)) undownloadable - cipher needed.
+2021-03-27 13:35:59,312 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:00,375 - Done downloading audio.
+2021-03-27 13:36:12,905 - Done downloading audio.
+2021-03-27 13:36:12,906 - ! Video (https://youtu.be/yci4CE1uOVA|JRPG Music - 'Tears of the Lady Knight' (Original game music)) undownloadable - cipher needed.
+2021-03-27 13:36:12,906 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:14,258 - Done downloading audio.
+2021-03-27 13:36:17,267 - Done downloading audio.
+2021-03-27 13:36:17,269 - ! Video (https://youtu.be/CT7la0B_lG8|Vocaloid - 'Daughter of Evil' - Metal Cover) undownloadable - cipher needed.
+2021-03-27 13:36:17,270 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:18,739 - Done downloading audio.
+2021-03-27 13:36:26,390 - Done downloading audio.
+2021-03-27 13:36:26,391 - ! Video (https://youtu.be/C9VjCt2uDGY|RWBY fan music - 'Sun Kissed Skin' (Instrumental)) undownloadable - cipher needed.
+2021-03-27 13:36:26,391 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:28,300 - Done downloading audio.
+2021-03-27 13:36:33,281 - Done downloading audio.
+2021-03-27 13:36:33,281 - ! Video (https://youtu.be/9ciIqLYv0eo|Sonic the Hedgehog - Chemical Plant Zone (Anime Rock Cover)) undownloadable - cipher needed.
+2021-03-27 13:36:33,282 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:34,977 - Done downloading audio.
+2021-03-27 13:36:38,086 - Done downloading audio.
+2021-03-27 13:36:38,086 - ! Video (https://youtu.be/SmEJK2i39E0|RPG Battle Theme - Endure! (Original Game Music)) undownloadable - cipher needed.
+2021-03-27 13:36:38,086 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:39,224 - Done downloading audio.
+2021-03-27 13:36:41,970 - Done downloading audio.
+2021-03-27 13:36:41,971 - ! Video (https://youtu.be/sRG_y5VGptQ|Lapidot - GREEN MODE (Steven Universe Fan-Music)) undownloadable - cipher needed.
+2021-03-27 13:36:41,971 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:43,080 - Done downloading audio.
+2021-03-27 13:36:50,526 - Done downloading audio.
+2021-03-27 13:36:50,527 - ! Video (https://youtu.be/gCP3MwilZVs|Battle! (Whatevs Mix)) undownloadable - cipher needed.
+2021-03-27 13:36:50,527 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:36:53,611 - Done downloading audio.
+2021-03-27 13:36:59,521 - Done downloading audio.
+2021-03-27 13:36:59,521 - ! Video (https://youtu.be/WO6CREpxijc|RAEG (Pokemon Pony Parody Battle Music)) undownloadable - cipher needed.
+2021-03-27 13:36:59,521 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:00,644 - Done downloading audio.
+2021-03-27 13:37:04,101 - Done downloading audio.
+2021-03-27 13:37:04,102 - ! Video (https://youtu.be/Oxlnu6I1onc|Dazzle Me) undownloadable - cipher needed.
+2021-03-27 13:37:04,102 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:06,556 - Done downloading audio.
+2021-03-27 13:37:18,552 - Done downloading audio.
+2021-03-27 13:37:18,552 - ! Video (https://youtu.be/_Cn5RE4WyqU|Welcome to the show (Coming soon!)) undownloadable - cipher needed.
+2021-03-27 13:37:18,552 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:19,571 - Done downloading audio.
+2021-03-27 13:37:25,258 - Done downloading audio.
+2021-03-27 13:37:25,258 - ! Video (https://youtu.be/Fv8Wc9b228Y|The Enemy Metropolis (Free Download)) undownloadable - cipher needed.
+2021-03-27 13:37:25,259 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:27,039 - Done downloading audio.
+2021-03-27 13:37:33,510 - Done downloading audio.
+2021-03-27 13:37:33,511 - ! Video (https://youtu.be/qXPlPOO4WgE|Saviour! (ft. Cyril the Wolf)) undownloadable - cipher needed.
+2021-03-27 13:37:33,511 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:35,368 - Done downloading audio.
+2021-03-27 13:37:44,670 - Done downloading audio.
+2021-03-27 13:37:44,670 - ! Video (https://youtu.be/49FujMQ_wFg|Moonlit Blvd) undownloadable - cipher needed.
+2021-03-27 13:37:44,670 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:46,610 - Done downloading audio.
+2021-03-27 13:37:51,914 - Done downloading audio.
+2021-03-27 13:37:51,915 - ! Video (https://youtu.be/a46Rx56xIZw|Highland Thunder) undownloadable - cipher needed.
+2021-03-27 13:37:51,915 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:37:52,891 - Done downloading audio.
+2021-03-27 13:37:59,665 - Done downloading audio.
+2021-03-27 13:37:59,665 - ! Video (https://youtu.be/kDf8fEL-5VQ|Meet Fair Rarity (Dance House)) undownloadable - cipher needed.
+2021-03-27 13:37:59,665 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:38:02,301 - Done downloading audio.
+2021-03-27 13:38:14,063 - Done downloading audio.
+2021-03-27 13:38:14,063 - ! Video (https://youtu.be/D_uIZTiv0N0|Saviour! Teaser) undownloadable - cipher needed.
+2021-03-27 13:38:14,063 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:38:14,987 - Done downloading audio.
+2021-03-27 13:38:19,519 - Done downloading audio.
+2021-03-27 13:38:19,519 - ! Video (https://youtu.be/3aDdhyT4ZQM|Creeping Sentinel (Boss fight)) undownloadable - cipher needed.
+2021-03-27 13:38:19,519 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:38:20,741 - Done downloading audio.
+2021-03-27 13:38:23,837 - Done downloading audio.
+2021-03-27 13:38:23,837 - ! Video (https://youtu.be/H_z2cGgTtNE|A Hero Will Rise (FoE)) undownloadable - cipher needed.
+2021-03-27 13:38:23,838 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:38:24,796 - Done downloading audio.
+2021-03-27 13:38:30,833 - Done downloading audio.
+2021-03-27 13:38:30,833 - ! Video (https://youtu.be/A5ZXBZPFeBQ|Coming Soon! - Saviour) undownloadable - cipher needed.
+2021-03-27 13:38:30,834 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-27 13:38:31,878 - Done downloading audio.
+2021-03-27 13:38:37,473 - Done downloading audio.
+2021-03-27 13:38:37,473 - Creating download information json.
+2021-03-27 13:38:37,475 - Writing text file.
+2021-03-27 13:38:37,475 - Downloading: Channel Image.png
+2021-03-27 13:38:37,570 - Writing text file.
+2021-03-27 13:38:37,570 - Downloading: Miraculous Ladybug - 'Emilie' (Fan Made Music) - Thumbnail.png
+2021-03-27 13:38:38,271 - Writing text file.
+2021-03-27 13:38:38,271 - Downloading: Master Onion 'Kick and Punch' (Original Remix) - Thumbnail.png
+2021-03-27 13:38:38,740 - Writing text file.
+2021-03-27 13:38:38,740 - Downloading: RWBY - Fighting Theme of Weiss 'Snowfall' (Fan Made Music) - Thumbnail.png
+2021-03-27 13:38:39,232 - Writing text file.
+2021-03-27 13:38:39,232 - Downloading: Distress Signal (Original Soul Eater Music) Fan Made - Thumbnail.png
+2021-03-27 13:38:39,749 - Writing text file.
+2021-03-27 13:38:39,749 - Downloading: 'Running Mad' - (Comedic Music) - Thumbnail.png
+2021-03-27 13:38:40,176 - Writing text file.
+2021-03-27 13:38:40,176 - Downloading: JRPG Music - The Fall Festival - Thumbnail.png
+2021-03-27 13:38:40,223 - Writing text file.
+2021-03-27 13:38:40,223 - Downloading: Final Fantasy Dissidia - Freya's Theme (Fan made music) - Thumbnail.png
+2021-03-27 13:38:40,262 - Writing text file.
+2021-03-27 13:38:40,262 - Downloading: She's a Vampire (M-Type) Ft EileMonty and Nowacking - Thumbnail.png
+2021-03-27 13:38:40,524 - Writing text file.
+2021-03-27 13:38:40,524 - Downloading: RWBY - 'Bang! Love, Yang' Fighting Theme of Yang (Original) - Thumbnail.png
+2021-03-27 13:38:40,837 - Writing text file.
+2021-03-27 13:38:40,838 - Downloading: VOCALOID - 'Lost One's Weeping' (Metal Cover ft. Hatsune Miku) - Thumbnail.png
+2021-03-27 13:38:41,095 - Writing text file.
+2021-03-27 13:38:41,095 - Downloading: Vocaloid - Madness of Duke Venomania (Metal Cover) - Thumbnail.png
+2021-03-27 13:38:41,138 - Writing text file.
+2021-03-27 13:38:41,138 - Downloading: JRPG Music - 'Tears of the Lady Knight' (Original game music) - Thumbnail.png
+2021-03-27 13:38:41,428 - Writing text file.
+2021-03-27 13:38:41,428 - Downloading: Vocaloid - 'Daughter of Evil' - Metal Cover - Thumbnail.png
+2021-03-27 13:38:41,762 - Writing text file.
+2021-03-27 13:38:41,762 - Downloading: RWBY fan music - 'Sun Kissed Skin' (Instrumental) - Thumbnail.png
+2021-03-27 13:38:42,054 - Writing text file.
+2021-03-27 13:38:42,054 - Downloading: Sonic the Hedgehog - Chemical Plant Zone (Anime Rock Cover) - Thumbnail.png
+2021-03-27 13:38:42,524 - Writing text file.
+2021-03-27 13:38:42,524 - Downloading: RPG Battle Theme - Endure! (Original Game Music) - Thumbnail.png
+2021-03-27 13:38:43,026 - Writing text file.
+2021-03-27 13:38:43,026 - Downloading: Lapidot - GREEN MODE (Steven Universe Fan-Music) - Thumbnail.png
+2021-03-27 13:38:43,330 - Writing text file.
+2021-03-27 13:38:43,331 - Downloading: Battle! (Whatevs Mix) - Thumbnail.png
+2021-03-27 13:38:43,873 - Writing text file.
+2021-03-27 13:38:43,873 - Downloading: RAEG (Pokemon Pony Parody Battle Music) - Thumbnail.png
+2021-03-27 13:38:44,123 - Writing text file.
+2021-03-27 13:38:44,123 - Downloading: Dazzle Me - Thumbnail.png
+2021-03-27 13:38:44,609 - Writing text file.
+2021-03-27 13:38:44,609 - Downloading: Welcome to the show (Coming soon!) - Thumbnail.png
+2021-03-27 13:38:45,062 - Writing text file.
+2021-03-27 13:38:45,062 - Downloading: The Enemy Metropolis (Free Download) - Thumbnail.png
+2021-03-27 13:38:45,315 - Writing text file.
+2021-03-27 13:38:45,316 - Downloading: Saviour! (ft. Cyril the Wolf) - Thumbnail.png
+2021-03-27 13:38:45,584 - Writing text file.
+2021-03-27 13:38:45,584 - Downloading: Moonlit Blvd - Thumbnail.png
+2021-03-27 13:38:46,028 - Writing text file.
+2021-03-27 13:38:46,028 - Downloading: Highland Thunder - Thumbnail.png
+2021-03-27 13:38:46,063 - Writing text file.
+2021-03-27 13:38:46,063 - Downloading: Meet Fair Rarity (Dance House) - Thumbnail.png
+2021-03-27 13:38:46,323 - Writing text file.
+2021-03-27 13:38:46,323 - Downloading: Saviour! Teaser - Thumbnail.png
+2021-03-27 13:38:46,586 - Writing text file.
+2021-03-27 13:38:46,586 - Downloading: Creeping Sentinel (Boss fight) - Thumbnail.png
+2021-03-27 13:38:47,046 - Writing text file.
+2021-03-27 13:38:47,046 - Downloading: A Hero Will Rise (FoE) - Thumbnail.png
+2021-03-27 13:38:47,486 - Writing text file.
+2021-03-27 13:38:47,486 - Downloading: Coming Soon! - Saviour - Thumbnail.png
+2021-03-27 13:38:47,929 - Download for |https://www.youtube.com/channel/UCEe_5rnLszBINYHjgDqcfRg| complete.
+
+2021-03-27 13:39:13,630 - Command: close
+2021-03-27 13:39:13,630 - 
+Log Ended.
+Total time: 0 hrs 5 min 18.78 sec
+

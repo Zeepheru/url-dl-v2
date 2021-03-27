@@ -1,8 +1,0 @@
-2021-03-14 20:44:40,733 - 
-Downloading Utility Log. 
-Log started.
-
-Move log to Impt Logs if required as only the 10 most recent logs are kept.
-
-2021-03-14 20:44:43,162 - Command: dl -youtube https://www.youtube.com/c/ZUTOMAYO
-2021-03-14 20:44:43,162 - youtube link

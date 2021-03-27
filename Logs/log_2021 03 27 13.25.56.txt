@@ -1,0 +1,33 @@
+2021-03-27 13:25:56,113 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-27 13:26:16,438 - Command: dl -youtube https://www.youtube.com/channel=UCL468jSBjbgFgpr2ki96Hvw
+2021-03-27 13:26:16,438 - youtube link
+2021-03-27 13:26:16,960 - Invalid URL 'I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME/about': No schema supplied. Perhaps you meant http://I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME/about?
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 239, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 122, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 145, in youtube_extractor
+    response = requests.get(channel_url+"/about")
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 516, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\sessions.py", line 449, in prepare_request
+    p.prepare(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\models.py", line 314, in prepare
+    self.prepare_url(url, params)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\requests\models.py", line 388, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL 'I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME/about': No schema supplied. Perhaps you meant http://I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME/about?
+2021-03-27 13:26:16,966 - 
+Log Ended.
+Total time: 0 hrs 0 min 20.85 sec
+
