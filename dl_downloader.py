@@ -149,7 +149,7 @@ def download(Downloader):
         if isinstance(folder_path, str) == True: #only if a folder is required is the download_info[0] a string being the download folder.
             if os.path.exists(folder_path) != True: 
                 os.mkdir(folder_path)
-                dl_logger.log_to_file("Created directory: {}".format(folder_path))
+                dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(folder_path))
     
     if Downloader.settings["debug"]["export download info"] == True:
         create_download_json(Downloader)

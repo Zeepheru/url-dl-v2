@@ -75,19 +75,34 @@ def source_code_c(link):
 
 
 def string_escape(s):
-    return (s.encode("utf-8","ignore")       # To bytes, required by 'unicode-escape' ###Note: Changed to utf8 for non latin character support, in a sense
+    try:
+        return (s.encode("utf-8","ignore")       # To bytes, required by 'unicode-escape' ###Note: Changed to utf8 for non latin character support, in a sense
                 .decode('unicode-escape') # Perform the actual octal-escaping decode
                 .encode('latin1',"ignore")         # 1:1 mapping back to bytes
                 .decode("utf-8",'ignore'))
-
+    except UnicodeDecodeError as e:
+        print(e)
+        print(s)
+        return s
 
     #original is latin1
 
 def string_escape_latin(s):
-    return (s.encode("latin1","ignore")       # To bytes, required by 'unicode-escape' 
-                .decode('unicode-escape') # Perform the actual octal-escaping decode
-                .encode('latin1',"ignore")         # 1:1 mapping back to bytes
-                .decode("utf-8",'ignore'))
+    try:
+        return (s.encode("latin1","ignore")       # To bytes, required by 'unicode-escape' 
+                    .decode('unicode-escape') # Perform the actual octal-escaping decode
+                    .encode('latin1',"ignore")         # 1:1 mapping back to bytes
+                    .decode("utf-8",'ignore'))
+    except UnicodeDecodeError as e:
+        print(e)
+        print(s)
+        return s
+
+def string_escape_path(s):
+    return (s.replace("\\"[0:1],"\\").encode("latin1","ignore")       # To bytes, required by 'unicode-escape' 
+            .decode('unicode-escape') # Perform the actual octal-escaping decode
+            .encode('latin1',"ignore")         # 1:1 mapping back to bytes
+            .decode("utf-8",'ignore'))
 
 def give_it_some_time():
     time.sleep(0.1)

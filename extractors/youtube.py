@@ -111,7 +111,7 @@ def youtube_dl_backup(url,folder_path):
 
 def youtube_extractor(Downloader):
     global dl_object
-    dl_object = Downloader.objects_list[Downloader.current]
+    dl_object = Downloader.objects_list[Downloader.current] ########MIGTH BE THIS END LIKLE WTF
     dl_object.site = "youtube"
     data = dl_object.data
     data["sub_objects"] = []
@@ -171,6 +171,7 @@ def youtube_extractor(Downloader):
     elif data["type"] == "channel":
         if re.search(r'youtube.com/channel/|youtube.com/c/',data["url"]) != None:
             channel_url = data["url"]
+            print(data["url"])
         else:
             channel_url = "I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME"
         
@@ -179,7 +180,7 @@ def youtube_extractor(Downloader):
 
         request = youtube_api.channels().list(
             part='id,contentDetails,snippet,statistics',
-            id="UCPxHg4192hLDpTI2w7F9rPg"
+            id= re.search(r'(?<=channel/).*?$|(?<=c/).*?$', data["url"]).group()
         )
         response = request.execute()
 
@@ -196,9 +197,14 @@ def youtube_extractor(Downloader):
         del largest_thumb, thumbnails
 
         uploads = response_items["contentDetails"]["relatedPlaylists"]["uploads"]
+        dl_logger.log_to_file(utils.dump_json(response_items["contentDetails"]["relatedPlaylists"]))
+        dl_logger.log_info("Upload Playlist: {}".format(uploads))
 
-        
-        country = response_items["snippet"]["country"]
+        try:
+            country = response_items["snippet"]["country"]
+        except:
+            country = "nil"
+            
         description = response_items["snippet"]["description"]
         loc_description = response_items["snippet"]["localized"]["description"]
         if description != loc_description:
@@ -560,7 +566,7 @@ Streams downloaded: {}, {}
                 try:
                     youtube_dl_backup(video_info["url"],root_download_dir)
                 except Exception as e:
-                    dl_loger.log_exception(e)
+                    dl_logger.log_exception(e)
 
     #utils.print_json(dl_object.download_info)
 

@@ -148,6 +148,7 @@ def parse_file(Downloader): #if run - is initialized
         dl_logger.log_info("Download file is empty. (No links specified for download)")
     
     for count, dl_object_string in enumerate(download_list):
+        #print(download_list) 
         try:
             if count < Downloader.settings["max download"]:
                 a = dl.DownloadObject()

@@ -85,7 +85,7 @@ def log_exception(e):
     print(log_stream.getvalue())
 
 def log_info(e):
-    logger.info(string_escape_latin(e))
+    logger.info(string_escape_latin(e)) #Changed frin string_escape_latin.
     print(string_escape_latin(e))
 
 def log_to_file(e):

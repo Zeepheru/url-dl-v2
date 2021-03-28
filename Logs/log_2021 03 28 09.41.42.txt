@@ -1,0 +1,21 @@
+2021-03-28 09:41:42,173 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-28 09:41:43,064 - Command: run
+2021-03-28 09:41:43,066 - Current: https://kinzokon.bandcamp.com/track/rotterdam-banchocore-moro-remix 
+2021-03-28 09:41:43,067 - bandcamp link
+2021-03-28 09:41:46,412 - This album can be downloaded for free.
+2021-03-28 09:41:46,412 - 'unicodeescape' codec can't decode bytes in position 21-22: truncated \UXXXXXXXX escape
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 196, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 152, in download
+    dl_logger.log_to_file("Created directory: {}".format(folder_path))
+  File "C:\Utilities\Scripts\url-dl-v2\dl_logger.py", line 92, in log_to_file
+    logger.info(string_escape_latin(e))
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 87, in string_escape_latin
+    return (s.encode("latin1","ignore")       # To bytes, required by 'unicode-escape'
+UnicodeDecodeError: 'unicodeescape' codec can't decode bytes in position 21-22: truncated \UXXXXXXXX escape
