@@ -35,3 +35,15 @@ Move log to Impt Logs if required as only the 10 most recent logs are kept.
 2021-03-28 19:22:33,589 - ! Video (https://youtu.be/JnjaGc5Fmwo|CZ-2000 'Lada' - AK Czechnology in 5.56mm) usual forced error.
 2021-03-28 19:22:33,589 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
 2021-03-28 19:22:35,052 - Done downloading audio.
+2021-03-28 19:22:57,378 - Done downloading audio.
+2021-03-28 19:22:57,378 - Creating download information json.
+2021-03-28 19:22:57,379 - Writing text file.
+2021-03-28 19:22:57,380 - Downloading: CZ-2000 'Lada' - AK Czechnology in 5.56mm - Thumbnail.png
+2021-03-28 19:22:57,427 - Download for https://youtu.be/JnjaGc5Fmwo complete.
+
+2021-03-28 19:22:57,428 - Current: https://youtu.be/72XLTfmcaAw 
+2021-03-28 19:22:57,428 - youtube link
+2021-03-28 19:22:57,429 - Scraping for id: 72XLTfmcaAw
+2021-03-28 19:22:57,859 - ! Video (https://youtu.be/72XLTfmcaAw|Desert Storm - The Ground War, Day 3 - The Great Tank Battle of 73 Easting - Animated) usual forced error.
+2021-03-28 19:22:57,860 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-03-28 19:22:58,974 - Done downloading audio.
