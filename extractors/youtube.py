@@ -99,7 +99,7 @@ def youtube_dl_backup(url,folder_path):
     #video
     def my_hook_video(d):
         if d['status'] == 'finished':
-            dl_logger.log_info('Done downloading audio.')
+            dl_logger.log_info('Done downloading video.')
 
     ydl_opts_video = {
         'format': 'best',

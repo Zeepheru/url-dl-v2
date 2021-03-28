@@ -1,11 +1,54 @@
 ## Add a "##" To disable reading. NO BLANK LINES, that screws up my script. You are responsible for removing links.
 ##
 ##--youtube_ids: cH-yA8U2XgI
-https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w
-https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw
-https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA
-https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww
-https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg
+https://youtu.be/ymTYdAy_WjI
+https://youtu.be/_eQLFVpOYm4
+https://youtu.be/JnjaGc5Fmwo
+https://youtu.be/72XLTfmcaAw
+https://youtu.be/3h5kdRMzkaY
+https://youtu.be/QPd0fBkV6po
+https://youtu.be/ZT2yXWMfmgk
+https://youtu.be/uASUHbFEhWY
+https://youtu.be/AHQusmPu2-U
+https://youtu.be/ypfmHKawYv4
+https://youtu.be/XXYlFuWEuKI
+https://youtu.be/rMIEPkaadq0
+https://youtu.be/mGM2srZvRB4
+https://youtu.be/g9SETplgPYc
+https://youtu.be/BkWxbAoOK2o
+https://youtu.be/1TOS68qWHhw
+https://youtu.be/Hw2t0MOGnVc
+https://youtu.be/8oq0u2i4iHc
+https://youtu.be/-kNPmTZQySk
+https://youtu.be/GTwEz6SuzNg
+https://youtu.be/k7YVxLLIuGM
+https://youtu.be/AZoBuqOP1mI
+https://youtu.be/G_QhTdzWBJk
+https://youtu.be/s4sV5vFao8c
+https://youtu.be/JSbkOlnbvcg
+https://youtu.be/V20AmBozpBI
+https://youtu.be/Ar8s4NtLI8g
+https://youtu.be/PugMi37iMsM
+https://youtu.be/I5PPF6K81o8
+https://youtu.be/LUWDbmbAsCc
+https://youtu.be/BSP5x9petac
+https://youtu.be/sXQ4_-bkI-Q
+https://youtu.be/SKhKNUo6rJU
+https://youtu.be/8KFGPPF3cB4
+https://youtu.be/lbMv0UkAswI
+https://youtu.be/uE5POhMnN78
+https://youtu.be/90ojhXtiBms
+https://youtu.be/x_e4kCtJIHA
+https://youtu.be/U_UryFjKUsM
+https://youtu.be/Vb7Qgz2KaSM
+https://youtu.be/ur560pZKRfg
+https://youtu.be/qhbWGQ6o_mE
+####  to settle at a later date.
+#https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w
+#https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw
+#https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA
+#https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww
+#https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg
 ## -----
 ##
 ## END.
