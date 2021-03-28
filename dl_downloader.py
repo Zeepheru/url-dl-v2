@@ -38,7 +38,26 @@ def applymetadata(download_object):
     new["date"] = str(download_object["metadata"]["year"])
 
     new.save()
-    
+
+def createallfolders(filepath):
+    if "\\" in filepath:
+        only_folders = re.search(r".*(?=\\)", filepath).group()
+
+        if not os.path.exists(only_folders):
+            if "\\" not in only_folders:
+                current_folder = only_folders
+                if not os.path.exists(current_folder):
+                    os.mkdir(current_folder)
+
+            else:
+                all_folders = re.findall(r'^.*?(?=\\)|(?<=\\).*?(?=\\)|(?<=\\).+$',only_folders)
+                current_folder = only_folders
+
+                for folder in all_folders:
+                    current_folder = os.path.join(current_folder,folder)
+                    if not os.path.exists(current_folder):
+                        #print("CREATING "+current_folder)
+                        os.mkdir(current_folder)
 
 def mp3_apply_image(url, audio_path):
     dl_logger.log_to_file("Applying mp3 metadata to {}".format(audio_path))
@@ -88,7 +107,9 @@ def file_download_handler(download_object, Downloader):
         #recheck just in case, also double path error check
         parent_dir = re.search(utils.parent_dir_regex,download_object["path"]).group()
         if os.path.exists(parent_dir) != True: 
-            os.mkdir(parent_dir)
+            createallfolders(parent_dir)
+            if os.path.exists(parent_dir) != True: 
+                os.mkdir(parent_dir) #paranoia lol
             dl_logger.log_to_file("Created directory: {}".format(parent_dir))
 
         url = download_object["contents"]

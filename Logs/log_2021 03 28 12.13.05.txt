@@ -1,0 +1,182 @@
+2021-03-28 12:13:05,512 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-03-28 12:13:06,418 - Command: run
+2021-03-28 12:13:06,419 - Current: https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg 
+2021-03-28 12:13:06,419 - youtube link
+2021-03-28 12:13:07,110 - file_cache is only supported with oauth2client<4.0.0
+2021-03-28 12:13:07,204 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUPxHg4192hLDpTI2w7F9rPg"
+}
+2021-03-28 12:13:07,205 - Upload Playlist: UUPxHg4192hLDpTI2w7F9rPg
+2021-03-28 12:13:07,205 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0
+2021-03-28 12:13:07,207 - Current: https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w 
+2021-03-28 12:13:07,208 - youtube link
+2021-03-28 12:13:07,241 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUfVgJvRCqS7nW1xP05Qjc9w"
+}
+2021-03-28 12:13:07,241 - Upload Playlist: UUfVgJvRCqS7nW1xP05Qjc9w
+2021-03-28 12:13:07,241 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0
+2021-03-28 12:13:07,243 - Current: https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw 
+2021-03-28 12:13:07,243 - youtube link
+2021-03-28 12:13:07,269 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUL468jSBjbgFgpr2ki96Hvw"
+}
+2021-03-28 12:13:07,269 - Upload Playlist: UUL468jSBjbgFgpr2ki96Hvw
+2021-03-28 12:13:07,269 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0
+2021-03-28 12:13:07,271 - Current: https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA 
+2021-03-28 12:13:07,271 - youtube link
+2021-03-28 12:13:07,298 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUxJfx4F4uvnTdz83ZILV8NA"
+}
+2021-03-28 12:13:07,298 - Upload Playlist: UUxJfx4F4uvnTdz83ZILV8NA
+2021-03-28 12:13:07,298 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0
+2021-03-28 12:13:07,300 - Current: https://www.youtube.com/channel/UCfqLwSbk9u6Mv3hlSaN2_ww 
+2021-03-28 12:13:07,301 - youtube link
+2021-03-28 12:13:07,333 - {
+    "favorites": "FLfqLwSbk9u6Mv3hlSaN2_ww",
+    "likes": "",
+    "uploads": "UUfqLwSbk9u6Mv3hlSaN2_ww"
+}
+2021-03-28 12:13:07,333 - Upload Playlist: UUfqLwSbk9u6Mv3hlSaN2_ww
+2021-03-28 12:13:07,333 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0
+2021-03-28 12:13:07,336 - Current: https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg 
+2021-03-28 12:13:07,336 - youtube link
+2021-03-28 12:13:07,365 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUZIfhUoFkVPphEtnaZaGDqg"
+}
+2021-03-28 12:13:07,365 - Upload Playlist: UUZIfhUoFkVPphEtnaZaGDqg
+2021-03-28 12:13:07,365 - missing ), unterminated subpattern at position 0
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_from_playlist
+    playlist_id = re.search(r'(?<=https://www.youtube.com/playlist\?list=',url)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 302, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_compile.py", line 764, in compile
+    p = sre_parse.parse(p, flags)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 948, in parse
+    p = _parse_sub(source, state, flags & SRE_FLAG_VERBOSE, 0)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 443, in _parse_sub
+    itemsappend(_parse(source, state, verbose, nested + 1,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\sre_parse.py", line 759, in _parse
+    raise source.error("missing ), unterminated subpattern",
+re.error: missing ), unterminated subpattern at position 0

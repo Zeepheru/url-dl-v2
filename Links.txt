@@ -1,7 +1,6 @@
 ## Add a "##" To disable reading. NO BLANK LINES, that screws up my script. You are responsible for removing links.
 ##
 ##--youtube_ids: cH-yA8U2XgI
-https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg
 https://www.youtube.com/channel/UCfVgJvRCqS7nW1xP05Qjc9w
 https://www.youtube.com/channel/UCL468jSBjbgFgpr2ki96Hvw
 https://www.youtube.com/channel/UCxJfx4F4uvnTdz83ZILV8NA

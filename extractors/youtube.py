@@ -139,15 +139,59 @@ def youtube_extractor(Downloader):
             return re.search(r'(?<=youtube.com/watch\?v=).{11}',url).group()
 
     def extract_from_playlist(url):
-        if not url.startswith("http"):
-            url = "https://www.youtube.com/playlist?list=" + url
-        list_of_playlist_ids = re.findall(r'(?<=videoId":").{11}',utils.source_code(url))
+        youtube_api = get_youtube_api(Downloader)
+        
+        playlist_id = re.search(r'(?<=list=).*$',url)
+        if playlist_id != None:
+            playlist_id = playlist_id.group()
+        else:
+            playlist_id = url
+        #"UUfVgJvRCqS7nW1xP05Qjc9w"
+
+        request = youtube_api.playlistItems().list(
+            part='id,contentDetails,snippet',
+            playlistId = playlist_id,
+            maxResults = 50
+        )
+        response = request.execute()
+        
+        total_pages = int ( response["pageInfo"]["totalResults"] / response["pageInfo"]["resultsPerPage"]) + 1
+        if response["pageInfo"]["totalResults"] % response["pageInfo"]["resultsPerPage"] == 0:
+            total_pages -= 1
+
+        next_page_token = response["nextPageToken"]
+
+        list_of_ids = []
+
+        for playlist_item in response["items"]:
+            list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+
+        #utils.print_json(response)
+
+        for i in range (1, total_pages):
+            #print(i, next_page_token)
+            request = youtube_api.playlistItems().list(
+                part='id,contentDetails,snippet',
+                playlistId = playlist_id,
+                maxResults = 50,
+                pageToken = next_page_token
+            )
+            response = request.execute()
+
+            for playlist_item in response["items"]:
+                list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+
+            try:
+                next_page_token = response["nextPageToken"]
+            except:
+                break
+
         newlist_of_playlist_ids = []
-        for a in list_of_playlist_ids:
+        for a in list_of_ids:
             if a not in newlist_of_playlist_ids:
                 newlist_of_playlist_ids.append(a)
 
-        del list_of_playlist_ids
+        del list_of_ids
 
         return newlist_of_playlist_ids
 
@@ -607,6 +651,7 @@ def get_best_video(streams,*selected_type):
         return final_stream
     else:
         dl_logger.log_info("No video stream found")
+
 
 if __name__ == "__main__":
     tester()
