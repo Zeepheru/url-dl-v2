@@ -1,0 +1,37 @@
+2021-04-02 16:09:00,628 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-02 16:09:01,257 - Command: run
+2021-04-02 16:09:01,258 - Current: https://4everfreebrony.bandcamp.com/album/fireside 
+2021-04-02 16:09:01,258 - bandcamp link
+2021-04-02 16:09:05,911 - Creating download information json.
+2021-04-02 16:09:05,911 - Downloading: Love (Piano Version).mp3
+2021-04-02 16:09:06,738 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Love (Piano Version).mp3
+2021-04-02 16:09:07,077 - Downloading: Future (What Are The Odds) [Acoustic].mp3
+2021-04-02 16:09:08,443 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Future (What Are The Odds) [Acoustic].mp3
+2021-04-02 16:09:08,506 - Downloading: Smell The Roses (Acoustic).mp3
+2021-04-02 16:09:10,656 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Smell The Roses (Acoustic).mp3
+2021-04-02 16:09:10,712 - Downloading: House of Glass (Acoustic).mp3
+2021-04-02 16:09:12,732 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\House of Glass (Acoustic).mp3
+2021-04-02 16:09:12,803 - Downloading: Hallelujah (Piano Version).mp3
+2021-04-02 16:09:14,132 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Hallelujah (Piano Version).mp3
+2021-04-02 16:09:14,195 - Downloading: Bound With Time (Acoustic).mp3
+2021-04-02 16:09:15,545 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Bound With Time (Acoustic).mp3
+2021-04-02 16:09:15,601 - Downloading: Giggles & Gumdrops (Acoustic).mp3
+2021-04-02 16:09:17,291 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Giggles & Gumdrops (Acoustic).mp3
+2021-04-02 16:09:17,348 - Downloading: Sometimes (feat. Kazzong) [Acoustic].mp3
+2021-04-02 16:09:18,917 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Sometimes (feat. Kazzong) [Acoustic].mp3
+2021-04-02 16:09:18,985 - Downloading: Second Chances (Acoustic).mp3
+2021-04-02 16:09:20,849 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Second Chances (Acoustic).mp3
+2021-04-02 16:09:20,911 - Downloading: Stay (Acoustic).mp3
+2021-04-02 16:09:22,084 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Stay (Acoustic).mp3
+2021-04-02 16:09:22,142 - Downloading: Here On The Moon (Acoustic).mp3
+2021-04-02 16:09:23,367 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Here On The Moon (Acoustic).mp3
+2021-04-02 16:09:23,430 - Downloading: Friendship_Loyalty (cover feat. REMAKE).mp3
+2021-04-02 16:09:25,089 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Fireside\Friendship_Loyalty (cover feat. REMAKE).mp3
+2021-04-02 16:09:25,152 - Downloading: Cover Art.jpg
+2021-04-02 16:09:25,208 - Download for https://4everfreebrony.bandcamp.com/album/fireside complete.
+

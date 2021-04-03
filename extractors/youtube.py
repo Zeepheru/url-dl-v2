@@ -159,32 +159,36 @@ def youtube_extractor(Downloader):
         if response["pageInfo"]["totalResults"] % response["pageInfo"]["resultsPerPage"] == 0:
             total_pages -= 1
 
-        next_page_token = response["nextPageToken"]
 
         list_of_ids = []
 
         for playlist_item in response["items"]:
             list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+        try:
+            next_page_token = response["nextPageToken"]
+            #utils.print_json(response)
 
-        #utils.print_json(response)
+            for i in range (1, total_pages):
+                #print(i, next_page_token)
+                request = youtube_api.playlistItems().list(
+                    part='id,contentDetails,snippet',
+                    playlistId = playlist_id,
+                    maxResults = 50,
+                    pageToken = next_page_token
+                )
+                response = request.execute()
 
-        for i in range (1, total_pages):
-            #print(i, next_page_token)
-            request = youtube_api.playlistItems().list(
-                part='id,contentDetails,snippet',
-                playlistId = playlist_id,
-                maxResults = 50,
-                pageToken = next_page_token
-            )
-            response = request.execute()
+                for playlist_item in response["items"]:
+                    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
 
-            for playlist_item in response["items"]:
-                list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+                try:
+                    next_page_token = response["nextPageToken"]
+                except:
+                    break
 
-            try:
-                next_page_token = response["nextPageToken"]
-            except:
-                break
+        except:
+            pass
+        
 
         newlist_of_playlist_ids = []
         for a in list_of_ids:

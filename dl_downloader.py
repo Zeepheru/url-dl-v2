@@ -123,9 +123,9 @@ def file_download_handler(download_object, Downloader):
 
         if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
             try:
-                dl_logger.log_info("Downloading: {}".format(download_object["filename"]))
+                dl_logger.log_info("Downloading: {}".format(r""+download_object["filename"]))
             except:
-                dl_logger.log_info("Downloading to: {}".format(output_path)) #CHange this print statement
+                dl_logger.log_info("Downloading to: {}".format(r""+output_path)) #CHange this print statement
             r = requests.get(url, stream=True)
 
             total_size = int(r.headers.get('content-length', 0))
@@ -170,7 +170,7 @@ def download(Downloader):
         if isinstance(folder_path, str) == True: #only if a folder is required is the download_info[0] a string being the download folder.
             if os.path.exists(folder_path) != True: 
                 os.mkdir(folder_path)
-                dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(folder_path))
+                dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(r""+folder_path))
     
     if Downloader.settings["debug"]["export download info"] == True:
         create_download_json(Downloader)
