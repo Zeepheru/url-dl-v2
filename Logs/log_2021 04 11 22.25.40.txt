@@ -1,0 +1,21 @@
+2021-04-11 22:25:40,085 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-11 22:25:45,882 - Command: dl -youtube https://www.youtube.com/watch?v=UoXSuz0kWrA&list=PLRppsgU9yhA26bvchKYiaZ4NW1B-1snSk&index=3
+2021-04-11 22:25:45,882 - youtube link
+2021-04-11 22:25:46,778 - No module named 'googleapiclient'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 241, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 121, in parse_input
+    from extractors.youtube import youtube_extractor
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 23, in <module>
+    import googleapiclient.discovery
+ModuleNotFoundError: No module named 'googleapiclient'
+2021-04-11 22:25:46,780 - 
+Log Ended.
+Total time: 0 hrs 0 min 6.70 sec
+

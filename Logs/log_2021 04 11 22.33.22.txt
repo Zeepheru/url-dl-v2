@@ -1,0 +1,19 @@
+2021-04-11 22:33:22,976 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-11 22:33:29,478 - Command: dl -youtube https://www.youtube.com/watch?v=UoXSuz0kWrA&list=PLRppsgU9yhA26bvchKYiaZ4NW1B-1snSk&index=3
+2021-04-11 22:33:29,479 - youtube link
+2021-04-11 22:33:30,021 - Scraping for id: UoXSuz0kWrA
+2021-04-11 22:33:30,751 - Youtube Music link.
+2021-04-11 22:33:30,752 - ! Video (https://youtu.be/UoXSuz0kWrA|A Day To Remember - Re-Entry (Official Audio)) usual forced error.
+2021-04-11 22:33:30,752 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-11 22:33:31,400 - Done downloading video.
+2021-04-11 22:33:34,302 - Done downloading audio.
+2021-04-11 22:33:36,771 - Creating download information json.
+2021-04-11 22:33:36,772 - Writing text file.
+2021-04-11 22:33:36,772 - Downloading: A Day To Remember - Re-Entry (Official Audio) - Thumbnail.png
+2021-04-11 22:33:36,994 - Download for |https://www.youtube.com/watch?v=UoXSuz0kWrA&list=PLRppsgU9yhA26bvchKYiaZ4NW1B-1snSk&index=3| complete.
+

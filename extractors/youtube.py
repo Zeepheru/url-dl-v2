@@ -74,9 +74,7 @@ def get_youtube_api(Downloader):
     return Downloader.apis["youtube"]
         
 
-def youtube_dl_backup(url,folder_path):
-    
-    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
+def youtube_dl_backup_audio(url,folder_path):
 
     #audio
     def my_hook_audio(d):
@@ -88,13 +86,15 @@ def youtube_dl_backup(url,folder_path):
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
-            'preferredquality': '256',
+            'preferredquality': '320',
         }],
         'progress_hooks': [my_hook_audio],
         'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
     }
     with youtube_dl.YoutubeDL(ydl_opts_audio) as ydl:
         ydl.download([url])
+
+def youtube_dl_backup_video(url,folder_path):
 
     #video
     def my_hook_video(d):
@@ -118,6 +118,10 @@ def youtube_extractor(Downloader):
     def check_type(url):
         def set_youtube_type(a):
             data["type"] = a #May change type
+
+        if "//music." in url:
+            dl_logger.log_info("Replaced music. in youtube url.")
+            url = url.replace("//music.","//www.") #temp fix lol
 
         if re.search(r'https://music.youtube',url):
             set_youtube_type("music")
@@ -480,6 +484,14 @@ def extract_video_info(yt_id):
     video_info["title"] = utils.apostrophe(video_info["title"])
     video_info["views"] = foo["viewCount"]
 
+    #### Checks for music.youtube.
+    music_url = "https://music.youtube.com/watch?v=" + yt_id
+    if requests.get(music_url).status_code == 200:
+        dl_logger.log_info("Youtube Music link.")
+        video_info["music url"] = music_url
+    else:
+        video_info["music url"] = False
+
     def what():
         try:
             random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
@@ -608,7 +620,13 @@ Streams downloaded: {}, {}
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
             if Downloader.settings["debug"]["download"] == True:
                 try:
-                    youtube_dl_backup(video_info["url"],root_download_dir)
+                    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
+                    youtube_dl_backup_video(video_info["url"],root_download_dir)
+                    if video_info["music url"] != False:
+                        youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+                    else:
+                        youtube_dl_backup_audio(video_info["url"],root_download_dir)
+
                 except Exception as e:
                     dl_logger.log_exception(e)
 

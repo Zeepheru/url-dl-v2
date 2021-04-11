@@ -1,7 +1,0 @@
-2021-03-28 12:09:06,096 - 
-Downloading Utility Log. 
-Log started.
-
-Move log to Impt Logs if required as only the 10 most recent logs are kept.
-
-2021-03-28 12:09:06,098 - file_cache is only supported with oauth2client<4.0.0
