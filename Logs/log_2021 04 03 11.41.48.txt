@@ -1,0 +1,32 @@
+2021-04-03 11:41:48,542 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-03 11:41:57,185 - Command: -dl youtube https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg
+2021-04-03 11:42:44,094 - Command: --help
+2021-04-03 11:42:47,503 - Command: dl -youtube https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg
+2021-04-03 11:42:47,503 - youtube link
+2021-04-03 11:42:49,137 - file_cache is only supported with oauth2client<4.0.0
+2021-04-03 11:42:49,249 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUZIfhUoFkVPphEtnaZaGDqg"
+}
+2021-04-03 11:42:49,249 - Upload Playlist: UUZIfhUoFkVPphEtnaZaGDqg
+2021-04-03 11:42:49,301 - 'nextPageToken'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 241, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 123, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 271, in youtube_extractor
+    for a in extract_from_playlist(uploads):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 162, in extract_from_playlist
+    next_page_token = response["nextPageToken"]
+KeyError: 'nextPageToken'
+2021-04-03 11:42:49,306 - 
+Log Ended.
+Total time: 0 hrs 1 min 0.77 sec
+

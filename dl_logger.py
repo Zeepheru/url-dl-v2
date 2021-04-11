@@ -80,15 +80,20 @@ Total time: {}
 """.format(print_duration(start_time)))
 
 def log_exception(e):
+    #print("LOGGING EXCEPTION" + e)
     #e = 'asdsads'+e +'asdsadsadsads'
+    #print(e)
     logger.exception(e)
     print(log_stream.getvalue())
 
 def log_info(e):
+    #print("LOGGING INFO " + e)
+    #print(r"Oh fuck this shit" + e) ##rudimentary debuuging like
     logger.info(string_escape_latin(e)) #Changed frin string_escape_latin.
     print(string_escape_latin(e))
 
 def log_to_file(e):
+    #print("LOGGING TO FILE" + e) 
     logger.info(string_escape_latin(e))
 
 """
