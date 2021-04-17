@@ -122,6 +122,7 @@ def youtube_extractor(Downloader):
         if "//music." in url:
             dl_logger.log_info("Replaced music. in youtube url.")
             url = url.replace("//music.","//www.") #temp fix lol
+            url = url.replace("m.youtube.com","youtube.com") #also a dumb thing
 
         if re.search(r'https://music.youtube',url):
             set_youtube_type("music")

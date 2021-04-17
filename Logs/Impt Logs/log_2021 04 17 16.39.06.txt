@@ -1,0 +1,322 @@
+2021-04-17 16:39:06,622 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 16:39:06,622 - Autocommand from settings: run
+2021-04-17 16:39:06,622 - Command: run
+2021-04-17 16:39:06,624 - Current: https://m.youtube.com/watch%3Fv%3D0xHxx1i0CcI&ved=2ahUKEwiYppey9_XvAhWQXSsKHSFfC68QjjgwCXoECBcQAg&usg=AOvVaw27tmfVhxZ8BG6c1O1L-t3e 
+2021-04-17 16:39:06,624 - youtube link
+2021-04-17 16:39:07,929 - 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 364, in youtube_extractor
+    data["sub_objects"].append({"id":extract_video_id(data['url'])})
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 143, in extract_video_id
+    return re.search(r'(?<=youtube.com/watch\?v=).{11}',url).group()
+AttributeError: 'NoneType' object has no attribute 'group'
+2021-04-17 16:39:07,930 - Current: https://youtube.com/watch?v=ulteZYyWAA8 
+2021-04-17 16:39:07,930 - youtube link
+2021-04-17 16:39:07,931 - Scraping for id: ulteZYyWAA8
+2021-04-17 16:39:08,733 - Youtube Video: https://youtu.be/ulteZYyWAA8 is unavailable
+2021-04-17 16:39:08,734 - list index out of range
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 197, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 173, in download
+    folder_path = Downloader.objects_list[Downloader.current].download_info[0]
+IndexError: list index out of range
+2021-04-17 16:39:08,735 - Current: https://youtu.be/QKeMCXKSk5c 
+2021-04-17 16:39:08,736 - youtube link
+2021-04-17 16:39:08,736 - Scraping for id: QKeMCXKSk5c
+2021-04-17 16:39:09,662 - Youtube Music link.
+2021-04-17 16:39:09,663 - ! Video (https://youtu.be/QKeMCXKSk5c|Avast Fluttershy's Ass - 20% Cooler Yay Equaliser Edition) usual forced error.
+2021-04-17 16:39:09,663 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:39:10,589 - ERROR: Error in output template: unsupported format character 'C' (0x43) at index 75 (encoding: 'cp1252')
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 714, in prepare_filename
+    filename = expand_path(outtmpl).replace(sep, '') % template_dict
+ValueError: unsupported format character 'C' (0x43) at index 75
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 671, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 110, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1790, in process_info
+    info_dict['_filename'] = filename = self.prepare_filename(info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 723, in prepare_filename
+    self.report_error('Error in output template: ' + str(err) + ' (encoding: ' + repr(preferredencoding()) + ')')
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: Error in output template: unsupported format character 'C' (0x43) at index 75 (encoding: 'cp1252')
+2021-04-17 16:39:10,593 - 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 197, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 177, in download
+    dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(r""+folder_path))
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 102, in string_escape_path
+    return (s.replace("\\"[0:1],"\\").encode("latin1","ignore")       # To bytes, required by 'unicode-escape'
+UnicodeDecodeError: 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+2021-04-17 16:39:10,594 - Current: https://www.youtube.com/watch?v=H0BrGz2ReVo&list=WL&index=8 
+2021-04-17 16:39:10,594 - youtube link
+2021-04-17 16:39:10,596 - Scraping for id: H0BrGz2ReVo
+2021-04-17 16:39:11,783 - Youtube Music link.
+2021-04-17 16:39:11,784 - ! Video (https://youtu.be/H0BrGz2ReVo|Lulamoon (ft. Rina Chan)) usual forced error.
+2021-04-17 16:39:11,784 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:39:18,628 - Done downloading video.
+2021-04-17 16:39:22,706 - Done downloading audio.
+2021-04-17 16:39:25,788 - Creating download information json.
+2021-04-17 16:39:25,789 - Writing text file.
+2021-04-17 16:39:25,789 - Downloading: Lulamoon (ft. Rina Chan) - Thumbnail.png
+2021-04-17 16:39:26,273 - Download for https://www.youtube.com/watch?v=H0BrGz2ReVo&list=WL&index=8 complete.
+
+2021-04-17 16:39:26,274 - Current: https://www.youtube.com/watch?v=f-_FzA5hbPU 
+2021-04-17 16:39:26,274 - youtube link
+2021-04-17 16:39:26,276 - Scraping for id: f-_FzA5hbPU
+2021-04-17 16:39:27,621 - Youtube Music link.
+2021-04-17 16:39:27,621 - ! Video (https://youtu.be/f-_FzA5hbPU|[MLP] Painting Process Master Starlight Glimmer) usual forced error.
+2021-04-17 16:39:27,622 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:41:32,092 - Done downloading video.
+2021-04-17 16:41:35,637 - Done downloading audio.
+2021-04-17 16:41:41,355 - Creating download information json.
+2021-04-17 16:41:41,356 - Writing text file.
+2021-04-17 16:41:41,356 - Downloading: [MLP] Painting Process Master Starlight Glimmer - Thumbnail.png
+2021-04-17 16:41:41,601 - Download for https://www.youtube.com/watch?v=f-_FzA5hbPU complete.
+
+2021-04-17 16:41:41,604 - Current: https://youtu.be/7oPwR8zLYME 
+2021-04-17 16:41:41,605 - youtube link
+2021-04-17 16:41:41,605 - Scraping for id: 7oPwR8zLYME
+2021-04-17 16:41:42,994 - 'description'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 505, in extract_video_info
+    video_info["description"] = foo["description"]["simpleText"]
+KeyError: 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 374, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 505, in extract_video_info
+    video_info["description"] = foo["description"]["simpleText"]
+KeyError: 'description'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 376, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 505, in extract_video_info
+    video_info["description"] = foo["description"]["simpleText"]
+KeyError: 'description'
+2021-04-17 16:41:43,001 - Current: https://youtube.com/watch?feature=youtu.be&v=w1NEtnClzzM 
+2021-04-17 16:41:43,004 - youtube link
+2021-04-17 16:41:43,005 - Scraping for id: w1NEtnClzzM
+2021-04-17 16:41:44,092 - Youtube Music link.
+2021-04-17 16:41:44,093 - ! Video (https://youtu.be/w1NEtnClzzM|[] Don't Mine at Night (PMV Parody)) usual forced error.
+2021-04-17 16:41:44,093 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:41:48,219 - Done downloading video.
+2021-04-17 16:41:49,737 - Done downloading audio.
+2021-04-17 16:41:52,148 - Creating download information json.
+2021-04-17 16:41:52,148 - Writing text file.
+2021-04-17 16:41:52,148 - Downloading: [] Don't Mine at Night (PMV Parody) - Thumbnail.png
+2021-04-17 16:41:52,689 - Download for https://youtube.com/watch?feature=youtu.be&v=w1NEtnClzzM complete.
+
+2021-04-17 16:41:52,693 - Current: https://youtube.com/watch?v=aSMZk9qmUIs&list=RDAMVM7PowTFw-jAA 
+2021-04-17 16:41:52,693 - youtube link
+2021-04-17 16:41:52,694 - Scraping for id: aSMZk9qmUIs
+2021-04-17 16:41:53,718 - Youtube Music link.
+2021-04-17 16:41:53,719 - ! Video (https://youtu.be/aSMZk9qmUIs|Uchiage Hanabi) usual forced error.
+2021-04-17 16:41:53,719 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:42:01,734 - Done downloading video.
+2021-04-17 16:42:03,744 - Done downloading audio.
+2021-04-17 16:42:07,347 - Creating download information json.
+2021-04-17 16:42:07,348 - Writing text file.
+2021-04-17 16:42:07,348 - Downloading: Uchiage Hanabi - Thumbnail.png
+2021-04-17 16:42:07,933 - Download for https://youtube.com/watch?v=aSMZk9qmUIs&list=RDAMVM7PowTFw-jAA complete.
+
+2021-04-17 16:42:07,936 - Current: https://youtube.com/watch?v=okt6g5nlvIs&list=RDAOQfKGzjsUG2vYFjtBNNLahw 
+2021-04-17 16:42:07,937 - youtube link
+2021-04-17 16:42:07,938 - Scraping for id: okt6g5nlvIs
+2021-04-17 16:42:09,295 - Youtube Music link.
+2021-04-17 16:42:09,296 - ! Video (https://youtu.be/okt6g5nlvIs|Chasing Fate (feat. Relative1Pitch) (Remastered)) usual forced error.
+2021-04-17 16:42:09,296 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:42:14,026 - Done downloading video.
+2021-04-17 16:42:23,151 - Done downloading audio.
+2021-04-17 16:42:28,698 - Creating download information json.
+2021-04-17 16:42:28,699 - Writing text file.
+2021-04-17 16:42:28,699 - Downloading: Chasing Fate (feat. Relative1Pitch) (Remastered) - Thumbnail.png
+2021-04-17 16:42:30,141 - Download for https://youtube.com/watch?v=okt6g5nlvIs&list=RDAOQfKGzjsUG2vYFjtBNNLahw complete.
+
+2021-04-17 16:42:30,141 - Current: https://youtu.be/OMJiYAM9dO0 
+2021-04-17 16:42:30,142 - youtube link
+2021-04-17 16:42:30,142 - Scraping for id: OMJiYAM9dO0
+2021-04-17 16:42:30,902 - Youtube Music link.
+2021-04-17 16:42:30,902 - ! Video (https://youtu.be/OMJiYAM9dO0|[Confetto] LOP STEP RABBITS! #03 - ) usual forced error.
+2021-04-17 16:42:30,902 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:42:34,693 - Done downloading video.
+2021-04-17 16:42:35,913 - Done downloading audio.
+2021-04-17 16:42:39,189 - Creating download information json.
+2021-04-17 16:42:39,189 - Writing text file.
+2021-04-17 16:42:39,190 - Downloading: [Confetto] LOP STEP RABBITS! #03 -  - Thumbnail.png
+2021-04-17 16:42:39,473 - Download for https://youtu.be/OMJiYAM9dO0 complete.
+
+2021-04-17 16:42:39,473 - Current: https://m.youtube.com/watch?feature=youtu.be&v=w1NEtnClzzM 
+2021-04-17 16:42:39,474 - youtube link
+2021-04-17 16:42:39,474 - Scraping for id: w1NEtnClzzM
+2021-04-17 16:42:40,509 - Youtube Music link.
+2021-04-17 16:42:40,509 - ! Video (https://youtu.be/w1NEtnClzzM|[] Don't Mine at Night (PMV Parody)) usual forced error.
+2021-04-17 16:42:40,509 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:42:40,923 - Done downloading video.
+2021-04-17 16:42:42,229 - Done downloading audio.
+2021-04-17 16:42:44,563 - Creating download information json.
+2021-04-17 16:42:44,564 - Writing text file.
+2021-04-17 16:42:44,564 - Downloading: [] Don't Mine at Night (PMV Parody) - Thumbnail.png
+2021-04-17 16:42:45,302 - Download for https://m.youtube.com/watch?feature=youtu.be&v=w1NEtnClzzM complete.
+
+2021-04-17 16:42:45,303 - Current: https://youtu.be/lBdnti4_UUg 
+2021-04-17 16:42:45,303 - youtube link
+2021-04-17 16:42:45,303 - Scraping for id: lBdnti4_UUg
+2021-04-17 16:42:46,534 - Youtube Music link.
+2021-04-17 16:42:46,534 - ! Video (https://youtu.be/lBdnti4_UUg|Berserk - My Brother (Extended) (Definitive Version)) usual forced error.
+2021-04-17 16:42:46,535 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:42:54,636 - Done downloading video.
+2021-04-17 16:43:04,715 - Done downloading audio.
+2021-04-17 16:43:08,846 - Creating download information json.
+2021-04-17 16:43:08,847 - Writing text file.
+2021-04-17 16:43:08,848 - Downloading: Berserk - My Brother (Extended) (Definitive Version) - Thumbnail.png
+2021-04-17 16:43:09,096 - Download for https://youtu.be/lBdnti4_UUg complete.
+
+2021-04-17 16:43:09,097 - Current: https://www.youtube.com/watch?v=nzi7C2e2bTE 
+2021-04-17 16:43:09,097 - youtube link
+2021-04-17 16:43:09,097 - Scraping for id: nzi7C2e2bTE
+2021-04-17 16:43:10,078 - Youtube Music link.
+2021-04-17 16:43:10,079 - ! Video (https://youtu.be/nzi7C2e2bTE|MLP FiM Princess Trixie Sparkle 2 - Episode 1 - Deceit) usual forced error.
+2021-04-17 16:43:10,079 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:43:30,697 - Done downloading video.
+2021-04-17 16:43:35,562 - Done downloading audio.
+2021-04-17 16:44:00,857 - Creating download information json.
+2021-04-17 16:44:00,858 - Writing text file.
+2021-04-17 16:44:00,858 - Downloading: MLP FiM Princess Trixie Sparkle 2 - Episode 1 - Deceit - Thumbnail.png
+2021-04-17 16:44:01,325 - Download for https://www.youtube.com/watch?v=nzi7C2e2bTE complete.
+
+2021-04-17 16:44:01,326 - Current: https://www.youtube.com/watch?v=yIy9vjg-hjc 
+2021-04-17 16:44:01,326 - youtube link
+2021-04-17 16:44:01,326 - Scraping for id: yIy9vjg-hjc
+2021-04-17 16:44:01,832 - Youtube Music link.
+2021-04-17 16:44:01,833 - ! Video (https://youtu.be/yIy9vjg-hjc|Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip) usual forced error.
+2021-04-17 16:44:01,833 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:44:07,637 - Done downloading video.
+2021-04-17 16:44:08,349 - Done downloading audio.
+2021-04-17 16:44:10,374 - Creating download information json.
+2021-04-17 16:44:10,375 - Writing text file.
+2021-04-17 16:44:10,375 - Downloading: Goofy Goober Rock Song Scene - THE SPONGEBOB SQUAREPANTS MOVIE (2004) Movie Clip - Thumbnail.png
+2021-04-17 16:44:10,892 - Download for https://www.youtube.com/watch?v=yIy9vjg-hjc complete.
+
+2021-04-17 16:44:10,892 - Current: https://www.youtube.com/watch?v=34CZjsEI1yU 
+2021-04-17 16:44:10,892 - youtube link
+2021-04-17 16:44:10,893 - Scraping for id: 34CZjsEI1yU
+2021-04-17 16:44:11,835 - Youtube Music link.
+2021-04-17 16:44:11,836 - ! Video (https://youtu.be/34CZjsEI1yU|WIND ROSE - Diggy Diggy Hole (Official Video)   Napalm Records) usual forced error.
+2021-04-17 16:44:11,836 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:44:18,060 - Done downloading video.
+2021-04-17 16:44:19,550 - Done downloading audio.
+2021-04-17 16:44:23,162 - Creating download information json.
+2021-04-17 16:44:23,163 - Writing text file.
+2021-04-17 16:44:23,163 - Downloading: WIND ROSE - Diggy Diggy Hole (Official Video)   Napalm Records - Thumbnail.png
+2021-04-17 16:44:23,448 - Download for https://www.youtube.com/watch?v=34CZjsEI1yU complete.
+
+2021-04-17 16:44:23,449 - Current: https://youtu.be/jiHKGmb7_jA 
+2021-04-17 16:44:23,449 - youtube link
+2021-04-17 16:44:23,449 - Scraping for id: jiHKGmb7_jA
+2021-04-17 16:44:24,556 - Youtube Music link.
+2021-04-17 16:44:24,556 - ! Video (https://youtu.be/jiHKGmb7_jA|Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version)) usual forced error.
+2021-04-17 16:44:24,557 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:44:26,908 - Done downloading video.
+2021-04-17 16:44:28,149 - Done downloading audio.
+2021-04-17 16:44:30,704 - Creating download information json.
+2021-04-17 16:44:30,706 - Writing text file.
+2021-04-17 16:44:30,706 - Downloading: Professor Layton & The Curious Village Soundtrack - Layton's Theme (Live Version) - Thumbnail.png
+2021-04-17 16:44:30,972 - Download for https://youtu.be/jiHKGmb7_jA complete.
+
+2021-04-17 16:44:30,972 - Current: https://youtu.be/Ni632sTHZWU?t=86 
+2021-04-17 16:44:30,973 - youtube link
+2021-04-17 16:44:30,973 - Scraping for id: Ni632sTHZWU
+2021-04-17 16:44:32,136 - Youtube Music link.
+2021-04-17 16:44:32,137 - ! Video (https://youtu.be/Ni632sTHZWU|Weird Al's Alternative Polka) usual forced error.
+2021-04-17 16:44:32,137 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:44:35,873 - Done downloading video.
+2021-04-17 16:44:38,100 - Done downloading audio.
+2021-04-17 16:44:40,997 - Creating download information json.
+2021-04-17 16:44:40,998 - Writing text file.
+2021-04-17 16:44:40,998 - Downloading: Weird Al's Alternative Polka - Thumbnail.png
+2021-04-17 16:44:41,246 - Download for https://youtu.be/Ni632sTHZWU?t=86 complete.
+
+2021-04-17 16:44:41,246 - Current: https://youtu.be/8B4guKLlbVU 
+2021-04-17 16:44:41,246 - youtube link
+2021-04-17 16:44:41,247 - Scraping for id: 8B4guKLlbVU
+2021-04-17 16:44:41,877 - Youtube Music link.
+2021-04-17 16:44:41,878 - ! Video (https://youtu.be/8B4guKLlbVU|SUPER EUROBEAT MIX) usual forced error.
+2021-04-17 16:44:41,878 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:44:58,977 - Done downloading video.
+2021-04-17 16:45:08,185 - Done downloading audio.
+2021-04-17 16:45:46,004 - Creating download information json.
+2021-04-17 16:45:46,005 - Writing text file.
+2021-04-17 16:45:46,005 - Downloading: SUPER EUROBEAT MIX - Thumbnail.png
+2021-04-17 16:45:46,315 - Download for https://youtu.be/8B4guKLlbVU complete.
+
+2021-04-17 16:45:46,316 - Current: https://youtu.be/mNn34ErU6kM 
+2021-04-17 16:45:46,316 - youtube link
+2021-04-17 16:45:46,316 - Scraping for id: mNn34ErU6kM
+2021-04-17 16:45:47,152 - Youtube Music link.
+2021-04-17 16:45:47,152 - ! Video (https://youtu.be/mNn34ErU6kM|[Trap] - Aero Chord - Boundless [Monstercat Release]) usual forced error.
+2021-04-17 16:45:47,152 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:45:59,408 - Done downloading video.
+2021-04-17 16:46:04,388 - Done downloading audio.
+2021-04-17 16:46:06,831 - Creating download information json.
+2021-04-17 16:46:06,831 - Writing text file.
+2021-04-17 16:46:06,832 - Downloading: [Trap] - Aero Chord - Boundless [Monstercat Release] - Thumbnail.png
+2021-04-17 16:46:07,687 - Download for https://youtu.be/mNn34ErU6kM complete.
+
+2021-04-17 16:46:07,688 - Current: https://youtu.be/eg0eRco7Zbs 
+2021-04-17 16:46:07,688 - youtube link
+2021-04-17 16:46:07,688 - Scraping for id: eg0eRco7Zbs
+2021-04-17 16:46:08,656 - Youtube Music link.
+2021-04-17 16:46:08,657 - ! Video (https://youtu.be/eg0eRco7Zbs|) usual forced error.
+2021-04-17 16:46:08,657 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 16:46:42,843 - Done downloading video.
+2021-04-17 16:46:45,074 - Done downloading audio.
+2021-04-17 16:46:47,033 - Creating download information json.
+2021-04-17 16:46:47,035 - Writing text file.
+2021-04-17 16:46:47,036 - Downloading:  - Thumbnail.png
+2021-04-17 16:46:47,451 - Download for https://youtu.be/eg0eRco7Zbs complete.
+
+2021-04-17 16:51:04,177 - Command: close
+2021-04-17 16:51:04,178 - 
+Log Ended.
+Total time: 0 hrs 11 min 57.56 sec
+
