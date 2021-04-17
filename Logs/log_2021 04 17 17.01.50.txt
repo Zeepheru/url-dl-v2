@@ -1,0 +1,10 @@
+2021-04-17 17:01:50,930 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 17:01:50,930 - Autocommand from settings: run
+2021-04-17 17:01:50,931 - Command: run
+2021-04-17 17:01:50,931 - Current: https://m.youtube.com/watch%3Fv%3D0xHxx1i0CcI&ved=2ahUKEwiYppey9_XvAhWQXSsKHSFfC68QjjgwCXoECBcQAg&usg=AOvVaw27tmfVhxZ8BG6c1O1L-t3e 
+2021-04-17 17:01:50,932 - youtube link

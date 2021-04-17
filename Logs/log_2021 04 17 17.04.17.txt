@@ -1,0 +1,97 @@
+2021-04-17 17:04:17,983 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 17:04:17,984 - Autocommand from settings: run
+2021-04-17 17:04:17,984 - Command: run
+2021-04-17 17:04:17,985 - Current: https://youtu.be/0xHxx1i0CcI 
+2021-04-17 17:04:17,985 - youtube link
+2021-04-17 17:04:18,780 - Scraping for id: 0xHxx1i0CcI
+2021-04-17 17:04:20,367 - Youtube Music link.
+2021-04-17 17:04:20,368 - ! Video (https://youtu.be/0xHxx1i0CcI|Gold) usual forced error.
+2021-04-17 17:04:20,368 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:22,964 - Done downloading video.
+2021-04-17 17:04:24,233 - Done downloading audio.
+2021-04-17 17:04:26,999 - Creating download information json.
+2021-04-17 17:04:26,999 - Writing text file.
+2021-04-17 17:04:27,000 - Downloading: Gold - Thumbnail.png
+2021-04-17 17:04:27,810 - Download for https://youtu.be/0xHxx1i0CcI complete.
+
+2021-04-17 17:04:27,810 - Current: https://youtu.be/U06jlgpMtQs 
+2021-04-17 17:04:27,811 - youtube link
+2021-04-17 17:04:27,812 - Scraping for id: U06jlgpMtQs
+2021-04-17 17:04:29,172 - Youtube Music link.
+2021-04-17 17:04:29,173 - ! Video (https://youtu.be/U06jlgpMtQs|National Anthem of USSR) usual forced error.
+2021-04-17 17:04:29,173 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:29,843 - Done downloading video.
+2021-04-17 17:04:31,724 - Done downloading audio.
+2021-04-17 17:04:34,056 - Creating download information json.
+2021-04-17 17:04:34,057 - Writing text file.
+2021-04-17 17:04:34,057 - Downloading: National Anthem of USSR - Thumbnail.png
+2021-04-17 17:04:34,324 - Download for https://youtu.be/U06jlgpMtQs complete.
+
+2021-04-17 17:04:34,326 - Current: https://www.youtube.com/watch?v=hKAB91trmbg 
+2021-04-17 17:04:34,326 - youtube link
+2021-04-17 17:04:34,327 - Scraping for id: hKAB91trmbg
+2021-04-17 17:04:35,441 - Youtube Music link.
+2021-04-17 17:04:35,441 - ! Video (https://youtu.be/hKAB91trmbg|Pinkie's Brew (Remix) - Sherclop Pones) usual forced error.
+2021-04-17 17:04:35,442 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:36,099 - Done downloading video.
+2021-04-17 17:04:37,900 - Done downloading audio.
+2021-04-17 17:04:40,158 - Creating download information json.
+2021-04-17 17:04:40,159 - Writing text file.
+2021-04-17 17:04:40,159 - Downloading: Pinkie's Brew (Remix) - Sherclop Pones - Thumbnail.png
+2021-04-17 17:04:41,070 - Download for https://www.youtube.com/watch?v=hKAB91trmbg complete.
+
+2021-04-17 17:04:41,071 - Current: https://www.youtube.com/watchv=2okSis_wtls 
+2021-04-17 17:04:41,071 - youtube link
+2021-04-17 17:04:41,072 - 'NoneType' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 365, in youtube_extractor
+    data["sub_objects"].append({"id":extract_video_id(data['url'])})
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 144, in extract_video_id
+    return re.search(r'(?<=youtube.com/watch\?v=).{11}',url).group()
+AttributeError: 'NoneType' object has no attribute 'group'
+2021-04-17 17:04:41,074 - Current: https://www.youtube.com/watch?v=weQfKKcIXkA 
+2021-04-17 17:04:41,074 - youtube link
+2021-04-17 17:04:41,075 - Scraping for id: weQfKKcIXkA
+2021-04-17 17:04:42,222 - Youtube Music link.
+2021-04-17 17:04:42,223 - ! Video (https://youtu.be/weQfKKcIXkA|Ken Ashcorp - Absolute Territory (Remix)) usual forced error.
+2021-04-17 17:04:42,223 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:42,697 - Done downloading video.
+2021-04-17 17:04:44,494 - Done downloading audio.
+2021-04-17 17:04:47,096 - Creating download information json.
+2021-04-17 17:04:47,098 - Writing text file.
+2021-04-17 17:04:47,098 - Downloading: Ken Ashcorp - Absolute Territory (Remix) - Thumbnail.png
+2021-04-17 17:04:47,718 - Download for https://www.youtube.com/watch?v=weQfKKcIXkA complete.
+
+2021-04-17 17:04:47,720 - Current: https://www.youtube.com/watch?v=JRx70YbJ1OY 
+2021-04-17 17:04:47,720 - youtube link
+2021-04-17 17:04:47,721 - Scraping for id: JRx70YbJ1OY
+2021-04-17 17:04:48,977 - Youtube Music link.
+2021-04-17 17:04:48,978 - ! Video (https://youtu.be/JRx70YbJ1OY|One Trick Pony (Remix) - JackleApp & Mic the Microphone) usual forced error.
+2021-04-17 17:04:48,978 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:49,700 - Done downloading video.
+2021-04-17 17:04:51,813 - Done downloading audio.
+2021-04-17 17:04:54,150 - Creating download information json.
+2021-04-17 17:04:54,151 - Writing text file.
+2021-04-17 17:04:54,151 - Downloading: One Trick Pony (Remix) - JackleApp & Mic the Microphone - Thumbnail.png
+2021-04-17 17:04:54,728 - Download for https://www.youtube.com/watch?v=JRx70YbJ1OY complete.
+
+2021-04-17 17:04:54,730 - Current: https://www.youtube.com/watch?v=OSZlAltkYoc 
+2021-04-17 17:04:54,730 - youtube link
+2021-04-17 17:04:54,731 - Scraping for id: OSZlAltkYoc
+2021-04-17 17:04:56,113 - Youtube Music link.
+2021-04-17 17:04:56,113 - ! Video (https://youtu.be/OSZlAltkYoc|Song - September Feat. Mic the Microphone and PinkieSkye) usual forced error.
+2021-04-17 17:04:56,114 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 17:04:56,699 - Done downloading video.
+2021-04-17 17:04:58,294 - Done downloading audio.
+2021-04-17 17:05:00,761 - Creating download information json.
+2021-04-17 17:05:00,762 - Writing text file.
+2021-04-17 17:05:00,762 - Downloading: Song - September Feat. Mic the Microphone and PinkieSkye - Thumbnail.png
+2021-04-17 17:05:01,695 - Download for https://www.youtube.com/watch?v=OSZlAltkYoc complete.
+
