@@ -107,6 +107,16 @@ def string_escape_path(s):
 def give_it_some_time():
     time.sleep(0.1)
 
+def remove_periods_from_end(a): #removes periods from the ends of folder names because windows, and spaces as well
+    #Doesnt fully work.
+    while True:
+        if a[-1:] != "." or a[-1:] != " ":
+            break
+        else:
+            a = a[:-1]
+
+    return a
+
 def byte_converter(size):
     ext = "B"
     if size/1000 > 1:

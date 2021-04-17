@@ -1,0 +1,126 @@
+2021-04-17 15:10:37,148 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 15:10:37,148 - Autocommand from settings: run
+2021-04-17 15:10:37,148 - Command: run
+2021-04-17 15:10:37,149 - Current: https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo 
+2021-04-17 15:10:37,149 - youtube link
+2021-04-17 15:10:37,744 - file_cache is only supported with oauth2client<4.0.0
+2021-04-17 15:10:37,862 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:37,864 - Current: https://youtube.com/playlist?list=OLAK5uy_k6-YLo2sDqVKdGHmCArwx4fBgSEiHDld8 
+2021-04-17 15:10:37,864 - youtube link
+2021-04-17 15:10:37,948 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:37,950 - Current: https://youtube.com/playlist?list=OLAK5uy_lu-IrwfoT1NlrFbwD7fDmlkFu-l2zv1Jc 
+2021-04-17 15:10:37,951 - youtube link
+2021-04-17 15:10:38,039 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,042 - Current: https://youtube.com/playlist?list=OLAK5uy_n0ZRkqJr8BEjnsuOQ6LW0xtJFjIjCAX0s 
+2021-04-17 15:10:38,042 - youtube link
+2021-04-17 15:10:38,121 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,124 - Current: https://youtube.com/playlist?list=OLAK5uy_njPTYeQXyBNrlcsG-bCpu3L8UgKRhq56Q 
+2021-04-17 15:10:38,124 - youtube link
+2021-04-17 15:10:38,203 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,206 - Current: https://youtube.com/playlist?list=OLAK5uy_mHtG9ieU-NomSGrpQ3u_qJnd2BOO6_4Ys 
+2021-04-17 15:10:38,207 - youtube link
+2021-04-17 15:10:38,278 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,281 - Current: https://youtube.com/playlist?list=OLAK5uy_kVU1cAg0d6I8qkMYXSspjIxoLXrml8JNk 
+2021-04-17 15:10:38,283 - youtube link
+2021-04-17 15:10:38,366 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,370 - Current: https://youtube.com/playlist?list=OLAK5uy_kisxVbggnFStwVaQgPVP5vPg4AyWIjMAQ 
+2021-04-17 15:10:38,370 - youtube link
+2021-04-17 15:10:38,444 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+2021-04-17 15:10:38,447 - Current: https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 
+2021-04-17 15:10:38,447 - youtube link
+2021-04-17 15:10:38,518 - cannot use a string pattern on a bytes-like object
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 226, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 171, in extract_from_playlist
+    print(re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content).group())
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\re.py", line 199, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object

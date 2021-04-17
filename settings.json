@@ -1,6 +1,6 @@
 {
     "debug": {
-        "autocommand": "",
+        "autocommand": "run",
         "descriptions only": false,
         "download": true,
         "export download info": true,
@@ -24,5 +24,5 @@
         }
     },
     "get best stream": true,
-    "max download": 1
+    "max download": 1000
 }

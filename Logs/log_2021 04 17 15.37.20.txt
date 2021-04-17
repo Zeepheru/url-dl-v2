@@ -1,0 +1,187 @@
+2021-04-17 15:37:20,011 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 15:37:20,012 - Autocommand from settings: run
+2021-04-17 15:37:20,012 - Command: run
+2021-04-17 15:37:20,012 - Current: https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo 
+2021-04-17 15:37:20,013 - youtube link
+2021-04-17 15:37:20,654 - file_cache is only supported with oauth2client<4.0.0
+2021-04-17 15:37:20,819 - Scraping for id: ovQOIjILqTA
+2021-04-17 15:37:21,533 - Youtube Music link.
+2021-04-17 15:37:21,534 - Scraping for id: AGTOOB775Dg
+2021-04-17 15:37:22,513 - Youtube Music link.
+2021-04-17 15:37:22,514 - Scraping for id: 4lEyFHIut18
+2021-04-17 15:37:23,201 - Youtube Music link.
+2021-04-17 15:37:23,202 - Scraping for id: 5__M8iYcgHA
+2021-04-17 15:37:23,970 - Youtube Music link.
+2021-04-17 15:37:23,970 - Scraping for id: sj1z0tjlz50
+2021-04-17 15:37:24,613 - Youtube Music link.
+2021-04-17 15:37:24,614 - Scraping for id: K9ky5kFqFZ0
+2021-04-17 15:37:25,360 - Youtube Music link.
+2021-04-17 15:37:25,360 - Scraping for id: nwa9pb2fawY
+2021-04-17 15:37:26,273 - Youtube Music link.
+2021-04-17 15:37:26,273 - Scraping for id: lZOau0mE6N8
+2021-04-17 15:37:27,347 - Youtube Music link.
+2021-04-17 15:37:27,347 - Scraping for id: 9OK6_7qLhzY
+2021-04-17 15:37:28,022 - Youtube Music link.
+2021-04-17 15:37:28,023 - Scraping for id: JTEkb9KQMQ8
+2021-04-17 15:37:28,690 - Youtube Music link.
+2021-04-17 15:37:28,691 - Scraping for id: 3VHhbi5jvuI
+2021-04-17 15:37:29,367 - Youtube Music link.
+2021-04-17 15:37:29,368 - Scraping for id: 4-dgZoLisUs
+2021-04-17 15:37:30,161 - Youtube Music link.
+2021-04-17 15:37:30,161 - Scraping for id: I5ISF6R8jY8
+2021-04-17 15:37:30,802 - Youtube Music link.
+2021-04-17 15:37:30,802 - Scraping for id: IfwPPmF3po4
+2021-04-17 15:37:31,504 - Youtube Music link.
+2021-04-17 15:37:31,505 - ! Video (https://youtu.be/ovQOIjILqTA|Brick Wall) usual forced error.
+2021-04-17 15:37:31,505 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:37:32,457 - Done downloading video.
+2021-04-17 15:37:33,193 - Done downloading audio.
+2021-04-17 15:37:35,398 - ! Video (https://youtu.be/AGTOOB775Dg|Mindreader) usual forced error.
+2021-04-17 15:37:35,398 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:37:36,035 - Done downloading video.
+2021-04-17 15:37:36,899 - Done downloading audio.
+2021-04-17 15:37:38,785 - ! Video (https://youtu.be/4lEyFHIut18|Bloodsucker) usual forced error.
+2021-04-17 15:37:38,785 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:37:39,458 - Done downloading video.
+2021-04-17 15:37:40,192 - Done downloading audio.
+2021-04-17 15:37:42,529 - ! Video (https://youtu.be/5__M8iYcgHA|Last Chance To Dance (Bad Friend)) usual forced error.
+2021-04-17 15:37:42,529 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:38:02,475 - Done downloading video.
+2021-04-17 15:38:03,163 - Done downloading audio.
+2021-04-17 15:38:05,145 - ! Video (https://youtu.be/sj1z0tjlz50|F.Y.M.) usual forced error.
+2021-04-17 15:38:05,145 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:38:05,976 - Done downloading video.
+2021-04-17 15:38:06,669 - Done downloading audio.
+2021-04-17 15:38:08,622 - ! Video (https://youtu.be/K9ky5kFqFZ0|High Diving) usual forced error.
+2021-04-17 15:38:08,623 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:38:09,668 - Done downloading video.
+2021-04-17 15:38:10,449 - Done downloading audio.
+2021-04-17 15:38:12,672 - ! Video (https://youtu.be/nwa9pb2fawY|Resentment) usual forced error.
+2021-04-17 15:38:12,672 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:38:13,280 - Done downloading video.
+2021-04-17 15:38:14,297 - Done downloading audio.
+2021-04-17 15:38:16,712 - ! Video (https://youtu.be/lZOau0mE6N8|Looks Like Hell) usual forced error.
+2021-04-17 15:38:16,712 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:26,910 - Done downloading video.
+2021-04-17 15:39:27,661 - Done downloading audio.
+2021-04-17 15:39:30,298 - ! Video (https://youtu.be/9OK6_7qLhzY|Viva La Mexico) usual forced error.
+2021-04-17 15:39:30,298 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:31,014 - Done downloading video.
+2021-04-17 15:39:31,751 - Done downloading audio.
+2021-04-17 15:39:34,068 - ! Video (https://youtu.be/JTEkb9KQMQ8|Only Money) usual forced error.
+2021-04-17 15:39:34,068 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:34,704 - Done downloading video.
+2021-04-17 15:39:35,393 - Done downloading audio.
+2021-04-17 15:39:37,997 - ! Video (https://youtu.be/3VHhbi5jvuI|Degenerates) usual forced error.
+2021-04-17 15:39:37,998 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:38,575 - Done downloading video.
+2021-04-17 15:39:39,227 - Done downloading audio.
+2021-04-17 15:39:41,238 - ! Video (https://youtu.be/4-dgZoLisUs|Permanent) usual forced error.
+2021-04-17 15:39:41,238 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:41,905 - Done downloading video.
+2021-04-17 15:39:42,632 - Done downloading audio.
+2021-04-17 15:39:44,982 - ! Video (https://youtu.be/I5ISF6R8jY8|Re-Entry) usual forced error.
+2021-04-17 15:39:44,982 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:45,709 - Done downloading video.
+2021-04-17 15:39:46,422 - Done downloading audio.
+2021-04-17 15:39:48,299 - ! Video (https://youtu.be/IfwPPmF3po4|Everything We Need) usual forced error.
+2021-04-17 15:39:48,300 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:39:49,036 - Done downloading video.
+2021-04-17 15:39:49,656 - Done downloading audio.
+2021-04-17 15:39:51,963 - Creating download information json.
+2021-04-17 15:39:51,964 - Writing text file.
+2021-04-17 15:39:51,964 - Downloading: Brick Wall - Thumbnail.png
+2021-04-17 15:39:52,415 - Writing text file.
+2021-04-17 15:39:52,415 - Downloading: Mindreader - Thumbnail.png
+2021-04-17 15:39:52,692 - Writing text file.
+2021-04-17 15:39:52,692 - Downloading: Bloodsucker - Thumbnail.png
+2021-04-17 15:39:53,040 - Writing text file.
+2021-04-17 15:39:53,040 - Downloading: Last Chance To Dance (Bad Friend) - Thumbnail.png
+2021-04-17 15:39:53,538 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\You're Welcome\F.Y.M.
+2021-04-17 15:39:53,539 - Writing text file.
+2021-04-17 15:39:53,539 - Downloading: F.Y.M. - Thumbnail.png
+2021-04-17 15:39:54,024 - Writing text file.
+2021-04-17 15:39:54,024 - Downloading: High Diving - Thumbnail.png
+2021-04-17 15:39:54,824 - Writing text file.
+2021-04-17 15:39:54,824 - Downloading: Resentment - Thumbnail.png
+2021-04-17 15:39:55,291 - Writing text file.
+2021-04-17 15:39:55,292 - Downloading: Looks Like Hell - Thumbnail.png
+2021-04-17 15:39:55,803 - Writing text file.
+2021-04-17 15:39:55,803 - Downloading: Viva La Mexico - Thumbnail.png
+2021-04-17 15:39:56,413 - Writing text file.
+2021-04-17 15:39:56,413 - Downloading: Only Money - Thumbnail.png
+2021-04-17 15:39:56,893 - Writing text file.
+2021-04-17 15:39:56,894 - Downloading: Degenerates - Thumbnail.png
+2021-04-17 15:39:57,678 - Writing text file.
+2021-04-17 15:39:57,678 - Downloading: Permanent - Thumbnail.png
+2021-04-17 15:39:58,450 - Writing text file.
+2021-04-17 15:39:58,450 - Downloading: Re-Entry - Thumbnail.png
+2021-04-17 15:39:58,905 - Writing text file.
+2021-04-17 15:39:58,906 - Downloading: Everything We Need - Thumbnail.png
+2021-04-17 15:39:59,654 - Download for https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo complete.
+
+2021-04-17 15:39:59,655 - Current: https://youtube.com/playlist?list=OLAK5uy_k6-YLo2sDqVKdGHmCArwx4fBgSEiHDld8 
+2021-04-17 15:39:59,656 - youtube link
+2021-04-17 15:39:59,952 - Scraping for id: MEjEGn1v3GI
+2021-04-17 15:40:00,544 - Youtube Video: https://youtu.be/MEjEGn1v3GI is unavailable
+2021-04-17 15:40:00,544 - list.remove(x): x not in list
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 379, in youtube_extractor
+    data["sub_objects"].remove(n_subobject)
+ValueError: list.remove(x): x not in list
+2021-04-17 15:40:00,547 - Current: https://youtube.com/playlist?list=OLAK5uy_lu-IrwfoT1NlrFbwD7fDmlkFu-l2zv1Jc 
+2021-04-17 15:40:00,547 - youtube link
+2021-04-17 15:40:00,641 - Scraping for id: 6tREa5p1C8A
+2021-04-17 15:40:01,150 - Youtube Video: https://youtu.be/6tREa5p1C8A is unavailable
+2021-04-17 15:40:01,150 - list.remove(x): x not in list
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 379, in youtube_extractor
+    data["sub_objects"].remove(n_subobject)
+ValueError: list.remove(x): x not in list
+2021-04-17 15:40:01,152 - Current: https://youtube.com/playlist?list=OLAK5uy_n0ZRkqJr8BEjnsuOQ6LW0xtJFjIjCAX0s 
+2021-04-17 15:40:01,153 - youtube link
+2021-04-17 15:40:01,233 - Scraping for id: xCn71xWObbU
+2021-04-17 15:40:01,978 - Youtube Music link.
+2021-04-17 15:40:01,979 - Scraping for id: GRB-GGMbQjc
+2021-04-17 15:40:02,725 - Youtube Music link.
+2021-04-17 15:40:02,726 - Scraping for id: lveMD1Itfns
+2021-04-17 15:40:03,330 - Youtube Music link.
+2021-04-17 15:40:03,330 - Scraping for id: 9xjb9rvi7Js
+2021-04-17 15:40:04,025 - Youtube Music link.
+2021-04-17 15:40:04,025 - Scraping for id: sZyS0bgoSho
+2021-04-17 15:40:04,845 - Youtube Music link.
+2021-04-17 15:40:04,845 - Scraping for id: fAbBUzCS7aw
+2021-04-17 15:40:05,512 - Youtube Music link.
+2021-04-17 15:40:05,513 - Scraping for id: Z5HQVAiFiUo
+2021-04-17 15:40:06,163 - Youtube Music link.
+2021-04-17 15:40:06,164 - Scraping for id: oiXGX0uam4A
+2021-04-17 15:40:06,981 - Youtube Music link.
+2021-04-17 15:40:06,981 - Scraping for id: y_eVg9l-dKY
+2021-04-17 15:40:07,688 - Youtube Music link.
+2021-04-17 15:40:07,688 - Scraping for id: 4KFavYmSM20
+2021-04-17 15:40:08,706 - Youtube Music link.
+2021-04-17 15:40:08,706 - ! Video (https://youtu.be/xCn71xWObbU|Sticks & Bricks) usual forced error.
+2021-04-17 15:40:08,707 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:40:09,455 - Done downloading video.
+2021-04-17 15:40:10,342 - Done downloading audio.
+2021-04-17 15:40:12,607 - ! Video (https://youtu.be/GRB-GGMbQjc|All I Want) usual forced error.
+2021-04-17 15:40:12,608 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:40:13,389 - Done downloading video.
+2021-04-17 15:40:14,104 - Done downloading audio.
+2021-04-17 15:40:16,266 - ! Video (https://youtu.be/lveMD1Itfns|It's Complicated) usual forced error.
+2021-04-17 15:40:16,267 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:40:17,369 - Done downloading video.
+2021-04-17 15:40:18,101 - Done downloading audio.
+2021-04-17 15:40:20,059 - ! Video (https://youtu.be/9xjb9rvi7Js|This Is The House That Doubt Built) usual forced error.
+2021-04-17 15:40:20,059 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:40:21,583 - Done downloading video.
+2021-04-17 15:40:22,669 - Done downloading audio.

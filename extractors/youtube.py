@@ -166,11 +166,17 @@ def youtube_extractor(Downloader):
 
         list_of_ids = []
 
+        #WOW WOW - need to find playlist title lol.
+        httpGETUrl = "https://youtube.googleapis.com/youtube/v3/playlists?part=snippet&id={}&key={}".format(playlist_id, "AIzaSyB7q5HYJfFt1ctb5wcIZVn7_YGygQj7yGA")
+        playlist_name = re.search(r'(?<="title": ").*?(?=",)', requests.get(httpGETUrl).content.decode()).group()
+
         for playlist_item in response["items"]:
             list_of_ids.append(playlist_item["contentDetails"]["videoId"])
         try:
             next_page_token = response["nextPageToken"]
             #utils.print_json(response)
+
+            print(playlist_id)
 
             for i in range (1, total_pages):
                 #print(i, next_page_token)
@@ -180,7 +186,7 @@ def youtube_extractor(Downloader):
                     maxResults = 50,
                     pageToken = next_page_token
                 )
-                response = request.execute()
+
 
                 for playlist_item in response["items"]:
                     list_of_ids.append(playlist_item["contentDetails"]["videoId"])
@@ -193,6 +199,7 @@ def youtube_extractor(Downloader):
         except:
             pass
         
+        
 
         newlist_of_playlist_ids = []
         for a in list_of_ids:
@@ -201,7 +208,7 @@ def youtube_extractor(Downloader):
 
         del list_of_ids
 
-        return newlist_of_playlist_ids
+        return newlist_of_playlist_ids, playlist_name
 
         
             
@@ -213,8 +220,13 @@ def youtube_extractor(Downloader):
 
     if data["type"] == "playlist":
 
-        for a in extract_from_playlist(data['url']):
+        extracted, playlist_name = extract_from_playlist(data['url'])
+        data["playlist name"] = playlist_name
+
+        for a in extracted:
             data["sub_objects"].append({"id":a})
+
+        del extracted, playlist_name
 
         #print(data["sub_objects"]) #TEMP.
 
@@ -276,10 +288,13 @@ def youtube_extractor(Downloader):
 
         id_string = ""
         list_of_ids = []
-        for a in extract_from_playlist(uploads):
+        extracted, playlist_name = extract_from_playlist(uploads)
+        for a in extracted:
             data["sub_objects"].append({"id":a})
             list_of_ids.append(a)
             id_string += (a + "\n")
+
+        del extracted, playlist_name
 
         #print(data["sub_objects"])
         dl_logger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
@@ -348,8 +363,8 @@ Downloaded IDs:
     else:
         data["sub_objects"].append({"id":extract_video_id(data['url'])})
         
-
-    for sub_object in data["sub_objects"]:
+    n_subobject = 0
+    for sub_object in data["sub_objects"]: #for all subobjects created as part of the recent loop stuff
         dl_logger.log_info("Scraping for id: {}".format(sub_object["id"]))
         try:
             sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
@@ -359,6 +374,14 @@ Downloaded IDs:
                 sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
             except:
                 sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+
+        if sub_object["video_info"] == False:
+            data["sub_objects"].pop(n_subobject)
+
+
+        n_subobject +=1
+
+
 
         #DEBUG
         #print(sub_object["id"])
@@ -430,89 +453,97 @@ def extract_video_info(yt_id):
                 test = scrape_yt_link(url)
         
     streams = []
-    ytformats = test["streamingData"]["adaptiveFormats"]
-    for i,a in enumerate(ytformats):
-        stream_type = a["mimeType"][:a["mimeType"].find("/")]
-        file_type = a["mimeType"][len(stream_type)+1:a["mimeType"].find("; ")]
-        try:
-            stream_url = utils.string_escape(a["url"])
-            s=None
-        except KeyError: #Just copied from https://i.stack.imgur.com/gwsZg.jpg
-            stream_url = a["signatureCipher"]
-
-        if stream_type == "audio":
-            bitrate_actual = int(a["bitrate"])
-            if bitrate_actual < 144000:
-                bitrate = 128
-            elif bitrate_actual >= 144000:
-                bitrate = 160
-            else:
-                bitrate = int(bitrate_actual/1000)
-
-            if file_type == "mp4":
-                file_type = "m4a"
-
-            stream_name = "{}_{}_{}".format(stream_type,bitrate,file_type)
-
-        elif stream_type == "video":
-            quality = a["qualityLabel"]
-            resolution = (a["width"],a["height"])
-
-            stream_name = "{}_{}_{}".format(stream_type,quality,file_type)
-        
-        streams.append({})
-        streams[i]["name"] = stream_name
-        streams[i]["url"] = stream_url
-        streams[i]["stream_type"] = stream_type
-        streams[i]["file_type"] = file_type
-        try:
-            streams[i]["bitrate"] = bitrate
-        except:
-            streams[i]["quality"] = quality
-            streams[i]["resolution"] = resolution
-
-    foo = test["microformat"]["playerMicroformatRenderer"]
-    video_info = {}
-    video_info["description"] = foo["description"]["simpleText"]
+    vidAvailable = True
     try:
-        video_info["category"] = foo["category"]
+        ytformats = test["streamingData"]["adaptiveFormats"]
     except:
-        video_info["category"] = ""
-    video_info["url"] = url
-    video_info["channel id"] = foo["externalChannelId"]
-    video_info["length"] = foo["lengthSeconds"]
-    video_info["channel"] = foo["ownerChannelName"]
-    video_info["publish date"] = foo["publishDate"]
-    video_info["thumbnail url"] = foo["thumbnail"]["thumbnails"][0]["url"]
-    video_info["title"] = foo["title"]["simpleText"]
-    video_info["title"] = utils.apostrophe(video_info["title"])
-    video_info["views"] = foo["viewCount"]
+        vidAvailable = False
 
-    #### Checks for music.youtube.
-    music_url = "https://music.youtube.com/watch?v=" + yt_id
-    if requests.get(music_url).status_code == 200:
-        dl_logger.log_info("Youtube Music link.")
-        video_info["music url"] = music_url
-    else:
-        video_info["music url"] = False
+    if vidAvailable:
+        for i,a in enumerate(ytformats):
+            stream_type = a["mimeType"][:a["mimeType"].find("/")]
+            file_type = a["mimeType"][len(stream_type)+1:a["mimeType"].find("; ")]
+            try:
+                stream_url = utils.string_escape(a["url"])
+                s=None
+            except KeyError: #Just copied from https://i.stack.imgur.com/gwsZg.jpg
+                stream_url = a["signatureCipher"]
 
-    def what():
+            if stream_type == "audio":
+                bitrate_actual = int(a["bitrate"])
+                if bitrate_actual < 144000:
+                    bitrate = 128
+                elif bitrate_actual >= 144000:
+                    bitrate = 160
+                else:
+                    bitrate = int(bitrate_actual/1000)
+
+                if file_type == "mp4":
+                    file_type = "m4a"
+
+                stream_name = "{}_{}_{}".format(stream_type,bitrate,file_type)
+
+            elif stream_type == "video":
+                quality = a["qualityLabel"]
+                resolution = (a["width"],a["height"])
+
+                stream_name = "{}_{}_{}".format(stream_type,quality,file_type)
+            
+            streams.append({})
+            streams[i]["name"] = stream_name
+            streams[i]["url"] = stream_url
+            streams[i]["stream_type"] = stream_type
+            streams[i]["file_type"] = file_type
+            try:
+                streams[i]["bitrate"] = bitrate
+            except:
+                streams[i]["quality"] = quality
+                streams[i]["resolution"] = resolution
+
+        foo = test["microformat"]["playerMicroformatRenderer"]
+        video_info = {}
+        video_info["description"] = foo["description"]["simpleText"]
         try:
-            random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
-            video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
-            #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
-            video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
-            #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+            video_info["category"] = foo["category"]
         except:
-            video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
-            video_info["channel description"] = "unavailable"
-            dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+            video_info["category"] = ""
+        video_info["url"] = url
+        video_info["channel id"] = foo["externalChannelId"]
+        video_info["length"] = foo["lengthSeconds"]
+        video_info["channel"] = foo["ownerChannelName"]
+        video_info["publish date"] = foo["publishDate"]
+        video_info["thumbnail url"] = foo["thumbnail"]["thumbnails"][0]["url"]
+        video_info["title"] = foo["title"]["simpleText"]
+        video_info["title"] = utils.apostrophe(video_info["title"])
+        video_info["views"] = foo["viewCount"]
 
-    for k in dict(video_info):
-        video_info[k] = utils.string_escape(video_info[k])
+        #### Checks for music.youtube.
+        music_url = "https://music.youtube.com/watch?v=" + yt_id
+        if requests.get(music_url).status_code == 200:
+            dl_logger.log_info("Youtube Music link.")
+            video_info["music url"] = music_url
+        else:
+            video_info["music url"] = False
 
-    return video_info, streams
-    
+        def what():
+            try:
+                random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
+                video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
+                #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
+                video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
+                #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+            except:
+                video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
+                video_info["channel description"] = "unavailable"
+                dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+
+        for k in dict(video_info):
+            video_info[k] = utils.string_escape(video_info[k])
+
+        return video_info, streams
+    else:
+        dl_logger.log_info("Youtube Video: {} is unavailable".format(url))
+        return False, False
     #test = json.dumps(test, indent=4, sort_keys=True)
 
     #utils.file_write("Test_4.txt",test)
@@ -522,11 +553,23 @@ def download_handler(Downloader):
     for sub_object in dl_object.data["sub_objects"]:
         video_info = sub_object["video_info"]
         if dl_object.data["type"] == "channel":
-            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],"youtube","channels",dl_object.data["channel name"],video_info["title"])
+            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+            "youtube",
+            "channels",
+            utils.remove_periods_from_end(dl_object.data["channel name"]),
+            utils.remove_periods_from_end(video_info["title"]))
             #already appended
             #other Stuff for Download handler is in a seperate function
+        elif dl_object.data["type"] == "playlist":
+            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+            "youtube",
+            "playlists",
+            utils.remove_periods_from_end(dl_object.data["playlist name"]),
+            utils.remove_periods_from_end(video_info["title"]))
         else:
-            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],"youtube",utils.apostrophe(video_info["title"]))
+            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+            "youtube",
+            utils.remove_periods_from_end(utils.apostrophe(video_info["title"])))
             dl_object.download_info.append(root_download_dir)
 
         streams = sub_object["streams"]

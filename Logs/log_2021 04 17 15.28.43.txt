@@ -1,0 +1,36 @@
+2021-04-17 15:28:43,704 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 15:28:43,705 - Autocommand from settings: run
+2021-04-17 15:28:43,705 - Command: run
+2021-04-17 15:28:43,705 - Current: https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo 
+2021-04-17 15:28:43,706 - youtube link
+2021-04-17 15:28:44,337 - file_cache is only supported with oauth2client<4.0.0
+2021-04-17 15:28:44,490 - Scraping for id: ovQOIjILqTA
+2021-04-17 15:28:45,272 - Youtube Music link.
+2021-04-17 15:28:45,273 - Scraping for id: AGTOOB775Dg
+2021-04-17 15:28:46,031 - Youtube Music link.
+2021-04-17 15:28:46,031 - Scraping for id: 4lEyFHIut18
+2021-04-17 15:28:46,684 - Youtube Music link.
+2021-04-17 15:28:46,685 - Scraping for id: 5__M8iYcgHA
+2021-04-17 15:28:47,464 - Youtube Music link.
+2021-04-17 15:28:47,464 - Scraping for id: sj1z0tjlz50
+2021-04-17 15:28:48,210 - Youtube Music link.
+2021-04-17 15:28:48,210 - Scraping for id: K9ky5kFqFZ0
+2021-04-17 15:28:48,930 - Youtube Music link.
+2021-04-17 15:28:48,931 - Scraping for id: nwa9pb2fawY
+2021-04-17 15:28:49,605 - Youtube Music link.
+2021-04-17 15:28:49,605 - Scraping for id: lZOau0mE6N8
+2021-04-17 15:28:50,256 - Youtube Music link.
+2021-04-17 15:28:50,257 - Scraping for id: 9OK6_7qLhzY
+2021-04-17 15:28:50,987 - Youtube Music link.
+2021-04-17 15:28:50,988 - Scraping for id: JTEkb9KQMQ8
+2021-04-17 15:28:51,719 - Youtube Music link.
+2021-04-17 15:28:51,720 - Scraping for id: 3VHhbi5jvuI
+2021-04-17 15:28:52,467 - Youtube Music link.
+2021-04-17 15:28:52,468 - Scraping for id: 4-dgZoLisUs
+2021-04-17 15:28:53,226 - Youtube Music link.
+2021-04-17 15:28:53,227 - Scraping for id: I5ISF6R8jY8

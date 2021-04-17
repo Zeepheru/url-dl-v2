@@ -57,7 +57,7 @@ def createallfolders(filepath):
                     current_folder = os.path.join(current_folder,folder)
                     if not os.path.exists(current_folder):
                         #print("CREATING "+current_folder)
-                        os.mkdir(current_folder)
+                        os.mkdir(utils.remove_periods_from_end(current_folder))
 
 def mp3_apply_image(url, audio_path):
     dl_logger.log_to_file("Applying mp3 metadata to {}".format(audio_path))
@@ -84,8 +84,12 @@ def create_download_json(Downloader):
     current = Downloader.objects_list[Downloader.current]
     dl_logger.log_to_file("Creating download information json.")
     if current.site == "Youtube":
-        if current.data["type"] == "channel" or current.data["type"] == "playlist":
-            filename = "{}_channel_{}.json".format(current.site, re.search(utils.parent_dir_regex,current.download_info[0]).group())
+        if current.data["type"] == "channel":
+            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
+
+        elif current.data["type"] == "playlist":
+            filename = "{}_playlist_{}_{}.json".format(current.site, data["playlist name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
+
         else:
             filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
     else:

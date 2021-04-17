@@ -1,0 +1,108 @@
+2021-04-17 15:12:06,705 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 15:12:06,705 - Autocommand from settings: run
+2021-04-17 15:12:06,705 - Command: run
+2021-04-17 15:12:06,706 - Current: https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo 
+2021-04-17 15:12:06,706 - youtube link
+2021-04-17 15:12:07,311 - file_cache is only supported with oauth2client<4.0.0
+2021-04-17 15:12:07,433 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,434 - Current: https://youtube.com/playlist?list=OLAK5uy_k6-YLo2sDqVKdGHmCArwx4fBgSEiHDld8 
+2021-04-17 15:12:07,435 - youtube link
+2021-04-17 15:12:07,507 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,509 - Current: https://youtube.com/playlist?list=OLAK5uy_lu-IrwfoT1NlrFbwD7fDmlkFu-l2zv1Jc 
+2021-04-17 15:12:07,509 - youtube link
+2021-04-17 15:12:07,609 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,611 - Current: https://youtube.com/playlist?list=OLAK5uy_n0ZRkqJr8BEjnsuOQ6LW0xtJFjIjCAX0s 
+2021-04-17 15:12:07,611 - youtube link
+2021-04-17 15:12:07,678 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,682 - Current: https://youtube.com/playlist?list=OLAK5uy_njPTYeQXyBNrlcsG-bCpu3L8UgKRhq56Q 
+2021-04-17 15:12:07,682 - youtube link
+2021-04-17 15:12:07,759 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,761 - Current: https://youtube.com/playlist?list=OLAK5uy_mHtG9ieU-NomSGrpQ3u_qJnd2BOO6_4Ys 
+2021-04-17 15:12:07,762 - youtube link
+2021-04-17 15:12:07,830 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,832 - Current: https://youtube.com/playlist?list=OLAK5uy_kVU1cAg0d6I8qkMYXSspjIxoLXrml8JNk 
+2021-04-17 15:12:07,833 - youtube link
+2021-04-17 15:12:07,918 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,921 - Current: https://youtube.com/playlist?list=OLAK5uy_kisxVbggnFStwVaQgPVP5vPg4AyWIjMAQ 
+2021-04-17 15:12:07,921 - youtube link
+2021-04-17 15:12:07,988 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'
+2021-04-17 15:12:07,991 - Current: https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 
+2021-04-17 15:12:07,991 - youtube link
+2021-04-17 15:12:08,061 - 'contentDetails'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 223, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 174, in extract_from_playlist
+    list_of_ids.append(playlist_item["contentDetails"]["videoId"])
+KeyError: 'contentDetails'

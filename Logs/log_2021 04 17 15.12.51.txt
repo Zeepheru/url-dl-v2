@@ -1,0 +1,816 @@
+2021-04-17 15:12:51,261 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 15:12:51,261 - Autocommand from settings: run
+2021-04-17 15:12:51,261 - Command: run
+2021-04-17 15:12:51,262 - Current: https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo 
+2021-04-17 15:12:51,262 - youtube link
+2021-04-17 15:12:51,851 - file_cache is only supported with oauth2client<4.0.0
+2021-04-17 15:12:51,979 - Scraping for id: ovQOIjILqTA
+2021-04-17 15:12:52,727 - Youtube Music link.
+2021-04-17 15:12:52,728 - Scraping for id: AGTOOB775Dg
+2021-04-17 15:12:53,459 - Youtube Music link.
+2021-04-17 15:12:53,459 - Scraping for id: 4lEyFHIut18
+2021-04-17 15:12:54,227 - Youtube Music link.
+2021-04-17 15:12:54,228 - Scraping for id: 5__M8iYcgHA
+2021-04-17 15:12:54,981 - Youtube Music link.
+2021-04-17 15:12:54,982 - Scraping for id: sj1z0tjlz50
+2021-04-17 15:12:55,654 - Youtube Music link.
+2021-04-17 15:12:55,655 - Scraping for id: K9ky5kFqFZ0
+2021-04-17 15:12:56,358 - Youtube Music link.
+2021-04-17 15:12:56,359 - Scraping for id: nwa9pb2fawY
+2021-04-17 15:12:57,110 - Youtube Music link.
+2021-04-17 15:12:57,111 - Scraping for id: lZOau0mE6N8
+2021-04-17 15:12:57,771 - Youtube Music link.
+2021-04-17 15:12:57,772 - Scraping for id: 9OK6_7qLhzY
+2021-04-17 15:12:58,578 - Youtube Music link.
+2021-04-17 15:12:58,579 - Scraping for id: JTEkb9KQMQ8
+2021-04-17 15:12:59,287 - Youtube Music link.
+2021-04-17 15:12:59,287 - Scraping for id: 3VHhbi5jvuI
+2021-04-17 15:12:59,927 - Youtube Music link.
+2021-04-17 15:12:59,928 - Scraping for id: 4-dgZoLisUs
+2021-04-17 15:13:00,963 - Youtube Music link.
+2021-04-17 15:13:00,964 - Scraping for id: I5ISF6R8jY8
+2021-04-17 15:13:01,640 - Youtube Music link.
+2021-04-17 15:13:01,640 - Scraping for id: IfwPPmF3po4
+2021-04-17 15:13:02,505 - Youtube Music link.
+2021-04-17 15:13:02,506 - ! Video (https://youtu.be/ovQOIjILqTA|Brick Wall) usual forced error.
+2021-04-17 15:13:02,506 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:13:04,132 - Done downloading video.
+2021-04-17 15:13:04,873 - Done downloading audio.
+2021-04-17 15:13:07,070 - ! Video (https://youtu.be/AGTOOB775Dg|Mindreader) usual forced error.
+2021-04-17 15:13:07,070 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:13:07,718 - Done downloading video.
+2021-04-17 15:13:08,412 - Done downloading audio.
+2021-04-17 15:13:10,256 - ! Video (https://youtu.be/4lEyFHIut18|Bloodsucker) usual forced error.
+2021-04-17 15:13:10,257 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:13:11,006 - Done downloading video.
+2021-04-17 15:13:11,658 - Done downloading audio.
+2021-04-17 15:13:13,957 - ! Video (https://youtu.be/5__M8iYcgHA|Last Chance To Dance (Bad Friend)) usual forced error.
+2021-04-17 15:13:13,958 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:13:14,681 - Done downloading video.
+2021-04-17 15:14:04,984 - Done downloading audio.
+2021-04-17 15:14:06,920 - ! Video (https://youtu.be/sj1z0tjlz50|F.Y.M.) usual forced error.
+2021-04-17 15:14:06,920 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:07,864 - Done downloading video.
+2021-04-17 15:14:08,623 - Done downloading audio.
+2021-04-17 15:14:10,530 - ! Video (https://youtu.be/K9ky5kFqFZ0|High Diving) usual forced error.
+2021-04-17 15:14:10,530 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:11,241 - Done downloading video.
+2021-04-17 15:14:11,956 - Done downloading audio.
+2021-04-17 15:14:14,138 - ! Video (https://youtu.be/nwa9pb2fawY|Resentment) usual forced error.
+2021-04-17 15:14:14,138 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:15,191 - Done downloading video.
+2021-04-17 15:14:16,094 - Done downloading audio.
+2021-04-17 15:14:18,467 - ! Video (https://youtu.be/lZOau0mE6N8|Looks Like Hell) usual forced error.
+2021-04-17 15:14:18,467 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:20,157 - Done downloading video.
+2021-04-17 15:14:21,399 - Done downloading audio.
+2021-04-17 15:14:23,995 - ! Video (https://youtu.be/9OK6_7qLhzY|Viva La Mexico) usual forced error.
+2021-04-17 15:14:23,995 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:24,814 - Done downloading video.
+2021-04-17 15:14:25,769 - Done downloading audio.
+2021-04-17 15:14:28,039 - ! Video (https://youtu.be/JTEkb9KQMQ8|Only Money) usual forced error.
+2021-04-17 15:14:28,039 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:29,302 - Done downloading video.
+2021-04-17 15:14:31,883 - Done downloading audio.
+2021-04-17 15:14:34,439 - ! Video (https://youtu.be/3VHhbi5jvuI|Degenerates) usual forced error.
+2021-04-17 15:14:34,440 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:35,122 - Done downloading video.
+2021-04-17 15:14:35,816 - Done downloading audio.
+2021-04-17 15:14:37,789 - ! Video (https://youtu.be/4-dgZoLisUs|Permanent) usual forced error.
+2021-04-17 15:14:37,790 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:38,535 - Done downloading video.
+2021-04-17 15:14:39,384 - Done downloading audio.
+2021-04-17 15:14:41,690 - ! Video (https://youtu.be/I5ISF6R8jY8|Re-Entry) usual forced error.
+2021-04-17 15:14:41,691 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:42,690 - Done downloading video.
+2021-04-17 15:14:43,661 - Done downloading audio.
+2021-04-17 15:14:45,512 - ! Video (https://youtu.be/IfwPPmF3po4|Everything We Need) usual forced error.
+2021-04-17 15:14:45,512 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:14:46,521 - Done downloading video.
+2021-04-17 15:14:47,277 - Done downloading audio.
+2021-04-17 15:14:49,521 - Creating download information json.
+2021-04-17 15:14:49,523 - Writing text file.
+2021-04-17 15:14:49,523 - Downloading: Brick Wall - Thumbnail.png
+2021-04-17 15:14:49,810 - Writing text file.
+2021-04-17 15:14:49,811 - Downloading: Mindreader - Thumbnail.png
+2021-04-17 15:14:50,276 - Writing text file.
+2021-04-17 15:14:50,276 - Downloading: Bloodsucker - Thumbnail.png
+2021-04-17 15:14:50,582 - Writing text file.
+2021-04-17 15:14:50,582 - Downloading: Last Chance To Dance (Bad Friend) - Thumbnail.png
+2021-04-17 15:14:51,249 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\You're Welcome\F.Y.M.
+2021-04-17 15:14:51,249 - Writing text file.
+2021-04-17 15:14:51,249 - Downloading: F.Y.M. - Thumbnail.png
+2021-04-17 15:14:51,744 - Writing text file.
+2021-04-17 15:14:51,744 - Downloading: High Diving - Thumbnail.png
+2021-04-17 15:14:52,220 - Writing text file.
+2021-04-17 15:14:52,220 - Downloading: Resentment - Thumbnail.png
+2021-04-17 15:14:52,736 - Writing text file.
+2021-04-17 15:14:52,736 - Downloading: Looks Like Hell - Thumbnail.png
+2021-04-17 15:14:53,016 - Writing text file.
+2021-04-17 15:14:53,016 - Downloading: Viva La Mexico - Thumbnail.png
+2021-04-17 15:14:53,492 - Writing text file.
+2021-04-17 15:14:53,493 - Downloading: Only Money - Thumbnail.png
+2021-04-17 15:14:53,750 - Writing text file.
+2021-04-17 15:14:53,750 - Downloading: Degenerates - Thumbnail.png
+2021-04-17 15:14:54,574 - Writing text file.
+2021-04-17 15:14:54,574 - Downloading: Permanent - Thumbnail.png
+2021-04-17 15:14:54,849 - Writing text file.
+2021-04-17 15:14:54,849 - Downloading: Re-Entry - Thumbnail.png
+2021-04-17 15:14:55,326 - Writing text file.
+2021-04-17 15:14:55,327 - Downloading: Everything We Need - Thumbnail.png
+2021-04-17 15:14:55,790 - Download for https://youtube.com/playlist?list=OLAK5uy_k6iI5IrbzZtoOgEurTQsJoium0NjCbaSo complete.
+
+2021-04-17 15:14:55,797 - Current: https://youtube.com/playlist?list=OLAK5uy_k6-YLo2sDqVKdGHmCArwx4fBgSEiHDld8 
+2021-04-17 15:14:55,798 - youtube link
+2021-04-17 15:14:55,885 - Scraping for id: MEjEGn1v3GI
+2021-04-17 15:14:57,214 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 374, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 376, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-04-17 15:14:57,218 - Current: https://youtube.com/playlist?list=OLAK5uy_lu-IrwfoT1NlrFbwD7fDmlkFu-l2zv1Jc 
+2021-04-17 15:14:57,218 - youtube link
+2021-04-17 15:14:57,294 - Scraping for id: 6tREa5p1C8A
+2021-04-17 15:14:58,630 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 374, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 376, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-04-17 15:14:58,634 - Current: https://youtube.com/playlist?list=OLAK5uy_n0ZRkqJr8BEjnsuOQ6LW0xtJFjIjCAX0s 
+2021-04-17 15:14:58,634 - youtube link
+2021-04-17 15:14:58,706 - Scraping for id: xCn71xWObbU
+2021-04-17 15:14:59,375 - Youtube Music link.
+2021-04-17 15:14:59,376 - Scraping for id: GRB-GGMbQjc
+2021-04-17 15:15:00,177 - Youtube Music link.
+2021-04-17 15:15:00,178 - Scraping for id: lveMD1Itfns
+2021-04-17 15:15:00,783 - Youtube Music link.
+2021-04-17 15:15:00,784 - Scraping for id: 9xjb9rvi7Js
+2021-04-17 15:15:01,753 - Youtube Music link.
+2021-04-17 15:15:01,753 - Scraping for id: sZyS0bgoSho
+2021-04-17 15:15:02,654 - Youtube Music link.
+2021-04-17 15:15:02,655 - Scraping for id: fAbBUzCS7aw
+2021-04-17 15:15:03,415 - Youtube Music link.
+2021-04-17 15:15:03,417 - Scraping for id: Z5HQVAiFiUo
+2021-04-17 15:15:04,399 - Youtube Music link.
+2021-04-17 15:15:04,400 - Scraping for id: oiXGX0uam4A
+2021-04-17 15:15:05,093 - Youtube Music link.
+2021-04-17 15:15:05,094 - Scraping for id: y_eVg9l-dKY
+2021-04-17 15:15:06,059 - Youtube Music link.
+2021-04-17 15:15:06,060 - Scraping for id: 4KFavYmSM20
+2021-04-17 15:15:06,729 - Youtube Music link.
+2021-04-17 15:15:06,730 - ! Video (https://youtu.be/xCn71xWObbU|Sticks & Bricks) usual forced error.
+2021-04-17 15:15:06,731 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:07,719 - Done downloading video.
+2021-04-17 15:15:08,661 - Done downloading audio.
+2021-04-17 15:15:25,229 - ! Video (https://youtu.be/GRB-GGMbQjc|All I Want) usual forced error.
+2021-04-17 15:15:25,231 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:26,206 - Done downloading video.
+2021-04-17 15:15:26,923 - Done downloading audio.
+2021-04-17 15:15:29,067 - ! Video (https://youtu.be/lveMD1Itfns|It's Complicated) usual forced error.
+2021-04-17 15:15:29,067 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:30,671 - Done downloading video.
+2021-04-17 15:15:31,410 - Done downloading audio.
+2021-04-17 15:15:33,305 - ! Video (https://youtu.be/9xjb9rvi7Js|This Is The House That Doubt Built) usual forced error.
+2021-04-17 15:15:33,306 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:34,556 - Done downloading video.
+2021-04-17 15:15:35,375 - Done downloading audio.
+2021-04-17 15:15:37,576 - ! Video (https://youtu.be/sZyS0bgoSho|2nd Sucks) usual forced error.
+2021-04-17 15:15:37,576 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:39,056 - Done downloading video.
+2021-04-17 15:15:40,268 - Done downloading audio.
+2021-04-17 15:15:41,888 - ! Video (https://youtu.be/fAbBUzCS7aw|Better Off This Way) usual forced error.
+2021-04-17 15:15:41,888 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:42,620 - Done downloading video.
+2021-04-17 15:15:43,573 - Done downloading audio.
+2021-04-17 15:15:45,770 - ! Video (https://youtu.be/Z5HQVAiFiUo|All Signs Point To Lauderdale) usual forced error.
+2021-04-17 15:15:45,770 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:47,462 - Done downloading video.
+2021-04-17 15:15:48,211 - Done downloading audio.
+2021-04-17 15:15:50,268 - ! Video (https://youtu.be/oiXGX0uam4A|You Be Tails, I'll Be Sonic) usual forced error.
+2021-04-17 15:15:50,268 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:51,527 - Done downloading video.
+2021-04-17 15:15:52,799 - Done downloading audio.
+2021-04-17 15:15:55,195 - ! Video (https://youtu.be/y_eVg9l-dKY|Out Of Time) usual forced error.
+2021-04-17 15:15:55,196 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:15:57,020 - Done downloading video.
+2021-04-17 15:15:57,673 - Done downloading audio.
+2021-04-17 15:15:59,863 - ! Video (https://youtu.be/4KFavYmSM20|If I Leave) usual forced error.
+2021-04-17 15:15:59,864 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:00,734 - Done downloading video.
+2021-04-17 15:16:01,540 - Done downloading audio.
+2021-04-17 15:16:03,698 - Creating download information json.
+2021-04-17 15:16:03,699 - Writing text file.
+2021-04-17 15:16:03,699 - Downloading: Sticks & Bricks - Thumbnail.png
+2021-04-17 15:16:04,161 - Writing text file.
+2021-04-17 15:16:04,161 - Downloading: All I Want - Thumbnail.png
+2021-04-17 15:16:04,613 - Writing text file.
+2021-04-17 15:16:04,614 - Downloading: It's Complicated - Thumbnail.png
+2021-04-17 15:16:05,084 - Writing text file.
+2021-04-17 15:16:05,084 - Downloading: This Is The House That Doubt Built - Thumbnail.png
+2021-04-17 15:16:05,571 - Writing text file.
+2021-04-17 15:16:05,572 - Downloading: 2nd Sucks - Thumbnail.png
+2021-04-17 15:16:05,853 - Writing text file.
+2021-04-17 15:16:05,854 - Downloading: Better Off This Way - Thumbnail.png
+2021-04-17 15:16:06,282 - Writing text file.
+2021-04-17 15:16:06,282 - Downloading: All Signs Point To Lauderdale - Thumbnail.png
+2021-04-17 15:16:06,769 - Writing text file.
+2021-04-17 15:16:06,769 - Downloading: You Be Tails, I'll Be Sonic - Thumbnail.png
+2021-04-17 15:16:07,031 - Writing text file.
+2021-04-17 15:16:07,031 - Downloading: Out Of Time - Thumbnail.png
+2021-04-17 15:16:07,498 - Writing text file.
+2021-04-17 15:16:07,498 - Downloading: If I Leave - Thumbnail.png
+2021-04-17 15:16:07,760 - Download for https://youtube.com/playlist?list=OLAK5uy_n0ZRkqJr8BEjnsuOQ6LW0xtJFjIjCAX0s complete.
+
+2021-04-17 15:16:07,763 - Current: https://youtube.com/playlist?list=OLAK5uy_njPTYeQXyBNrlcsG-bCpu3L8UgKRhq56Q 
+2021-04-17 15:16:07,764 - youtube link
+2021-04-17 15:16:07,846 - Scraping for id: 1Kgphngqa-o
+2021-04-17 15:16:08,592 - Youtube Music link.
+2021-04-17 15:16:08,592 - Scraping for id: k6S10VvPjkI
+2021-04-17 15:16:09,373 - Youtube Music link.
+2021-04-17 15:16:09,374 - Scraping for id: 1MT9a5s_BXY
+2021-04-17 15:16:10,371 - Youtube Music link.
+2021-04-17 15:16:10,371 - Scraping for id: WVHgME1ncz8
+2021-04-17 15:16:11,068 - Youtube Music link.
+2021-04-17 15:16:11,069 - Scraping for id: I2zQS0i137E
+2021-04-17 15:16:11,952 - Youtube Music link.
+2021-04-17 15:16:11,953 - Scraping for id: N-ggI55pjh4
+2021-04-17 15:16:12,504 - Youtube Music link.
+2021-04-17 15:16:12,504 - Scraping for id: Okauq4x0VJc
+2021-04-17 15:16:13,529 - Youtube Music link.
+2021-04-17 15:16:13,529 - Scraping for id: 3gAE4YgYNgk
+2021-04-17 15:16:14,262 - Youtube Music link.
+2021-04-17 15:16:14,263 - Scraping for id: tZaNlJAz6hw
+2021-04-17 15:16:15,004 - Youtube Music link.
+2021-04-17 15:16:15,005 - Scraping for id: flzPDtDnKPU
+2021-04-17 15:16:15,631 - Youtube Music link.
+2021-04-17 15:16:15,632 - Scraping for id: E7eLqAaNanM
+2021-04-17 15:16:16,321 - Youtube Music link.
+2021-04-17 15:16:16,322 - Scraping for id: bxp5TXxa96E
+2021-04-17 15:16:16,948 - Youtube Music link.
+2021-04-17 15:16:16,949 - ! Video (https://youtu.be/1Kgphngqa-o|The Downfall Of Us All) usual forced error.
+2021-04-17 15:16:16,949 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:18,502 - Done downloading video.
+2021-04-17 15:16:19,198 - Done downloading audio.
+2021-04-17 15:16:21,430 - ! Video (https://youtu.be/k6S10VvPjkI|My Life For Hire) usual forced error.
+2021-04-17 15:16:21,431 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:26,281 - Done downloading video.
+2021-04-17 15:16:27,201 - Done downloading audio.
+2021-04-17 15:16:29,443 - ! Video (https://youtu.be/1MT9a5s_BXY|I'm Made Of Wax, Larry, What Are You Made Of) usual forced error.
+2021-04-17 15:16:29,444 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:31,007 - Done downloading video.
+2021-04-17 15:16:31,696 - Done downloading audio.
+2021-04-17 15:16:33,614 - ! Video (https://youtu.be/WVHgME1ncz8|NJ Legion Iced Tea) usual forced error.
+2021-04-17 15:16:33,614 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:35,495 - Done downloading video.
+2021-04-17 15:16:36,468 - Done downloading audio.
+2021-04-17 15:16:38,719 - ! Video (https://youtu.be/I2zQS0i137E|Mr. Highway's Thinking About The End) usual forced error.
+2021-04-17 15:16:38,720 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:40,638 - Done downloading video.
+2021-04-17 15:16:41,679 - Done downloading audio.
+2021-04-17 15:16:44,795 - ! Video (https://youtu.be/N-ggI55pjh4|Have Faith In Me) usual forced error.
+2021-04-17 15:16:44,795 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:47,318 - Done downloading video.
+2021-04-17 15:16:48,130 - Done downloading audio.
+2021-04-17 15:16:50,135 - ! Video (https://youtu.be/Okauq4x0VJc|Welcome To The Family) usual forced error.
+2021-04-17 15:16:50,137 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:51,678 - Done downloading video.
+2021-04-17 15:16:52,783 - Done downloading audio.
+2021-04-17 15:16:54,667 - ! Video (https://youtu.be/3gAE4YgYNgk|Homesick) usual forced error.
+2021-04-17 15:16:54,668 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:16:55,927 - Done downloading video.
+2021-04-17 15:16:56,875 - Done downloading audio.
+2021-04-17 15:16:59,355 - ! Video (https://youtu.be/tZaNlJAz6hw|Holdin' It Down For The Underground) usual forced error.
+2021-04-17 15:16:59,355 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:00,283 - Done downloading video.
+2021-04-17 15:17:01,245 - Done downloading audio.
+2021-04-17 15:17:03,446 - ! Video (https://youtu.be/flzPDtDnKPU|You Already Know What You Are) usual forced error.
+2021-04-17 15:17:03,446 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:05,087 - Done downloading video.
+2021-04-17 15:17:05,930 - Done downloading audio.
+2021-04-17 15:17:06,990 - ! Video (https://youtu.be/E7eLqAaNanM|Another Song About The Weekend) usual forced error.
+2021-04-17 15:17:06,990 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:08,218 - Done downloading video.
+2021-04-17 15:17:08,907 - Done downloading audio.
+2021-04-17 15:17:11,303 - ! Video (https://youtu.be/bxp5TXxa96E|If It Means A Lot To You) usual forced error.
+2021-04-17 15:17:11,303 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:14,735 - Done downloading video.
+2021-04-17 15:17:15,771 - Done downloading audio.
+2021-04-17 15:17:18,736 - Creating download information json.
+2021-04-17 15:17:18,737 - Writing text file.
+2021-04-17 15:17:18,737 - Downloading: The Downfall Of Us All - Thumbnail.png
+2021-04-17 15:17:19,212 - Writing text file.
+2021-04-17 15:17:19,212 - Downloading: My Life For Hire - Thumbnail.png
+2021-04-17 15:17:19,255 - Writing text file.
+2021-04-17 15:17:19,256 - Downloading: I'm Made Of Wax, Larry, What Are You Made Of - Thumbnail.png
+2021-04-17 15:17:19,557 - Writing text file.
+2021-04-17 15:17:19,557 - Downloading: NJ Legion Iced Tea - Thumbnail.png
+2021-04-17 15:17:20,025 - Writing text file.
+2021-04-17 15:17:20,025 - Downloading: Mr. Highway's Thinking About The End - Thumbnail.png
+2021-04-17 15:17:20,512 - Writing text file.
+2021-04-17 15:17:20,512 - Downloading: Have Faith In Me - Thumbnail.png
+2021-04-17 15:17:20,794 - Writing text file.
+2021-04-17 15:17:20,794 - Downloading: Welcome To The Family - Thumbnail.png
+2021-04-17 15:17:21,288 - Writing text file.
+2021-04-17 15:17:21,288 - Downloading: Homesick - Thumbnail.png
+2021-04-17 15:17:21,791 - Writing text file.
+2021-04-17 15:17:21,792 - Downloading: Holdin' It Down For The Underground - Thumbnail.png
+2021-04-17 15:17:22,236 - Writing text file.
+2021-04-17 15:17:22,236 - Downloading: You Already Know What You Are - Thumbnail.png
+2021-04-17 15:17:22,742 - Writing text file.
+2021-04-17 15:17:22,743 - Downloading: Another Song About The Weekend - Thumbnail.png
+2021-04-17 15:17:23,019 - Writing text file.
+2021-04-17 15:17:23,020 - Downloading: If It Means A Lot To You - Thumbnail.png
+2021-04-17 15:17:23,304 - Download for https://youtube.com/playlist?list=OLAK5uy_njPTYeQXyBNrlcsG-bCpu3L8UgKRhq56Q complete.
+
+2021-04-17 15:17:23,305 - Current: https://youtube.com/playlist?list=OLAK5uy_mHtG9ieU-NomSGrpQ3u_qJnd2BOO6_4Ys 
+2021-04-17 15:17:23,305 - youtube link
+2021-04-17 15:17:23,375 - Scraping for id: 91uWMRVkfLE
+2021-04-17 15:17:23,972 - Youtube Music link.
+2021-04-17 15:17:23,972 - Scraping for id: UBT_DdjZre4
+2021-04-17 15:17:24,881 - Youtube Music link.
+2021-04-17 15:17:24,881 - Scraping for id: DJNJOsZ59LQ
+2021-04-17 15:17:25,636 - Youtube Music link.
+2021-04-17 15:17:25,637 - Scraping for id: dq8k4agW4h0
+2021-04-17 15:17:26,313 - Youtube Music link.
+2021-04-17 15:17:26,313 - Scraping for id: FzawJHqbAO4
+2021-04-17 15:17:26,950 - Youtube Music link.
+2021-04-17 15:17:26,950 - Scraping for id: FehaIELIPu0
+2021-04-17 15:17:27,633 - Youtube Music link.
+2021-04-17 15:17:27,633 - Scraping for id: TFXQZzM7Svk
+2021-04-17 15:17:28,296 - Youtube Music link.
+2021-04-17 15:17:28,297 - Scraping for id: jeJd-4PyBvM
+2021-04-17 15:17:28,918 - Youtube Music link.
+2021-04-17 15:17:28,918 - Scraping for id: GfmmJ-iUUh8
+2021-04-17 15:17:29,592 - Youtube Music link.
+2021-04-17 15:17:29,592 - Scraping for id: DJztPTt6bnQ
+2021-04-17 15:17:30,112 - Youtube Music link.
+2021-04-17 15:17:30,113 - ! Video (https://youtu.be/91uWMRVkfLE|Intro '05) usual forced error.
+2021-04-17 15:17:30,113 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:31,129 - Done downloading video.
+2021-04-17 15:17:32,248 - Done downloading audio.
+2021-04-17 15:17:32,768 - ! Video (https://youtu.be/UBT_DdjZre4|Heart Less) usual forced error.
+2021-04-17 15:17:32,768 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:34,614 - Done downloading video.
+2021-04-17 15:17:35,353 - Done downloading audio.
+2021-04-17 15:17:37,187 - ! Video (https://youtu.be/DJNJOsZ59LQ|A 2nd Glance) usual forced error.
+2021-04-17 15:17:37,187 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:38,633 - Done downloading video.
+2021-04-17 15:17:39,530 - Done downloading audio.
+2021-04-17 15:17:41,366 - ! Video (https://youtu.be/dq8k4agW4h0|Nineteen Fifty Eight) usual forced error.
+2021-04-17 15:17:41,366 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:44,392 - Done downloading video.
+2021-04-17 15:17:45,351 - Done downloading audio.
+2021-04-17 15:17:48,189 - ! Video (https://youtu.be/FzawJHqbAO4|If Looks Could Kill...) usual forced error.
+2021-04-17 15:17:48,189 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:50,095 - Done downloading video.
+2021-04-17 15:17:53,209 - Done downloading audio.
+2021-04-17 15:17:55,284 - ! Video (https://youtu.be/FehaIELIPu0|You Had Me @ Hello) usual forced error.
+2021-04-17 15:17:55,284 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:17:57,862 - Done downloading video.
+2021-04-17 15:17:58,687 - Done downloading audio.
+2021-04-17 15:18:01,966 - ! Video (https://youtu.be/TFXQZzM7Svk|Casablanca Sucked Anyways.) usual forced error.
+2021-04-17 15:18:01,967 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:18:04,116 - Done downloading video.
+2021-04-17 15:18:05,785 - Done downloading audio.
+2021-04-17 15:18:07,679 - ! Video (https://youtu.be/jeJd-4PyBvM|U Should Have Killed Me When U Had The Chance) usual forced error.
+2021-04-17 15:18:07,679 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:18:09,304 - Done downloading video.
+2021-04-17 15:18:10,117 - Done downloading audio.
+2021-04-17 15:18:12,380 - ! Video (https://youtu.be/GfmmJ-iUUh8|Your Way With Words Is Through Silence!) usual forced error.
+2021-04-17 15:18:12,380 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:18:14,951 - Done downloading video.
+2021-04-17 15:18:16,907 - Done downloading audio.
+2021-04-17 15:18:19,358 - ! Video (https://youtu.be/DJztPTt6bnQ|Sound The Alarm V. 2.0) usual forced error.
+2021-04-17 15:18:19,359 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:18:21,313 - Done downloading video.
+2021-04-17 15:18:22,378 - Done downloading audio.
+2021-04-17 15:18:23,619 - Creating download information json.
+2021-04-17 15:18:23,620 - Writing text file.
+2021-04-17 15:18:23,620 - Downloading: Intro '05 - Thumbnail.png
+2021-04-17 15:18:23,896 - Writing text file.
+2021-04-17 15:18:23,897 - Downloading: Heart Less - Thumbnail.png
+2021-04-17 15:18:24,427 - Writing text file.
+2021-04-17 15:18:24,427 - Downloading: A 2nd Glance - Thumbnail.png
+2021-04-17 15:18:24,911 - Writing text file.
+2021-04-17 15:18:24,911 - Downloading: Nineteen Fifty Eight - Thumbnail.png
+2021-04-17 15:18:25,404 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Old Record\If Looks Could Kill...
+2021-04-17 15:18:25,405 - [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\channels\\Old Record\\If Looks Could Kill...\\If Looks Could Kill... - Info.txt'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 197, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 182, in download
+    file_download_handler(download_object, Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 122, in file_download_handler
+    utils.file_write(output_path,url)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_utils.py", line 11, in file_write
+    with open(path,'w', encoding = 'utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Utilities\\Scripts\\url-dl-v2 output\\youtube\\channels\\Old Record\\If Looks Could Kill...\\If Looks Could Kill... - Info.txt'
+2021-04-17 15:18:25,410 - Current: https://youtube.com/playlist?list=OLAK5uy_kVU1cAg0d6I8qkMYXSspjIxoLXrml8JNk 
+2021-04-17 15:18:25,411 - youtube link
+2021-04-17 15:18:25,503 - Scraping for id: pjaOaK-hask
+2021-04-17 15:18:26,087 - Youtube Music link.
+2021-04-17 15:18:26,087 - Scraping for id: 1TKED9Px_-U
+2021-04-17 15:18:26,721 - Youtube Music link.
+2021-04-17 15:18:26,721 - Scraping for id: rR7qfFRrd6k
+2021-04-17 15:18:27,360 - Youtube Music link.
+2021-04-17 15:18:27,360 - Scraping for id: cgQKPwP4A3c
+2021-04-17 15:18:28,058 - Youtube Music link.
+2021-04-17 15:18:28,059 - Scraping for id: x9cpkTIJEpE
+2021-04-17 15:18:28,820 - Youtube Music link.
+2021-04-17 15:18:28,821 - Scraping for id: YTd_ESXf5KM
+2021-04-17 15:18:29,594 - Youtube Music link.
+2021-04-17 15:18:29,595 - Scraping for id: D7TXdzQU63E
+2021-04-17 15:18:30,464 - Youtube Music link.
+2021-04-17 15:18:30,465 - Scraping for id: lEHsbFaze58
+2021-04-17 15:18:31,467 - Youtube Music link.
+2021-04-17 15:18:31,470 - Scraping for id: yLvkJAnP0I8
+2021-04-17 15:18:32,198 - Youtube Music link.
+2021-04-17 15:18:32,200 - Scraping for id: bcPmZgayBD0
+2021-04-17 15:18:32,824 - Youtube Music link.
+2021-04-17 15:18:32,825 - Scraping for id: kMBjGa_wfxQ
+2021-04-17 15:18:33,791 - Youtube Music link.
+2021-04-17 15:18:33,792 - Scraping for id: Kk8isYO36gk
+2021-04-17 15:18:34,516 - Youtube Music link.
+2021-04-17 15:18:34,516 - Scraping for id: LdBPz7xkKbc
+2021-04-17 15:18:35,182 - Youtube Music link.
+2021-04-17 15:18:35,182 - Scraping for id: tkJQzFNT8II
+2021-04-17 15:18:35,868 - Youtube Music link.
+2021-04-17 15:18:35,868 - Scraping for id: 3m3sVkunHvA
+2021-04-17 15:18:36,544 - Youtube Music link.
+2021-04-17 15:18:36,544 - Scraping for id: VQ9D8gGrNoM
+2021-04-17 15:18:37,141 - Youtube Music link.
+2021-04-17 15:18:37,142 - Scraping for id: 8r6JlWEFo0A
+2021-04-17 15:18:37,898 - Youtube Music link.
+2021-04-17 15:18:37,898 - Scraping for id: vsy7iRnLw18
+2021-04-17 15:18:38,534 - Youtube Music link.
+2021-04-17 15:18:38,535 - Scraping for id: lJCgFCTHfmA
+2021-04-17 15:18:39,423 - Youtube Music link.
+2021-04-17 15:18:39,423 - Scraping for id: x88bAV2Bp6w
+2021-04-17 15:18:40,172 - Youtube Music link.
+2021-04-17 15:18:40,173 - Scraping for id: _K1ooj8urlI
+2021-04-17 15:18:40,807 - Youtube Music link.
+2021-04-17 15:18:40,807 - Scraping for id: 46n4sA-59Lk
+2021-04-17 15:18:41,493 - Youtube Music link.
+2021-04-17 15:18:41,494 - Scraping for id: C6bsY7Zd34Q
+2021-04-17 15:18:42,241 - Youtube Music link.
+2021-04-17 15:18:42,242 - Scraping for id: -qIEZssjzY0
+2021-04-17 15:18:43,021 - Youtube Music link.
+2021-04-17 15:18:43,022 - Scraping for id: fexLs0yUg94
+2021-04-17 15:18:43,538 - Youtube Music link.
+2021-04-17 15:18:43,540 - Scraping for id: FnvbCt-NBmA
+2021-04-17 15:18:44,240 - Youtube Music link.
+2021-04-17 15:18:44,242 - ! Video (https://youtu.be/pjaOaK-hask|Fast Forward To 2012) usual forced error.
+2021-04-17 15:18:44,244 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:18:45,206 - Done downloading video.
+2021-04-17 15:19:10,844 - Done downloading audio.
+2021-04-17 15:19:11,909 - ! Video (https://youtu.be/1TKED9Px_-U|Speak Of The Devil) usual forced error.
+2021-04-17 15:19:11,910 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:14,383 - Done downloading video.
+2021-04-17 15:19:15,295 - Done downloading audio.
+2021-04-17 15:19:17,740 - ! Video (https://youtu.be/rR7qfFRrd6k|The Danger In Starting A Fire) usual forced error.
+2021-04-17 15:19:17,741 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:19,501 - Done downloading video.
+2021-04-17 15:19:20,501 - Done downloading audio.
+2021-04-17 15:19:22,428 - ! Video (https://youtu.be/cgQKPwP4A3c|The Plot To Bomb The Panhandle) usual forced error.
+2021-04-17 15:19:22,429 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:25,322 - Done downloading video.
+2021-04-17 15:19:26,551 - Done downloading audio.
+2021-04-17 15:19:29,491 - ! Video (https://youtu.be/x9cpkTIJEpE|Monument) usual forced error.
+2021-04-17 15:19:29,491 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:31,494 - Done downloading video.
+2021-04-17 15:19:32,241 - Done downloading audio.
+2021-04-17 15:19:35,032 - ! Video (https://youtu.be/YTd_ESXf5KM|The Price We Pay) usual forced error.
+2021-04-17 15:19:35,032 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:37,988 - Done downloading video.
+2021-04-17 15:19:38,974 - Done downloading audio.
+2021-04-17 15:19:41,097 - ! Video (https://youtu.be/D7TXdzQU63E|Colder Than My Heart, If You Can Imagine) usual forced error.
+2021-04-17 15:19:41,098 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:43,167 - Done downloading video.
+2021-04-17 15:19:44,252 - Done downloading audio.
+2021-04-17 15:19:47,212 - ! Video (https://youtu.be/lEHsbFaze58|Show 'Em The Ropes) usual forced error.
+2021-04-17 15:19:47,212 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:50,037 - Done downloading video.
+2021-04-17 15:19:51,308 - Done downloading audio.
+2021-04-17 15:19:53,773 - ! Video (https://youtu.be/yLvkJAnP0I8|A Shot In The Dark) usual forced error.
+2021-04-17 15:19:53,774 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:19:56,225 - Done downloading video.
+2021-04-17 15:19:57,244 - Done downloading audio.
+2021-04-17 15:20:00,047 - ! Video (https://youtu.be/bcPmZgayBD0|Here's To The Past) usual forced error.
+2021-04-17 15:20:00,047 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:02,856 - Done downloading video.
+2021-04-17 15:20:03,784 - Done downloading audio.
+2021-04-17 15:20:06,672 - ! Video (https://youtu.be/kMBjGa_wfxQ|I Heard It's The Softest Thing Ever) usual forced error.
+2021-04-17 15:20:06,673 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:07,525 - Done downloading video.
+2021-04-17 15:20:08,177 - Done downloading audio.
+2021-04-17 15:20:11,289 - ! Video (https://youtu.be/Kk8isYO36gk|Start The Shooting) usual forced error.
+2021-04-17 15:20:11,290 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:13,478 - Done downloading video.
+2021-04-17 15:20:14,383 - Done downloading audio.
+2021-04-17 15:20:17,770 - ! Video (https://youtu.be/LdBPz7xkKbc|Heartless) usual forced error.
+2021-04-17 15:20:17,770 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:19,432 - Done downloading video.
+2021-04-17 15:20:20,208 - Done downloading audio.
+2021-04-17 15:20:22,089 - ! Video (https://youtu.be/tkJQzFNT8II|You Should've Killed Me When You Had The Chance) usual forced error.
+2021-04-17 15:20:22,089 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:25,426 - Done downloading video.
+2021-04-17 15:20:26,115 - Done downloading audio.
+2021-04-17 15:20:28,392 - ! Video (https://youtu.be/3m3sVkunHvA|Since U Been Gone) usual forced error.
+2021-04-17 15:20:28,393 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:29,226 - Done downloading video.
+2021-04-17 15:20:29,882 - Done downloading audio.
+2021-04-17 15:20:31,923 - ! Video (https://youtu.be/VQ9D8gGrNoM|Why Walk On Water When We've Got Boats) usual forced error.
+2021-04-17 15:20:31,923 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:32,907 - Done downloading video.
+2021-04-17 15:20:33,816 - Done downloading audio.
+2021-04-17 15:20:35,093 - ! Video (https://youtu.be/8r6JlWEFo0A|Fast Forward To 2012 (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:20:35,095 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:36,718 - Done downloading video.
+2021-04-17 15:20:37,552 - Done downloading audio.
+2021-04-17 15:20:39,153 - ! Video (https://youtu.be/vsy7iRnLw18|Heartless (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:20:39,155 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:41,867 - Done downloading video.
+2021-04-17 15:20:42,742 - Done downloading audio.
+2021-04-17 15:20:44,590 - ! Video (https://youtu.be/lJCgFCTHfmA|A Shot In The Dark (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:20:44,591 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:47,023 - Done downloading video.
+2021-04-17 15:20:48,698 - Done downloading audio.
+2021-04-17 15:20:51,263 - ! Video (https://youtu.be/x88bAV2Bp6w|1958 (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:20:51,263 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:20:53,683 - Done downloading video.
+2021-04-17 15:20:55,742 - Done downloading audio.
+2021-04-17 15:20:58,353 - ! Video (https://youtu.be/_K1ooj8urlI|Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:20:58,353 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:00,122 - Done downloading video.
+2021-04-17 15:21:01,938 - Done downloading audio.
+2021-04-17 15:21:02,052 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008)\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008)\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 647, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008)\Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+2021-04-17 15:21:02,063 - ! Video (https://youtu.be/46n4sA-59Lk|Since U Been Gone (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:21:02,065 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:05,322 - Done downloading video.
+2021-04-17 15:21:06,705 - Done downloading audio.
+2021-04-17 15:21:08,669 - ! Video (https://youtu.be/C6bsY7Zd34Q|Monument (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:21:08,669 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:11,301 - Done downloading video.
+2021-04-17 15:21:12,370 - Done downloading audio.
+2021-04-17 15:21:14,736 - ! Video (https://youtu.be/-qIEZssjzY0|The Danger In Starting A Fire (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:21:14,738 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:17,004 - Done downloading video.
+2021-04-17 15:21:18,565 - Done downloading audio.
+2021-04-17 15:21:20,436 - ! Video (https://youtu.be/fexLs0yUg94|You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:21:20,438 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:22,511 - Done downloading video.
+2021-04-17 15:21:24,831 - Done downloading audio.
+2021-04-17 15:21:24,947 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008)\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008)\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 647, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\For Those Who Have Heart\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008)\You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008).m4a: No such file or directory
+2021-04-17 15:21:24,956 - ! Video (https://youtu.be/FnvbCt-NBmA|The Plot To Bomb The Panhandle (Live At The Capitol _ Ocala, FL _ January 5, 2008)) usual forced error.
+2021-04-17 15:21:24,958 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:27,717 - Done downloading video.
+2021-04-17 15:21:28,691 - Done downloading audio.
+2021-04-17 15:21:31,448 - Creating download information json.
+2021-04-17 15:21:31,449 - Writing text file.
+2021-04-17 15:21:31,449 - Downloading: Fast Forward To 2012 - Thumbnail.png
+2021-04-17 15:21:31,813 - Writing text file.
+2021-04-17 15:21:31,813 - Downloading: Speak Of The Devil - Thumbnail.png
+2021-04-17 15:21:32,328 - Writing text file.
+2021-04-17 15:21:32,328 - Downloading: The Danger In Starting A Fire - Thumbnail.png
+2021-04-17 15:21:32,803 - Writing text file.
+2021-04-17 15:21:32,803 - Downloading: The Plot To Bomb The Panhandle - Thumbnail.png
+2021-04-17 15:21:33,319 - Writing text file.
+2021-04-17 15:21:33,320 - Downloading: Monument - Thumbnail.png
+2021-04-17 15:21:33,791 - Writing text file.
+2021-04-17 15:21:33,792 - Downloading: The Price We Pay - Thumbnail.png
+2021-04-17 15:21:34,414 - Writing text file.
+2021-04-17 15:21:34,414 - Downloading: Colder Than My Heart, If You Can Imagine - Thumbnail.png
+2021-04-17 15:21:34,884 - Writing text file.
+2021-04-17 15:21:34,885 - Downloading: Show 'Em The Ropes - Thumbnail.png
+2021-04-17 15:21:35,372 - Writing text file.
+2021-04-17 15:21:35,372 - Downloading: A Shot In The Dark - Thumbnail.png
+2021-04-17 15:21:35,940 - Writing text file.
+2021-04-17 15:21:35,941 - Downloading: Here's To The Past - Thumbnail.png
+2021-04-17 15:21:36,377 - Writing text file.
+2021-04-17 15:21:36,377 - Downloading: I Heard It's The Softest Thing Ever - Thumbnail.png
+2021-04-17 15:21:36,708 - Writing text file.
+2021-04-17 15:21:36,708 - Downloading: Start The Shooting - Thumbnail.png
+2021-04-17 15:21:37,197 - Writing text file.
+2021-04-17 15:21:37,197 - Downloading: Heartless - Thumbnail.png
+2021-04-17 15:21:37,533 - Writing text file.
+2021-04-17 15:21:37,534 - Downloading: You Should've Killed Me When You Had The Chance - Thumbnail.png
+2021-04-17 15:21:38,042 - Writing text file.
+2021-04-17 15:21:38,043 - Downloading: Since U Been Gone - Thumbnail.png
+2021-04-17 15:21:38,556 - Writing text file.
+2021-04-17 15:21:38,556 - Downloading: Why Walk On Water When We've Got Boats - Thumbnail.png
+2021-04-17 15:21:39,021 - Writing text file.
+2021-04-17 15:21:39,021 - Downloading: Fast Forward To 2012 (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:39,519 - Writing text file.
+2021-04-17 15:21:39,519 - Downloading: Heartless (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:39,835 - Writing text file.
+2021-04-17 15:21:39,835 - Downloading: A Shot In The Dark (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:40,343 - Writing text file.
+2021-04-17 15:21:40,343 - Downloading: 1958 (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:40,640 - Writing text file.
+2021-04-17 15:21:40,640 - Downloading: Why Walk On Water When We've Got Boats (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:41,129 - Writing text file.
+2021-04-17 15:21:41,129 - Downloading: Since U Been Gone (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:41,439 - Writing text file.
+2021-04-17 15:21:41,439 - Downloading: Monument (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:42,061 - Writing text file.
+2021-04-17 15:21:42,061 - Downloading: The Danger In Starting A Fire (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:42,327 - Writing text file.
+2021-04-17 15:21:42,327 - Downloading: You Should've Killed Me When You Had The Chance (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:42,617 - Writing text file.
+2021-04-17 15:21:42,617 - Downloading: The Plot To Bomb The Panhandle (Live At The Capitol _ Ocala, FL _ January 5, 2008) - Thumbnail.png
+2021-04-17 15:21:43,043 - Download for https://youtube.com/playlist?list=OLAK5uy_kVU1cAg0d6I8qkMYXSspjIxoLXrml8JNk complete.
+
+2021-04-17 15:21:43,045 - Current: https://youtube.com/playlist?list=OLAK5uy_kisxVbggnFStwVaQgPVP5vPg4AyWIjMAQ 
+2021-04-17 15:21:43,046 - youtube link
+2021-04-17 15:21:43,129 - Scraping for id: DyZFN0pjNZA
+2021-04-17 15:21:44,342 - 'streamingData'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 370, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 374, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 376, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 448, in extract_video_info
+    ytformats = test["streamingData"]["adaptiveFormats"]
+KeyError: 'streamingData'
+2021-04-17 15:21:44,354 - Current: https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 
+2021-04-17 15:21:44,356 - youtube link
+2021-04-17 15:21:44,420 - Scraping for id: WnumFR6vn6I
+2021-04-17 15:21:45,127 - Youtube Music link.
+2021-04-17 15:21:45,128 - Scraping for id: 4A6DS4eBAEY
+2021-04-17 15:21:46,146 - Youtube Music link.
+2021-04-17 15:21:46,146 - Scraping for id: MLzr6WiHErA
+2021-04-17 15:21:46,817 - Youtube Music link.
+2021-04-17 15:21:46,818 - Scraping for id: iRpULXhZfsw
+2021-04-17 15:21:47,560 - Youtube Music link.
+2021-04-17 15:21:47,560 - ! Video (https://youtu.be/WnumFR6vn6I|Right Where You Want Me To Be) usual forced error.
+2021-04-17 15:21:47,561 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:48,322 - Done downloading video.
+2021-04-17 15:21:49,282 - Done downloading audio.
+2021-04-17 15:21:51,635 - ! Video (https://youtu.be/4A6DS4eBAEY|Since You Been Gone) usual forced error.
+2021-04-17 15:21:51,635 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:53,501 - Done downloading video.
+2021-04-17 15:21:54,559 - Done downloading audio.
+2021-04-17 15:21:56,584 - ! Video (https://youtu.be/MLzr6WiHErA|Another Song About The Weekend (Acoustic)) usual forced error.
+2021-04-17 15:21:56,584 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:21:58,824 - Done downloading video.
+2021-04-17 15:21:59,541 - Done downloading audio.
+2021-04-17 15:22:02,255 - ! Video (https://youtu.be/iRpULXhZfsw|Over My Head (Cable Car)) usual forced error.
+2021-04-17 15:22:02,255 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-17 15:22:03,429 - Done downloading video.
+2021-04-17 15:22:04,220 - Done downloading audio.
+2021-04-17 15:22:06,418 - Creating download information json.
+2021-04-17 15:22:06,419 - Writing text file.
+2021-04-17 15:22:06,419 - Downloading: Right Where You Want Me To Be - Thumbnail.png
+2021-04-17 15:22:06,712 - Writing text file.
+2021-04-17 15:22:06,713 - Downloading: Since You Been Gone - Thumbnail.png
+2021-04-17 15:22:07,378 - Writing text file.
+2021-04-17 15:22:07,378 - Downloading: Another Song About The Weekend (Acoustic) - Thumbnail.png
+2021-04-17 15:22:07,633 - Writing text file.
+2021-04-17 15:22:07,633 - Downloading: Over My Head (Cable Car) - Thumbnail.png
+2021-04-17 15:22:07,894 - Download for https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 complete.
+
