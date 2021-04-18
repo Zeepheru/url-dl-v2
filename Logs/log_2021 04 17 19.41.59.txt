@@ -1,0 +1,79 @@
+2021-04-17 19:41:59,695 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-17 19:41:59,695 - Autocommand from settings: run
+2021-04-17 19:41:59,696 - Command: run
+2021-04-17 19:41:59,696 - Current: https://fm84.bandcamp.com/album/bend-break-feat-ollie-wride 
+2021-04-17 19:41:59,697 - bandcamp link
+2021-04-17 19:42:02,468 - Creating download information json.
+2021-04-17 19:42:02,468 - Downloading: Bend & Break (feat. Ollie Wride).mp3
+2021-04-17 19:42:04,408 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Bend & Break (feat. Ollie Wride)\Bend & Break (feat. Ollie Wride).mp3
+2021-04-17 19:42:04,462 - Downloading: Bend & Break (Instrumental).mp3
+2021-04-17 19:42:06,563 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Bend & Break (feat. Ollie Wride)\Bend & Break (Instrumental).mp3
+2021-04-17 19:42:06,606 - Downloading: Cover Art.jpg
+2021-04-17 19:42:06,650 - Download for https://fm84.bandcamp.com/album/bend-break-feat-ollie-wride complete.
+
+2021-04-17 19:42:06,651 - Current: https://fm84.bandcamp.com/track/never-stop-feat-ollie-wride 
+2021-04-17 19:42:06,651 - bandcamp link
+2021-04-17 19:42:08,931 - Creating download information json.
+2021-04-17 19:42:08,931 - Downloading: Never Stop (feat. Ollie Wride).mp3
+2021-04-17 19:42:09,251 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Never Stop (feat. Ollie Wride)\Never Stop (feat. Ollie Wride).mp3
+2021-04-17 19:42:09,294 - Downloading: Cover Art.jpg
+2021-04-17 19:42:09,332 - Download for https://fm84.bandcamp.com/track/never-stop-feat-ollie-wride complete.
+
+2021-04-17 19:42:09,333 - Current: https://fm84.bandcamp.com/album/atlas 
+2021-04-17 19:42:09,333 - bandcamp link
+2021-04-17 19:42:13,908 - Creating download information json.
+2021-04-17 19:42:13,908 - Downloading: Everything.mp3
+2021-04-17 19:42:14,182 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Everything.mp3
+2021-04-17 19:42:14,249 - Downloading: Running In The Night (feat. Ollie Wride).mp3
+2021-04-17 19:42:14,563 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Running In The Night (feat. Ollie Wride).mp3
+2021-04-17 19:42:14,624 - Downloading: Tears.mp3
+2021-04-17 19:42:14,971 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Tears.mp3
+2021-04-17 19:42:15,035 - Downloading: Chasing Yesterday.mp3
+2021-04-17 19:42:15,299 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Chasing Yesterday.mp3
+2021-04-17 19:42:15,354 - Downloading: Let&#39;s Talk (feat. Timecop1983 & Josh Dally).mp3
+2021-04-17 19:42:15,695 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Let&#39;s Talk (feat. Timecop1983 & Josh Dally).mp3
+2021-04-17 19:42:15,759 - Downloading: Arcade Summer.mp3
+2021-04-17 19:42:16,022 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Arcade Summer.mp3
+2021-04-17 19:42:16,081 - Downloading: Wild Ones (feat. Ollie Wride).mp3
+2021-04-17 19:42:16,357 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Wild Ones (feat. Ollie Wride).mp3
+2021-04-17 19:42:16,420 - Downloading: Don&#39;t Want To Change Your Mind (feat. Ollie Wride).mp3
+2021-04-17 19:42:16,690 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Don&#39;t Want To Change Your Mind (feat. Ollie Wride).mp3
+2021-04-17 19:42:16,753 - Downloading: Atlas (Interlude).mp3
+2021-04-17 19:42:16,870 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Atlas (Interlude).mp3
+2021-04-17 19:42:16,940 - Downloading: Jupiter.mp3
+2021-04-17 19:42:17,300 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Jupiter.mp3
+2021-04-17 19:42:17,358 - Downloading: Goodbye (feat. Clive Farrington).mp3
+2021-04-17 19:42:18,536 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Atlas\Goodbye (feat. Clive Farrington).mp3
+2021-04-17 19:42:18,602 - Downloading: Cover Art.jpg
+2021-04-17 19:42:18,669 - Download for https://fm84.bandcamp.com/album/atlas complete.
+
+2021-04-17 19:42:18,670 - Current: https://fm84.bandcamp.com/album/los-angeles-ep 
+2021-04-17 19:42:18,670 - bandcamp link
+2021-04-17 19:42:21,300 - Creating download information json.
+2021-04-17 19:42:21,300 - Downloading: DeLorean.mp3
+2021-04-17 19:42:21,662 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\DeLorean.mp3
+2021-04-17 19:42:21,711 - Downloading: Nightdrive.mp3
+2021-04-17 19:42:22,832 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Nightdrive.mp3
+2021-04-17 19:42:22,881 - Downloading: Outatime.mp3
+2021-04-17 19:42:23,985 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Outatime.mp3
+2021-04-17 19:42:24,039 - Downloading: Los Angeles.mp3
+2021-04-17 19:42:25,914 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Los Angeles.mp3
+2021-04-17 19:42:25,962 - Downloading: Mainframe.mp3
+2021-04-17 19:42:27,205 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Mainframe.mp3
+2021-04-17 19:42:27,255 - Downloading: Neon Sunrise.mp3
+2021-04-17 19:42:28,404 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Neon Sunrise.mp3
+2021-04-17 19:42:28,456 - Downloading: Max (Bonus Track).mp3
+2021-04-17 19:42:30,035 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\bandcamp\Los Angeles EP\Max (Bonus Track).mp3
+2021-04-17 19:42:30,090 - Downloading: Cover Art.jpg
+2021-04-17 19:42:30,137 - Download for https://fm84.bandcamp.com/album/los-angeles-ep complete.
+
+2021-04-17 19:42:32,761 - Command: close
+2021-04-17 19:42:32,761 - 
+Log Ended.
+Total time: 0 hrs 0 min 33.07 sec
+
