@@ -212,7 +212,10 @@ def youtube_extractor(Downloader):
         return newlist_of_playlist_ids, playlist_name
 
         
-            
+    ### This youtube link checker needs "https"
+    data["url"].replace("http://","https://")  
+    ####
+     
     check_type(data["url"])
     try:
         data["url"].replace(' ','')

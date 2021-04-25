@@ -1,0 +1,125 @@
+2021-04-25 17:18:15,092 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-25 17:18:15,092 - Autocommand from settings: run
+2021-04-25 17:18:15,093 - Command: run
+2021-04-25 17:18:15,094 - Current: https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 
+2021-04-25 17:18:15,094 - youtube link
+2021-04-25 17:18:17,046 - Scraping for id: OZ1tgDIQXgs
+2021-04-25 17:18:17,546 - Youtube Music link.
+2021-04-25 17:18:17,547 - ! Video (https://youtu.be/OZ1tgDIQXgs|Glasgow Subway expansion animated 1896-2021) usual forced error.
+2021-04-25 17:18:17,547 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:18,601 - Done downloading video.
+2021-04-25 17:18:19,339 - Done downloading audio.
+2021-04-25 17:18:20,120 - Creating download information json.
+2021-04-25 17:18:20,121 - Writing text file.
+2021-04-25 17:18:20,121 - Downloading: Glasgow Subway expansion animated 1896-2021 - Thumbnail.png
+2021-04-25 17:18:20,190 - Download for https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 complete.
+
+2021-04-25 17:18:20,191 - Current: https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 
+2021-04-25 17:18:20,192 - youtube link
+2021-04-25 17:18:20,192 - Scraping for id: I-OOpZitfd0
+2021-04-25 17:18:20,956 - Youtube Music link.
+2021-04-25 17:18:20,956 - ! Video (https://youtu.be/I-OOpZitfd0|Every Single Scandinavian Crime Drama) usual forced error.
+2021-04-25 17:18:20,956 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:21,786 - Done downloading video.
+2021-04-25 17:18:22,290 - Done downloading audio.
+2021-04-25 17:18:22,825 - Creating download information json.
+2021-04-25 17:18:22,825 - Writing text file.
+2021-04-25 17:18:22,826 - Downloading: Every Single Scandinavian Crime Drama - Thumbnail.png
+2021-04-25 17:18:22,868 - Download for https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 complete.
+
+2021-04-25 17:18:22,870 - Current: https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 
+2021-04-25 17:18:22,870 - youtube link
+2021-04-25 17:18:22,870 - Scraping for id: Ac7G7xOG2Ag
+2021-04-25 17:18:23,337 - Youtube Music link.
+2021-04-25 17:18:23,337 - ! Video (https://youtu.be/Ac7G7xOG2Ag|'Turbo Encabulator' the Original) usual forced error.
+2021-04-25 17:18:23,337 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:24,119 - Done downloading video.
+2021-04-25 17:18:24,774 - Done downloading audio.
+2021-04-25 17:18:25,958 - Creating download information json.
+2021-04-25 17:18:25,958 - Writing text file.
+2021-04-25 17:18:25,958 - Downloading: 'Turbo Encabulator' the Original - Thumbnail.png
+2021-04-25 17:18:25,990 - Download for https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 complete.
+
+2021-04-25 17:18:25,991 - Current: https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 
+2021-04-25 17:18:25,992 - youtube link
+2021-04-25 17:18:25,992 - Scraping for id: Bsk_EeKhc9I
+2021-04-25 17:18:26,463 - Youtube Music link.
+2021-04-25 17:18:26,463 - ! Video (https://youtu.be/Bsk_EeKhc9I|Tom Scott swearing) usual forced error.
+2021-04-25 17:18:26,464 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:38,303 - Done downloading video.
+2021-04-25 17:18:39,190 - Done downloading audio.
+2021-04-25 17:18:40,987 - Creating download information json.
+2021-04-25 17:18:40,988 - Writing text file.
+2021-04-25 17:18:40,988 - Downloading: Tom Scott swearing - Thumbnail.png
+2021-04-25 17:18:41,028 - Download for https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 complete.
+
+2021-04-25 17:18:41,030 - Current: https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 
+2021-04-25 17:18:41,030 - youtube link
+2021-04-25 17:18:41,030 - Scraping for id: Om49VC4ihq0
+2021-04-25 17:18:41,933 - Youtube Music link.
+2021-04-25 17:18:41,934 - ! Video (https://youtu.be/Om49VC4ihq0|World of Equestria - Equestria At War Lore) usual forced error.
+2021-04-25 17:18:41,934 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:43,771 - Done downloading video.
+2021-04-25 17:18:45,008 - Done downloading audio.
+2021-04-25 17:18:48,646 - Creating download information json.
+2021-04-25 17:18:48,646 - Writing text file.
+2021-04-25 17:18:48,647 - Downloading: World of Equestria - Equestria At War Lore - Thumbnail.png
+2021-04-25 17:18:48,701 - Download for https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 complete.
+
+2021-04-25 17:18:48,702 - Current: https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 
+2021-04-25 17:18:48,702 - youtube link
+2021-04-25 17:18:48,703 - Scraping for id: B8Eh6zkBKGQ
+2021-04-25 17:18:49,623 - Youtube Music link.
+2021-04-25 17:18:49,623 - ! Video (https://youtu.be/B8Eh6zkBKGQ|FWLR - OMG [Glitch Hop]) usual forced error.
+2021-04-25 17:18:49,623 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:18:52,437 - Done downloading video.
+2021-04-25 17:18:53,630 - Done downloading audio.
+2021-04-25 17:18:56,246 - Creating download information json.
+2021-04-25 17:18:56,246 - Writing text file.
+2021-04-25 17:18:56,247 - Downloading: FWLR - OMG [Glitch Hop] - Thumbnail.png
+2021-04-25 17:18:56,514 - Download for https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 complete.
+
+2021-04-25 17:18:56,515 - Current: https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 
+2021-04-25 17:18:56,515 - youtube link
+2021-04-25 17:18:56,516 - Scraping for id: 9Hq0Zm-sv4Y
+2021-04-25 17:18:56,966 - Youtube Music link.
+2021-04-25 17:18:56,967 - ! Video (https://youtu.be/9Hq0Zm-sv4Y|Ashens and the Polybius Heist Main Trailer) usual forced error.
+2021-04-25 17:18:56,967 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:19:09,248 - Done downloading video.
+2021-04-25 17:19:09,819 - Done downloading audio.
+2021-04-25 17:19:11,179 - Creating download information json.
+2021-04-25 17:19:11,180 - Writing text file.
+2021-04-25 17:19:11,180 - Downloading: Ashens and the Polybius Heist Main Trailer - Thumbnail.png
+2021-04-25 17:19:11,418 - Download for https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 complete.
+
+2021-04-25 17:19:11,419 - Current: https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 
+2021-04-25 17:19:11,419 - youtube link
+2021-04-25 17:19:11,420 - Scraping for id: YPN0qhSyWy8
+2021-04-25 17:19:12,088 - Youtube Music link.
+2021-04-25 17:19:12,089 - ! Video (https://youtu.be/YPN0qhSyWy8|Todd Howard Song  It Just Works (BETHESDA the Musical)  ft. Kyle Wright) usual forced error.
+2021-04-25 17:19:12,089 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:19:13,472 - Done downloading video.
+2021-04-25 17:19:14,233 - Done downloading audio.
+2021-04-25 17:19:17,161 - Creating download information json.
+2021-04-25 17:19:17,162 - Writing text file.
+2021-04-25 17:19:17,162 - Downloading: Todd Howard Song  It Just Works (BETHESDA the Musical)  ft. Kyle Wright - Thumbnail.png
+2021-04-25 17:19:17,217 - Download for https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 complete.
+
+2021-04-25 17:19:17,218 - Current: https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 
+2021-04-25 17:19:17,219 - youtube link
+2021-04-25 17:19:17,219 - Scraping for id: VGscIBfT7xE
+2021-04-25 17:19:17,943 - Youtube Music link.
+2021-04-25 17:19:17,944 - ! Video (https://youtu.be/VGscIBfT7xE|bad apple but it's a discord voice channel user list) usual forced error.
+2021-04-25 17:19:17,944 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-25 17:19:19,951 - Done downloading video.
+2021-04-25 17:19:20,703 - Done downloading audio.
+2021-04-25 17:19:23,041 - Creating download information json.
+2021-04-25 17:19:23,042 - Writing text file.
+2021-04-25 17:19:23,042 - Downloading: bad apple but it's a discord voice channel user list - Thumbnail.png
+2021-04-25 17:19:23,081 - Download for https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 complete.
+
