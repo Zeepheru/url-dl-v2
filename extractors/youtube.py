@@ -445,8 +445,8 @@ def extract_video_info(yt_id):
                 test = json.loads(test)
             except Exception as e:
                 dl_logger.log_exception(e)
-                utils.file_write("Error json.txt",test)
-                
+                #utils.file_write("Error json.txt",test)
+
         return test
 
     try:
