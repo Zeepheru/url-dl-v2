@@ -12,7 +12,7 @@ def create_settings(): #template for file
 
     utils.file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
 
-def change_settings_dir():
+def change_settings_dir(): #Changes to install dir of urldlv2
     new_root_dir = os.getcwd()
     parent_dir = re.search(r'.*(?=\\)',new_root_dir).group()
     ouptut_dir = os.path.join(parent_dir,"url-dl-v2 output")
