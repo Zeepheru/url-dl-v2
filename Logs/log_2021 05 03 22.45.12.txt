@@ -1,0 +1,21 @@
+2021-05-03 22:45:12,824 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-03 22:45:12,825 - Autocommand from settings: run
+2021-05-03 22:45:12,825 - Command: run
+2021-05-03 22:45:12,826 - Current: https://www.youtube.com/watch?v=7qetsLTxml0 
+2021-05-03 22:45:12,827 - youtube link
+2021-05-03 22:45:14,043 - Scraping for id: 7qetsLTxml0
+2021-05-03 22:45:16,024 - Youtube Music link.
+2021-05-03 22:45:16,025 - ! Video (https://youtu.be/7qetsLTxml0|NDP 2020 Theme Song - Everything I Am [Official Music Video]) usual forced error.
+2021-05-03 22:45:16,025 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-03 22:45:22,854 - Done downloading video.
+2021-05-03 22:45:24,973 - Done downloading audio.
+2021-05-03 22:45:28,589 - Creating download information json.
+2021-05-03 22:45:28,591 - Writing text file.
+2021-05-03 22:45:28,591 - Downloading: NDP 2020 Theme Song - Everything I Am [Official Music Video] - Thumbnail.png
+2021-05-03 22:45:28,665 - Download for https://www.youtube.com/watch?v=7qetsLTxml0 complete.
+
