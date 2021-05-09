@@ -22,3 +22,8 @@ Move log to Impt Logs if required as only the 10 most recent logs are kept.
 2021-05-09 18:30:26,826 - Downloading: Cover Art.jpg
 2021-05-09 18:30:26,879 - Download for https://vladm.bandcamp.com/album/nuclear-midnight complete.
 
+2021-05-09 18:31:04,945 - Command: close
+2021-05-09 18:31:04,945 - 
+Log Ended.
+Total time: 0 hrs 0 min 53.50 sec
+

@@ -1,0 +1,879 @@
+2021-05-09 19:05:35,242 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-09 19:05:35,243 - Autocommand from settings: run
+2021-05-09 19:05:35,243 - Command: run
+2021-05-09 19:05:35,244 - Current: https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg 
+2021-05-09 19:05:35,244 - youtube link
+2021-05-09 19:05:35,826 - file_cache is only supported with oauth2client<4.0.0
+2021-05-09 19:05:35,953 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU-x-DwjROa7DhQvKvoqj-kg"
+}
+2021-05-09 19:05:35,953 - Upload Playlist: UU-x-DwjROa7DhQvKvoqj-kg
+2021-05-09 19:05:36,042 - Now downloading channel: ForgaLorga
+Video Count: 24
+2021-05-09 19:05:36,042 - Channel has 24 videos downloaded.
+2021-05-09 19:05:36,042 - Scraping for id: 1EkEKvaOuzU
+2021-05-09 19:05:36,528 - Youtube Music link.
+2021-05-09 19:05:36,529 - Scraping for id: A2TnYAmZDNg
+2021-05-09 19:05:37,197 - Youtube Music link.
+2021-05-09 19:05:37,197 - Scraping for id: 2vwv6j3C6L4
+2021-05-09 19:05:37,710 - Youtube Music link.
+2021-05-09 19:05:37,711 - Scraping for id: NkptC1jnG88
+2021-05-09 19:05:38,316 - Youtube Music link.
+2021-05-09 19:05:38,317 - Scraping for id: kGHNHaC0bf4
+2021-05-09 19:05:38,825 - Youtube Music link.
+2021-05-09 19:05:38,826 - Scraping for id: 4ONOBT-4pVk
+2021-05-09 19:05:39,506 - Youtube Music link.
+2021-05-09 19:05:39,506 - Scraping for id: Awe_dHFrHG8
+2021-05-09 19:05:40,273 - Youtube Music link.
+2021-05-09 19:05:40,274 - Scraping for id: V3iYsDJNNlk
+2021-05-09 19:05:40,902 - Youtube Music link.
+2021-05-09 19:05:40,902 - Scraping for id: DjY4pm0UgBA
+2021-05-09 19:05:41,484 - Youtube Music link.
+2021-05-09 19:05:41,485 - Scraping for id: 0tPkpuWEoHI
+2021-05-09 19:05:41,997 - Youtube Music link.
+2021-05-09 19:05:41,997 - Scraping for id: _668Rn8PJvk
+2021-05-09 19:05:42,487 - Youtube Music link.
+2021-05-09 19:05:42,487 - Scraping for id: NNla7ai3GLs
+2021-05-09 19:05:43,172 - Youtube Music link.
+2021-05-09 19:05:43,173 - Scraping for id: i9l8oOngxxw
+2021-05-09 19:05:44,013 - Youtube Music link.
+2021-05-09 19:05:44,013 - Scraping for id: w7X6rLQawE4
+2021-05-09 19:05:44,528 - Youtube Music link.
+2021-05-09 19:05:44,529 - Scraping for id: Yn_srm53wVI
+2021-05-09 19:05:45,184 - Youtube Music link.
+2021-05-09 19:05:45,185 - Scraping for id: ynyZ5F5aQN0
+2021-05-09 19:05:45,627 - Youtube Music link.
+2021-05-09 19:05:45,627 - Scraping for id: YgVyN3J4CiU
+2021-05-09 19:05:46,145 - Youtube Music link.
+2021-05-09 19:05:46,146 - Scraping for id: s0ecUWTPTcE
+2021-05-09 19:05:47,022 - Youtube Music link.
+2021-05-09 19:05:47,022 - Scraping for id: BHdPUT2q2y8
+2021-05-09 19:05:47,504 - Youtube Music link.
+2021-05-09 19:05:47,504 - Scraping for id: Z6IblxRHg_Y
+2021-05-09 19:05:48,388 - Youtube Music link.
+2021-05-09 19:05:48,389 - Scraping for id: lbtF_4KqBZA
+2021-05-09 19:05:49,057 - Youtube Music link.
+2021-05-09 19:05:49,058 - Scraping for id: 972Jpv3D3tk
+2021-05-09 19:05:49,568 - Youtube Music link.
+2021-05-09 19:05:49,568 - Scraping for id: hmWhQg5cZkc
+2021-05-09 19:05:50,300 - Youtube Music link.
+2021-05-09 19:05:50,300 - Scraping for id: QlnB7RChHqs
+2021-05-09 19:05:51,092 - Youtube Music link.
+2021-05-09 19:05:51,092 - ! Video (https://youtu.be/1EkEKvaOuzU|Know Your Castle) usual forced error.
+2021-05-09 19:05:51,092 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:05:53,494 - Done downloading video.
+2021-05-09 19:05:54,731 - Done downloading audio.
+2021-05-09 19:05:58,381 - ! Video (https://youtu.be/A2TnYAmZDNg|Your little cat 4) usual forced error.
+2021-05-09 19:05:58,381 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:00,151 - Done downloading video.
+2021-05-09 19:06:00,842 - Done downloading audio.
+2021-05-09 19:06:01,801 - ! Video (https://youtu.be/2vwv6j3C6L4|Two Retired Princesses) usual forced error.
+2021-05-09 19:06:01,801 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:04,871 - Done downloading video.
+2021-05-09 19:06:05,687 - Done downloading audio.
+2021-05-09 19:06:09,528 - ! Video (https://youtu.be/NkptC1jnG88|It's Picnic Time) usual forced error.
+2021-05-09 19:06:09,528 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:12,136 - Done downloading video.
+2021-05-09 19:06:12,982 - Done downloading audio.
+2021-05-09 19:06:16,626 - ! Video (https://youtu.be/kGHNHaC0bf4|Princess Twilight Sparkle) usual forced error.
+2021-05-09 19:06:16,627 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:19,928 - Done downloading video.
+2021-05-09 19:06:20,611 - Done downloading audio.
+2021-05-09 19:06:22,733 - ! Video (https://youtu.be/4ONOBT-4pVk|Your little cat 3) usual forced error.
+2021-05-09 19:06:22,733 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:24,269 - Done downloading video.
+2021-05-09 19:06:25,325 - Done downloading audio.
+2021-05-09 19:06:26,730 - ! Video (https://youtu.be/Awe_dHFrHG8|Artifacts of Equestria) usual forced error.
+2021-05-09 19:06:26,730 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:28,658 - Done downloading video.
+2021-05-09 19:06:29,721 - Done downloading audio.
+2021-05-09 19:06:32,993 - ! Video (https://youtu.be/V3iYsDJNNlk|Princess Starlight Glimmer) usual forced error.
+2021-05-09 19:06:32,993 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:35,362 - Done downloading video.
+2021-05-09 19:06:36,412 - Done downloading audio.
+2021-05-09 19:06:39,195 - ! Video (https://youtu.be/DjY4pm0UgBA|Everypony is strange) usual forced error.
+2021-05-09 19:06:39,195 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:41,690 - Done downloading video.
+2021-05-09 19:06:42,590 - Done downloading audio.
+2021-05-09 19:06:46,559 - ! Video (https://youtu.be/0tPkpuWEoHI|Pony and Magical Artifact) usual forced error.
+2021-05-09 19:06:46,559 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:48,713 - Done downloading video.
+2021-05-09 19:06:49,450 - Done downloading audio.
+2021-05-09 19:06:52,020 - ! Video (https://youtu.be/_668Rn8PJvk|Your little cat 2) usual forced error.
+2021-05-09 19:06:52,020 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:06:54,999 - Done downloading video.
+2021-05-09 19:06:55,608 - Done downloading audio.
+2021-05-09 19:06:56,870 - ! Video (https://youtu.be/NNla7ai3GLs|Best princesses ever) usual forced error.
+2021-05-09 19:06:56,871 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:00,122 - Done downloading video.
+2021-05-09 19:07:00,861 - Done downloading audio.
+2021-05-09 19:07:02,699 - ! Video (https://youtu.be/i9l8oOngxxw|Weird Ponyville) usual forced error.
+2021-05-09 19:07:02,699 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:04,022 - Done downloading video.
+2021-05-09 19:07:04,674 - Done downloading audio.
+2021-05-09 19:07:06,504 - ! Video (https://youtu.be/w7X6rLQawE4|Give me your wings) usual forced error.
+2021-05-09 19:07:06,504 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:08,500 - Done downloading video.
+2021-05-09 19:07:09,255 - Done downloading audio.
+2021-05-09 19:07:12,246 - ! Video (https://youtu.be/Yn_srm53wVI|Secrets of the Mane 6) usual forced error.
+2021-05-09 19:07:12,246 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:13,662 - Done downloading video.
+2021-05-09 19:07:14,315 - Done downloading audio.
+2021-05-09 19:07:16,736 - ! Video (https://youtu.be/ynyZ5F5aQN0|Your little cat) usual forced error.
+2021-05-09 19:07:16,737 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:18,276 - Done downloading video.
+2021-05-09 19:07:19,214 - Done downloading audio.
+2021-05-09 19:07:20,312 - ! Video (https://youtu.be/YgVyN3J4CiU|Everyone loves Princess Luna) usual forced error.
+2021-05-09 19:07:20,312 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:22,587 - Done downloading video.
+2021-05-09 19:07:23,223 - Done downloading audio.
+2021-05-09 19:07:25,241 - ! Video (https://youtu.be/s0ecUWTPTcE|Starlight wants your Cutie Mark) usual forced error.
+2021-05-09 19:07:25,242 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:26,511 - Done downloading video.
+2021-05-09 19:07:27,330 - Done downloading audio.
+2021-05-09 19:07:29,364 - ! Video (https://youtu.be/BHdPUT2q2y8|Something about the princesses) usual forced error.
+2021-05-09 19:07:29,365 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:31,140 - Done downloading video.
+2021-05-09 19:07:32,157 - Done downloading audio.
+2021-05-09 19:07:34,446 - ! Video (https://youtu.be/Z6IblxRHg_Y|Your little pets) usual forced error.
+2021-05-09 19:07:34,446 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:35,721 - Done downloading video.
+2021-05-09 19:07:36,279 - Done downloading audio.
+2021-05-09 19:07:37,473 - ! Video (https://youtu.be/lbtF_4KqBZA|Celestia is best princess) usual forced error.
+2021-05-09 19:07:37,473 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:39,019 - Done downloading video.
+2021-05-09 19:07:40,140 - Done downloading audio.
+2021-05-09 19:07:42,117 - ! Video (https://youtu.be/972Jpv3D3tk|Starlight vs Mane 6) usual forced error.
+2021-05-09 19:07:42,117 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:43,450 - Done downloading video.
+2021-05-09 19:07:44,055 - Done downloading audio.
+2021-05-09 19:07:45,329 - ! Video (https://youtu.be/hmWhQg5cZkc|Equestria for Alicorns) usual forced error.
+2021-05-09 19:07:45,329 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:47,636 - Done downloading video.
+2021-05-09 19:07:48,238 - Done downloading audio.
+2021-05-09 19:07:49,224 - ! Video (https://youtu.be/QlnB7RChHqs|Twilight and the strange castle) usual forced error.
+2021-05-09 19:07:49,224 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:07:50,172 - Done downloading video.
+2021-05-09 19:07:50,865 - Done downloading audio.
+2021-05-09 19:07:52,309 - Creating download information json.
+2021-05-09 19:07:52,310 - Writing text file.
+2021-05-09 19:07:52,310 - Downloading: ForgaLorga - Channel Image.png
+2021-05-09 19:07:52,380 - Writing text file.
+2021-05-09 19:07:52,380 - Downloading: Know Your Castle - Thumbnail.png
+2021-05-09 19:07:52,449 - Writing text file.
+2021-05-09 19:07:52,449 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-09 19:07:52,492 - Writing text file.
+2021-05-09 19:07:52,492 - Downloading: Two Retired Princesses - Thumbnail.png
+2021-05-09 19:07:52,533 - Writing text file.
+2021-05-09 19:07:52,533 - Downloading: It's Picnic Time - Thumbnail.png
+2021-05-09 19:07:52,576 - Writing text file.
+2021-05-09 19:07:52,576 - Downloading: Princess Twilight Sparkle - Thumbnail.png
+2021-05-09 19:07:52,617 - Writing text file.
+2021-05-09 19:07:52,617 - Downloading: Your little cat 3 - Thumbnail.png
+2021-05-09 19:07:52,660 - Writing text file.
+2021-05-09 19:07:52,660 - Downloading: Artifacts of Equestria - Thumbnail.png
+2021-05-09 19:07:52,703 - Writing text file.
+2021-05-09 19:07:52,703 - Downloading: Princess Starlight Glimmer - Thumbnail.png
+2021-05-09 19:07:52,746 - Writing text file.
+2021-05-09 19:07:52,746 - Downloading: Everypony is strange - Thumbnail.png
+2021-05-09 19:07:52,790 - Writing text file.
+2021-05-09 19:07:52,790 - Downloading: Pony and Magical Artifact - Thumbnail.png
+2021-05-09 19:07:52,836 - Writing text file.
+2021-05-09 19:07:52,836 - Downloading: Your little cat 2 - Thumbnail.png
+2021-05-09 19:07:52,877 - Writing text file.
+2021-05-09 19:07:52,877 - Downloading: Best princesses ever - Thumbnail.png
+2021-05-09 19:07:52,922 - Writing text file.
+2021-05-09 19:07:52,922 - Downloading: Weird Ponyville - Thumbnail.png
+2021-05-09 19:07:52,964 - Writing text file.
+2021-05-09 19:07:52,964 - Downloading: Give me your wings - Thumbnail.png
+2021-05-09 19:07:53,010 - Writing text file.
+2021-05-09 19:07:53,010 - Downloading: Secrets of the Mane 6 - Thumbnail.png
+2021-05-09 19:07:53,054 - Writing text file.
+2021-05-09 19:07:53,054 - Downloading: Your little cat - Thumbnail.png
+2021-05-09 19:07:53,095 - Writing text file.
+2021-05-09 19:07:53,095 - Downloading: Everyone loves Princess Luna - Thumbnail.png
+2021-05-09 19:07:53,140 - Writing text file.
+2021-05-09 19:07:53,140 - Downloading: Starlight wants your Cutie Mark - Thumbnail.png
+2021-05-09 19:07:53,188 - Writing text file.
+2021-05-09 19:07:53,189 - Downloading: Something about the princesses - Thumbnail.png
+2021-05-09 19:07:53,233 - Writing text file.
+2021-05-09 19:07:53,233 - Downloading: Your little pets - Thumbnail.png
+2021-05-09 19:07:53,273 - Writing text file.
+2021-05-09 19:07:53,273 - Downloading: Celestia is best princess - Thumbnail.png
+2021-05-09 19:07:53,314 - Writing text file.
+2021-05-09 19:07:53,314 - Downloading: Starlight vs Mane 6 - Thumbnail.png
+2021-05-09 19:07:53,354 - Writing text file.
+2021-05-09 19:07:53,354 - Downloading: Equestria for Alicorns - Thumbnail.png
+2021-05-09 19:07:53,395 - Writing text file.
+2021-05-09 19:07:53,395 - Downloading: Twilight and the strange castle - Thumbnail.png
+2021-05-09 19:07:53,435 - Download for https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg complete.
+
+2021-05-09 19:07:53,436 - Current: https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 
+2021-05-09 19:07:53,436 - youtube link
+2021-05-09 19:07:53,516 - Scraping for id: WnumFR6vn6I
+2021-05-09 19:07:54,161 - Youtube Music link.
+2021-05-09 19:07:54,162 - Scraping for id: 4A6DS4eBAEY
+2021-05-09 19:07:54,792 - Youtube Music link.
+2021-05-09 19:07:54,793 - Scraping for id: MLzr6WiHErA
+2021-05-09 19:07:55,354 - Youtube Music link.
+2021-05-09 19:07:55,355 - Scraping for id: iRpULXhZfsw
+2021-05-09 19:07:56,010 - Youtube Music link.
+2021-05-09 19:07:56,010 - ! Video (https://youtu.be/WnumFR6vn6I|Right Where You Want Me To Be) usual forced error.
+2021-05-09 19:07:56,011 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:02,053 - Done downloading video.
+2021-05-09 19:08:02,895 - Done downloading audio.
+2021-05-09 19:08:05,246 - ! Video (https://youtu.be/4A6DS4eBAEY|Since You Been Gone) usual forced error.
+2021-05-09 19:08:05,247 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:07,405 - Done downloading video.
+2021-05-09 19:08:08,263 - Done downloading audio.
+2021-05-09 19:08:10,284 - ! Video (https://youtu.be/MLzr6WiHErA|Another Song About The Weekend (Acoustic)) usual forced error.
+2021-05-09 19:08:10,284 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:16,582 - Done downloading video.
+2021-05-09 19:08:17,642 - Done downloading audio.
+2021-05-09 19:08:20,344 - ! Video (https://youtu.be/iRpULXhZfsw|Over My Head (Cable Car)) usual forced error.
+2021-05-09 19:08:20,344 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:22,203 - Done downloading video.
+2021-05-09 19:08:23,107 - Done downloading audio.
+2021-05-09 19:08:25,297 - Creating download information json.
+2021-05-09 19:08:25,297 - Writing text file.
+2021-05-09 19:08:25,298 - Downloading: Right Where You Want Me To Be - Thumbnail.png
+2021-05-09 19:08:25,804 - Writing text file.
+2021-05-09 19:08:25,804 - Downloading: Since You Been Gone - Thumbnail.png
+2021-05-09 19:08:26,227 - Writing text file.
+2021-05-09 19:08:26,227 - Downloading: Another Song About The Weekend (Acoustic) - Thumbnail.png
+2021-05-09 19:08:26,708 - Writing text file.
+2021-05-09 19:08:26,708 - Downloading: Over My Head (Cable Car) - Thumbnail.png
+2021-05-09 19:08:27,212 - Download for https://youtube.com/playlist?list=OLAK5uy_nS2zWgwF3figEiDVHum58opQ9g7k-TIp8 complete.
+
+2021-05-09 19:08:27,213 - Current: https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 
+2021-05-09 19:08:27,215 - youtube link
+2021-05-09 19:08:27,216 - Scraping for id: OZ1tgDIQXgs
+2021-05-09 19:08:28,125 - Youtube Music link.
+2021-05-09 19:08:28,126 - ! Video (https://youtu.be/OZ1tgDIQXgs|Glasgow's subway expansion animated 1896-2021) usual forced error.
+2021-05-09 19:08:28,126 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:28,723 - Done downloading video.
+2021-05-09 19:08:29,189 - Done downloading audio.
+2021-05-09 19:08:29,878 - Creating download information json.
+2021-05-09 19:08:29,879 - Writing text file.
+2021-05-09 19:08:29,879 - Downloading: Glasgow's subway expansion animated 1896-2021 - Thumbnail.png
+2021-05-09 19:08:30,116 - Download for https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 complete.
+
+2021-05-09 19:08:30,116 - Current: https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 
+2021-05-09 19:08:30,117 - youtube link
+2021-05-09 19:08:30,117 - Scraping for id: I-OOpZitfd0
+2021-05-09 19:08:30,492 - Youtube Music link.
+2021-05-09 19:08:30,493 - ! Video (https://youtu.be/I-OOpZitfd0|Every Single Scandinavian Crime Drama) usual forced error.
+2021-05-09 19:08:30,493 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:31,441 - Done downloading video.
+2021-05-09 19:08:31,884 - Done downloading audio.
+2021-05-09 19:08:32,417 - Creating download information json.
+2021-05-09 19:08:32,418 - Writing text file.
+2021-05-09 19:08:32,418 - Downloading: Every Single Scandinavian Crime Drama - Thumbnail.png
+2021-05-09 19:08:32,457 - Download for https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 complete.
+
+2021-05-09 19:08:32,458 - Current: https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 
+2021-05-09 19:08:32,458 - youtube link
+2021-05-09 19:08:32,459 - Scraping for id: Ac7G7xOG2Ag
+2021-05-09 19:08:32,876 - Youtube Music link.
+2021-05-09 19:08:32,877 - ! Video (https://youtu.be/Ac7G7xOG2Ag|'Turbo Encabulator' the Original) usual forced error.
+2021-05-09 19:08:32,877 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:33,662 - Done downloading video.
+2021-05-09 19:08:34,241 - Done downloading audio.
+2021-05-09 19:08:35,422 - Creating download information json.
+2021-05-09 19:08:35,423 - Writing text file.
+2021-05-09 19:08:35,423 - Downloading: 'Turbo Encabulator' the Original - Thumbnail.png
+2021-05-09 19:08:35,457 - Download for https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 complete.
+
+2021-05-09 19:08:35,458 - Current: https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 
+2021-05-09 19:08:35,459 - youtube link
+2021-05-09 19:08:35,459 - Scraping for id: Bsk_EeKhc9I
+2021-05-09 19:08:35,838 - Youtube Music link.
+2021-05-09 19:08:35,839 - ! Video (https://youtu.be/Bsk_EeKhc9I|Tom Scott swearing) usual forced error.
+2021-05-09 19:08:35,839 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:37,590 - Done downloading video.
+2021-05-09 19:08:38,311 - Done downloading audio.
+2021-05-09 19:08:40,114 - Creating download information json.
+2021-05-09 19:08:40,114 - Writing text file.
+2021-05-09 19:08:40,114 - Downloading: Tom Scott swearing - Thumbnail.png
+2021-05-09 19:08:40,155 - Download for https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 complete.
+
+2021-05-09 19:08:40,156 - Current: https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 
+2021-05-09 19:08:40,156 - youtube link
+2021-05-09 19:08:40,157 - Scraping for id: Om49VC4ihq0
+2021-05-09 19:08:40,642 - Youtube Music link.
+2021-05-09 19:08:40,642 - ! Video (https://youtu.be/Om49VC4ihq0|World of Equestria - Equestria At War Lore) usual forced error.
+2021-05-09 19:08:40,643 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:08:43,428 - Done downloading video.
+2021-05-09 19:08:44,501 - Done downloading audio.
+2021-05-09 19:08:48,150 - Creating download information json.
+2021-05-09 19:08:48,150 - Writing text file.
+2021-05-09 19:08:48,150 - Downloading: World of Equestria - Equestria At War Lore - Thumbnail.png
+2021-05-09 19:08:48,410 - Download for https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 complete.
+
+2021-05-09 19:08:48,411 - Current: https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 
+2021-05-09 19:08:48,411 - youtube link
+2021-05-09 19:08:48,412 - Scraping for id: B8Eh6zkBKGQ
+2021-05-09 19:08:49,014 - Youtube Music link.
+2021-05-09 19:08:49,015 - ! Video (https://youtu.be/B8Eh6zkBKGQ|FWLR - OMG [Glitch Hop]) usual forced error.
+2021-05-09 19:08:49,015 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:10:13,087 - Done downloading video.
+2021-05-09 19:10:13,633 - Done downloading audio.
+2021-05-09 19:10:13,690 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:10:13,695 - Creating download information json.
+2021-05-09 19:10:13,696 - Writing text file.
+2021-05-09 19:10:13,696 - Downloading: FWLR - OMG [Glitch Hop] - Thumbnail.png
+2021-05-09 19:10:14,147 - Download for https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 complete.
+
+2021-05-09 19:10:14,148 - Current: https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 
+2021-05-09 19:10:14,149 - youtube link
+2021-05-09 19:10:14,149 - Scraping for id: 9Hq0Zm-sv4Y
+2021-05-09 19:10:14,603 - Youtube Music link.
+2021-05-09 19:10:14,603 - ! Video (https://youtu.be/9Hq0Zm-sv4Y|Ashens and the Polybius Heist Main Trailer) usual forced error.
+2021-05-09 19:10:14,604 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:11:05,512 - Done downloading video.
+2021-05-09 19:11:06,459 - Done downloading audio.
+2021-05-09 19:11:07,816 - Creating download information json.
+2021-05-09 19:11:07,817 - Writing text file.
+2021-05-09 19:11:07,817 - Downloading: Ashens and the Polybius Heist Main Trailer - Thumbnail.png
+2021-05-09 19:11:08,023 - Download for https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 complete.
+
+2021-05-09 19:11:08,024 - Current: https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 
+2021-05-09 19:11:08,025 - youtube link
+2021-05-09 19:11:08,025 - Scraping for id: YPN0qhSyWy8
+2021-05-09 19:11:09,009 - Youtube Music link.
+2021-05-09 19:11:09,010 - ! Video (https://youtu.be/YPN0qhSyWy8|Todd Howard Song  It Just Works (BETHESDA the Musical)  ft. Kyle Wright) usual forced error.
+2021-05-09 19:11:09,010 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:11:13,428 - Done downloading video.
+2021-05-09 19:11:14,202 - Done downloading audio.
+2021-05-09 19:11:17,132 - Creating download information json.
+2021-05-09 19:11:17,133 - Writing text file.
+2021-05-09 19:11:17,133 - Downloading: Todd Howard Song  It Just Works (BETHESDA the Musical)  ft. Kyle Wright - Thumbnail.png
+2021-05-09 19:11:17,184 - Download for https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 complete.
+
+2021-05-09 19:11:17,185 - Current: https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 
+2021-05-09 19:11:17,185 - youtube link
+2021-05-09 19:11:17,186 - Scraping for id: VGscIBfT7xE
+2021-05-09 19:11:17,748 - Youtube Music link.
+2021-05-09 19:11:17,749 - ! Video (https://youtu.be/VGscIBfT7xE|bad apple but it's a discord voice channel user list) usual forced error.
+2021-05-09 19:11:17,749 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:11:21,722 - Done downloading video.
+2021-05-09 19:11:22,442 - Done downloading audio.
+2021-05-09 19:11:24,787 - Creating download information json.
+2021-05-09 19:11:24,788 - Writing text file.
+2021-05-09 19:11:24,788 - Downloading: bad apple but it's a discord voice channel user list - Thumbnail.png
+2021-05-09 19:11:24,822 - Download for https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 complete.
+
+2021-05-09 19:11:24,823 - Current: http://youtu.be/QY-gf4PNN4g 
+2021-05-09 19:11:24,823 - youtube link
+2021-05-09 19:11:24,824 - Scraping for id: None
+2021-05-09 19:11:24,939 - can only concatenate str (not "NoneType") to str
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 374, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 398, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 378, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 398, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 380, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 398, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+2021-05-09 19:11:24,945 - Current: https://www.youtube.com/watch?v=impo-7_Vtg0 
+2021-05-09 19:11:24,945 - youtube link
+2021-05-09 19:11:24,946 - Scraping for id: impo-7_Vtg0
+2021-05-09 19:11:25,567 - Youtube Music link.
+2021-05-09 19:11:25,568 - ! Video (https://youtu.be/impo-7_Vtg0|Unleash the Archers  Awakening) usual forced error.
+2021-05-09 19:11:25,568 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:15,878 - Done downloading video.
+2021-05-09 19:12:18,693 - Done downloading audio.
+2021-05-09 19:12:22,777 - Creating download information json.
+2021-05-09 19:12:22,777 - Writing text file.
+2021-05-09 19:12:22,778 - Downloading: Unleash the Archers  Awakening - Thumbnail.png
+2021-05-09 19:12:22,911 - Download for https://www.youtube.com/watch?v=impo-7_Vtg0 complete.
+
+2021-05-09 19:12:22,912 - Current: https://m.youtube.com/playlist?list=PLuUUN65Dt62WoeIRbROGHpMRNgWC-05BC 
+2021-05-09 19:12:22,912 - youtube link
+2021-05-09 19:12:22,918 - [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 178, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 227, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(data['url'])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 161, in extract_from_playlist
+    response = request.execute()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 905, in execute
+    resp, content = _retry_request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 207, in _retry_request
+    raise exception
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 176, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1708, in request
+    (response, content) = self._request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1424, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1376, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2021-05-09 19:12:22,927 - Current: https://www.youtube.com/watch?v=yjQ9zpvOa7k 
+2021-05-09 19:12:22,927 - youtube link
+2021-05-09 19:12:22,928 - Scraping for id: yjQ9zpvOa7k
+2021-05-09 19:12:23,835 - Youtube Music link.
+2021-05-09 19:12:23,836 - ! Video (https://youtu.be/yjQ9zpvOa7k|John Kenza - Love (feat. 4EverfreeBrony)) usual forced error.
+2021-05-09 19:12:23,836 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:26,680 - Done downloading video.
+2021-05-09 19:12:27,108 - Done downloading audio.
+2021-05-09 19:12:27,151 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:12:27,159 - Creating download information json.
+2021-05-09 19:12:27,159 - Writing text file.
+2021-05-09 19:12:27,159 - Downloading: John Kenza - Love (feat. 4EverfreeBrony) - Thumbnail.png
+2021-05-09 19:12:27,872 - Download for https://www.youtube.com/watch?v=yjQ9zpvOa7k complete.
+
+2021-05-09 19:12:27,873 - Current: https://m.youtube.com/watch?v=aTxhquEfQeA 
+2021-05-09 19:12:27,873 - youtube link
+2021-05-09 19:12:27,874 - Scraping for id: aTxhquEfQeA
+2021-05-09 19:12:28,376 - Youtube Music link.
+2021-05-09 19:12:28,377 - ! Video (https://youtu.be/aTxhquEfQeA|Tomorrow's Here Today NDP 2016 Sheet Music) usual forced error.
+2021-05-09 19:12:28,377 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:36,357 - Done downloading video.
+2021-05-09 19:12:37,113 - Done downloading audio.
+2021-05-09 19:12:38,248 - Creating download information json.
+2021-05-09 19:12:38,249 - Writing text file.
+2021-05-09 19:12:38,249 - Downloading: Tomorrow's Here Today NDP 2016 Sheet Music - Thumbnail.png
+2021-05-09 19:12:38,381 - Download for https://m.youtube.com/watch?v=aTxhquEfQeA complete.
+
+2021-05-09 19:12:38,384 - Current: https://m.youtube.com/watch?v=xUMjaFWhY1w 
+2021-05-09 19:12:38,384 - youtube link
+2021-05-09 19:12:38,385 - Scraping for id: xUMjaFWhY1w
+2021-05-09 19:12:39,196 - Youtube Music link.
+2021-05-09 19:12:39,196 - ! Video (https://youtu.be/xUMjaFWhY1w|NDP 2016 Theme Song Tomorrow's Here Today by 53A) usual forced error.
+2021-05-09 19:12:39,197 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:42,433 - Done downloading video.
+2021-05-09 19:12:43,172 - Done downloading audio.
+2021-05-09 19:12:45,609 - Creating download information json.
+2021-05-09 19:12:45,609 - Writing text file.
+2021-05-09 19:12:45,609 - Downloading: NDP 2016 Theme Song Tomorrow's Here Today by 53A - Thumbnail.png
+2021-05-09 19:12:45,645 - Download for https://m.youtube.com/watch?v=xUMjaFWhY1w complete.
+
+2021-05-09 19:12:45,646 - Current: https://youtu.be/bUOxlahZsOM 
+2021-05-09 19:12:45,646 - youtube link
+2021-05-09 19:12:45,647 - Scraping for id: bUOxlahZsOM
+2021-05-09 19:12:46,540 - Youtube Music link.
+2021-05-09 19:12:46,541 - ! Video (https://youtu.be/bUOxlahZsOM|PrinceWhateverer - Eyes to See (ismBoF cover ft. ismBoF, Sable, Scrambes & Solrac)) usual forced error.
+2021-05-09 19:12:46,542 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:54,593 - Done downloading video.
+2021-05-09 19:12:55,239 - Done downloading audio.
+2021-05-09 19:12:55,283 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:12:55,291 - Creating download information json.
+2021-05-09 19:12:55,292 - Writing text file.
+2021-05-09 19:12:55,292 - Downloading: PrinceWhateverer - Eyes to See (ismBoF cover ft. ismBoF, Sable, Scrambes & Solrac) - Thumbnail.png
+2021-05-09 19:12:55,343 - Download for https://youtu.be/bUOxlahZsOM complete.
+
+2021-05-09 19:12:55,344 - Current: https://www.youtube.com/watch?v=hKUJmA9O6iA 
+2021-05-09 19:12:55,344 - youtube link
+2021-05-09 19:12:55,344 - Scraping for id: hKUJmA9O6iA
+2021-05-09 19:12:55,957 - Youtube Music link.
+2021-05-09 19:12:55,957 - ! Video (https://youtu.be/hKUJmA9O6iA|BLACKPINK -  (AS IF ITS YOUR LAST) DANCE PRACTICE VIDEO) usual forced error.
+2021-05-09 19:12:55,958 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:12:58,644 - Done downloading video.
+2021-05-09 19:12:59,319 - Done downloading audio.
+2021-05-09 19:13:01,511 - Creating download information json.
+2021-05-09 19:13:01,511 - Writing text file.
+2021-05-09 19:13:01,512 - Downloading: BLACKPINK -  (AS IF ITS YOUR LAST) DANCE PRACTICE VIDEO - Thumbnail.png
+2021-05-09 19:13:01,546 - Download for https://www.youtube.com/watch?v=hKUJmA9O6iA complete.
+
+2021-05-09 19:13:01,547 - Current: https://youtu.be/Vz9MAmRXhos 
+2021-05-09 19:13:01,547 - youtube link
+2021-05-09 19:13:01,548 - Scraping for id: Vz9MAmRXhos
+2021-05-09 19:13:02,369 - Youtube Music link.
+2021-05-09 19:13:02,369 - ! Video (https://youtu.be/Vz9MAmRXhos|The Complete My Little Pony Friendship is Magic Timeline (2020)) usual forced error.
+2021-05-09 19:13:02,370 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:13:27,454 - Done downloading video.
+2021-05-09 19:13:30,480 - Done downloading audio.
+2021-05-09 19:13:51,742 - Creating download information json.
+2021-05-09 19:13:51,743 - Writing text file.
+2021-05-09 19:13:51,743 - Downloading: The Complete My Little Pony Friendship is Magic Timeline (2020) - Thumbnail.png
+2021-05-09 19:13:51,796 - Download for https://youtu.be/Vz9MAmRXhos complete.
+
+2021-05-09 19:13:51,797 - Current: https://youtu.be/RErdSr0iAcs 
+2021-05-09 19:13:51,797 - youtube link
+2021-05-09 19:13:51,798 - Scraping for id: RErdSr0iAcs
+2021-05-09 19:13:52,451 - Youtube Music link.
+2021-05-09 19:13:52,451 - ! Video (https://youtu.be/RErdSr0iAcs|'And I think to myself, what a wonderful world.') usual forced error.
+2021-05-09 19:13:52,451 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:13:55,521 - Done downloading video.
+2021-05-09 19:13:56,120 - Done downloading audio.
+2021-05-09 19:13:57,535 - Creating download information json.
+2021-05-09 19:13:57,535 - Writing text file.
+2021-05-09 19:13:57,535 - Downloading: 'And I think to myself, what a wonderful world.' - Thumbnail.png
+2021-05-09 19:13:57,584 - Download for https://youtu.be/RErdSr0iAcs complete.
+
+2021-05-09 19:13:57,586 - Current: https://youtu.be/n5uzGASyDJ0 
+2021-05-09 19:13:57,586 - youtube link
+2021-05-09 19:13:57,586 - Scraping for id: n5uzGASyDJ0
+2021-05-09 19:13:58,400 - Youtube Music link.
+2021-05-09 19:13:58,400 - ! Video (https://youtu.be/n5uzGASyDJ0|Gypsy Bard (Scraton Remix)) usual forced error.
+2021-05-09 19:13:58,400 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:14:19,993 - Done downloading video.
+2021-05-09 19:14:20,759 - Done downloading audio.
+2021-05-09 19:14:24,399 - Creating download information json.
+2021-05-09 19:14:24,400 - Writing text file.
+2021-05-09 19:14:24,400 - Downloading: Gypsy Bard (Scraton Remix) - Thumbnail.png
+2021-05-09 19:14:24,589 - Download for https://youtu.be/n5uzGASyDJ0 complete.
+
+2021-05-09 19:14:24,591 - Current: https://www.youtube.com/watch?v=nolrhgNoo4M 
+2021-05-09 19:14:24,591 - youtube link
+2021-05-09 19:14:24,592 - Scraping for id: nolrhgNoo4M
+2021-05-09 19:14:25,248 - Youtube Music link.
+2021-05-09 19:14:25,248 - ! Video (https://youtu.be/nolrhgNoo4M|MLP Opening but it's drawn by the left hand or something) usual forced error.
+2021-05-09 19:14:25,249 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:14:37,531 - Done downloading video.
+2021-05-09 19:14:38,175 - Done downloading audio.
+2021-05-09 19:14:38,700 - Creating download information json.
+2021-05-09 19:14:38,700 - Writing text file.
+2021-05-09 19:14:38,700 - Downloading: MLP Opening but it's drawn by the left hand or something - Thumbnail.png
+2021-05-09 19:14:38,887 - Download for https://www.youtube.com/watch?v=nolrhgNoo4M complete.
+
+2021-05-09 19:14:38,888 - Current:  https://youtu.be/p1OQlCVRgoE 
+2021-05-09 19:14:38,888 - youtube link
+2021-05-09 19:14:38,889 - Scraping for id: p1OQlCVRgoE
+2021-05-09 19:14:39,394 - Youtube Music link.
+2021-05-09 19:14:39,395 - ! Video (https://youtu.be/p1OQlCVRgoE|Violin Melody - Hope (Nicolas Dominique's Liquid Remix)) usual forced error.
+2021-05-09 19:14:39,395 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:15:36,375 - Done downloading video.
+2021-05-09 19:15:37,402 - Done downloading audio.
+2021-05-09 19:15:37,449 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:15:37,459 - Creating download information json.
+2021-05-09 19:15:37,459 - Writing text file.
+2021-05-09 19:15:37,459 - Downloading: Violin Melody - Hope (Nicolas Dominique's Liquid Remix) - Thumbnail.png
+2021-05-09 19:15:37,679 - Download for https://youtu.be/p1OQlCVRgoE complete.
+
+2021-05-09 19:15:37,680 - Current: https://youtu.be/Pjw1EtYxZa4 
+2021-05-09 19:15:37,680 - youtube link
+2021-05-09 19:15:37,681 - Scraping for id: Pjw1EtYxZa4
+2021-05-09 19:15:38,165 - Youtube Music link.
+2021-05-09 19:15:38,166 - ! Video (https://youtu.be/Pjw1EtYxZa4|PMV Collab Just the way you are) usual forced error.
+2021-05-09 19:15:38,166 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:15:40,941 - Done downloading video.
+2021-05-09 19:15:41,753 - Done downloading audio.
+2021-05-09 19:15:43,333 - Creating download information json.
+2021-05-09 19:15:43,333 - Writing text file.
+2021-05-09 19:15:43,333 - Downloading: PMV Collab Just the way you are - Thumbnail.png
+2021-05-09 19:15:43,374 - Download for https://youtu.be/Pjw1EtYxZa4 complete.
+
+2021-05-09 19:15:43,375 - Current: https://www.youtube.com/watch?v=lZEHrA0v3AU 
+2021-05-09 19:15:43,375 - youtube link
+2021-05-09 19:15:43,376 - Scraping for id: lZEHrA0v3AU
+2021-05-09 19:15:43,982 - Youtube Music link.
+2021-05-09 19:15:43,982 - ! Video (https://youtu.be/lZEHrA0v3AU|sunshine sunshine ladybugs awake mlp compilation) usual forced error.
+2021-05-09 19:15:43,982 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:15:45,687 - Done downloading video.
+2021-05-09 19:15:46,340 - Done downloading audio.
+2021-05-09 19:15:47,548 - Creating download information json.
+2021-05-09 19:15:47,549 - Writing text file.
+2021-05-09 19:15:47,549 - Downloading: sunshine sunshine ladybugs awake mlp compilation - Thumbnail.png
+2021-05-09 19:15:47,584 - Download for https://www.youtube.com/watch?v=lZEHrA0v3AU complete.
+
+2021-05-09 19:15:47,585 - Current: https://youtu.be/wWzVxoXqrSc 
+2021-05-09 19:15:47,586 - youtube link
+2021-05-09 19:15:47,586 - Scraping for id: wWzVxoXqrSc
+2021-05-09 19:15:48,109 - Youtube Music link.
+2021-05-09 19:15:48,110 - ! Video (https://youtu.be/wWzVxoXqrSc|Spikey Wikey - Hush) usual forced error.
+2021-05-09 19:15:48,110 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:16:48,168 - Done downloading video.
+2021-05-09 19:16:48,899 - Done downloading audio.
+2021-05-09 19:16:48,941 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:16:48,953 - Creating download information json.
+2021-05-09 19:16:48,953 - Writing text file.
+2021-05-09 19:16:48,953 - Downloading: Spikey Wikey - Hush - Thumbnail.png
+2021-05-09 19:16:49,071 - Download for https://youtu.be/wWzVxoXqrSc complete.
+
+2021-05-09 19:16:49,072 - Current: https://youtu.be/A2TnYAmZDNg 
+2021-05-09 19:16:49,073 - youtube link
+2021-05-09 19:16:49,073 - Scraping for id: A2TnYAmZDNg
+2021-05-09 19:16:49,566 - Youtube Music link.
+2021-05-09 19:16:49,567 - ! Video (https://youtu.be/A2TnYAmZDNg|Your little cat 4) usual forced error.
+2021-05-09 19:16:49,567 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:16:50,845 - Done downloading video.
+2021-05-09 19:16:51,452 - Done downloading audio.
+2021-05-09 19:16:52,407 - Creating download information json.
+2021-05-09 19:16:52,408 - Writing text file.
+2021-05-09 19:16:52,408 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-09 19:16:52,449 - Download for https://youtu.be/A2TnYAmZDNg complete.
+
+2021-05-09 19:16:52,450 - Current: https://www.youtube.com/watch?v=lk2wqYPlLoc 
+2021-05-09 19:16:52,450 - youtube link
+2021-05-09 19:16:52,450 - Scraping for id: lk2wqYPlLoc
+2021-05-09 19:16:52,780 - Youtube Video: https://youtu.be/lk2wqYPlLoc is unavailable
+2021-05-09 19:16:52,781 - list index out of range
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 197, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 173, in download
+    folder_path = Downloader.objects_list[Downloader.current].download_info[0]
+IndexError: list index out of range
+2021-05-09 19:16:52,792 - Current: https://www.youtube.com/watch?v=Iuc7CFE8UaU 
+2021-05-09 19:16:52,793 - youtube link
+2021-05-09 19:16:52,793 - Scraping for id: Iuc7CFE8UaU
+2021-05-09 19:16:53,430 - Youtube Music link.
+2021-05-09 19:16:53,430 - ! Video (https://youtu.be/Iuc7CFE8UaU|Define Light  - Moments [Tasty Release]) usual forced error.
+2021-05-09 19:16:53,431 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 19:16:55,903 - Done downloading video.
+2021-05-09 19:16:56,336 - Done downloading audio.
+2021-05-09 19:16:56,377 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 677, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 95, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-09 19:16:56,390 - Creating download information json.
+2021-05-09 19:16:56,391 - Writing text file.
+2021-05-09 19:16:56,391 - Downloading: Define Light  - Moments [Tasty Release] - Thumbnail.png
+2021-05-09 19:16:56,441 - Download for https://www.youtube.com/watch?v=Iuc7CFE8UaU complete.
+
+2021-05-09 19:26:20,111 - Command:   close
+2021-05-09 19:26:21,982 - Command: close
+2021-05-09 19:26:21,982 - 
+Log Ended.
+Total time: 0 hrs 20 min 46.74 sec
+

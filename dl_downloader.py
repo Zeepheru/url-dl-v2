@@ -215,13 +215,13 @@ def merge_streams(download_object):
     #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
     dl_logger.log_to_file("Adding thumbnail to video file.")
     new_new_video_path = new_video_path.replace("temp_","")
-    #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
-    os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
+    os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
+    #os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
     #Shortened filepaths, chdir'd to the folder to use ffmpeg there seems to fix issues
 
     try:
         os.remove(video_path)
-        os.remove(new_video_path)
+        #os.remove(new_video_path)
     except:
         pass
 

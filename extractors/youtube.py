@@ -102,7 +102,7 @@ def youtube_dl_backup_video(url,folder_path):
             dl_logger.log_info('Done downloading video.')
 
     ydl_opts_video = {
-        'format': 'best',
+        'format': 'bestvideo/best+bestaudio/best', #Remove the best_s if there is an issue 
         'progress_hooks': [my_hook_video],
         'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
     }

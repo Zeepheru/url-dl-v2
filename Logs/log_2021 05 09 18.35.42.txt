@@ -1,0 +1,222 @@
+2021-05-09 18:35:42,354 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-09 18:35:42,354 - Autocommand from settings: run
+2021-05-09 18:35:42,354 - Command: run
+2021-05-09 18:35:42,355 - Current: https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg 
+2021-05-09 18:35:42,355 - youtube link
+2021-05-09 18:35:43,020 - file_cache is only supported with oauth2client<4.0.0
+2021-05-09 18:35:43,164 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU-x-DwjROa7DhQvKvoqj-kg"
+}
+2021-05-09 18:35:43,164 - Upload Playlist: UU-x-DwjROa7DhQvKvoqj-kg
+2021-05-09 18:35:43,273 - Now downloading channel: ForgaLorga
+Video Count: 24
+2021-05-09 18:35:43,273 - Channel has 24 videos downloaded.
+2021-05-09 18:35:43,273 - Scraping for id: 1EkEKvaOuzU
+2021-05-09 18:35:43,915 - Youtube Music link.
+2021-05-09 18:35:43,916 - Scraping for id: A2TnYAmZDNg
+2021-05-09 18:35:44,371 - Youtube Music link.
+2021-05-09 18:35:44,371 - Scraping for id: 2vwv6j3C6L4
+2021-05-09 18:35:44,885 - Youtube Music link.
+2021-05-09 18:35:44,886 - Scraping for id: NkptC1jnG88
+2021-05-09 18:35:45,406 - Youtube Music link.
+2021-05-09 18:35:45,407 - Scraping for id: kGHNHaC0bf4
+2021-05-09 18:35:46,273 - Youtube Music link.
+2021-05-09 18:35:46,273 - Scraping for id: 4ONOBT-4pVk
+2021-05-09 18:35:46,714 - Youtube Music link.
+2021-05-09 18:35:46,715 - Scraping for id: Awe_dHFrHG8
+2021-05-09 18:35:47,155 - Youtube Music link.
+2021-05-09 18:35:47,156 - Scraping for id: V3iYsDJNNlk
+2021-05-09 18:35:47,657 - Youtube Music link.
+2021-05-09 18:35:47,657 - Scraping for id: DjY4pm0UgBA
+2021-05-09 18:35:48,145 - Youtube Music link.
+2021-05-09 18:35:48,146 - Scraping for id: 0tPkpuWEoHI
+2021-05-09 18:35:48,710 - Youtube Music link.
+2021-05-09 18:35:48,710 - Scraping for id: _668Rn8PJvk
+2021-05-09 18:35:49,187 - Youtube Music link.
+2021-05-09 18:35:49,187 - Scraping for id: NNla7ai3GLs
+2021-05-09 18:35:49,704 - Youtube Music link.
+2021-05-09 18:35:49,705 - Scraping for id: i9l8oOngxxw
+2021-05-09 18:35:50,362 - Youtube Music link.
+2021-05-09 18:35:50,362 - Scraping for id: w7X6rLQawE4
+2021-05-09 18:35:50,859 - Youtube Music link.
+2021-05-09 18:35:50,859 - Scraping for id: Yn_srm53wVI
+2021-05-09 18:35:51,548 - Youtube Music link.
+2021-05-09 18:35:51,548 - Scraping for id: ynyZ5F5aQN0
+2021-05-09 18:35:52,043 - Youtube Music link.
+2021-05-09 18:35:52,044 - Scraping for id: YgVyN3J4CiU
+2021-05-09 18:35:52,788 - Youtube Music link.
+2021-05-09 18:35:52,789 - Scraping for id: s0ecUWTPTcE
+2021-05-09 18:35:53,259 - Youtube Music link.
+2021-05-09 18:35:53,260 - Scraping for id: BHdPUT2q2y8
+2021-05-09 18:35:53,734 - Youtube Music link.
+2021-05-09 18:35:53,735 - Scraping for id: Z6IblxRHg_Y
+2021-05-09 18:35:54,238 - Youtube Music link.
+2021-05-09 18:35:54,238 - Scraping for id: lbtF_4KqBZA
+2021-05-09 18:35:54,766 - Youtube Music link.
+2021-05-09 18:35:54,766 - Scraping for id: 972Jpv3D3tk
+2021-05-09 18:35:55,250 - Youtube Music link.
+2021-05-09 18:35:55,251 - Scraping for id: hmWhQg5cZkc
+2021-05-09 18:35:55,725 - Youtube Music link.
+2021-05-09 18:35:55,725 - Scraping for id: QlnB7RChHqs
+2021-05-09 18:35:56,474 - Youtube Music link.
+2021-05-09 18:35:56,475 - ! Video (https://youtu.be/1EkEKvaOuzU|Know Your Castle) usual forced error.
+2021-05-09 18:35:56,475 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:02,022 - Done downloading video.
+2021-05-09 18:36:02,874 - Done downloading audio.
+2021-05-09 18:36:06,533 - ! Video (https://youtu.be/A2TnYAmZDNg|Your little cat 4) usual forced error.
+2021-05-09 18:36:06,533 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:07,969 - Done downloading video.
+2021-05-09 18:36:08,463 - Done downloading audio.
+2021-05-09 18:36:09,437 - ! Video (https://youtu.be/2vwv6j3C6L4|Two Retired Princesses) usual forced error.
+2021-05-09 18:36:09,438 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:11,900 - Done downloading video.
+2021-05-09 18:36:12,749 - Done downloading audio.
+2021-05-09 18:36:16,588 - ! Video (https://youtu.be/NkptC1jnG88|It's Picnic Time) usual forced error.
+2021-05-09 18:36:16,588 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:18,397 - Done downloading video.
+2021-05-09 18:36:19,443 - Done downloading audio.
+2021-05-09 18:36:23,093 - ! Video (https://youtu.be/kGHNHaC0bf4|Princess Twilight Sparkle) usual forced error.
+2021-05-09 18:36:23,094 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:25,288 - Done downloading video.
+2021-05-09 18:36:26,416 - Done downloading audio.
+2021-05-09 18:36:28,542 - ! Video (https://youtu.be/4ONOBT-4pVk|Your little cat 3) usual forced error.
+2021-05-09 18:36:28,542 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:31,131 - Done downloading video.
+2021-05-09 18:36:32,002 - Done downloading audio.
+2021-05-09 18:36:33,408 - ! Video (https://youtu.be/Awe_dHFrHG8|Artifacts of Equestria) usual forced error.
+2021-05-09 18:36:33,409 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:35,415 - Done downloading video.
+2021-05-09 18:36:36,186 - Done downloading audio.
+2021-05-09 18:36:39,455 - ! Video (https://youtu.be/V3iYsDJNNlk|Princess Starlight Glimmer) usual forced error.
+2021-05-09 18:36:39,455 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:41,094 - Done downloading video.
+2021-05-09 18:36:42,241 - Done downloading audio.
+2021-05-09 18:36:45,027 - ! Video (https://youtu.be/DjY4pm0UgBA|Everypony is strange) usual forced error.
+2021-05-09 18:36:45,028 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:36:48,855 - Done downloading video.
+2021-05-09 18:38:36,953 - Done downloading audio.
+2021-05-09 18:38:40,929 - ! Video (https://youtu.be/0tPkpuWEoHI|Pony and Magical Artifact) usual forced error.
+2021-05-09 18:38:40,930 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:38:43,215 - Done downloading video.
+2021-05-09 18:38:43,914 - Done downloading audio.
+2021-05-09 18:38:46,479 - ! Video (https://youtu.be/_668Rn8PJvk|Your little cat 2) usual forced error.
+2021-05-09 18:38:46,480 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:38:48,956 - Done downloading video.
+2021-05-09 18:38:49,968 - Done downloading audio.
+2021-05-09 18:38:51,242 - ! Video (https://youtu.be/NNla7ai3GLs|Best princesses ever) usual forced error.
+2021-05-09 18:38:51,243 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:38:56,808 - Done downloading video.
+2021-05-09 18:38:57,462 - Done downloading audio.
+2021-05-09 18:38:59,309 - ! Video (https://youtu.be/i9l8oOngxxw|Weird Ponyville) usual forced error.
+2021-05-09 18:38:59,309 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:01,185 - Done downloading video.
+2021-05-09 18:39:02,203 - Done downloading audio.
+2021-05-09 18:39:04,037 - ! Video (https://youtu.be/w7X6rLQawE4|Give me your wings) usual forced error.
+2021-05-09 18:39:04,037 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:05,385 - Done downloading video.
+2021-05-09 18:39:06,264 - Done downloading audio.
+2021-05-09 18:39:09,263 - ! Video (https://youtu.be/Yn_srm53wVI|Secrets of the Mane 6) usual forced error.
+2021-05-09 18:39:09,263 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:13,738 - Done downloading video.
+2021-05-09 18:39:14,713 - Done downloading audio.
+2021-05-09 18:39:17,120 - ! Video (https://youtu.be/ynyZ5F5aQN0|Your little cat) usual forced error.
+2021-05-09 18:39:17,120 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:18,234 - Done downloading video.
+2021-05-09 18:39:18,740 - Done downloading audio.
+2021-05-09 18:39:19,837 - ! Video (https://youtu.be/YgVyN3J4CiU|Everyone loves Princess Luna) usual forced error.
+2021-05-09 18:39:19,837 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:21,666 - Done downloading video.
+2021-05-09 18:39:22,249 - Done downloading audio.
+2021-05-09 18:39:24,269 - ! Video (https://youtu.be/s0ecUWTPTcE|Starlight wants your Cutie Mark) usual forced error.
+2021-05-09 18:39:24,269 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:25,409 - Done downloading video.
+2021-05-09 18:39:26,348 - Done downloading audio.
+2021-05-09 18:39:28,365 - ! Video (https://youtu.be/BHdPUT2q2y8|Something about the princesses) usual forced error.
+2021-05-09 18:39:28,365 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:29,775 - Done downloading video.
+2021-05-09 18:39:30,567 - Done downloading audio.
+2021-05-09 18:39:32,856 - ! Video (https://youtu.be/Z6IblxRHg_Y|Your little pets) usual forced error.
+2021-05-09 18:39:32,857 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:34,740 - Done downloading video.
+2021-05-09 18:39:35,276 - Done downloading audio.
+2021-05-09 18:39:36,471 - ! Video (https://youtu.be/lbtF_4KqBZA|Celestia is best princess) usual forced error.
+2021-05-09 18:39:36,472 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:38,265 - Done downloading video.
+2021-05-09 18:39:39,285 - Done downloading audio.
+2021-05-09 18:39:41,260 - ! Video (https://youtu.be/972Jpv3D3tk|Starlight vs Mane 6) usual forced error.
+2021-05-09 18:39:41,260 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:43,834 - Done downloading video.
+2021-05-09 18:39:44,417 - Done downloading audio.
+2021-05-09 18:39:45,701 - ! Video (https://youtu.be/hmWhQg5cZkc|Equestria for Alicorns) usual forced error.
+2021-05-09 18:39:45,701 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:49,001 - Done downloading video.
+2021-05-09 18:39:49,553 - Done downloading audio.
+2021-05-09 18:39:50,542 - ! Video (https://youtu.be/QlnB7RChHqs|Twilight and the strange castle) usual forced error.
+2021-05-09 18:39:50,543 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-09 18:39:53,233 - Done downloading video.
+2021-05-09 18:39:54,039 - Done downloading audio.
+2021-05-09 18:39:55,490 - Creating download information json.
+2021-05-09 18:39:55,491 - Writing text file.
+2021-05-09 18:39:55,491 - Downloading: ForgaLorga - Channel Image.png
+2021-05-09 18:39:55,921 - Writing text file.
+2021-05-09 18:39:55,921 - Downloading: Know Your Castle - Thumbnail.png
+2021-05-09 18:39:55,990 - Writing text file.
+2021-05-09 18:39:55,991 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-09 18:39:56,036 - Writing text file.
+2021-05-09 18:39:56,036 - Downloading: Two Retired Princesses - Thumbnail.png
+2021-05-09 18:39:56,091 - Writing text file.
+2021-05-09 18:39:56,091 - Downloading: It's Picnic Time - Thumbnail.png
+2021-05-09 18:39:56,143 - Writing text file.
+2021-05-09 18:39:56,143 - Downloading: Princess Twilight Sparkle - Thumbnail.png
+2021-05-09 18:39:56,379 - Writing text file.
+2021-05-09 18:39:56,379 - Downloading: Your little cat 3 - Thumbnail.png
+2021-05-09 18:39:56,795 - Writing text file.
+2021-05-09 18:39:56,795 - Downloading: Artifacts of Equestria - Thumbnail.png
+2021-05-09 18:39:56,837 - Writing text file.
+2021-05-09 18:39:56,838 - Downloading: Princess Starlight Glimmer - Thumbnail.png
+2021-05-09 18:39:56,880 - Writing text file.
+2021-05-09 18:39:56,880 - Downloading: Everypony is strange - Thumbnail.png
+2021-05-09 18:39:57,128 - Writing text file.
+2021-05-09 18:39:57,128 - Downloading: Pony and Magical Artifact - Thumbnail.png
+2021-05-09 18:39:57,413 - Writing text file.
+2021-05-09 18:39:57,413 - Downloading: Your little cat 2 - Thumbnail.png
+2021-05-09 18:39:57,844 - Writing text file.
+2021-05-09 18:39:57,844 - Downloading: Best princesses ever - Thumbnail.png
+2021-05-09 18:39:58,318 - Writing text file.
+2021-05-09 18:39:58,319 - Downloading: Weird Ponyville - Thumbnail.png
+2021-05-09 18:39:58,593 - Writing text file.
+2021-05-09 18:39:58,594 - Downloading: Give me your wings - Thumbnail.png
+2021-05-09 18:39:58,922 - Writing text file.
+2021-05-09 18:39:58,923 - Downloading: Secrets of the Mane 6 - Thumbnail.png
+2021-05-09 18:39:59,177 - Writing text file.
+2021-05-09 18:39:59,177 - Downloading: Your little cat - Thumbnail.png
+2021-05-09 18:39:59,221 - Writing text file.
+2021-05-09 18:39:59,221 - Downloading: Everyone loves Princess Luna - Thumbnail.png
+2021-05-09 18:39:59,700 - Writing text file.
+2021-05-09 18:39:59,701 - Downloading: Starlight wants your Cutie Mark - Thumbnail.png
+2021-05-09 18:40:00,096 - Writing text file.
+2021-05-09 18:40:00,096 - Downloading: Something about the princesses - Thumbnail.png
+2021-05-09 18:40:00,143 - Writing text file.
+2021-05-09 18:40:00,143 - Downloading: Your little pets - Thumbnail.png
+2021-05-09 18:40:00,184 - Writing text file.
+2021-05-09 18:40:00,185 - Downloading: Celestia is best princess - Thumbnail.png
+2021-05-09 18:40:00,227 - Writing text file.
+2021-05-09 18:40:00,227 - Downloading: Starlight vs Mane 6 - Thumbnail.png
+2021-05-09 18:40:00,715 - Writing text file.
+2021-05-09 18:40:00,715 - Downloading: Equestria for Alicorns - Thumbnail.png
+2021-05-09 18:40:01,190 - Writing text file.
+2021-05-09 18:40:01,190 - Downloading: Twilight and the strange castle - Thumbnail.png
+2021-05-09 18:40:01,454 - Download for https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg complete.
+
+2021-05-09 18:40:55,282 - Command: close
+2021-05-09 18:40:55,282 - 
+Log Ended.
+Total time: 0 hrs 5 min 12.93 sec
+
