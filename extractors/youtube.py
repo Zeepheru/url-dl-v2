@@ -439,9 +439,13 @@ def extract_video_info(yt_id):
         #print("Parsing json.")
         try:
             test = json.loads(test) #Sometimes errors, best to just reload
-        except Exception as e:
-            dl_logger.log_exception(e)
-            utils.file_write("Error json.txt",test)
+        except:
+            try:
+                test += '}'
+                test = json.loads(test)
+            except Exception as e:
+                dl_logger.log_exception(e)
+                #utils.file_write("Error json.txt",test)
 
         return test
 

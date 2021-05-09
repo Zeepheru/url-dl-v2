@@ -1,0 +1,21 @@
+2021-04-27 22:57:01,325 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-04-27 22:57:01,325 - Autocommand from settings: run
+2021-04-27 22:57:01,325 - Command: run
+2021-04-27 22:57:01,326 - Current: https://www.youtube.com/watch?v=impo-7_Vtg0 
+2021-04-27 22:57:01,326 - youtube link
+2021-04-27 22:57:01,905 - Scraping for id: impo-7_Vtg0
+2021-04-27 22:57:02,631 - Youtube Music link.
+2021-04-27 22:57:02,632 - ! Video (https://youtu.be/impo-7_Vtg0|Unleash the Archers  Awakening) usual forced error.
+2021-04-27 22:57:02,632 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-04-27 22:57:12,078 - Done downloading video.
+2021-04-27 22:57:17,385 - Done downloading audio.
+2021-04-27 22:57:23,141 - Creating download information json.
+2021-04-27 22:57:23,143 - Writing text file.
+2021-04-27 22:57:23,143 - Downloading: Unleash the Archers  Awakening - Thumbnail.png
+2021-04-27 22:57:23,834 - Download for https://www.youtube.com/watch?v=impo-7_Vtg0 complete.
+
