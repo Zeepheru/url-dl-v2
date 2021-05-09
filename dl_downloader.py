@@ -175,10 +175,14 @@ def download(Downloader):
             if os.path.exists(folder_path) != True: 
                 os.mkdir(folder_path)
                 try:
-                    dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(r""+folder_path))
+                    try:
+                        dl_logger.log_to_file(r"Created directory: "+utils.string_escape_path(r""+folder_path))
+                    except:
+                        print(r"Unable to log ----> Created directory: "+utils.
+                        string_escape_path(r""+folder_path))
                 except:
-                    print(r"Unable to log ----> Created directory: "+utils.string_escape_path(r""+folder_path))
-                    
+                    pass # I give up on this
+
     if Downloader.settings["debug"]["export download info"] == True:
         create_download_json(Downloader)
     for download_object in Downloader.objects_list[Downloader.current].download_info:

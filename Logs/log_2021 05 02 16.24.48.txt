@@ -1,0 +1,112 @@
+2021-05-02 16:24:48,603 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-02 16:24:48,604 - Autocommand from settings: run
+2021-05-02 16:24:48,604 - Command: run
+2021-05-02 16:24:48,605 - Current: https://m.youtube.com/playlist?list=PLuUUN65Dt62WoeIRbROGHpMRNgWC-05BC 
+2021-05-02 16:24:48,605 - youtube link
+2021-05-02 16:24:50,183 - file_cache is only supported with oauth2client<4.0.0
+2021-05-02 16:24:50,397 - Scraping for id: i5f7zzkX1Nc
+2021-05-02 16:24:50,955 - Youtube Music link.
+2021-05-02 16:24:50,955 - Scraping for id: U4kvwj_YaWM
+2021-05-02 16:24:51,512 - Youtube Music link.
+2021-05-02 16:24:51,512 - Scraping for id: Z5HGnzQKLBc
+2021-05-02 16:24:52,332 - Youtube Music link.
+2021-05-02 16:24:52,332 - Scraping for id: 7t-9dhgCYW4
+2021-05-02 16:24:52,898 - Youtube Music link.
+2021-05-02 16:24:52,899 - Scraping for id: eRwCBCFuhdg
+2021-05-02 16:24:53,402 - Youtube Music link.
+2021-05-02 16:24:53,403 - Scraping for id: H0nYqhcPty8
+2021-05-02 16:24:54,115 - Youtube Music link.
+2021-05-02 16:24:54,115 - Scraping for id: jE7WcCMTLqA
+2021-05-02 16:24:55,038 - Youtube Music link.
+2021-05-02 16:24:55,039 - Scraping for id: icT4Qek0GU4
+2021-05-02 16:24:55,883 - Youtube Music link.
+2021-05-02 16:24:55,883 - Scraping for id: ECKYfPNbsww
+2021-05-02 16:24:56,688 - Youtube Music link.
+2021-05-02 16:24:56,688 - Scraping for id: SqN4Yuylj8o
+2021-05-02 16:24:57,313 - Youtube Music link.
+2021-05-02 16:24:57,313 - ! Video (https://youtu.be/i5f7zzkX1Nc|My Little Portal Episode 1 (HD)) usual forced error.
+2021-05-02 16:24:57,313 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:25:11,549 - Done downloading video.
+2021-05-02 16:25:12,781 - Done downloading audio.
+2021-05-02 16:25:19,353 - ! Video (https://youtu.be/U4kvwj_YaWM|My Little Portal Episode 2 (HD)) usual forced error.
+2021-05-02 16:25:19,353 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:25:35,206 - Done downloading video.
+2021-05-02 16:25:36,637 - Done downloading audio.
+2021-05-02 16:25:43,380 - ! Video (https://youtu.be/Z5HGnzQKLBc|My Little Portal Episode 3 (HD)) usual forced error.
+2021-05-02 16:25:43,381 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:25:53,276 - Done downloading video.
+2021-05-02 16:25:54,187 - Done downloading audio.
+2021-05-02 16:26:00,415 - ! Video (https://youtu.be/7t-9dhgCYW4|My Little Portal Episode 4 (HD)) usual forced error.
+2021-05-02 16:26:00,415 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:26:08,600 - Done downloading video.
+2021-05-02 16:26:09,789 - Done downloading audio.
+2021-05-02 16:26:18,419 - ! Video (https://youtu.be/eRwCBCFuhdg|My Little Portal Episode 5 (Re-Upload, HD)) usual forced error.
+2021-05-02 16:26:18,419 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:28:25,960 - Done downloading video.
+2021-05-02 16:28:29,494 - Done downloading audio.
+2021-05-02 16:28:58,292 - ! Video (https://youtu.be/H0nYqhcPty8|My Little Portal Episode 6 (HD)) usual forced error.
+2021-05-02 16:28:58,293 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:29:08,502 - Done downloading video.
+2021-05-02 16:29:10,034 - Done downloading audio.
+2021-05-02 16:29:13,374 - ! Video (https://youtu.be/jE7WcCMTLqA|My Little Portal Episode 7 (HD)) usual forced error.
+2021-05-02 16:29:13,374 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:29:40,847 - Done downloading video.
+2021-05-02 16:29:42,433 - Done downloading audio.
+2021-05-02 16:29:52,298 - ! Video (https://youtu.be/icT4Qek0GU4|My Little Portal Episode 8 (HD)) usual forced error.
+2021-05-02 16:29:52,299 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:30:10,548 - Done downloading video.
+2021-05-02 16:30:12,312 - Done downloading audio.
+2021-05-02 16:30:19,344 - ! Video (https://youtu.be/ECKYfPNbsww|My Little Portal Episode 9 (HD)) usual forced error.
+2021-05-02 16:30:19,344 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:30:22,859 - Done downloading video.
+2021-05-02 16:30:24,116 - Done downloading audio.
+2021-05-02 16:30:29,245 - ! Video (https://youtu.be/SqN4Yuylj8o|My Little Portal Episode 10 (HD)) usual forced error.
+2021-05-02 16:30:29,245 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:31:18,268 - Done downloading video.
+2021-05-02 16:31:20,348 - Done downloading audio.
+2021-05-02 16:31:30,980 - Creating download information json.
+2021-05-02 16:31:30,981 - Writing text file.
+2021-05-02 16:31:30,981 - Downloading: My Little Portal Episode 1 (HD) - Thumbnail.png
+2021-05-02 16:31:31,272 - Writing text file.
+2021-05-02 16:31:31,272 - Downloading: My Little Portal Episode 2 (HD) - Thumbnail.png
+2021-05-02 16:31:31,445 - Writing text file.
+2021-05-02 16:31:31,445 - Downloading: My Little Portal Episode 3 (HD) - Thumbnail.png
+2021-05-02 16:31:31,704 - Writing text file.
+2021-05-02 16:31:31,704 - Downloading: My Little Portal Episode 4 (HD) - Thumbnail.png
+2021-05-02 16:31:31,821 - Writing text file.
+2021-05-02 16:31:31,821 - Downloading: My Little Portal Episode 5 (Re-Upload, HD) - Thumbnail.png
+2021-05-02 16:31:32,028 - Writing text file.
+2021-05-02 16:31:32,029 - Downloading: My Little Portal Episode 6 (HD) - Thumbnail.png
+2021-05-02 16:31:32,636 - Writing text file.
+2021-05-02 16:31:32,636 - Downloading: My Little Portal Episode 7 (HD) - Thumbnail.png
+2021-05-02 16:31:32,811 - Writing text file.
+2021-05-02 16:31:32,811 - Downloading: My Little Portal Episode 8 (HD) - Thumbnail.png
+2021-05-02 16:31:33,066 - Writing text file.
+2021-05-02 16:31:33,066 - Downloading: My Little Portal Episode 9 (HD) - Thumbnail.png
+2021-05-02 16:31:33,468 - Writing text file.
+2021-05-02 16:31:33,468 - Downloading: My Little Portal Episode 10 (HD) - Thumbnail.png
+2021-05-02 16:31:33,942 - Download for https://m.youtube.com/playlist?list=PLuUUN65Dt62WoeIRbROGHpMRNgWC-05BC complete.
+
+2021-05-02 16:31:33,944 - Current: https://www.youtube.com/watch?v=yjQ9zpvOa7k 
+2021-05-02 16:31:33,944 - youtube link
+2021-05-02 16:31:33,945 - Scraping for id: yjQ9zpvOa7k
+2021-05-02 16:31:34,938 - Youtube Music link.
+2021-05-02 16:31:34,938 - ! Video (https://youtu.be/yjQ9zpvOa7k|John Kenza - Love (feat. 4EverfreeBrony)) usual forced error.
+2021-05-02 16:31:34,938 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-02 16:31:38,031 - Done downloading video.
+2021-05-02 16:31:38,806 - Done downloading audio.
+2021-05-02 16:31:41,659 - Creating download information json.
+2021-05-02 16:31:41,660 - Writing text file.
+2021-05-02 16:31:41,660 - Downloading: John Kenza - Love (feat. 4EverfreeBrony) - Thumbnail.png
+2021-05-02 16:31:41,864 - Download for https://www.youtube.com/watch?v=yjQ9zpvOa7k complete.
+
+2021-05-02 19:18:57,763 - Command: close
+2021-05-02 19:18:57,763 - 
+Log Ended.
+Total time: 2 hrs 54 min 9.16 sec
+

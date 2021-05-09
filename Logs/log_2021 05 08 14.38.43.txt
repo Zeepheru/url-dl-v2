@@ -1,0 +1,52 @@
+2021-05-08 14:38:43,202 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-08 14:38:43,202 - Autocommand from settings: run
+2021-05-08 14:38:43,202 - Command: run
+2021-05-08 14:38:43,203 - Current: https://www.youtube.com/watch?v=hKUJmA9O6iA 
+2021-05-08 14:38:43,203 - youtube link
+2021-05-08 14:38:45,151 - Scraping for id: hKUJmA9O6iA
+2021-05-08 14:38:45,928 - Youtube Music link.
+2021-05-08 14:38:45,929 - ! Video (https://youtu.be/hKUJmA9O6iA|BLACKPINK -  (AS IF ITS YOUR LAST) DANCE PRACTICE VIDEO) usual forced error.
+2021-05-08 14:38:45,930 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 14:43:27,429 - Done downloading video.
+2021-05-08 14:43:28,462 - Done downloading audio.
+2021-05-08 14:43:30,776 - Creating download information json.
+2021-05-08 14:43:30,778 - Writing text file.
+2021-05-08 14:43:30,778 - Downloading: BLACKPINK -  (AS IF ITS YOUR LAST) DANCE PRACTICE VIDEO - Thumbnail.png
+2021-05-08 14:43:30,859 - Download for https://www.youtube.com/watch?v=hKUJmA9O6iA complete.
+
+2021-05-08 14:43:30,860 - Current: https://youtu.be/Vz9MAmRXhos 
+2021-05-08 14:43:30,860 - youtube link
+2021-05-08 14:43:30,861 - Scraping for id: Vz9MAmRXhos
+2021-05-08 14:43:31,476 - Youtube Music link.
+2021-05-08 14:43:31,477 - ! Video (https://youtu.be/Vz9MAmRXhos|The Complete My Little Pony Friendship is Magic Timeline (2020)) usual forced error.
+2021-05-08 14:43:31,477 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 14:43:43,369 - Done downloading video.
+2021-05-08 14:43:46,372 - Done downloading audio.
+2021-05-08 14:44:07,659 - Creating download information json.
+2021-05-08 14:44:07,661 - Writing text file.
+2021-05-08 14:44:07,661 - Downloading: The Complete My Little Pony Friendship is Magic Timeline (2020) - Thumbnail.png
+2021-05-08 14:44:07,720 - Download for https://youtu.be/Vz9MAmRXhos complete.
+
+2021-05-08 14:44:07,721 - Current: https://youtu.be/RErdSr0iAcs 
+2021-05-08 14:44:07,721 - youtube link
+2021-05-08 14:44:07,722 - Scraping for id: RErdSr0iAcs
+2021-05-08 14:44:08,387 - Youtube Music link.
+2021-05-08 14:44:08,387 - ! Video (https://youtu.be/RErdSr0iAcs|'And I think to myself, what a wonderful world.') usual forced error.
+2021-05-08 14:44:08,388 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 14:44:10,679 - Done downloading video.
+2021-05-08 14:44:11,639 - Done downloading audio.
+2021-05-08 14:44:13,069 - Creating download information json.
+2021-05-08 14:44:13,071 - Writing text file.
+2021-05-08 14:44:13,071 - Downloading: 'And I think to myself, what a wonderful world.' - Thumbnail.png
+2021-05-08 14:44:13,118 - Download for https://youtu.be/RErdSr0iAcs complete.
+
+2021-05-08 14:45:17,602 - Command: close
+2021-05-08 14:45:17,603 - 
+Log Ended.
+Total time: 0 hrs 6 min 34.40 sec
+

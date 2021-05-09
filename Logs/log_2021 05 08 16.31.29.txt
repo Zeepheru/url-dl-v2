@@ -1,0 +1,117 @@
+2021-05-08 16:31:29,574 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-08 16:31:29,574 - Autocommand from settings: run
+2021-05-08 16:31:29,574 - Command: run
+2021-05-08 16:31:29,575 - Current: https://youtu.be/ifv63CC2UHs 
+2021-05-08 16:31:29,575 - youtube link
+2021-05-08 16:31:30,213 - Scraping for id: ifv63CC2UHs
+2021-05-08 16:31:31,300 - Youtube Music link.
+2021-05-08 16:31:31,300 - ! Video (https://youtu.be/ifv63CC2UHs|4everfreebrony - Love (Piano Version)) usual forced error.
+2021-05-08 16:31:31,301 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:31:32,629 - Done downloading video.
+2021-05-08 16:31:33,888 - Done downloading audio.
+2021-05-08 16:31:36,651 - Creating download information json.
+2021-05-08 16:31:36,652 - Writing text file.
+2021-05-08 16:31:36,652 - Downloading: 4everfreebrony - Love (Piano Version) - Thumbnail.png
+2021-05-08 16:31:36,917 - Download for https://youtu.be/ifv63CC2UHs complete.
+
+2021-05-08 16:31:36,918 - Current: https://youtu.be/n5uzGASyDJ0 
+2021-05-08 16:31:36,918 - youtube link
+2021-05-08 16:31:36,919 - Scraping for id: n5uzGASyDJ0
+2021-05-08 16:31:37,805 - Youtube Music link.
+2021-05-08 16:31:37,806 - ! Video (https://youtu.be/n5uzGASyDJ0|Gypsy Bard (Scraton Remix)) usual forced error.
+2021-05-08 16:31:37,806 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:31:44,061 - Done downloading video.
+2021-05-08 16:31:44,892 - Done downloading audio.
+2021-05-08 16:31:48,573 - Creating download information json.
+2021-05-08 16:31:48,574 - Writing text file.
+2021-05-08 16:31:48,574 - Downloading: Gypsy Bard (Scraton Remix) - Thumbnail.png
+2021-05-08 16:31:48,775 - Download for https://youtu.be/n5uzGASyDJ0 complete.
+
+2021-05-08 16:31:48,777 - Current: https://www.youtube.com/watch?v=nolrhgNoo4M 
+2021-05-08 16:31:48,777 - youtube link
+2021-05-08 16:31:48,778 - Scraping for id: nolrhgNoo4M
+2021-05-08 16:31:49,358 - Youtube Music link.
+2021-05-08 16:31:49,359 - ! Video (https://youtu.be/nolrhgNoo4M|MLP Opening but it's drawn by the left hand or something) usual forced error.
+2021-05-08 16:31:49,359 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:31:53,413 - Done downloading video.
+2021-05-08 16:31:54,542 - Done downloading audio.
+2021-05-08 16:31:55,070 - Creating download information json.
+2021-05-08 16:31:55,072 - Writing text file.
+2021-05-08 16:31:55,072 - Downloading: MLP Opening but it's drawn by the left hand or something - Thumbnail.png
+2021-05-08 16:31:55,218 - Download for https://www.youtube.com/watch?v=nolrhgNoo4M complete.
+
+2021-05-08 16:31:55,219 - Current:  https://youtu.be/p1OQlCVRgoE 
+2021-05-08 16:31:55,219 - youtube link
+2021-05-08 16:31:55,220 - Scraping for id: p1OQlCVRgoE
+2021-05-08 16:31:55,902 - Youtube Music link.
+2021-05-08 16:31:55,902 - ! Video (https://youtu.be/p1OQlCVRgoE|Violin Melody - Hope (Nicolas Dominique's Liquid Remix)) usual forced error.
+2021-05-08 16:31:55,903 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:31:58,509 - Done downloading video.
+2021-05-08 16:32:00,849 - Done downloading audio.
+2021-05-08 16:32:03,412 - Creating download information json.
+2021-05-08 16:32:03,413 - Writing text file.
+2021-05-08 16:32:03,413 - Downloading: Violin Melody - Hope (Nicolas Dominique's Liquid Remix) - Thumbnail.png
+2021-05-08 16:32:03,579 - Download for https://youtu.be/p1OQlCVRgoE complete.
+
+2021-05-08 16:32:03,580 - Current: https://youtu.be/Pjw1EtYxZa4 
+2021-05-08 16:32:03,580 - youtube link
+2021-05-08 16:32:03,581 - Scraping for id: Pjw1EtYxZa4
+2021-05-08 16:32:04,099 - Youtube Music link.
+2021-05-08 16:32:04,100 - ! Video (https://youtu.be/Pjw1EtYxZa4|PMV Collab Just the way you are) usual forced error.
+2021-05-08 16:32:04,100 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:32:09,020 - Done downloading video.
+2021-05-08 16:32:09,982 - Done downloading audio.
+2021-05-08 16:32:11,571 - Creating download information json.
+2021-05-08 16:32:11,572 - Writing text file.
+2021-05-08 16:32:11,572 - Downloading: PMV Collab Just the way you are - Thumbnail.png
+2021-05-08 16:32:11,611 - Download for https://youtu.be/Pjw1EtYxZa4 complete.
+
+2021-05-08 16:32:11,613 - Current: https://www.youtube.com/watch?v=lZEHrA0v3AU 
+2021-05-08 16:32:11,613 - youtube link
+2021-05-08 16:32:11,614 - Scraping for id: lZEHrA0v3AU
+2021-05-08 16:32:12,202 - Youtube Music link.
+2021-05-08 16:32:12,202 - ! Video (https://youtu.be/lZEHrA0v3AU|sunshine sunshine ladybugs awake mlp compilation) usual forced error.
+2021-05-08 16:32:12,203 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:32:14,441 - Done downloading video.
+2021-05-08 16:32:15,167 - Done downloading audio.
+2021-05-08 16:32:16,388 - Creating download information json.
+2021-05-08 16:32:16,389 - Writing text file.
+2021-05-08 16:32:16,389 - Downloading: sunshine sunshine ladybugs awake mlp compilation - Thumbnail.png
+2021-05-08 16:32:16,427 - Download for https://www.youtube.com/watch?v=lZEHrA0v3AU complete.
+
+2021-05-08 16:32:16,429 - Current: https://youtu.be/wWzVxoXqrSc 
+2021-05-08 16:32:16,429 - youtube link
+2021-05-08 16:32:16,429 - Scraping for id: wWzVxoXqrSc
+2021-05-08 16:32:17,051 - Youtube Music link.
+2021-05-08 16:32:17,052 - ! Video (https://youtu.be/wWzVxoXqrSc|Spikey Wikey - Hush) usual forced error.
+2021-05-08 16:32:17,052 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:32:19,699 - Done downloading video.
+2021-05-08 16:32:21,470 - Done downloading audio.
+2021-05-08 16:32:24,461 - Creating download information json.
+2021-05-08 16:32:24,462 - Writing text file.
+2021-05-08 16:32:24,462 - Downloading: Spikey Wikey - Hush - Thumbnail.png
+2021-05-08 16:32:24,962 - Download for https://youtu.be/wWzVxoXqrSc complete.
+
+2021-05-08 16:32:24,963 - Current: https://youtu.be/A2TnYAmZDNg 
+2021-05-08 16:32:24,964 - youtube link
+2021-05-08 16:32:24,964 - Scraping for id: A2TnYAmZDNg
+2021-05-08 16:32:25,634 - Youtube Music link.
+2021-05-08 16:32:25,634 - ! Video (https://youtu.be/A2TnYAmZDNg|Your little cat 4) usual forced error.
+2021-05-08 16:32:25,634 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-08 16:32:27,450 - Done downloading video.
+2021-05-08 16:32:28,016 - Done downloading audio.
+2021-05-08 16:32:28,981 - Creating download information json.
+2021-05-08 16:32:28,982 - Writing text file.
+2021-05-08 16:32:28,982 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-08 16:32:29,029 - Download for https://youtu.be/A2TnYAmZDNg complete.
+
+2021-05-08 16:32:41,682 - Command: close
+2021-05-08 16:32:41,682 - 
+Log Ended.
+Total time: 0 hrs 1 min 12.11 sec
+

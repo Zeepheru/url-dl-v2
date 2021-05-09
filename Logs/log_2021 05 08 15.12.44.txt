@@ -1,0 +1,19 @@
+2021-05-08 15:12:44,543 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-08 15:12:44,543 - Autocommand from settings: run
+2021-05-08 15:12:44,543 - Command: run
+2021-05-08 15:12:44,545 - Current: https://www.youtube.com/watch?v=lk2wqYPlLoc 
+2021-05-08 15:12:44,546 - youtube link
+2021-05-08 15:12:45,173 - Scraping for id: lk2wqYPlLoc
+2021-05-08 15:12:45,527 - Youtube Video: https://youtu.be/lk2wqYPlLoc is unavailable
+2021-05-08 15:12:45,528 - list index out of range
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 197, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 173, in download
+    folder_path = Downloader.objects_list[Downloader.current].download_info[0]
+IndexError: list index out of range
