@@ -21,6 +21,24 @@ def load_settings():
     with open("settings.json") as f:
         Downloader.settings = json.load(f)
 
+## New, untested at the moment
+def load_history(outputPath):
+    actualPath = os.path.join(outputPath, "history.json")
+    if not os.isfile(actualPath):
+        Downloader.history = {}
+    else:
+        with open(actualPath) as f:
+            Downloader.history = json.load(f)
+
+def write_history():
+    Downloader.history["updated"] = utils.give_me_the_time_dashed()
+
+    dl_logger.log_info("Writing to history...")
+    actualPath = os.path.join(Downloader.settings["directories"]["output"], "history.json")
+    utils.file_write(actualPath, json.dumps(Downloader.history, indent=4, sort_keys=True))
+
+####
+
 def parse_input():
     global Downloader
     print(
@@ -128,6 +146,11 @@ dl -youtube - downloads youtube links
 
             else:
                 dl_cmd_error = True
+            
+            ##writing to hist
+            write_history()
+
+
         #Appending links with a manual link add?
 
 def parse_file(Downloader): #if run - is initialized
@@ -198,6 +221,8 @@ def parse_file(Downloader): #if run - is initialized
                 dl_logger.log_info("Download for {} complete.\n".format(dl_object_string.replace(" ","")))
                 print("\n")
 
+                write_history()
+
         except (IOError,NameError,Exception) as e:
             dl_logger.log_exception(e)
 
@@ -237,6 +262,7 @@ if __name__ == "__main__":
     Downloader = dl.RunInfo()
     load_settings()
     dl_logger.init_logger(Downloader.settings["directories"]["main"])
+    load_history(Downloader.settings["directories"]["output"])
     try:
         parse_input()
             

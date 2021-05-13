@@ -101,6 +101,9 @@ def youtube_dl_backup_video(url,folder_path):
         if d['status'] == 'finished':
             dl_logger.log_info('Done downloading video.')
 
+
+
+    ## APPARENTLY VERY BROKEN -- NEED TO FIX THE GODDAMM VIDEOS, maybe even have to merge them myself. SIGH
     ydl_opts_video = {
         'format': 'bestvideo/best+bestaudio/best', #Remove the best_s if there is an issue 
         'progress_hooks': [my_hook_video],
@@ -109,12 +112,78 @@ def youtube_dl_backup_video(url,folder_path):
     with youtube_dl.YoutubeDL(ydl_opts_video) as ydl:
         ydl.download([url])
 
+#HISTORY
+class ytHistory():
+    # currently only for channels, as those matter lol
+    def __init__(self, Downloader): #also not sure if downloader class continues to reupdate after changes
+        if "youtube" in Downloader.history:
+            self.history = Downloader.history["youtube"]
+        else:
+            self.history = {}
+
+        dicts_in_hist = ["channels","videos","playlists"]
+        for a in dicts_in_hist:
+            if a not in self.history:
+                self.history[a] = []
+
+        setDownloaderHist(Downloader)
+    
+    def setDownloaderHist(self, Downloader): #in case, and for when the hist is not there in the first place
+        Downloader.history["youtube"] = self.history
+
+    def checkChannel(self, channel_Id, video_list):
+        # returns a list of the undownloaded videos
+        
+        if channel_Id in history["channels"]:
+            downloaded_video_list = history["channels"][channel_Id]["videos"]
+
+            #removes duplicates from video_list
+            for v in video_list:
+                if v in downloaded_video_list:
+                    video_list.remove(v)
+            return video_list
+                
+        else:
+            return video_list
+        
+    ## adding the channel dict to the main hist dict
+    def addToChannel(self, channel_ID, video_list): 
+
+        channel_dict_mem = self.history[channel_ID]
+
+        current_vids = channel_dict_mem["videos"]
+        nomore_videos = []
+        for v in current_vids:
+            if v not in video_list:
+                nomore_videos.append(v)
+
+        channel_dict = {
+            "date": utils.give_me_the_time_dashed(),
+            "videos": video_list,
+            "unavailable": nomore_videos
+        }
+
+        channel_dict_mem = channel_dict
+
+        ## adding length to channel dict
+        if "unavailable" not in channel_dict_mem: #idk if this is needed lol
+            channel_dict_mem["length"] = len(channel_dict_mem["videos"])
+        else:
+            channel_dict_mem["length"] = len(channel_dict_mem["videos"] + channel_dict_mem["unavailable"])
+
+        setDownloaderHist()
+
+
 def youtube_extractor(Downloader):
-    global dl_object
-    dl_object = Downloader.objects_list[Downloader.current] ########MIGTH BE THIS END LIKLE WTF
+    global dl_object, dl_history
+    dl_object = Downloader.objects_list[Downloader.current]
     dl_object.site = "youtube"
     data = dl_object.data
     data["sub_objects"] = []
+
+    #sets up the hist class for its methods - easier for me to keep track honestly 
+    dl_history = ytHistory(Downloader)
+
     def check_type(url):
         def set_youtube_type(a):
             data["type"] = a #May change type
@@ -132,6 +201,8 @@ def youtube_extractor(Downloader):
             set_youtube_type("playlist")
         else:
             set_youtube_type("video")
+
+
 
     def extract_video_id(url):
         if len(url) == 11:
@@ -230,7 +301,6 @@ def youtube_extractor(Downloader):
         for a in extracted:
             data["sub_objects"].append({"id":a})
 
-        del extracted, playlist_name
 
         #print(data["sub_objects"]) #TEMP.
 
@@ -242,13 +312,16 @@ def youtube_extractor(Downloader):
             print(data["url"])
         else:
             channel_url = "I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME"
+
+        #channel id reegex
+        channel_Id = re.search(r'(?<=channel/).*?$|(?<=c/).*?$', data["url"]).group()
         
         ##API code baby
         youtube_api = get_youtube_api(Downloader)
 
         request = youtube_api.channels().list(
             part='id,contentDetails,snippet,statistics',
-            id= re.search(r'(?<=channel/).*?$|(?<=c/).*?$', data["url"]).group()
+            id=channel_Id
         )
         response = request.execute()
 
@@ -262,8 +335,6 @@ def youtube_extractor(Downloader):
             if thumbnails[thumb]["height"] == largest_thumb:
                 thumbnail_url = thumbnails[thumb]["url"]
             
-        del largest_thumb, thumbnails
-
         uploads = response_items["contentDetails"]["relatedPlaylists"]["uploads"]
         dl_logger.log_to_file(utils.dump_json(response_items["contentDetails"]["relatedPlaylists"]))
         dl_logger.log_info("Upload Playlist: {}".format(uploads))
@@ -298,7 +369,11 @@ def youtube_extractor(Downloader):
             list_of_ids.append(a)
             id_string += (a + "\n")
 
-        del extracted, playlist_name
+        ## HISTORY STUFF -- UNTESTED UNTESTED
+        if not Downloader.settings["debug"]["redownload"]: #checks then
+            list_of_ids = dl_history.checkChannel(channel_Id, list_of_ids)
+        #writes to hist, not checking whether the dl is successful lol
+        dl_history.addToChannel(channel_ID, list_of_ids)
 
         #print(data["sub_objects"])
         dl_logger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
@@ -307,6 +382,7 @@ def youtube_extractor(Downloader):
 
         channel_info_string = """Channel: {channel_name}
 Channel URL: {url}
+Channel ID: {channel_id}
 Country: {nat}
 Channel Created: {channel_creation}
 
@@ -330,10 +406,11 @@ Downloaded IDs:
     view_count = view_count,
     video_count = video_count,
     url = channel_url,
+    channel_id = channel_Id,
     desc = description,
     ids = id_string,
 
-    time = utils.give_me_the_time()
+    time = utils.give_me_the_time_dashed()
 )
 
         #print(channel_info_string)

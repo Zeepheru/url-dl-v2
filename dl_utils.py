@@ -27,6 +27,9 @@ def apostrophe(text): #For  all string issues
 def give_me_the_time():
     return time.strftime("%Y %m %d %H.%M.%S")
 
+def give_me_the_time_dashed():
+    return time.strftime("%Y-%m-%d %H.%M.%S")
+
 def print_json(data):
     print(json.dumps(data, indent=4, sort_keys=True))
 
