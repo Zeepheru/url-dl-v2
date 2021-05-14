@@ -126,7 +126,7 @@ class ytHistory():
             if a not in self.history:
                 self.history[a] = []
 
-        setDownloaderHist(Downloader)
+        self.setDownloaderHist(Downloader)
     
     def setDownloaderHist(self, Downloader): #in case, and for when the hist is not there in the first place
         Downloader.history["youtube"] = self.history
@@ -134,8 +134,8 @@ class ytHistory():
     def checkChannel(self, channel_Id, video_list):
         # returns a list of the undownloaded videos
         
-        if channel_Id in history["channels"]:
-            downloaded_video_list = history["channels"][channel_Id]["videos"]
+        if channel_Id in self.history["channels"]:
+            downloaded_video_list = self.history["channels"][channel_Id]["videos"]
 
             #removes duplicates from video_list
             for v in video_list:
@@ -171,7 +171,7 @@ class ytHistory():
         else:
             channel_dict_mem["length"] = len(channel_dict_mem["videos"] + channel_dict_mem["unavailable"])
 
-        setDownloaderHist()
+        self.setDownloaderHist()
 
 
 def youtube_extractor(Downloader):
@@ -373,7 +373,7 @@ def youtube_extractor(Downloader):
         if not Downloader.settings["debug"]["redownload"]: #checks then
             list_of_ids = dl_history.checkChannel(channel_Id, list_of_ids)
         #writes to hist, not checking whether the dl is successful lol
-        dl_history.addToChannel(channel_ID, list_of_ids)
+        dl_history.addToChannel(channel_Id, list_of_ids)
 
         #print(data["sub_objects"])
         dl_logger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))

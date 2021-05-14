@@ -255,7 +255,7 @@ def create_settings(): #template for file
     settings["debug"]["download"] = True
     settings["debug"]["foo"] = "bar"
 
-    file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
+    utils.file_write("settings.json",json.dumps(settings, indent=4, sort_keys=True))
 
 if __name__ == "__main__":
     global Downloader

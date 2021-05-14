@@ -41,7 +41,7 @@ def source_code(link): #may change
     if response.status_code == 200:
         pass
     else:
-        local.log(response.status_code)
+        print(response.status_code)
     text = response.content
     #esp the unicode part - maybe change completely, edit it afterwards - may compare to bs4's implementations
     text = text.decode()
