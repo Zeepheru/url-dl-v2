@@ -85,7 +85,7 @@ def create_download_json(Downloader):
     dl_logger.log_to_file("Creating download information json.")
     if current.site == "Youtube":
         if current.data["type"] == "channel":
-            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
+            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group()) #data undefined????
 
         elif current.data["type"] == "playlist":
             filename = "{}_playlist_{}_{}.json".format(current.site, data["playlist name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
@@ -194,6 +194,7 @@ def merge_streams(download_object):
     folder_path = re.search(utils.parent_dir_regex,download_object["path"]).group()
     os.chdir(folder_path)
     video_path, audio_path, thumbnail = download_object["filename"], download_object["merge audio"], download_object["thumbnail"]
+    # everything above here is usually sane when a manual download is done.
     
     new_video_path = video_path.replace("video_","temp_")
     if new_video_path[-4:] == 'webm':
@@ -204,18 +205,21 @@ def merge_streams(download_object):
     try:
         input_video = ffmpeg.input(video_path)
         input_audio = ffmpeg.input(audio_path)
-        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() 
+        #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+
     except:
         #print("BACKUP1")
         #Backup if needed, unused on laptop as well
         os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
+
     #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
     
 
     #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
     dl_logger.log_to_file("Adding thumbnail to video file.")
     new_new_video_path = new_video_path.replace("temp_","")
-    os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
+    os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"') #WUT?
     #os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
     #Shortened filepaths, chdir'd to the folder to use ffmpeg there seems to fix issues
 
