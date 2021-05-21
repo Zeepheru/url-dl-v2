@@ -24,7 +24,7 @@ def load_settings():
 ## New, untested at the moment
 def load_history(outputPath):
     actualPath = os.path.join(outputPath, "history.json")
-    if not os.isfile(actualPath):
+    if not os.path.exists(actualPath):
         Downloader.history = {}
     else:
         with open(actualPath) as f:
@@ -36,6 +36,7 @@ def write_history():
     dl_logger.log_info("Writing to history...")
     actualPath = os.path.join(Downloader.settings["directories"]["output"], "history.json")
     utils.file_write(actualPath, json.dumps(Downloader.history, indent=4, sort_keys=True))
+    dl_logger.log_info("Done.")
 
 ####
 

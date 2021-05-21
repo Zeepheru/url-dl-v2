@@ -75,8 +75,10 @@ def get_youtube_api(Downloader):
         
 
 def youtube_dl_backup_audio(url,folder_path):
+    # NOW WITH MERGING AND METADATA CODE
+    aud_path = os.path.join(folder_path,'tmpaudio_%(title)s.%(ext)s')
+    # - wont fix this for now, maybe audio is still fine - but still I prefer mp3s over webms for no particular reason
 
-    #audio
     def my_hook_audio(d):
         if d['status'] == 'finished':
             dl_logger.log_info('Done downloading audio.')
@@ -89,28 +91,32 @@ def youtube_dl_backup_audio(url,folder_path):
             'preferredquality': '320',
         }],
         'progress_hooks': [my_hook_audio],
-        'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
+        'outtmpl':aud_path 
     }
     with youtube_dl.YoutubeDL(ydl_opts_audio) as ydl:
         ydl.download([url])
 
+    return folder_path
+
 def youtube_dl_backup_video(url,folder_path):
+    # NOW WITH MERGING AND METADATA CODE
+    vid_path = os.path.join(folder_path,'tmpvideo_%(title)s.%(ext)s')
 
     #video
     def my_hook_video(d):
         if d['status'] == 'finished':
             dl_logger.log_info('Done downloading video.')
 
-
-
     ## APPARENTLY VERY BROKEN -- NEED TO FIX THE GODDAMM VIDEOS, maybe even have to merge them myself. SIGH
     ydl_opts_video = {
         'format': 'bestvideo/best+bestaudio/best', #Remove the best_s if there is an issue 
         'progress_hooks': [my_hook_video],
-        'outtmpl':os.path.join(folder_path,'%(title)s.%(ext)s')
+        'outtmpl':vid_path
     }
     with youtube_dl.YoutubeDL(ydl_opts_video) as ydl:
         ydl.download([url])
+
+    return folder_path
 
 #HISTORY
 class ytHistory():
@@ -711,7 +717,7 @@ Streams downloaded: {}, {}
             "merge audio": None
         })
 
-        video_stream["url"], audio_stream["url"] ="","" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
+        video_stream["url"], audio_stream["url"] ="http_mergeonly","http_mergeonly" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
         #audio file
         if audio_stream["url"].startswith("http") == True:
             audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
@@ -747,13 +753,14 @@ Streams downloaded: {}, {}
                     "year":re.search(utils.year_regex,video_info["publish date"]).group()
                 }
             })
-        else:
-            pass #happens for both so yea
+            
+        if video_stream["url"] == "http_mergeonly": #forcing this to happen the new way
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
             if Downloader.settings["debug"]["download"] == True:
                 try:
                     dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
                     youtube_dl_backup_video(video_info["url"],root_download_dir)
+
                     if video_info["music url"] != False:
                         youtube_dl_backup_audio(video_info["music url"],root_download_dir)
                     else:

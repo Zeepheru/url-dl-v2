@@ -1,0 +1,14 @@
+2021-05-21 23:40:32,010 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-21 23:40:32,010 - Autocommand from settings: run
+2021-05-21 23:40:32,011 - Command: run
+2021-05-21 23:40:32,012 - Current: https://youtu.be/2LT3Y8A1kMw 
+2021-05-21 23:40:32,012 - youtube link
+2021-05-21 23:40:33,257 - Scraping for id: 2LT3Y8A1kMw
+2021-05-21 23:40:34,076 - Youtube Music link.
+2021-05-21 23:40:34,077 - ! Video (https://youtu.be/2LT3Y8A1kMw|MusicBONNIE) usual forced error.
+2021-05-21 23:40:34,077 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
