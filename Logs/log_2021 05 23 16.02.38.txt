@@ -1,0 +1,288 @@
+2021-05-23 16:02:38,223 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 16:02:38,223 - Autocommand from settings: run
+2021-05-23 16:02:38,223 - Command: run
+2021-05-23 16:02:38,224 - Current: https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww 
+2021-05-23 16:02:38,224 - youtube link
+2021-05-23 16:02:39,073 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 16:02:39,124 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU471V820Y6Zqu3N8u4wefww"
+}
+2021-05-23 16:02:39,124 - Upload Playlist: UU471V820Y6Zqu3N8u4wefww
+2021-05-23 16:02:39,320 - Now downloading channel: John Kenza
+Video Count: 130
+2021-05-23 16:02:39,320 - Channel has 130 videos downloaded.
+2021-05-23 16:02:39,320 - Scraping for id: quOai1Jsxec
+2021-05-23 16:02:40,612 - Youtube Music link.
+2021-05-23 16:02:40,612 - Scraping for id: FvyXeKic_9k
+2021-05-23 16:02:41,381 - Youtube Music link.
+2021-05-23 16:02:41,381 - Scraping for id: tj0J9ZGHKO8
+2021-05-23 16:02:42,184 - Youtube Music link.
+2021-05-23 16:02:42,184 - Scraping for id: ckqMernq3vg
+2021-05-23 16:02:42,958 - Youtube Music link.
+2021-05-23 16:02:42,958 - Scraping for id: A_qbWflVtG4
+2021-05-23 16:02:43,731 - Youtube Music link.
+2021-05-23 16:02:43,732 - Scraping for id: 3FpPH5pURIw
+2021-05-23 16:02:44,308 - Youtube Music link.
+2021-05-23 16:02:44,309 - Scraping for id: LiTAzH1YjP8
+2021-05-23 16:02:44,968 - Youtube Music link.
+2021-05-23 16:02:44,968 - Scraping for id: DE0CAlM5eFw
+2021-05-23 16:02:45,846 - Youtube Music link.
+2021-05-23 16:02:45,847 - Scraping for id: 5FA_I2isKPk
+2021-05-23 16:02:46,832 - Youtube Music link.
+2021-05-23 16:02:46,833 - Scraping for id: fANwLNPhgSk
+2021-05-23 16:02:47,558 - Youtube Music link.
+2021-05-23 16:02:47,559 - Scraping for id: ol8aszmWMBA
+2021-05-23 16:02:48,310 - Youtube Music link.
+2021-05-23 16:02:48,311 - Scraping for id: fQBjy5Y7qcM
+2021-05-23 16:02:49,103 - Youtube Music link.
+2021-05-23 16:02:49,104 - Scraping for id: H7QrqdA0zDQ
+2021-05-23 16:02:49,684 - Youtube Music link.
+2021-05-23 16:02:49,685 - Scraping for id: w0NIb8SoCLA
+2021-05-23 16:02:50,563 - Youtube Music link.
+2021-05-23 16:02:50,564 - Scraping for id: cQxIwp1OKL0
+2021-05-23 16:02:51,335 - Youtube Music link.
+2021-05-23 16:02:51,336 - Scraping for id: wDSOz2GOjhs
+2021-05-23 16:02:52,023 - Youtube Music link.
+2021-05-23 16:02:52,023 - Scraping for id: ZaCOiUya2Bs
+2021-05-23 16:02:52,839 - Youtube Music link.
+2021-05-23 16:02:52,839 - Scraping for id: JD_WTrb9Fjg
+2021-05-23 16:02:53,694 - Youtube Music link.
+2021-05-23 16:02:53,694 - Scraping for id: n8Rv4fN4xq0
+2021-05-23 16:02:54,790 - Youtube Music link.
+2021-05-23 16:02:54,791 - Scraping for id: 62Y6J4QMacQ
+2021-05-23 16:02:55,644 - Youtube Music link.
+2021-05-23 16:02:55,645 - Scraping for id: ATd3JqA0H1A
+2021-05-23 16:02:56,276 - Youtube Music link.
+2021-05-23 16:02:56,277 - Scraping for id: OsXHmAO12DE
+2021-05-23 16:02:57,026 - Youtube Music link.
+2021-05-23 16:02:57,026 - Scraping for id: RWoGjKMmbIo
+2021-05-23 16:02:57,874 - Youtube Music link.
+2021-05-23 16:02:57,874 - Scraping for id: rs4eZF7QXFQ
+2021-05-23 16:02:58,740 - Youtube Music link.
+2021-05-23 16:02:58,740 - Scraping for id: aWgJIQr2o60
+2021-05-23 16:02:59,595 - Youtube Music link.
+2021-05-23 16:02:59,595 - Scraping for id: 5E3wO_sDZjU
+2021-05-23 16:03:00,297 - Youtube Music link.
+2021-05-23 16:03:00,297 - Scraping for id: JMq_duMcVcc
+2021-05-23 16:03:01,219 - Youtube Music link.
+2021-05-23 16:03:01,219 - Scraping for id: tF4HewRW7PQ
+2021-05-23 16:03:02,089 - Youtube Music link.
+2021-05-23 16:03:02,089 - Scraping for id: QRHZTKKlXZE
+2021-05-23 16:03:02,592 - Youtube Music link.
+2021-05-23 16:03:02,593 - Scraping for id: -tJc31gItj8
+2021-05-23 16:03:03,202 - Youtube Music link.
+2021-05-23 16:03:03,203 - Scraping for id: BHTq2-B2B3I
+2021-05-23 16:03:04,050 - Youtube Music link.
+2021-05-23 16:03:04,050 - Scraping for id: _WV9QQ4evW4
+2021-05-23 16:03:04,820 - Youtube Music link.
+2021-05-23 16:03:04,821 - Scraping for id: Ehbx-knkjyQ
+2021-05-23 16:03:05,854 - Youtube Music link.
+2021-05-23 16:03:05,854 - Scraping for id: MGn0c_QGdPA
+2021-05-23 16:03:06,740 - Youtube Music link.
+2021-05-23 16:03:06,740 - Scraping for id: 159Cumao7-Q
+2021-05-23 16:03:07,508 - Youtube Music link.
+2021-05-23 16:03:07,509 - Scraping for id: i56cz-sbWq0
+2021-05-23 16:03:08,168 - Youtube Music link.
+2021-05-23 16:03:08,169 - Scraping for id: sPBq1VP17B8
+2021-05-23 16:03:09,067 - Youtube Music link.
+2021-05-23 16:03:09,067 - Scraping for id: k8UdMHHpthI
+2021-05-23 16:03:09,847 - Youtube Music link.
+2021-05-23 16:03:09,847 - Scraping for id: jDaitClPGrs
+2021-05-23 16:03:10,748 - Youtube Music link.
+2021-05-23 16:03:10,748 - Scraping for id: x3qNsneopSk
+2021-05-23 16:03:11,598 - Youtube Music link.
+2021-05-23 16:03:11,598 - Scraping for id: ko0fT6CEWag
+2021-05-23 16:03:12,560 - Youtube Music link.
+2021-05-23 16:03:12,561 - Scraping for id: yjQ9zpvOa7k
+2021-05-23 16:03:13,365 - Youtube Music link.
+2021-05-23 16:03:13,365 - Scraping for id: j1tTYrcJgjM
+2021-05-23 16:03:14,415 - Youtube Music link.
+2021-05-23 16:03:14,415 - Scraping for id: VQLtdKJJiSM
+2021-05-23 16:03:15,155 - Youtube Music link.
+2021-05-23 16:03:15,156 - Scraping for id: T-jhHnXLA3U
+2021-05-23 16:03:16,008 - Youtube Music link.
+2021-05-23 16:03:16,008 - Scraping for id: a5hwsRo-Cn8
+2021-05-23 16:03:16,744 - Youtube Music link.
+2021-05-23 16:03:16,745 - Scraping for id: kZnIpICYMfg
+2021-05-23 16:03:17,605 - Youtube Music link.
+2021-05-23 16:03:17,605 - Scraping for id: hVvUmJHh3ls
+2021-05-23 16:03:18,255 - Youtube Music link.
+2021-05-23 16:03:18,255 - Scraping for id: zelzKMLFlJU
+2021-05-23 16:03:19,182 - Youtube Music link.
+2021-05-23 16:03:19,182 - Scraping for id: LKBkNTiqwAc
+2021-05-23 16:03:20,190 - Youtube Music link.
+2021-05-23 16:03:20,191 - Scraping for id: IbkErCjV_cw
+2021-05-23 16:03:21,206 - Youtube Music link.
+2021-05-23 16:03:21,206 - Scraping for id: bmf63oUV2Ik
+2021-05-23 16:03:22,133 - Youtube Music link.
+2021-05-23 16:03:22,133 - Scraping for id: Il3G_wq7z8I
+2021-05-23 16:03:22,975 - Youtube Music link.
+2021-05-23 16:03:22,976 - Scraping for id: Dcj39NZ-73g
+2021-05-23 16:03:23,987 - Youtube Music link.
+2021-05-23 16:03:23,988 - Scraping for id: tZpxR8iM19s
+2021-05-23 16:03:24,897 - Youtube Music link.
+2021-05-23 16:03:24,898 - Scraping for id: 0A1oOAF2TtA
+2021-05-23 16:03:25,606 - Youtube Music link.
+2021-05-23 16:03:25,606 - Scraping for id: sgu0iTaWknE
+2021-05-23 16:03:26,274 - Youtube Music link.
+2021-05-23 16:03:26,275 - Scraping for id: hm2SoRiGJN8
+2021-05-23 16:03:27,211 - Youtube Music link.
+2021-05-23 16:03:27,212 - Scraping for id: Tfa_uMpvF-A
+2021-05-23 16:03:28,162 - Youtube Music link.
+2021-05-23 16:03:28,162 - Scraping for id: t9cHbQaxLI0
+2021-05-23 16:03:29,085 - Youtube Music link.
+2021-05-23 16:03:29,085 - Scraping for id: OqB-GYXIWOs
+2021-05-23 16:03:29,748 - Youtube Music link.
+2021-05-23 16:03:29,748 - Scraping for id: Bby0aBNPxlY
+2021-05-23 16:03:30,696 - Youtube Music link.
+2021-05-23 16:03:30,696 - Scraping for id: H4w0ZDECYZY
+2021-05-23 16:03:31,371 - Youtube Music link.
+2021-05-23 16:03:31,371 - Scraping for id: 0xAf6aIpO7A
+2021-05-23 16:03:32,089 - Youtube Music link.
+2021-05-23 16:03:32,089 - Scraping for id: gFfyRDui38k
+2021-05-23 16:03:32,628 - Youtube Music link.
+2021-05-23 16:03:32,628 - Scraping for id: q8-cpCR2A8Y
+2021-05-23 16:03:33,270 - Youtube Music link.
+2021-05-23 16:03:33,271 - Scraping for id: 9gMu5-DMvK0
+2021-05-23 16:03:34,026 - Youtube Music link.
+2021-05-23 16:03:34,026 - Scraping for id: BmaBtc8KD18
+2021-05-23 16:03:34,912 - Youtube Music link.
+2021-05-23 16:03:34,912 - Scraping for id: Q4Y9UI4Az38
+2021-05-23 16:03:35,885 - Youtube Music link.
+2021-05-23 16:03:35,885 - Scraping for id: g37i3WDG7TU
+2021-05-23 16:03:36,792 - Youtube Music link.
+2021-05-23 16:03:36,793 - Scraping for id: wOvzvuIrCg0
+2021-05-23 16:03:37,849 - Youtube Music link.
+2021-05-23 16:03:37,850 - Scraping for id: o0Q-yPVbYqA
+2021-05-23 16:03:38,646 - Youtube Music link.
+2021-05-23 16:03:38,647 - Scraping for id: XAh_PIseiCA
+2021-05-23 16:03:39,683 - Youtube Music link.
+2021-05-23 16:03:39,683 - Scraping for id: uTaFileejTY
+2021-05-23 16:03:40,679 - Youtube Music link.
+2021-05-23 16:03:40,679 - Scraping for id: lloKQIGn7ds
+2021-05-23 16:03:41,408 - Youtube Music link.
+2021-05-23 16:03:41,409 - Scraping for id: zBRH7ZTPe5Q
+2021-05-23 16:03:42,302 - Youtube Music link.
+2021-05-23 16:03:42,302 - Scraping for id: PW3W8AU79Tw
+2021-05-23 16:03:43,213 - Youtube Music link.
+2021-05-23 16:03:43,213 - Scraping for id: fc7-Oib8iu4
+2021-05-23 16:03:44,319 - Youtube Music link.
+2021-05-23 16:03:44,320 - Scraping for id: sOpHUfs_vfE
+2021-05-23 16:03:45,109 - Youtube Music link.
+2021-05-23 16:03:45,109 - Scraping for id: -XjN1XddB-s
+2021-05-23 16:03:46,322 - Youtube Music link.
+2021-05-23 16:03:46,323 - Scraping for id: NMZ5ZlvkdM0
+2021-05-23 16:03:47,305 - Youtube Music link.
+2021-05-23 16:03:47,305 - Scraping for id: qtIrnPeybLU
+2021-05-23 16:03:47,941 - Youtube Music link.
+2021-05-23 16:03:47,941 - Scraping for id: KkD5WTm4nG4
+2021-05-23 16:03:48,751 - Youtube Music link.
+2021-05-23 16:03:48,751 - Scraping for id: 8Dj89sMtAsQ
+2021-05-23 16:03:49,554 - Youtube Music link.
+2021-05-23 16:03:49,554 - Scraping for id: 8VN-eXcgdk8
+2021-05-23 16:03:50,265 - Youtube Music link.
+2021-05-23 16:03:50,265 - Scraping for id: h_SxM0cJAGE
+2021-05-23 16:03:51,256 - Youtube Music link.
+2021-05-23 16:03:51,256 - Scraping for id: -nWhgra9H70
+2021-05-23 16:03:52,039 - Youtube Music link.
+2021-05-23 16:03:52,039 - Scraping for id: ZXeYlDQq47A
+2021-05-23 16:03:53,087 - Youtube Music link.
+2021-05-23 16:03:53,087 - Scraping for id: SKpre3KjN20
+2021-05-23 16:03:53,869 - Youtube Music link.
+2021-05-23 16:03:53,870 - Scraping for id: w8Gk8cJFQgY
+2021-05-23 16:03:54,802 - Youtube Music link.
+2021-05-23 16:03:54,802 - Scraping for id: B8__eKtt2jg
+2021-05-23 16:03:55,729 - Youtube Music link.
+2021-05-23 16:03:55,729 - Scraping for id: 3wxHG2E_Wo8
+2021-05-23 16:03:56,652 - Youtube Music link.
+2021-05-23 16:03:56,652 - Scraping for id: DYcWoWM4Pi4
+2021-05-23 16:03:57,664 - Youtube Music link.
+2021-05-23 16:03:57,665 - Scraping for id: nh_i9QhTbH8
+2021-05-23 16:03:58,440 - Youtube Music link.
+2021-05-23 16:03:58,440 - Scraping for id: 4-cLqGxjIU8
+2021-05-23 16:03:59,467 - Youtube Music link.
+2021-05-23 16:03:59,468 - Scraping for id: I-hGQd8cLAI
+2021-05-23 16:04:00,353 - Youtube Music link.
+2021-05-23 16:04:00,353 - Scraping for id: oLFjH-vMR8c
+2021-05-23 16:04:01,310 - Youtube Music link.
+2021-05-23 16:04:01,310 - Scraping for id: jxmQbAXccuw
+2021-05-23 16:04:02,126 - Youtube Music link.
+2021-05-23 16:04:02,126 - Scraping for id: olhOWI8zoyA
+2021-05-23 16:04:02,902 - Youtube Music link.
+2021-05-23 16:04:02,903 - Scraping for id: n7yBn8YAtp4
+2021-05-23 16:04:03,968 - Youtube Music link.
+2021-05-23 16:04:03,968 - Scraping for id: ciTyoyEe8AU
+2021-05-23 16:04:04,854 - Youtube Music link.
+2021-05-23 16:04:04,854 - Scraping for id: A75vKPjQSxM
+2021-05-23 16:04:05,710 - Youtube Music link.
+2021-05-23 16:04:05,710 - Scraping for id: SincTlN-VjA
+2021-05-23 16:04:06,325 - Youtube Music link.
+2021-05-23 16:04:06,326 - Scraping for id: 3lAYr5O94Qo
+2021-05-23 16:04:07,193 - Youtube Music link.
+2021-05-23 16:04:07,194 - Scraping for id: 1RvfshRJXho
+2021-05-23 16:04:07,825 - Youtube Music link.
+2021-05-23 16:04:07,826 - Scraping for id: 58skmnPum7o
+2021-05-23 16:04:08,602 - Youtube Music link.
+2021-05-23 16:04:08,603 - Scraping for id: ELPdU_nhh4Y
+2021-05-23 16:04:09,560 - Youtube Music link.
+2021-05-23 16:04:09,560 - Scraping for id: a4v_4TF506A
+2021-05-23 16:04:11,343 - Youtube Music link.
+2021-05-23 16:04:11,344 - Scraping for id: lD3ctXaIcb4
+2021-05-23 16:04:12,187 - Youtube Music link.
+2021-05-23 16:04:12,188 - Scraping for id: 3NtxO2gR7B8
+2021-05-23 16:04:12,826 - Youtube Music link.
+2021-05-23 16:04:12,826 - Scraping for id: 7rqwRVdqB6c
+2021-05-23 16:04:13,745 - Youtube Music link.
+2021-05-23 16:04:13,745 - Scraping for id: XU6scPocLUM
+2021-05-23 16:04:14,289 - Youtube Video: https://youtu.be/XU6scPocLUM is unavailable
+2021-05-23 16:04:14,290 - Scraping for id: HITrT2OJHeg
+2021-05-23 16:04:15,284 - Youtube Music link.
+2021-05-23 16:04:15,285 - Scraping for id: B7eXAqVtQgc
+2021-05-23 16:04:16,044 - Youtube Music link.
+2021-05-23 16:04:16,045 - Scraping for id: dqtnkGNGCQc
+2021-05-23 16:04:16,882 - Youtube Music link.
+2021-05-23 16:04:16,882 - Scraping for id: paYS7DOSEWg
+2021-05-23 16:04:17,740 - Youtube Music link.
+2021-05-23 16:04:17,740 - Scraping for id: Ir7spien6Mg
+2021-05-23 16:04:18,535 - Youtube Music link.
+2021-05-23 16:04:18,535 - Scraping for id: vln5bsPhMxE
+2021-05-23 16:04:19,667 - Youtube Music link.
+2021-05-23 16:04:19,668 - Scraping for id: d0IF2gakPyw
+2021-05-23 16:04:20,328 - Youtube Music link.
+2021-05-23 16:04:20,328 - Scraping for id: OaOTaL3QiIY
+2021-05-23 16:04:21,335 - Youtube Music link.
+2021-05-23 16:04:21,336 - Scraping for id: oqLAqMKkoSc
+2021-05-23 16:04:22,277 - Youtube Music link.
+2021-05-23 16:04:22,278 - Scraping for id: AWXvSBHB210
+2021-05-23 16:04:23,185 - Youtube Music link.
+2021-05-23 16:04:23,185 - Scraping for id: -Mq_DO10BYc
+2021-05-23 16:04:24,039 - Youtube Music link.
+2021-05-23 16:04:24,040 - Scraping for id: 46Vr32OuJO8
+2021-05-23 16:04:24,851 - Youtube Music link.
+2021-05-23 16:04:24,852 - Scraping for id: R5NYsnmirLE
+2021-05-23 16:04:25,828 - Youtube Music link.
+2021-05-23 16:04:25,828 - Scraping for id: -2YoWfPvkv4
+2021-05-23 16:04:26,636 - Youtube Music link.
+2021-05-23 16:04:26,636 - Scraping for id: X1djwsrbkfE
+2021-05-23 16:04:27,461 - Youtube Music link.
+2021-05-23 16:04:27,461 - Scraping for id: 99vhP4CzvXQ
+2021-05-23 16:04:28,129 - Youtube Music link.
+2021-05-23 16:04:28,129 - Scraping for id: kkJAwAiv1AE
+2021-05-23 16:04:29,279 - Youtube Music link.
+2021-05-23 16:04:29,279 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/quOai1Jsxec.
+2021-05-23 16:04:36,254 - Done downloading video.
+2021-05-23 16:04:37,111 - Done downloading audio.
+2021-05-23 16:04:40,163 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FvyXeKic_9k.
+2021-05-23 16:05:06,048 - Done downloading video.
+2021-05-23 16:05:07,406 - Done downloading audio.
+2021-05-23 16:05:11,078 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tj0J9ZGHKO8.
+2021-05-23 16:06:15,327 - Done downloading video.
+2021-05-23 16:06:17,028 - Done downloading audio.
+2021-05-23 16:06:19,576 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ckqMernq3vg.

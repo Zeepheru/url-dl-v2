@@ -1,0 +1,495 @@
+2021-05-23 15:27:30,323 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 15:27:30,324 - Autocommand from settings: run
+2021-05-23 15:27:30,324 - Command: run
+2021-05-23 15:27:30,324 - Current: https://youtube.com/user/NeverLaststanding 
+2021-05-23 15:27:30,325 - youtube link
+2021-05-23 15:27:31,334 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 15:27:31,452 - {
+    "favorites": "FLuEdwqGj0ZYoHMbMdJsDQFw",
+    "likes": "",
+    "uploads": "UUuEdwqGj0ZYoHMbMdJsDQFw"
+}
+2021-05-23 15:27:31,454 - Upload Playlist: UUuEdwqGj0ZYoHMbMdJsDQFw
+2021-05-23 15:27:31,583 - Now downloading channel: NeverLastStanding
+Video Count: 41
+2021-05-23 15:27:31,584 - Channel has 41 videos downloaded.
+2021-05-23 15:27:31,584 - Scraping for id: sMboGuxpbo8
+2021-05-23 15:27:32,440 - Youtube Music link.
+2021-05-23 15:27:32,440 - Scraping for id: YsCHSKC5guc
+2021-05-23 15:27:33,002 - Youtube Music link.
+2021-05-23 15:27:33,003 - Scraping for id: bLOzSgF7L6I
+2021-05-23 15:27:33,769 - Youtube Music link.
+2021-05-23 15:27:33,769 - Scraping for id: nyBkfgY4Wfo
+2021-05-23 15:27:34,591 - Youtube Music link.
+2021-05-23 15:27:34,591 - Scraping for id: ZF6mRg7BhRI
+2021-05-23 15:27:35,341 - Youtube Music link.
+2021-05-23 15:27:35,342 - Scraping for id: oI2rFBAmRbg
+2021-05-23 15:27:35,975 - Youtube Music link.
+2021-05-23 15:27:35,976 - Scraping for id: 7yBatropiCQ
+2021-05-23 15:27:36,717 - Youtube Music link.
+2021-05-23 15:27:36,717 - Scraping for id: vOjRI1TAqYA
+2021-05-23 15:27:37,396 - Youtube Music link.
+2021-05-23 15:27:37,396 - Scraping for id: Rc-8QD_AN60
+2021-05-23 15:27:38,152 - Youtube Music link.
+2021-05-23 15:27:38,153 - Scraping for id: IkenD23w1PI
+2021-05-23 15:27:38,993 - Youtube Music link.
+2021-05-23 15:27:38,994 - Scraping for id: _PLorjz6cP4
+2021-05-23 15:27:39,676 - Youtube Music link.
+2021-05-23 15:27:39,676 - Scraping for id: 9GHoMLi9AYA
+2021-05-23 15:27:40,294 - Youtube Music link.
+2021-05-23 15:27:40,295 - Scraping for id: x_TU6hsyBvY
+2021-05-23 15:27:40,916 - Youtube Music link.
+2021-05-23 15:27:40,916 - Scraping for id: DUp8X3-pUd8
+2021-05-23 15:27:41,519 - Youtube Music link.
+2021-05-23 15:27:41,520 - Scraping for id: 1Xzr-sP1tv4
+2021-05-23 15:27:42,374 - Youtube Music link.
+2021-05-23 15:27:42,375 - Scraping for id: 323oD9FI6MM
+2021-05-23 15:27:42,970 - Youtube Music link.
+2021-05-23 15:27:42,971 - Scraping for id: b8-aWRQzNb8
+2021-05-23 15:27:43,512 - Youtube Music link.
+2021-05-23 15:27:43,513 - Scraping for id: xkavLeHE550
+2021-05-23 15:27:44,327 - Youtube Music link.
+2021-05-23 15:27:44,327 - Scraping for id: HeMCEtg5uF8
+2021-05-23 15:27:45,233 - Youtube Music link.
+2021-05-23 15:27:45,233 - Scraping for id: rAy_dA8Mwyc
+2021-05-23 15:27:46,135 - Youtube Music link.
+2021-05-23 15:27:46,136 - Scraping for id: aHzwIA7wt44
+2021-05-23 15:27:47,001 - Youtube Music link.
+2021-05-23 15:27:47,001 - Scraping for id: 1NRhe0nnHW8
+2021-05-23 15:27:47,804 - Youtube Music link.
+2021-05-23 15:27:47,804 - Scraping for id: TB7IR5B7sIg
+2021-05-23 15:27:48,479 - Youtube Music link.
+2021-05-23 15:27:48,480 - Scraping for id: ZGE0-baDt1E
+2021-05-23 15:27:49,352 - Youtube Music link.
+2021-05-23 15:27:49,352 - Scraping for id: P5KNzBR4J2c
+2021-05-23 15:27:49,994 - Youtube Music link.
+2021-05-23 15:27:49,995 - Scraping for id: tpLPhAbLdJU
+2021-05-23 15:27:50,807 - Youtube Music link.
+2021-05-23 15:27:50,808 - Scraping for id: ERO9hAA62ek
+2021-05-23 15:27:51,433 - Youtube Music link.
+2021-05-23 15:27:51,433 - Scraping for id: xxL9cYxeGXU
+2021-05-23 15:27:52,234 - Youtube Music link.
+2021-05-23 15:27:52,235 - Scraping for id: YOtHNxZQn4o
+2021-05-23 15:27:53,049 - Youtube Music link.
+2021-05-23 15:27:53,049 - Scraping for id: o9YY-PEXItY
+2021-05-23 15:27:53,608 - Youtube Music link.
+2021-05-23 15:27:53,609 - Scraping for id: zIZdTXud1qY
+2021-05-23 15:27:54,252 - Youtube Music link.
+2021-05-23 15:27:54,253 - Scraping for id: zf6dSy8ebDQ
+2021-05-23 15:27:54,998 - Youtube Music link.
+2021-05-23 15:27:54,998 - Scraping for id: P55dkKNtwqU
+2021-05-23 15:27:55,584 - Youtube Music link.
+2021-05-23 15:27:55,585 - Scraping for id: njHeg2n0j3Y
+2021-05-23 15:27:56,191 - Youtube Music link.
+2021-05-23 15:27:56,192 - Scraping for id: 4Dkkebf-iYs
+2021-05-23 15:27:56,836 - Youtube Music link.
+2021-05-23 15:27:56,836 - Scraping for id: 5QlzuoOOgqA
+2021-05-23 15:27:57,502 - Youtube Music link.
+2021-05-23 15:27:57,502 - Scraping for id: jbBflZH1xdg
+2021-05-23 15:27:58,272 - Youtube Music link.
+2021-05-23 15:27:58,273 - Scraping for id: uva-mCgFUDk
+2021-05-23 15:27:58,851 - Youtube Music link.
+2021-05-23 15:27:58,851 - Scraping for id: WwqoWVXTJcs
+2021-05-23 15:27:59,588 - Youtube Music link.
+2021-05-23 15:27:59,589 - Scraping for id: 89xQTWhJQBc
+2021-05-23 15:28:00,193 - Youtube Music link.
+2021-05-23 15:28:00,194 - Scraping for id: aJkpe3fQO9A
+2021-05-23 15:28:00,885 - Youtube Music link.
+2021-05-23 15:28:00,886 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/sMboGuxpbo8.
+2021-05-23 15:31:34,470 - Done downloading video.
+2021-05-23 15:31:42,223 - Done downloading audio.
+2021-05-23 15:32:00,241 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YsCHSKC5guc.
+2021-05-23 15:32:20,826 - Done downloading video.
+2021-05-23 15:32:21,809 - Done downloading audio.
+2021-05-23 15:32:24,321 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/bLOzSgF7L6I.
+2021-05-23 15:32:51,683 - Done downloading video.
+2021-05-23 15:32:53,205 - Done downloading audio.
+2021-05-23 15:32:56,560 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/nyBkfgY4Wfo.
+2021-05-23 15:33:16,256 - Done downloading video.
+2021-05-23 15:33:17,514 - Done downloading audio.
+2021-05-23 15:33:20,953 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZF6mRg7BhRI.
+2021-05-23 15:33:37,723 - Done downloading video.
+2021-05-23 15:33:38,998 - Done downloading audio.
+2021-05-23 15:33:41,615 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/oI2rFBAmRbg.
+2021-05-23 15:33:44,243 - Done downloading video.
+2021-05-23 15:33:45,170 - Done downloading audio.
+2021-05-23 15:33:48,517 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/7yBatropiCQ.
+2021-05-23 15:34:04,607 - Done downloading video.
+2021-05-23 15:34:05,861 - Done downloading audio.
+2021-05-23 15:34:07,247 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/vOjRI1TAqYA.
+2021-05-23 15:34:26,141 - Done downloading video.
+2021-05-23 15:34:28,388 - Done downloading audio.
+2021-05-23 15:34:31,345 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Rc-8QD_AN60.
+2021-05-23 15:34:46,153 - Done downloading video.
+2021-05-23 15:34:48,077 - Done downloading audio.
+2021-05-23 15:34:50,331 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/IkenD23w1PI.
+2021-05-23 15:35:15,064 - Done downloading video.
+2021-05-23 15:35:16,133 - Done downloading audio.
+2021-05-23 15:35:18,845 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/_PLorjz6cP4.
+2021-05-23 15:35:31,450 - Done downloading video.
+2021-05-23 15:35:33,012 - Done downloading audio.
+2021-05-23 15:35:35,125 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/9GHoMLi9AYA.
+2021-05-23 15:35:38,225 - Done downloading video.
+2021-05-23 15:35:41,543 - Done downloading audio.
+2021-05-23 15:35:46,148 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/x_TU6hsyBvY.
+2021-05-23 15:35:49,171 - Done downloading video.
+2021-05-23 15:35:50,734 - Done downloading audio.
+2021-05-23 15:35:54,096 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/DUp8X3-pUd8.
+2021-05-23 15:36:31,935 - Done downloading video.
+2021-05-23 15:36:33,738 - Done downloading audio.
+2021-05-23 15:36:37,223 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1Xzr-sP1tv4.
+2021-05-23 15:36:39,065 - Done downloading video.
+2021-05-23 15:36:40,092 - Done downloading audio.
+2021-05-23 15:36:42,430 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/323oD9FI6MM.
+2021-05-23 15:36:43,870 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 774, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 15:36:43,875 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/b8-aWRQzNb8.
+2021-05-23 15:36:46,985 - Done downloading video.
+2021-05-23 15:36:48,105 - Done downloading audio.
+2021-05-23 15:36:51,586 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/xkavLeHE550.
+2021-05-23 15:36:52,943 - Done downloading video.
+2021-05-23 15:36:55,398 - Done downloading audio.
+2021-05-23 15:36:58,900 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/HeMCEtg5uF8.
+2021-05-23 15:37:02,596 - Done downloading video.
+2021-05-23 15:37:04,165 - Done downloading audio.
+2021-05-23 15:37:07,466 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/rAy_dA8Mwyc.
+2021-05-23 15:37:09,315 - Done downloading video.
+2021-05-23 15:37:10,794 - Done downloading audio.
+2021-05-23 15:37:13,082 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/aHzwIA7wt44.
+2021-05-23 15:39:16,355 - Done downloading video.
+2021-05-23 15:39:17,322 - Done downloading audio.
+2021-05-23 15:39:20,632 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1NRhe0nnHW8.
+2021-05-23 15:39:22,485 - Done downloading video.
+2021-05-23 15:39:24,204 - Done downloading audio.
+2021-05-23 15:39:26,665 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/TB7IR5B7sIg.
+2021-05-23 15:39:29,031 - Done downloading video.
+2021-05-23 15:39:29,994 - Done downloading audio.
+2021-05-23 15:39:33,796 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZGE0-baDt1E.
+2021-05-23 15:39:35,581 - Done downloading video.
+2021-05-23 15:39:36,547 - Done downloading audio.
+2021-05-23 15:39:39,911 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/P5KNzBR4J2c.
+2021-05-23 15:39:40,996 - Done downloading video.
+2021-05-23 15:39:41,727 - Done downloading audio.
+2021-05-23 15:39:42,168 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tpLPhAbLdJU.
+2021-05-23 15:39:44,114 - Done downloading video.
+2021-05-23 15:39:48,909 - Done downloading audio.
+2021-05-23 15:39:52,473 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ERO9hAA62ek.
+2021-05-23 15:39:54,064 - Done downloading video.
+2021-05-23 15:39:55,427 - Done downloading audio.
+2021-05-23 15:39:58,132 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/xxL9cYxeGXU.
+2021-05-23 15:39:59,420 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 774, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 15:39:59,425 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YOtHNxZQn4o.
+2021-05-23 15:40:01,688 - Done downloading video.
+2021-05-23 15:40:02,905 - Done downloading audio.
+2021-05-23 15:40:06,392 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/o9YY-PEXItY.
+2021-05-23 15:40:07,780 - Done downloading video.
+2021-05-23 15:40:09,121 - Done downloading audio.
+2021-05-23 15:40:11,835 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zIZdTXud1qY.
+2021-05-23 15:40:31,580 - Done downloading video.
+2021-05-23 15:40:33,171 - Done downloading audio.
+2021-05-23 15:40:36,223 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zf6dSy8ebDQ.
+2021-05-23 15:40:38,538 - Done downloading video.
+2021-05-23 15:40:40,091 - Done downloading audio.
+2021-05-23 15:40:42,392 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/P55dkKNtwqU.
+2021-05-23 15:40:45,361 - Done downloading video.
+2021-05-23 15:40:46,395 - Done downloading audio.
+2021-05-23 15:40:48,886 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/njHeg2n0j3Y.
+2021-05-23 15:40:51,737 - Done downloading video.
+2021-05-23 15:40:52,835 - Done downloading audio.
+2021-05-23 15:40:55,515 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4Dkkebf-iYs.
+2021-05-23 15:41:09,578 - Done downloading video.
+2021-05-23 15:41:10,930 - Done downloading audio.
+2021-05-23 15:41:13,283 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5QlzuoOOgqA.
+2021-05-23 15:41:14,188 - Done downloading video.
+2021-05-23 15:41:15,047 - Done downloading audio.
+2021-05-23 15:41:17,171 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/jbBflZH1xdg.
+2021-05-23 15:41:18,344 - Done downloading video.
+2021-05-23 15:41:19,438 - Done downloading audio.
+2021-05-23 15:41:22,121 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/uva-mCgFUDk.
+2021-05-23 15:41:23,060 - Done downloading video.
+2021-05-23 15:41:24,361 - Done downloading audio.
+2021-05-23 15:41:26,685 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/WwqoWVXTJcs.
+2021-05-23 15:41:39,830 - Done downloading video.
+2021-05-23 15:41:41,182 - Done downloading audio.
+2021-05-23 15:41:42,472 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/89xQTWhJQBc.
+2021-05-23 15:41:43,267 - Done downloading video.
+2021-05-23 15:41:44,088 - Done downloading audio.
+2021-05-23 15:41:45,495 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/aJkpe3fQO9A.
+2021-05-23 15:42:02,949 - Done downloading video.
+2021-05-23 15:42:04,169 - Done downloading audio.
+2021-05-23 15:42:06,655 - Creating download information json.
+2021-05-23 15:42:06,655 - Writing text file.
+2021-05-23 15:42:06,655 - Downloading: NeverLastStanding - Channel Image.png
+2021-05-23 15:42:15,444 - Writing text file.
+2021-05-23 15:42:15,444 - Downloading: [Epilepsy Warning] NeverLastStanding 1ST LIVESET - Thumbnail.png
+2021-05-23 15:42:15,750 - Merging audio and video files.
+2021-05-23 15:42:32,335 - Adding thumbnail to video file.
+2021-05-23 15:42:32,766 - Audio or Video file does not exist.
+2021-05-23 15:42:32,766 - Writing text file.
+2021-05-23 15:42:32,766 - Downloading: NeverLastStanding & loophoof - Delusion - Thumbnail.png
+2021-05-23 15:42:33,028 - Merging audio and video files.
+2021-05-23 15:42:35,311 - Adding thumbnail to video file.
+2021-05-23 15:42:35,473 - Audio or Video file does not exist.
+2021-05-23 15:42:35,474 - Writing text file.
+2021-05-23 15:42:35,474 - Downloading: NeverLastStanding - Fire Heart - Thumbnail.png
+2021-05-23 15:42:35,936 - Merging audio and video files.
+2021-05-23 15:42:39,018 - Adding thumbnail to video file.
+2021-05-23 15:42:39,170 - Audio or Video file does not exist.
+2021-05-23 15:42:39,171 - Writing text file.
+2021-05-23 15:42:39,171 - Downloading: NeverLastStanding - To Home - Thumbnail.png
+2021-05-23 15:42:39,631 - Merging audio and video files.
+2021-05-23 15:42:42,341 - Adding thumbnail to video file.
+2021-05-23 15:42:42,466 - Audio or Video file does not exist.
+2021-05-23 15:42:42,466 - Writing text file.
+2021-05-23 15:42:42,466 - Downloading: Out On My Own (NLS Remix) [Remastered]   EFNW Announcement - Thumbnail.png
+2021-05-23 15:42:42,726 - Merging audio and video files.
+2021-05-23 15:42:44,807 - Adding thumbnail to video file.
+2021-05-23 15:42:44,926 - Audio or Video file does not exist.
+2021-05-23 15:42:44,926 - Writing text file.
+2021-05-23 15:42:44,927 - Downloading: NeverLastStanding & loophoof - Fuchsia Dream - Thumbnail.png
+2021-05-23 15:42:45,195 - Merging audio and video files.
+2021-05-23 15:42:47,823 - Adding thumbnail to video file.
+2021-05-23 15:42:47,963 - Audio or Video file does not exist.
+2021-05-23 15:42:47,964 - Writing text file.
+2021-05-23 15:42:47,964 - Downloading: We're Friendship Bound (NeverLastStanding Arrangement) - Thumbnail.png
+2021-05-23 15:42:48,230 - Merging audio and video files.
+2021-05-23 15:42:49,283 - Adding thumbnail to video file.
+2021-05-23 15:42:49,389 - Audio or Video file does not exist.
+2021-05-23 15:42:49,390 - Writing text file.
+2021-05-23 15:42:49,390 - Downloading: A True True Friend (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:42:49,690 - Merging audio and video files.
+2021-05-23 15:42:52,068 - Adding thumbnail to video file.
+2021-05-23 15:42:52,197 - Audio or Video file does not exist.
+2021-05-23 15:42:52,198 - Writing text file.
+2021-05-23 15:42:52,198 - Downloading: Time To Be Awesome (NeverLastStanding Arrangement) - Thumbnail.png
+2021-05-23 15:42:52,640 - Merging audio and video files.
+2021-05-23 15:42:54,379 - Adding thumbnail to video file.
+2021-05-23 15:42:54,506 - Audio or Video file does not exist.
+2021-05-23 15:42:54,506 - Writing text file.
+2021-05-23 15:42:54,506 - Downloading: NeverLastStanding - Land of Harmony (Ponies at Dawn) - Thumbnail.png
+2021-05-23 15:42:54,999 - Merging audio and video files.
+2021-05-23 15:42:57,110 - Adding thumbnail to video file.
+2021-05-23 15:42:57,226 - Audio or Video file does not exist.
+2021-05-23 15:42:57,226 - Writing text file.
+2021-05-23 15:42:57,226 - Downloading: NeverLastStanding - Winter's Warmth - Thumbnail.png
+2021-05-23 15:42:57,711 - Merging audio and video files.
+2021-05-23 15:42:59,304 - Adding thumbnail to video file.
+2021-05-23 15:42:59,428 - Audio or Video file does not exist.
+2021-05-23 15:42:59,429 - Writing text file.
+2021-05-23 15:42:59,429 - Downloading: NeverLastStanding - The Enchanted Library - Thumbnail.png
+2021-05-23 15:42:59,685 - Merging audio and video files.
+2021-05-23 15:43:03,267 - Adding thumbnail to video file.
+2021-05-23 15:43:03,405 - Audio or Video file does not exist.
+2021-05-23 15:43:03,406 - Writing text file.
+2021-05-23 15:43:03,406 - Downloading: NeverLastStanding - Forever & Always (Lycan Dese Beats) - Thumbnail.png
+2021-05-23 15:43:03,802 - Merging audio and video files.
+2021-05-23 15:43:06,448 - Adding thumbnail to video file.
+2021-05-23 15:43:06,575 - Audio or Video file does not exist.
+2021-05-23 15:43:06,576 - Writing text file.
+2021-05-23 15:43:06,576 - Downloading: NeverLastStanding - Helios (Ponies At Dawn) - Thumbnail.png
+2021-05-23 15:43:07,146 - Merging audio and video files.
+2021-05-23 15:43:10,450 - Adding thumbnail to video file.
+2021-05-23 15:43:10,574 - Audio or Video file does not exist.
+2021-05-23 15:43:10,575 - Writing text file.
+2021-05-23 15:43:10,575 - Downloading: NeverLastStanding - Last Known - Thumbnail.png
+2021-05-23 15:43:10,850 - Merging audio and video files.
+2021-05-23 15:43:12,659 - Adding thumbnail to video file.
+2021-05-23 15:43:12,767 - Audio or Video file does not exist.
+2021-05-23 15:43:12,767 - Writing text file.
+2021-05-23 15:43:12,767 - Downloading: NeverLastStanding - Relate - Thumbnail.png
+2021-05-23 15:43:13,069 - Audio or Video file does not exist.
+2021-05-23 15:43:13,069 - Writing text file.
+2021-05-23 15:43:13,069 - Downloading: NeverLastStanding - Your Friend - Thumbnail.png
+2021-05-23 15:43:13,352 - Merging audio and video files.
+2021-05-23 15:43:16,135 - Adding thumbnail to video file.
+2021-05-23 15:43:16,254 - Audio or Video file does not exist.
+2021-05-23 15:43:16,255 - Writing text file.
+2021-05-23 15:43:16,255 - Downloading: Ferexes - Wake Them (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:16,551 - Merging audio and video files.
+2021-05-23 15:43:19,339 - Adding thumbnail to video file.
+2021-05-23 15:43:19,461 - Audio or Video file does not exist.
+2021-05-23 15:43:19,461 - Writing text file.
+2021-05-23 15:43:19,461 - Downloading: Spectra - Nebula (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:19,938 - Merging audio and video files.
+2021-05-23 15:43:22,603 - Adding thumbnail to video file.
+2021-05-23 15:43:22,729 - Audio or Video file does not exist.
+2021-05-23 15:43:22,729 - Writing text file.
+2021-05-23 15:43:22,729 - Downloading: You'll Play Your Part (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:23,197 - Merging audio and video files.
+2021-05-23 15:43:25,055 - Adding thumbnail to video file.
+2021-05-23 15:43:25,164 - Audio or Video file does not exist.
+2021-05-23 15:43:25,165 - Writing text file.
+2021-05-23 15:43:25,165 - Downloading: Direct Current - {RD_TS} (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:25,434 - Merging audio and video files.
+2021-05-23 15:43:28,123 - Adding thumbnail to video file.
+2021-05-23 15:43:28,217 - Audio or Video file does not exist.
+2021-05-23 15:43:28,217 - Writing text file.
+2021-05-23 15:43:28,217 - Downloading: NeverLastStanding - Tantalize - Thumbnail.png
+2021-05-23 15:43:28,473 - Merging audio and video files.
+2021-05-23 15:43:30,489 - Adding thumbnail to video file.
+2021-05-23 15:43:30,605 - Audio or Video file does not exist.
+2021-05-23 15:43:30,605 - Writing text file.
+2021-05-23 15:43:30,605 - Downloading: NeverLastStanding - Kronos (Ponies At Dawn) - Thumbnail.png
+2021-05-23 15:43:30,886 - Merging audio and video files.
+2021-05-23 15:43:33,971 - Adding thumbnail to video file.
+2021-05-23 15:43:34,098 - Audio or Video file does not exist.
+2021-05-23 15:43:34,098 - Writing text file.
+2021-05-23 15:43:34,098 - Downloading: Pony Music - Perception (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:34,339 - Merging audio and video files.
+2021-05-23 15:43:37,077 - Adding thumbnail to video file.
+2021-05-23 15:43:37,200 - Audio or Video file does not exist.
+2021-05-23 15:43:37,201 - Writing text file.
+2021-05-23 15:43:37,201 - Downloading: Coming Soon - Thumbnail.png
+2021-05-23 15:43:37,438 - Merging audio and video files.
+2021-05-23 15:43:37,756 - Adding thumbnail to video file.
+2021-05-23 15:43:37,852 - Audio or Video file does not exist.
+2021-05-23 15:43:37,853 - Writing text file.
+2021-05-23 15:43:37,853 - Downloading: NeverLastStanding - All Around (Shika No Mori Sound Release) - Thumbnail.png
+2021-05-23 15:43:38,282 - Merging audio and video files.
+2021-05-23 15:43:41,149 - Adding thumbnail to video file.
+2021-05-23 15:43:41,268 - Audio or Video file does not exist.
+2021-05-23 15:43:41,269 - Writing text file.
+2021-05-23 15:43:41,269 - Downloading: The Cosine Pitchshifterz - Ask Pun Pony (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:41,518 - Merging audio and video files.
+2021-05-23 15:43:43,785 - Adding thumbnail to video file.
+2021-05-23 15:43:43,902 - Audio or Video file does not exist.
+2021-05-23 15:43:43,903 - Writing text file.
+2021-05-23 15:43:43,903 - Downloading: NeverLastStanding - I'm Here - Thumbnail.png
+2021-05-23 15:43:44,150 - Audio or Video file does not exist.
+2021-05-23 15:43:44,151 - Writing text file.
+2021-05-23 15:43:44,151 - Downloading: NeverLastStanding - Hyperion (P@D) - Thumbnail.png
+2021-05-23 15:43:44,423 - Merging audio and video files.
+2021-05-23 15:43:47,310 - Adding thumbnail to video file.
+2021-05-23 15:43:47,435 - Audio or Video file does not exist.
+2021-05-23 15:43:47,436 - Writing text file.
+2021-05-23 15:43:47,436 - Downloading: Out On My Own (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:47,887 - Merging audio and video files.
+2021-05-23 15:43:50,044 - Adding thumbnail to video file.
+2021-05-23 15:43:50,156 - Audio or Video file does not exist.
+2021-05-23 15:43:50,156 - Writing text file.
+2021-05-23 15:43:50,157 - Downloading: Sonic Tap - Sunshines (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:50,194 - Merging audio and video files.
+2021-05-23 15:43:52,851 - Adding thumbnail to video file.
+2021-05-23 15:43:52,962 - Audio or Video file does not exist.
+2021-05-23 15:43:52,963 - Writing text file.
+2021-05-23 15:43:52,963 - Downloading: PonyFireStone - Staricon (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:53,395 - Merging audio and video files.
+2021-05-23 15:43:55,225 - Adding thumbnail to video file.
+2021-05-23 15:43:55,340 - Audio or Video file does not exist.
+2021-05-23 15:43:55,341 - Writing text file.
+2021-05-23 15:43:55,341 - Downloading: Find The Music In You (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:55,792 - Merging audio and video files.
+2021-05-23 15:43:57,805 - Adding thumbnail to video file.
+2021-05-23 15:43:57,924 - Audio or Video file does not exist.
+2021-05-23 15:43:57,925 - Writing text file.
+2021-05-23 15:43:57,925 - Downloading: PegasYs - Dental Damn (Feat.Midnight Melody)(NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:43:58,202 - Merging audio and video files.
+2021-05-23 15:44:00,375 - Adding thumbnail to video file.
+2021-05-23 15:44:00,500 - Audio or Video file does not exist.
+2021-05-23 15:44:00,501 - Writing text file.
+2021-05-23 15:44:00,501 - Downloading: Spectra - Peace At Last (NeverLastStanding) - Thumbnail.png
+2021-05-23 15:44:00,725 - Merging audio and video files.
+2021-05-23 15:44:02,699 - Adding thumbnail to video file.
+2021-05-23 15:44:02,811 - Audio or Video file does not exist.
+2021-05-23 15:44:02,811 - Writing text file.
+2021-05-23 15:44:02,812 - Downloading: Equestria The Land I Love (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:44:02,868 - Merging audio and video files.
+2021-05-23 15:44:04,588 - Adding thumbnail to video file.
+2021-05-23 15:44:04,696 - Audio or Video file does not exist.
+2021-05-23 15:44:04,697 - Writing text file.
+2021-05-23 15:44:04,697 - Downloading: The Pony I Want To Be (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:44:05,133 - Merging audio and video files.
+2021-05-23 15:44:07,297 - Adding thumbnail to video file.
+2021-05-23 15:44:07,408 - Audio or Video file does not exist.
+2021-05-23 15:44:07,409 - Writing text file.
+2021-05-23 15:44:07,409 - Downloading: Love Is In Bloom (NeverLastStanding Remix) - Thumbnail.png
+2021-05-23 15:44:07,645 - Merging audio and video files.
+2021-05-23 15:44:09,540 - Adding thumbnail to video file.
+2021-05-23 15:44:09,654 - Audio or Video file does not exist.
+2021-05-23 15:44:09,654 - Writing text file.
+2021-05-23 15:44:09,654 - Downloading: Shake your Tail Instrumental Remake V2 - Thumbnail.png
+2021-05-23 15:44:09,910 - Merging audio and video files.
+2021-05-23 15:44:10,995 - Adding thumbnail to video file.
+2021-05-23 15:44:11,098 - Audio or Video file does not exist.
+2021-05-23 15:44:11,098 - Writing text file.
+2021-05-23 15:44:11,098 - Downloading: Shake your tail instrumental (NeverLastStanding Remake) - Thumbnail.png
+2021-05-23 15:44:11,537 - Merging audio and video files.
+2021-05-23 15:44:12,667 - Adding thumbnail to video file.
+2021-05-23 15:44:12,780 - Audio or Video file does not exist.
+2021-05-23 15:44:12,780 - Writing text file.
+2021-05-23 15:44:12,780 - Downloading: A true true friend remix - Thumbnail.png
+2021-05-23 15:44:13,001 - Merging audio and video files.
+2021-05-23 15:44:15,201 - Adding thumbnail to video file.
+2021-05-23 15:44:15,313 - Audio or Video file does not exist.
+2021-05-23 15:44:15,313 - Download for https://youtube.com/user/NeverLaststanding complete.
+
+2021-05-23 15:44:15,314 - Writing to history...
+2021-05-23 15:44:15,315 - Done.

@@ -1,0 +1,43 @@
+2021-05-23 16:00:35,733 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 16:00:35,733 - Autocommand from settings: run
+2021-05-23 16:00:35,734 - Command: run
+2021-05-23 16:00:35,734 - Current: https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww 
+2021-05-23 16:00:35,735 - youtube link
+2021-05-23 16:00:36,549 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 16:00:36,626 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU471V820Y6Zqu3N8u4wefww"
+}
+2021-05-23 16:00:36,626 - Upload Playlist: UU471V820Y6Zqu3N8u4wefww
+2021-05-23 16:00:36,733 - local variable 'list_of_ids' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 388, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(uploads)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 295, in extract_from_playlist
+    print(len(list_of_ids))
+UnboundLocalError: local variable 'list_of_ids' referenced before assignment
+2021-05-23 16:00:36,734 - Current: https://www.youtube.com/user/JoinedTheHerd 
+2021-05-23 16:00:36,734 - youtube link
+2021-05-23 16:00:36,974 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUhveQ1F4fIqQcNfap0Kr37g"
+}
+2021-05-23 16:00:36,974 - Upload Playlist: UUhveQ1F4fIqQcNfap0Kr37g
+2021-05-23 16:00:37,077 - local variable 'list_of_ids' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 388, in youtube_extractor
+    extracted, playlist_name = extract_from_playlist(uploads)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 295, in extract_from_playlist
+    print(len(list_of_ids))
+UnboundLocalError: local variable 'list_of_ids' referenced before assignment

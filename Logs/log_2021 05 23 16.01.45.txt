@@ -1,0 +1,17 @@
+2021-05-23 16:01:45,579 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 16:01:45,580 - Autocommand from settings: run
+2021-05-23 16:01:45,580 - Command: run
+2021-05-23 16:01:45,580 - Current: https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww 
+2021-05-23 16:01:45,581 - youtube link
+2021-05-23 16:01:46,468 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 16:01:46,567 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU471V820Y6Zqu3N8u4wefww"
+}
+2021-05-23 16:01:46,567 - Upload Playlist: UU471V820Y6Zqu3N8u4wefww

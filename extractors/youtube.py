@@ -214,8 +214,6 @@ def youtube_extractor(Downloader):
         else:
             set_youtube_type("video")
 
-
-
     def extract_video_id(url):
         if len(url) == 11:
             return url        
@@ -248,6 +246,7 @@ def youtube_extractor(Downloader):
             total_pages -= 1
 
 
+
         list_of_ids = []
 
         #WOW WOW - need to find playlist title lol.
@@ -260,17 +259,16 @@ def youtube_extractor(Downloader):
             next_page_token = response["nextPageToken"]
             #utils.print_json(response)
 
-            print(playlist_id)
+            #print(playlist_id)
 
             for i in range (1, total_pages):
-                #print(i, next_page_token)
                 request = youtube_api.playlistItems().list(
                     part='id,contentDetails,snippet',
                     playlistId = playlist_id,
                     maxResults = 50,
                     pageToken = next_page_token
                 )
-
+                response = request.execute()
 
                 for playlist_item in response["items"]:
                     list_of_ids.append(playlist_item["contentDetails"]["videoId"])
@@ -282,7 +280,7 @@ def youtube_extractor(Downloader):
 
         except:
             pass
-        
+
         
 
         newlist_of_playlist_ids = []
@@ -770,7 +768,7 @@ Streams downloaded: {}, {}
             #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
             if Downloader.settings["debug"]["download"] == True:
                 try:
-                    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend.")
+                    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend for {}.".format(video_info["url"]))
                     youtube_dl_backup_video(video_info["url"],root_download_dir)
 
                     if video_info["music url"] != False:

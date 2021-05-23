@@ -191,90 +191,99 @@ def download(Downloader):
     return Downloader
 
 def merge_streams(download_object): #seems like a YT exclusive, as always
-    folder_path = re.search(utils.parent_dir_regex,download_object["path"]).group()
-    os.chdir(folder_path)
+    while True:
+        folder_path = re.search(utils.parent_dir_regex,download_object["path"]).group()
+        os.chdir(folder_path)
 
-    ## now the code here goes through the listdir of the export folder and settles stuff out
-    video_path, audio_path, thumbnail = "", "", ""
-    for f in os.listdir(folder_path):
-        if f.endswith(".png") or f.endswith(".jpg"):
-            thumbnail = os.path.join(folder_path, f)
-        elif f.startswith("tmpvideo_"):
-            video_path = os.path.join(folder_path, f)
-        elif f.startswith("tmpaudio_"):
-            audio_path = os.path.join(folder_path, f)
-    ###
-    
-    new_video_path = video_path.replace("tmpvideo_","temp_")
-    if new_video_path[-4:] == 'webm':
-        new_video_path = new_video_path.replace(".webm",".mp4") #force this, I'm very tired
-    new_audio_path = audio_path.replace("tmpaudio_","")
+        ## now the code here goes through the listdir of the export folder and settles stuff out
+        video_path, audio_path, thumbnail = "", "", ""
+        for f in os.listdir(folder_path):
+            if f.endswith(".png") or f.endswith(".jpg"):
+                thumbnail = os.path.join(folder_path, f)
+            elif f.startswith("tmpvideo_"):
+                video_path = os.path.join(folder_path, f)
+            elif f.startswith("tmpaudio_"):
+                audio_path = os.path.join(folder_path, f)
+        ###
 
-    dl_logger.log_to_file("Merging audio and video files.")
-    try:
-        input_video = ffmpeg.input(video_path)
-        input_audio = ffmpeg.input(audio_path)
-        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() 
-        #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
-
-    except:
-        #print("BACKUP1")
-        #Backup if needed, unused on laptop as well
-        os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
-
-    #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
-    
-
-    #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
-    dl_logger.log_to_file("Adding thumbnail to video file.")
-    new_new_video_path = new_video_path.replace("temp_","")
-    #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"') #WUT?
-    os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, thumbnail, new_new_video_path))
-    #Shortened filepaths, chdir'd to the folder to use ffmpeg there seems to fix issues
-
-    try:
-        os.remove(video_path)
-        #os.remove(new_video_path)
-    except:
-        pass
-
-    if not os.path.isfile(new_audio_path):
-        os.rename(audio_path,new_audio_path)
-
-    #convert to mp3 for well? purposes.
-    if new_audio_path[-4:] == 'webm' or new_audio_path[-3:] == 'm4a': #Youtube Checker removed, too lazy to fix it anyway so yeahhhhhhhhhh
-        dl_logger.log_to_file("Coverting audio file to mp3.")
-        temp_new_audio_path = new_audio_path + "I_AM_TOO_LAZY_TO_USE_REGEX"
+        #checks if the audio and video files exist in the first place because uh they may not lol
+        if not os.path.isfile(video_path) or not os.path.isfile(audio_path):
+            dl_logger.log_to_file("Audio or Video file does not exist.")
+            break
         
-        if ".webmI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:
-            new_new_audio_path = temp_new_audio_path.replace(".webmI_AM_TOO_LAZY_TO_USE_REGEX",".mp3")
-        elif ".m4aI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:
-            new_new_audio_path = temp_new_audio_path.replace(".m4aI_AM_TOO_LAZY_TO_USE_REGEX",".mp3")
+        new_video_path = video_path.replace("tmpvideo_","temp_")
+        if new_video_path[-4:] == 'webm':
+            new_video_path = new_video_path.replace(".webm",".mp4") #force this, I'm very tired
+        new_audio_path = audio_path.replace("tmpaudio_","")
+
+        dl_logger.log_to_file("Merging audio and video files.")
+        try:
+            input_video = ffmpeg.input(video_path)
+            input_audio = ffmpeg.input(audio_path)
+            ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() 
+            #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+
+        except:
+            #print("BACKUP1")
+            #Backup if needed, unused on laptop as well
+            os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
+
+        #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
+        
+
+        #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
+        dl_logger.log_to_file("Adding thumbnail to video file.")
+        new_new_video_path = new_video_path.replace("temp_","")
+        try:
+            #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"') #WUT?
+            os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, thumbnail, new_new_video_path))
+            #Shortened filepaths, chdir'd to the folder to use ffmpeg there seems to fix issues
+        except: #no thumb or some stupid error
+            shutil.copy(new_video_path, new_new_video_path)
 
         try:
-            convert_input = ffmpeg.input(new_audio_path)
-            ffmpeg.output(convert_input.audio, new_new_audio_path, shortest=None, vcodec='copy').run()
-        except:
-            #print("BACKUP3")
-            #Backup if needed, unused on laptop as well
-            os.system("ffmpeg -i {} -acodec libmp3lame -ab 128k {}".format(new_audio_path, new_new_audio_path)) #128k bitrate temp 
-            
-        try:
-            os.remove(new_audio_path)
+            os.remove(video_path)
+            #os.remove(new_video_path)
         except:
             pass
 
-        mp3_apply_image(thumbnail, new_new_audio_path)
-        applymetadata({
-            "path": new_new_audio_path,
-            "metadata": download_object["metadata"]
-        }
-        )
+        if not os.path.isfile(new_audio_path):
+            os.rename(audio_path,new_audio_path)
 
-    #finally deletes all temp files, manually because I cant find the right fecking variables
-    for f in os.listdir(folder_path):
-        if f.startswith("TEMP_") or f.startswith("temp_"):
-            os.remove(os.path.join(folder_path, f))
+        #convert to mp3 for well? purposes.
+        if new_audio_path[-4:] == 'webm' or new_audio_path[-3:] == 'm4a': #Youtube Checker removed, too lazy to fix it anyway so yeahhhhhhhhhh
+            dl_logger.log_to_file("Coverting audio file to mp3.")
+            temp_new_audio_path = new_audio_path + "I_AM_TOO_LAZY_TO_USE_REGEX"
+            
+            if ".webmI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:
+                new_new_audio_path = temp_new_audio_path.replace(".webmI_AM_TOO_LAZY_TO_USE_REGEX",".mp3")
+            elif ".m4aI_AM_TOO_LAZY_TO_USE_REGEX" in temp_new_audio_path:
+                new_new_audio_path = temp_new_audio_path.replace(".m4aI_AM_TOO_LAZY_TO_USE_REGEX",".mp3")
+
+            try:
+                convert_input = ffmpeg.input(new_audio_path)
+                ffmpeg.output(convert_input.audio, new_new_audio_path, shortest=None, vcodec='copy').run()
+            except:
+                #print("BACKUP3")
+                #Backup if needed, unused on laptop as well
+                os.system("ffmpeg -i {} -acodec libmp3lame -ab 128k {}".format(new_audio_path, new_new_audio_path)) #128k bitrate temp 
+                
+            try:
+                os.remove(new_audio_path)
+            except:
+                pass
+
+            mp3_apply_image(thumbnail, new_new_audio_path)
+            applymetadata({
+                "path": new_new_audio_path,
+                "metadata": download_object["metadata"]
+            }
+            )
+
+        #finally deletes all temp files, manually because I cant find the right fecking variables
+        for f in os.listdir(folder_path):
+            if f.startswith("TEMP_") or f.startswith("temp_"):
+                os.remove(os.path.join(folder_path, f))
 
 if __name__ == "__main__":
     def Tester_bandcamp_metadata():
