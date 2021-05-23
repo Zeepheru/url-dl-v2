@@ -1,0 +1,24 @@
+2021-05-23 14:42:07,588 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 14:42:07,588 - Autocommand from settings: run
+2021-05-23 14:42:07,588 - Command: run
+2021-05-23 14:42:07,589 - Current: https://www.youtube.com/c/ZUTOMAYO 
+2021-05-23 14:42:07,589 - youtube link
+2021-05-23 14:42:09,350 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 14:42:09,482 - 'items'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 342, in youtube_extractor
+    response_items = response["items"][0]
+KeyError: 'items'
+2021-05-23 14:42:18,896 - Command: asdsdsdclseo\
+2021-05-23 14:42:19,928 - Command: close
+2021-05-23 14:42:19,928 - 
+Log Ended.
+Total time: 0 hrs 0 min 12.34 sec
+

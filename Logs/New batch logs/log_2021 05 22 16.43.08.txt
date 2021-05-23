@@ -1,0 +1,568 @@
+2021-05-22 16:43:08,845 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-22 16:43:08,845 - Autocommand from settings: run
+2021-05-22 16:43:08,845 - Command: run
+2021-05-22 16:43:08,846 - Current: https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 
+2021-05-22 16:43:08,846 - youtube link
+2021-05-22 16:43:09,457 - Scraping for id: OZ1tgDIQXgs
+2021-05-22 16:43:10,064 - Youtube Music link.
+2021-05-22 16:43:10,064 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:11,209 - Done downloading video.
+2021-05-22 16:43:11,829 - Done downloading audio.
+2021-05-22 16:43:12,529 - Creating download information json.
+2021-05-22 16:43:12,530 - Writing text file.
+2021-05-22 16:43:12,530 - Downloading: Glasgow's subway expansion animated 1896-2021 - Thumbnail.png
+2021-05-22 16:43:12,606 - Merging audio and video files.
+2021-05-22 16:43:13,143 - Adding thumbnail to video file.
+2021-05-22 16:43:13,249 - Download for https://www.youtube.com/watch?v=OZ1tgDIQXgs&list=WL&index=10 complete.
+
+2021-05-22 16:43:13,250 - Writing to history...
+2021-05-22 16:43:13,251 - Done.
+2021-05-22 16:43:13,251 - Current: https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 
+2021-05-22 16:43:13,252 - youtube link
+2021-05-22 16:43:13,252 - Scraping for id: I-OOpZitfd0
+2021-05-22 16:43:13,781 - Youtube Music link.
+2021-05-22 16:43:13,781 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:14,550 - Done downloading video.
+2021-05-22 16:43:15,357 - Done downloading audio.
+2021-05-22 16:43:15,894 - Creating download information json.
+2021-05-22 16:43:15,895 - Writing text file.
+2021-05-22 16:43:15,895 - Downloading: Every Single Scandinavian Crime Drama - Thumbnail.png
+2021-05-22 16:43:15,939 - Merging audio and video files.
+2021-05-22 16:43:16,368 - Adding thumbnail to video file.
+2021-05-22 16:43:16,474 - Download for https://www.youtube.com/watch?v=I-OOpZitfd0&list=WL&index=11 complete.
+
+2021-05-22 16:43:16,475 - Writing to history...
+2021-05-22 16:43:16,476 - Done.
+2021-05-22 16:43:16,476 - Current: https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 
+2021-05-22 16:43:16,477 - youtube link
+2021-05-22 16:43:16,477 - Scraping for id: Ac7G7xOG2Ag
+2021-05-22 16:43:16,911 - Youtube Music link.
+2021-05-22 16:43:16,911 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:17,704 - Done downloading video.
+2021-05-22 16:43:18,308 - Done downloading audio.
+2021-05-22 16:43:19,502 - Creating download information json.
+2021-05-22 16:43:19,503 - Writing text file.
+2021-05-22 16:43:19,503 - Downloading: 'Turbo Encabulator' the Original - Thumbnail.png
+2021-05-22 16:43:19,545 - Merging audio and video files.
+2021-05-22 16:43:20,529 - Adding thumbnail to video file.
+2021-05-22 16:43:20,636 - Download for https://www.youtube.com/watch?v=Ac7G7xOG2Ag&list=WL&index=19 complete.
+
+2021-05-22 16:43:20,637 - Writing to history...
+2021-05-22 16:43:20,638 - Done.
+2021-05-22 16:43:20,638 - Current: https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 
+2021-05-22 16:43:20,638 - youtube link
+2021-05-22 16:43:20,639 - Scraping for id: Bsk_EeKhc9I
+2021-05-22 16:43:21,164 - Youtube Music link.
+2021-05-22 16:43:21,164 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:23,046 - Done downloading video.
+2021-05-22 16:43:24,133 - Done downloading audio.
+2021-05-22 16:43:25,930 - Creating download information json.
+2021-05-22 16:43:25,931 - Writing text file.
+2021-05-22 16:43:25,931 - Downloading: Tom Scott swearing - Thumbnail.png
+2021-05-22 16:43:26,364 - Merging audio and video files.
+2021-05-22 16:43:28,587 - Adding thumbnail to video file.
+2021-05-22 16:43:28,716 - Download for https://www.youtube.com/watch?v=Bsk_EeKhc9I&list=WL&index=25 complete.
+
+2021-05-22 16:43:28,718 - Writing to history...
+2021-05-22 16:43:28,718 - Done.
+2021-05-22 16:43:28,718 - Current: https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 
+2021-05-22 16:43:28,719 - youtube link
+2021-05-22 16:43:28,719 - Scraping for id: Om49VC4ihq0
+2021-05-22 16:43:29,261 - Youtube Music link.
+2021-05-22 16:43:29,261 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:41,572 - Done downloading video.
+2021-05-22 16:43:42,782 - Done downloading audio.
+2021-05-22 16:43:46,435 - Creating download information json.
+2021-05-22 16:43:46,436 - Writing text file.
+2021-05-22 16:43:46,436 - Downloading: World of Equestria - Equestria At War Lore - Thumbnail.png
+2021-05-22 16:43:46,708 - Merging audio and video files.
+2021-05-22 16:43:49,626 - Adding thumbnail to video file.
+2021-05-22 16:43:49,777 - Download for https://www.youtube.com/watch?v=Om49VC4ihq0&list=WL&index=42 complete.
+
+2021-05-22 16:43:49,779 - Writing to history...
+2021-05-22 16:43:49,779 - Done.
+2021-05-22 16:43:49,780 - Current: https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 
+2021-05-22 16:43:49,780 - youtube link
+2021-05-22 16:43:49,780 - Scraping for id: B8Eh6zkBKGQ
+2021-05-22 16:43:50,615 - Youtube Music link.
+2021-05-22 16:43:50,616 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:45:45,953 - Done downloading video.
+2021-05-22 16:45:47,009 - Done downloading audio.
+2021-05-22 16:45:49,622 - Creating download information json.
+2021-05-22 16:45:49,623 - Writing text file.
+2021-05-22 16:45:49,623 - Downloading: FWLR - OMG [Glitch Hop] - Thumbnail.png
+2021-05-22 16:45:49,958 - Merging audio and video files.
+2021-05-22 16:45:52,137 - Adding thumbnail to video file.
+2021-05-22 16:45:52,402 - Download for https://www.youtube.com/watch?v=B8Eh6zkBKGQ&list=WL&index=61 complete.
+
+2021-05-22 16:45:52,403 - Writing to history...
+2021-05-22 16:45:52,404 - Done.
+2021-05-22 16:45:52,404 - Current: https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 
+2021-05-22 16:45:52,404 - youtube link
+2021-05-22 16:45:52,405 - Scraping for id: 9Hq0Zm-sv4Y
+2021-05-22 16:45:52,878 - Youtube Music link.
+2021-05-22 16:45:52,878 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:46:08,131 - Done downloading video.
+2021-05-22 16:46:08,900 - Done downloading audio.
+2021-05-22 16:46:10,274 - Creating download information json.
+2021-05-22 16:46:10,275 - Writing text file.
+2021-05-22 16:46:10,275 - Downloading: Ashens and the Polybius Heist Main Trailer - Thumbnail.png
+2021-05-22 16:46:10,480 - Merging audio and video files.
+2021-05-22 16:46:11,742 - Adding thumbnail to video file.
+2021-05-22 16:46:11,952 - Download for https://www.youtube.com/watch?v=9Hq0Zm-sv4Y&list=WL&index=78 complete.
+
+2021-05-22 16:46:11,953 - Writing to history...
+2021-05-22 16:46:11,954 - Done.
+2021-05-22 16:46:11,954 - Current: https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 
+2021-05-22 16:46:11,955 - youtube link
+2021-05-22 16:46:11,955 - Scraping for id: YPN0qhSyWy8
+2021-05-22 16:46:12,778 - Youtube Music link.
+2021-05-22 16:46:12,779 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:46:17,913 - Done downloading video.
+2021-05-22 16:46:18,900 - Done downloading audio.
+2021-05-22 16:46:21,831 - Creating download information json.
+2021-05-22 16:46:21,832 - Writing text file.
+2021-05-22 16:46:21,832 - Downloading: Todd Howard Song  It Just Works (BETHESDA the Musical)  ft. Kyle Wright - Thumbnail.png
+2021-05-22 16:46:21,885 - Merging audio and video files.
+2021-05-22 16:46:24,589 - Adding thumbnail to video file.
+2021-05-22 16:46:24,758 - Download for https://www.youtube.com/watch?v=YPN0qhSyWy8&list=WL&index=79 complete.
+
+2021-05-22 16:46:24,760 - Writing to history...
+2021-05-22 16:46:24,760 - Done.
+2021-05-22 16:46:24,761 - Current: https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 
+2021-05-22 16:46:24,761 - youtube link
+2021-05-22 16:46:24,761 - Scraping for id: VGscIBfT7xE
+2021-05-22 16:46:25,562 - Youtube Music link.
+2021-05-22 16:46:25,563 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:46:29,347 - Done downloading video.
+2021-05-22 16:46:30,118 - Done downloading audio.
+2021-05-22 16:46:32,486 - Creating download information json.
+2021-05-22 16:46:32,487 - Writing text file.
+2021-05-22 16:46:32,487 - Downloading: bad apple but it's a discord voice channel user list - Thumbnail.png
+2021-05-22 16:46:32,525 - Merging audio and video files.
+2021-05-22 16:46:34,722 - Adding thumbnail to video file.
+2021-05-22 16:46:34,884 - Download for https://www.youtube.com/watch?v=VGscIBfT7xE&list=WL&index=3 complete.
+
+2021-05-22 16:46:34,885 - Writing to history...
+2021-05-22 16:46:34,886 - Done.
+2021-05-22 16:46:34,886 - Current: http://youtu.be/QY-gf4PNN4g 
+2021-05-22 16:46:34,886 - youtube link
+2021-05-22 16:46:34,887 - Scraping for id: None
+2021-05-22 16:46:34,988 - can only concatenate str (not "NoneType") to str
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 461, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 485, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 465, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 485, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 467, in youtube_extractor
+    sub_object["video_info"], sub_object["streams"] = extract_video_info(sub_object["id"])
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 485, in extract_video_info
+    url = "https://youtu.be/"+yt_id
+TypeError: can only concatenate str (not "NoneType") to str
+2021-05-22 16:46:34,993 - Current: https://www.youtube.com/watch?v=impo-7_Vtg0 
+2021-05-22 16:46:34,993 - youtube link
+2021-05-22 16:46:34,994 - Scraping for id: impo-7_Vtg0
+2021-05-22 16:46:35,790 - Youtube Music link.
+2021-05-22 16:46:35,790 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:47:32,043 - Done downloading video.
+2021-05-22 16:47:33,722 - Done downloading audio.
+2021-05-22 16:47:37,809 - Creating download information json.
+2021-05-22 16:47:37,810 - Writing text file.
+2021-05-22 16:47:37,810 - Downloading: Unleash the Archers  Awakening - Thumbnail.png
+2021-05-22 16:47:37,946 - Merging audio and video files.
+2021-05-22 16:47:41,730 - Adding thumbnail to video file.
+2021-05-22 16:47:41,871 - Download for https://www.youtube.com/watch?v=impo-7_Vtg0 complete.
+
+2021-05-22 16:47:41,872 - Writing to history...
+2021-05-22 16:47:41,873 - Done.
+2021-05-22 16:47:41,873 - Current: https://m.youtube.com/playlist?list=PLuUUN65Dt62WoeIRbROGHpMRNgWC-05BC 
+2021-05-22 16:47:41,874 - youtube link
+2021-05-22 16:47:41,876 - file_cache is only supported with oauth2client<4.0.0
+2021-05-22 16:47:42,048 - Scraping for id: i5f7zzkX1Nc
+2021-05-22 16:47:42,817 - Youtube Music link.
+2021-05-22 16:47:42,817 - Scraping for id: U4kvwj_YaWM
+2021-05-22 16:47:43,589 - Youtube Music link.
+2021-05-22 16:47:43,589 - Scraping for id: Z5HGnzQKLBc
+2021-05-22 16:47:44,344 - Youtube Music link.
+2021-05-22 16:47:44,344 - Scraping for id: 7t-9dhgCYW4
+2021-05-22 16:47:44,888 - Youtube Music link.
+2021-05-22 16:47:44,888 - Scraping for id: eRwCBCFuhdg
+2021-05-22 16:47:45,622 - Youtube Music link.
+2021-05-22 16:47:45,622 - Scraping for id: H0nYqhcPty8
+2021-05-22 16:47:46,346 - Youtube Music link.
+2021-05-22 16:47:46,347 - Scraping for id: jE7WcCMTLqA
+2021-05-22 16:47:47,054 - Youtube Music link.
+2021-05-22 16:47:47,055 - Scraping for id: icT4Qek0GU4
+2021-05-22 16:47:47,559 - Youtube Music link.
+2021-05-22 16:47:47,559 - Scraping for id: ECKYfPNbsww
+2021-05-22 16:47:48,264 - Youtube Music link.
+2021-05-22 16:47:48,264 - Scraping for id: SqN4Yuylj8o
+2021-05-22 16:47:49,014 - Youtube Music link.
+2021-05-22 16:47:49,015 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:48:29,972 - Done downloading video.
+2021-05-22 16:48:33,393 - Done downloading audio.
+2021-05-22 16:48:39,890 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:49:14,601 - Done downloading video.
+2021-05-22 16:49:15,909 - Done downloading audio.
+2021-05-22 16:49:22,618 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:50:16,625 - Done downloading video.
+2021-05-22 16:50:17,837 - Done downloading audio.
+2021-05-22 16:50:24,039 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:50:30,101 - Done downloading video.
+2021-05-22 16:50:31,478 - Done downloading audio.
+2021-05-22 16:50:40,092 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:57:08,888 - Done downloading video.
+2021-05-22 16:57:13,588 - Done downloading audio.
+2021-05-22 16:57:42,196 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:58:13,375 - Done downloading video.
+2021-05-22 16:58:14,868 - Done downloading audio.
+2021-05-22 16:58:18,203 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:59:17,024 - Done downloading video.
+2021-05-22 16:59:19,004 - Done downloading audio.
+2021-05-22 16:59:28,757 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:00:07,536 - Done downloading video.
+2021-05-22 17:00:09,031 - Done downloading audio.
+2021-05-22 17:00:16,012 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:00:21,688 - Done downloading video.
+2021-05-22 17:00:23,161 - Done downloading audio.
+2021-05-22 17:00:28,303 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:02:09,364 - Done downloading video.
+2021-05-22 17:02:12,468 - Done downloading audio.
+2021-05-22 17:02:23,063 - Creating download information json.
+2021-05-22 17:02:23,065 - Writing text file.
+2021-05-22 17:02:23,065 - Downloading: My Little Portal Episode 1 (HD) - Thumbnail.png
+2021-05-22 17:02:23,513 - Merging audio and video files.
+2021-05-22 17:02:28,737 - Adding thumbnail to video file.
+2021-05-22 17:02:28,934 - Writing text file.
+2021-05-22 17:02:28,934 - Downloading: My Little Portal Episode 2 (HD) - Thumbnail.png
+2021-05-22 17:02:29,254 - Merging audio and video files.
+2021-05-22 17:02:34,631 - Adding thumbnail to video file.
+2021-05-22 17:02:34,849 - Writing text file.
+2021-05-22 17:02:34,849 - Downloading: My Little Portal Episode 3 (HD) - Thumbnail.png
+2021-05-22 17:02:35,361 - Merging audio and video files.
+2021-05-22 17:02:40,541 - Adding thumbnail to video file.
+2021-05-22 17:02:40,751 - Writing text file.
+2021-05-22 17:02:40,751 - Downloading: My Little Portal Episode 4 (HD) - Thumbnail.png
+2021-05-22 17:02:41,015 - Merging audio and video files.
+2021-05-22 17:02:47,938 - Adding thumbnail to video file.
+2021-05-22 17:02:48,171 - Writing text file.
+2021-05-22 17:02:48,171 - Downloading: My Little Portal Episode 5 (Re-Upload, HD) - Thumbnail.png
+2021-05-22 17:02:48,460 - Merging audio and video files.
+2021-05-22 17:03:11,820 - Adding thumbnail to video file.
+2021-05-22 17:03:12,722 - Writing text file.
+2021-05-22 17:03:12,722 - Downloading: My Little Portal Episode 6 (HD) - Thumbnail.png
+2021-05-22 17:03:13,000 - Merging audio and video files.
+2021-05-22 17:03:16,249 - Adding thumbnail to video file.
+2021-05-22 17:03:16,424 - Writing text file.
+2021-05-22 17:03:16,424 - Downloading: My Little Portal Episode 7 (HD) - Thumbnail.png
+2021-05-22 17:03:16,885 - Merging audio and video files.
+2021-05-22 17:03:24,780 - Adding thumbnail to video file.
+2021-05-22 17:03:25,066 - Writing text file.
+2021-05-22 17:03:25,067 - Downloading: My Little Portal Episode 8 (HD) - Thumbnail.png
+2021-05-22 17:03:25,690 - Merging audio and video files.
+2021-05-22 17:03:31,128 - Adding thumbnail to video file.
+2021-05-22 17:03:31,349 - Writing text file.
+2021-05-22 17:03:31,349 - Downloading: My Little Portal Episode 9 (HD) - Thumbnail.png
+2021-05-22 17:03:31,631 - Merging audio and video files.
+2021-05-22 17:03:35,786 - Adding thumbnail to video file.
+2021-05-22 17:03:35,966 - Writing text file.
+2021-05-22 17:03:35,966 - Downloading: My Little Portal Episode 10 (HD) - Thumbnail.png
+2021-05-22 17:03:36,233 - Merging audio and video files.
+2021-05-22 17:03:46,805 - Adding thumbnail to video file.
+2021-05-22 17:03:47,210 - Download for https://m.youtube.com/playlist?list=PLuUUN65Dt62WoeIRbROGHpMRNgWC-05BC complete.
+
+2021-05-22 17:03:47,212 - Writing to history...
+2021-05-22 17:03:47,213 - Done.
+2021-05-22 17:03:47,213 - Current: https://www.youtube.com/watch?v=yjQ9zpvOa7k 
+2021-05-22 17:03:47,213 - youtube link
+2021-05-22 17:03:47,214 - Scraping for id: yjQ9zpvOa7k
+2021-05-22 17:03:48,230 - Youtube Music link.
+2021-05-22 17:03:48,231 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:03:51,276 - Done downloading video.
+2021-05-22 17:03:52,766 - Done downloading audio.
+2021-05-22 17:03:55,626 - Creating download information json.
+2021-05-22 17:03:55,627 - Writing text file.
+2021-05-22 17:03:55,627 - Downloading: John Kenza - Love (feat. 4EverfreeBrony) - Thumbnail.png
+2021-05-22 17:03:55,961 - Merging audio and video files.
+2021-05-22 17:03:58,246 - Adding thumbnail to video file.
+2021-05-22 17:03:58,383 - Download for https://www.youtube.com/watch?v=yjQ9zpvOa7k complete.
+
+2021-05-22 17:03:58,384 - Writing to history...
+2021-05-22 17:03:58,385 - Done.
+2021-05-22 17:03:58,385 - Current: https://m.youtube.com/watch?v=aTxhquEfQeA 
+2021-05-22 17:03:58,386 - youtube link
+2021-05-22 17:03:58,386 - Scraping for id: aTxhquEfQeA
+2021-05-22 17:03:58,948 - Youtube Music link.
+2021-05-22 17:03:58,949 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:04:10,263 - Done downloading video.
+2021-05-22 17:04:11,176 - Done downloading audio.
+2021-05-22 17:04:12,313 - Creating download information json.
+2021-05-22 17:04:12,314 - Writing text file.
+2021-05-22 17:04:12,314 - Downloading: Tomorrow's Here Today NDP 2016 Sheet Music - Thumbnail.png
+2021-05-22 17:04:12,625 - Merging audio and video files.
+2021-05-22 17:04:13,509 - Adding thumbnail to video file.
+2021-05-22 17:04:13,632 - Download for https://m.youtube.com/watch?v=aTxhquEfQeA complete.
+
+2021-05-22 17:04:13,633 - Writing to history...
+2021-05-22 17:04:13,634 - Done.
+2021-05-22 17:04:13,634 - Current: https://m.youtube.com/watch?v=xUMjaFWhY1w 
+2021-05-22 17:04:13,634 - youtube link
+2021-05-22 17:04:13,635 - Scraping for id: xUMjaFWhY1w
+2021-05-22 17:04:14,413 - Youtube Music link.
+2021-05-22 17:04:14,413 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:04:19,999 - Done downloading video.
+2021-05-22 17:04:20,886 - Done downloading audio.
+2021-05-22 17:04:23,324 - Creating download information json.
+2021-05-22 17:04:23,324 - Writing text file.
+2021-05-22 17:04:23,325 - Downloading: NDP 2016 Theme Song Tomorrow's Here Today by 53A - Thumbnail.png
+2021-05-22 17:04:23,364 - Merging audio and video files.
+2021-05-22 17:04:25,361 - Adding thumbnail to video file.
+2021-05-22 17:04:25,510 - Download for https://m.youtube.com/watch?v=xUMjaFWhY1w complete.
+
+2021-05-22 17:04:25,511 - Writing to history...
+2021-05-22 17:04:25,512 - Done.
+2021-05-22 17:04:25,512 - Current: https://youtu.be/bUOxlahZsOM 
+2021-05-22 17:04:25,512 - youtube link
+2021-05-22 17:04:25,513 - Scraping for id: bUOxlahZsOM
+2021-05-22 17:04:26,234 - Youtube Music link.
+2021-05-22 17:04:26,234 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:04:47,262 - Done downloading video.
+2021-05-22 17:04:48,412 - Done downloading audio.
+2021-05-22 17:04:52,418 - Creating download information json.
+2021-05-22 17:04:52,419 - Writing text file.
+2021-05-22 17:04:52,419 - Downloading: PrinceWhateverer - Eyes to See (ismBoF cover ft. ismBoF, Sable, Scrambles & Solrac) - Thumbnail.png
+2021-05-22 17:04:52,691 - Merging audio and video files.
+2021-05-22 17:04:55,805 - Adding thumbnail to video file.
+2021-05-22 17:04:56,011 - Download for https://youtu.be/bUOxlahZsOM complete.
+
+2021-05-22 17:04:56,012 - Writing to history...
+2021-05-22 17:04:56,013 - Done.
+2021-05-22 17:04:56,013 - Current: https://www.youtube.com/watch?v=hKUJmA9O6iA 
+2021-05-22 17:04:56,013 - youtube link
+2021-05-22 17:04:56,014 - Scraping for id: hKUJmA9O6iA
+2021-05-22 17:04:56,855 - Youtube Music link.
+2021-05-22 17:04:56,855 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:05:01,487 - Done downloading video.
+2021-05-22 17:05:02,525 - Done downloading audio.
+2021-05-22 17:05:04,719 - Creating download information json.
+2021-05-22 17:05:04,720 - Writing text file.
+2021-05-22 17:05:04,720 - Downloading: BLACKPINK -  (AS IF ITS YOUR LAST) DANCE PRACTICE VIDEO - Thumbnail.png
+2021-05-22 17:05:04,757 - Merging audio and video files.
+2021-05-22 17:05:06,760 - Adding thumbnail to video file.
+2021-05-22 17:05:52,435 - Download for https://www.youtube.com/watch?v=hKUJmA9O6iA complete.
+
+2021-05-22 17:05:52,436 - Writing to history...
+2021-05-22 17:05:52,436 - Done.
+2021-05-22 17:05:52,437 - Current: https://youtu.be/Vz9MAmRXhos 
+2021-05-22 17:05:52,437 - youtube link
+2021-05-22 17:05:52,438 - Scraping for id: Vz9MAmRXhos
+2021-05-22 17:05:53,081 - Youtube Music link.
+2021-05-22 17:05:53,081 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:06:17,869 - Done downloading video.
+2021-05-22 17:06:20,930 - Done downloading audio.
+2021-05-22 17:06:42,047 - Creating download information json.
+2021-05-22 17:06:42,048 - Writing text file.
+2021-05-22 17:06:42,048 - Downloading: The Complete My Little Pony Friendship is Magic Timeline (2020) - Thumbnail.png
+2021-05-22 17:06:42,112 - Merging audio and video files.
+2021-05-22 17:07:12,735 - Adding thumbnail to video file.
+2021-05-22 17:07:13,574 - Download for https://youtu.be/Vz9MAmRXhos complete.
+
+2021-05-22 17:07:13,576 - Writing to history...
+2021-05-22 17:07:13,577 - Done.
+2021-05-22 17:07:13,577 - Current: https://youtu.be/RErdSr0iAcs 
+2021-05-22 17:07:13,577 - youtube link
+2021-05-22 17:07:13,578 - Scraping for id: RErdSr0iAcs
+2021-05-22 17:07:14,308 - Youtube Music link.
+2021-05-22 17:07:14,308 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:07:17,251 - Done downloading video.
+2021-05-22 17:07:18,067 - Done downloading audio.
+2021-05-22 17:07:19,482 - Creating download information json.
+2021-05-22 17:07:19,483 - Writing text file.
+2021-05-22 17:07:19,483 - Downloading: 'And I think to myself, what a wonderful world.' - Thumbnail.png
+2021-05-22 17:07:19,526 - Merging audio and video files.
+2021-05-22 17:07:20,749 - Adding thumbnail to video file.
+2021-05-22 17:07:20,883 - Download for https://youtu.be/RErdSr0iAcs complete.
+
+2021-05-22 17:07:20,884 - Writing to history...
+2021-05-22 17:07:20,885 - Done.
+2021-05-22 17:07:20,885 - Current: https://youtu.be/ifv63CC2UHs 
+2021-05-22 17:07:20,885 - youtube link
+2021-05-22 17:07:20,886 - Scraping for id: ifv63CC2UHs
+2021-05-22 17:07:21,758 - Youtube Music link.
+2021-05-22 17:07:21,758 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:07:25,425 - Done downloading video.
+2021-05-22 17:07:26,315 - Done downloading audio.
+2021-05-22 17:07:29,048 - Creating download information json.
+2021-05-22 17:07:29,049 - Writing text file.
+2021-05-22 17:07:29,049 - Downloading: 4everfreebrony - Love (Piano Version) - Thumbnail.png
+2021-05-22 17:07:29,319 - Merging audio and video files.
+2021-05-22 17:07:31,510 - Adding thumbnail to video file.
+2021-05-22 17:07:31,655 - Download for https://youtu.be/ifv63CC2UHs complete.
+
+2021-05-22 17:07:31,656 - Writing to history...
+2021-05-22 17:07:31,656 - Done.
+2021-05-22 17:07:31,657 - Current: https://youtu.be/n5uzGASyDJ0 
+2021-05-22 17:07:31,657 - youtube link
+2021-05-22 17:07:31,658 - Scraping for id: n5uzGASyDJ0
+2021-05-22 17:07:32,414 - Youtube Music link.
+2021-05-22 17:07:32,414 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:08:08,887 - Done downloading video.
+2021-05-22 17:08:10,382 - Done downloading audio.
+2021-05-22 17:08:14,024 - Creating download information json.
+2021-05-22 17:08:14,025 - Writing text file.
+2021-05-22 17:08:14,025 - Downloading: Gypsy Bard (Scraton Remix) - Thumbnail.png
+2021-05-22 17:08:14,309 - Merging audio and video files.
+2021-05-22 17:08:17,166 - Adding thumbnail to video file.
+2021-05-22 17:08:17,357 - Download for https://youtu.be/n5uzGASyDJ0 complete.
+
+2021-05-22 17:08:17,358 - Writing to history...
+2021-05-22 17:08:17,359 - Done.
+2021-05-22 17:08:17,359 - Current: https://www.youtube.com/watch?v=nolrhgNoo4M 
+2021-05-22 17:08:17,359 - youtube link
+2021-05-22 17:08:17,360 - Scraping for id: nolrhgNoo4M
+2021-05-22 17:08:18,095 - Youtube Music link.
+2021-05-22 17:08:18,095 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:08:24,351 - Done downloading video.
+2021-05-22 17:08:25,263 - Done downloading audio.
+2021-05-22 17:08:25,793 - Creating download information json.
+2021-05-22 17:08:25,794 - Writing text file.
+2021-05-22 17:08:25,794 - Downloading: MLP Opening but it's drawn by the left hand or something - Thumbnail.png
+2021-05-22 17:08:26,071 - Merging audio and video files.
+2021-05-22 17:08:26,427 - Adding thumbnail to video file.
+2021-05-22 17:08:26,524 - Download for https://www.youtube.com/watch?v=nolrhgNoo4M complete.
+
+2021-05-22 17:08:26,525 - Writing to history...
+2021-05-22 17:08:26,526 - Done.
+2021-05-22 17:08:26,526 - Current:  https://youtu.be/p1OQlCVRgoE 
+2021-05-22 17:08:26,526 - youtube link
+2021-05-22 17:08:26,527 - Scraping for id: p1OQlCVRgoE
+2021-05-22 17:08:27,350 - Youtube Music link.
+2021-05-22 17:08:27,350 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:08:56,572 - Done downloading video.
+2021-05-22 17:08:58,452 - Done downloading audio.
+2021-05-22 17:09:00,980 - Creating download information json.
+2021-05-22 17:09:00,981 - Writing text file.
+2021-05-22 17:09:00,981 - Downloading: Violin Melody - Hope (Nicolas Dominique's Liquid Remix) - Thumbnail.png
+2021-05-22 17:09:01,591 - Merging audio and video files.
+2021-05-22 17:09:03,604 - Adding thumbnail to video file.
+2021-05-22 17:09:03,716 - Download for https://youtu.be/p1OQlCVRgoE complete.
+
+2021-05-22 17:09:03,717 - Writing to history...
+2021-05-22 17:09:03,717 - Done.
+2021-05-22 17:09:03,718 - Current: https://youtu.be/Pjw1EtYxZa4 
+2021-05-22 17:09:03,718 - youtube link
+2021-05-22 17:09:03,718 - Scraping for id: Pjw1EtYxZa4
+2021-05-22 17:09:04,429 - Youtube Music link.
+2021-05-22 17:09:04,429 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:09:12,359 - Done downloading video.
+2021-05-22 17:09:13,175 - Done downloading audio.
+2021-05-22 17:09:14,754 - Creating download information json.
+2021-05-22 17:09:14,755 - Writing text file.
+2021-05-22 17:09:14,755 - Downloading: PMV Collab Just the way you are - Thumbnail.png
+2021-05-22 17:09:14,814 - Merging audio and video files.
+2021-05-22 17:09:16,067 - Adding thumbnail to video file.
+2021-05-22 17:09:16,198 - Download for https://youtu.be/Pjw1EtYxZa4 complete.
+
+2021-05-22 17:09:16,199 - Writing to history...
+2021-05-22 17:09:16,200 - Done.
+2021-05-22 17:09:16,200 - Current: https://www.youtube.com/watch?v=lZEHrA0v3AU 
+2021-05-22 17:09:16,200 - youtube link
+2021-05-22 17:09:16,201 - Scraping for id: lZEHrA0v3AU
+2021-05-22 17:09:16,840 - Youtube Music link.
+2021-05-22 17:09:16,841 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:09:21,672 - Done downloading video.
+2021-05-22 17:09:22,582 - Done downloading audio.
+2021-05-22 17:09:23,791 - Creating download information json.
+2021-05-22 17:09:23,792 - Writing text file.
+2021-05-22 17:09:23,792 - Downloading: sunshine sunshine ladybugs awake mlp compilation - Thumbnail.png
+2021-05-22 17:09:23,846 - Merging audio and video files.
+2021-05-22 17:09:24,835 - Adding thumbnail to video file.
+2021-05-22 17:09:24,951 - Download for https://www.youtube.com/watch?v=lZEHrA0v3AU complete.
+
+2021-05-22 17:09:24,952 - Writing to history...
+2021-05-22 17:09:24,953 - Done.
+2021-05-22 17:09:24,953 - Current: https://youtu.be/wWzVxoXqrSc 
+2021-05-22 17:09:24,953 - youtube link
+2021-05-22 17:09:24,954 - Scraping for id: wWzVxoXqrSc
+2021-05-22 17:09:25,686 - Youtube Music link.
+2021-05-22 17:09:25,686 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:09:50,906 - Done downloading video.
+2021-05-22 17:09:52,808 - Done downloading audio.
+2021-05-22 17:09:55,754 - Creating download information json.
+2021-05-22 17:09:55,755 - Writing text file.
+2021-05-22 17:09:55,755 - Downloading: Spikey Wikey - Hush - Thumbnail.png
+2021-05-22 17:09:56,218 - Merging audio and video files.
+2021-05-22 17:09:58,484 - Adding thumbnail to video file.
+2021-05-22 17:09:58,600 - Download for https://youtu.be/wWzVxoXqrSc complete.
+
+2021-05-22 17:09:58,601 - Writing to history...
+2021-05-22 17:09:58,602 - Done.
+2021-05-22 17:09:58,602 - Current: https://youtu.be/A2TnYAmZDNg 
+2021-05-22 17:09:58,602 - youtube link
+2021-05-22 17:09:58,603 - Scraping for id: A2TnYAmZDNg
+2021-05-22 17:09:59,304 - Youtube Music link.
+2021-05-22 17:09:59,305 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:10:01,295 - Done downloading video.
+2021-05-22 17:10:02,162 - Done downloading audio.
+2021-05-22 17:10:03,124 - Creating download information json.
+2021-05-22 17:10:03,125 - Writing text file.
+2021-05-22 17:10:03,125 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-22 17:10:03,173 - Merging audio and video files.
+2021-05-22 17:10:04,376 - Adding thumbnail to video file.
+2021-05-22 17:10:04,498 - Download for https://youtu.be/A2TnYAmZDNg complete.
+
+2021-05-22 17:10:04,499 - Writing to history...
+2021-05-22 17:10:04,500 - Done.
+2021-05-22 17:10:04,500 - Current: https://www.youtube.com/watch?v=lk2wqYPlLoc 
+2021-05-22 17:10:04,500 - youtube link
+2021-05-22 17:10:04,501 - Scraping for id: lk2wqYPlLoc
+2021-05-22 17:10:04,999 - Youtube Video: https://youtu.be/lk2wqYPlLoc is unavailable
+2021-05-22 17:10:05,000 - list index out of range
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 221, in parse_file
+    Downloader = download.download(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 173, in download
+    folder_path = Downloader.objects_list[Downloader.current].download_info[0]
+IndexError: list index out of range
+2021-05-22 17:10:05,007 - Current: https://www.youtube.com/watch?v=Iuc7CFE8UaU 
+2021-05-22 17:10:05,007 - youtube link
+2021-05-22 17:10:05,008 - Scraping for id: Iuc7CFE8UaU
+2021-05-22 17:10:06,022 - Youtube Music link.
+2021-05-22 17:10:06,023 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 17:10:12,166 - Done downloading video.
+2021-05-22 17:10:13,207 - Done downloading audio.
+2021-05-22 17:10:15,884 - Creating download information json.
+2021-05-22 17:10:15,885 - Writing text file.
+2021-05-22 17:10:15,885 - Downloading: Define Light  - Moments [Tasty Release] - Thumbnail.png
+2021-05-22 17:10:16,170 - Merging audio and video files.
+2021-05-22 17:10:18,315 - Adding thumbnail to video file.
+2021-05-22 17:10:18,447 - Download for https://www.youtube.com/watch?v=Iuc7CFE8UaU complete.
+
+2021-05-22 17:10:18,448 - Writing to history...
+2021-05-22 17:10:18,449 - Done.
+2021-05-22 17:11:08,055 - Command: close
+2021-05-22 17:11:08,055 - 
+Log Ended.
+Total time: 0 hrs 27 min 59.21 sec
+

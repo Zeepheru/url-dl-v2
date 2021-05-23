@@ -4,7 +4,8 @@
         "descriptions only": false,
         "download": true,
         "export download info": true,
-        "print download info": false
+        "print download info": false,
+        "redownload":true
     },
     "directories": {
         "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json",

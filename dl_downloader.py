@@ -85,7 +85,7 @@ def create_download_json(Downloader):
     dl_logger.log_to_file("Creating download information json.")
     if current.site == "Youtube":
         if current.data["type"] == "channel":
-            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
+            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group()) #data undefined????
 
         elif current.data["type"] == "playlist":
             filename = "{}_playlist_{}_{}.json".format(current.site, data["playlist name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
@@ -117,37 +117,37 @@ def file_download_handler(download_object, Downloader):
             dl_logger.log_to_file("Created directory: {}".format(parent_dir))
 
         url = download_object["contents"]
+        if url != "http_mergeonly":
+            if download_object["text file"] == True:
+                utils.file_write(output_path,url)
+                dl_logger.log_to_file("Writing text file.")
 
-        if download_object["text file"] == True:
-            utils.file_write(output_path,url)
-            dl_logger.log_to_file("Writing text file.")
+            if Downloader.settings["debug"]["print download info"] == True:
+                print(utils.print_json(download_object))
 
-        if Downloader.settings["debug"]["print download info"] == True:
-            print(utils.print_json(download_object))
+            if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
+                try:
+                    dl_logger.log_info("Downloading: {}".format(r""+download_object["filename"]))
+                except:
+                    dl_logger.log_info("Downloading to: {}".format(r""+output_path)) #CHange this print statement
+                r = requests.get(url, stream=True)
 
-        if Downloader.settings["debug"]["download"] == True and download_object["download"] == True:
-            try:
-                dl_logger.log_info("Downloading: {}".format(r""+download_object["filename"]))
-            except:
-                dl_logger.log_info("Downloading to: {}".format(r""+output_path)) #CHange this print statement
-            r = requests.get(url, stream=True)
+                total_size = int(r.headers.get('content-length', 0))
 
-            total_size = int(r.headers.get('content-length', 0))
+                size = utils.byte_converter(total_size)
 
-            size = utils.byte_converter(total_size)
+                block_size = 1024 #1 Kibibyte
 
-            block_size = 1024 #1 Kibibyte
+                t=tqdm(total=total_size, unit='iB', unit_scale=True)  #Solved by running in python(w).exe via task scheduler
 
-            t=tqdm(total=total_size, unit='iB', unit_scale=True)  #Solved by running in python(w).exe via task scheduler
+                with open(output_path, 'wb') as f:
+                    for data in r.iter_content(block_size):
+                        t.update(len(data))
+                        f.write(data)
+                t.close()
 
-            with open(output_path, 'wb') as f:
-                for data in r.iter_content(block_size):
-                    t.update(len(data))
-                    f.write(data)
-            t.close()
-
-            if re.search(r'.mp3',output_path) != None:
-                applymetadata(download_object)
+                if re.search(r'.mp3',output_path) != None:
+                    applymetadata(download_object)
 
         if download_object["path"][-3:] == "mp3":
             try:
@@ -190,33 +190,46 @@ def download(Downloader):
 
     return Downloader
 
-def merge_streams(download_object):
+def merge_streams(download_object): #seems like a YT exclusive, as always
     folder_path = re.search(utils.parent_dir_regex,download_object["path"]).group()
     os.chdir(folder_path)
-    video_path, audio_path, thumbnail = download_object["filename"], download_object["merge audio"], download_object["thumbnail"]
+
+    ## now the code here goes through the listdir of the export folder and settles stuff out
+    video_path, audio_path, thumbnail = "", "", ""
+    for f in os.listdir(folder_path):
+        if f.endswith(".png") or f.endswith(".jpg"):
+            thumbnail = os.path.join(folder_path, f)
+        elif f.startswith("tmpvideo_"):
+            video_path = os.path.join(folder_path, f)
+        elif f.startswith("tmpaudio_"):
+            audio_path = os.path.join(folder_path, f)
+    ###
     
-    new_video_path = video_path.replace("video_","temp_")
+    new_video_path = video_path.replace("tmpvideo_","temp_")
     if new_video_path[-4:] == 'webm':
         new_video_path = new_video_path.replace(".webm",".mp4") #force this, I'm very tired
-    new_audio_path = audio_path.replace("audio_","")
+    new_audio_path = audio_path.replace("tmpaudio_","")
 
     dl_logger.log_to_file("Merging audio and video files.")
     try:
         input_video = ffmpeg.input(video_path)
         input_audio = ffmpeg.input(audio_path)
-        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+        ffmpeg.output(input_audio.audio,input_video.video,new_video_path, shortest=None, vcodec='copy').run() 
+        #I WANT TO AHHHHHHHHHHHHHHHHHHHBHHHHHHHHH - FileNotFoundError: [WinError 2] The system cannot find the file specified - does seem to be a Python x FFMPEG error not mine, but I have to fix it anyway lol yargjhhhhh
+
     except:
         #print("BACKUP1")
         #Backup if needed, unused on laptop as well
         os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
+
     #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
     
 
     #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
     dl_logger.log_to_file("Adding thumbnail to video file.")
     new_new_video_path = new_video_path.replace("temp_","")
-    os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"')
-    #os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, "Thumbnail.png", new_new_video_path))
+    #os.system(r'ffmpeg -i "temp_4everfreebrony - When Morning Is Come (feat. Namii).mp4" -i "Thumbnail.png" -map 1 -map 0 -c copy -disposition:0 attached_pic "4everfreebrony - When Morning Is Come (feat. Namii).mp4"') #WUT?
+    os.system('ffmpeg -i "{}" -i "{}" -map 1 -map 0 -c copy -disposition:0 attached_pic "{}"'.format(new_video_path, thumbnail, new_new_video_path))
     #Shortened filepaths, chdir'd to the folder to use ffmpeg there seems to fix issues
 
     try:
@@ -257,6 +270,11 @@ def merge_streams(download_object):
             "metadata": download_object["metadata"]
         }
         )
+
+    #finally deletes all temp files, manually because I cant find the right fecking variables
+    for f in os.listdir(folder_path):
+        if f.startswith("TEMP_") or f.startswith("temp_"):
+            os.remove(os.path.join(folder_path, f))
 
 if __name__ == "__main__":
     def Tester_bandcamp_metadata():

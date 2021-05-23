@@ -1,3 +1,5 @@
+import time
+
 class RunInfo(): #todo import this class in all files
     def __init__(self):
         self.target_status = None

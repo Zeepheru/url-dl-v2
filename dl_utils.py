@@ -27,6 +27,9 @@ def apostrophe(text): #For  all string issues
 def give_me_the_time():
     return time.strftime("%Y %m %d %H.%M.%S")
 
+def give_me_the_time_dashed():
+    return time.strftime("%Y-%m-%d %H.%M.%S")
+
 def print_json(data):
     print(json.dumps(data, indent=4, sort_keys=True))
 
@@ -38,7 +41,7 @@ def source_code(link): #may change
     if response.status_code == 200:
         pass
     else:
-        local.log(response.status_code)
+        print(response.status_code)
     text = response.content
     #esp the unicode part - maybe change completely, edit it afterwards - may compare to bs4's implementations
     text = text.decode()
