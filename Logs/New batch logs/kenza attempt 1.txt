@@ -1,0 +1,872 @@
+2021-05-23 16:02:38,223 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 16:02:38,223 - Autocommand from settings: run
+2021-05-23 16:02:38,223 - Command: run
+2021-05-23 16:02:38,224 - Current: https://www.youtube.com/channel/UC471V820Y6Zqu3N8u4wefww 
+2021-05-23 16:02:38,224 - youtube link
+2021-05-23 16:02:39,073 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 16:02:39,124 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU471V820Y6Zqu3N8u4wefww"
+}
+2021-05-23 16:02:39,124 - Upload Playlist: UU471V820Y6Zqu3N8u4wefww
+2021-05-23 16:02:39,320 - Now downloading channel: John Kenza
+Video Count: 130
+2021-05-23 16:02:39,320 - Channel has 130 videos downloaded.
+2021-05-23 16:02:39,320 - Scraping for id: quOai1Jsxec
+2021-05-23 16:02:40,612 - Youtube Music link.
+2021-05-23 16:02:40,612 - Scraping for id: FvyXeKic_9k
+2021-05-23 16:02:41,381 - Youtube Music link.
+2021-05-23 16:02:41,381 - Scraping for id: tj0J9ZGHKO8
+2021-05-23 16:02:42,184 - Youtube Music link.
+2021-05-23 16:02:42,184 - Scraping for id: ckqMernq3vg
+2021-05-23 16:02:42,958 - Youtube Music link.
+2021-05-23 16:02:42,958 - Scraping for id: A_qbWflVtG4
+2021-05-23 16:02:43,731 - Youtube Music link.
+2021-05-23 16:02:43,732 - Scraping for id: 3FpPH5pURIw
+2021-05-23 16:02:44,308 - Youtube Music link.
+2021-05-23 16:02:44,309 - Scraping for id: LiTAzH1YjP8
+2021-05-23 16:02:44,968 - Youtube Music link.
+2021-05-23 16:02:44,968 - Scraping for id: DE0CAlM5eFw
+2021-05-23 16:02:45,846 - Youtube Music link.
+2021-05-23 16:02:45,847 - Scraping for id: 5FA_I2isKPk
+2021-05-23 16:02:46,832 - Youtube Music link.
+2021-05-23 16:02:46,833 - Scraping for id: fANwLNPhgSk
+2021-05-23 16:02:47,558 - Youtube Music link.
+2021-05-23 16:02:47,559 - Scraping for id: ol8aszmWMBA
+2021-05-23 16:02:48,310 - Youtube Music link.
+2021-05-23 16:02:48,311 - Scraping for id: fQBjy5Y7qcM
+2021-05-23 16:02:49,103 - Youtube Music link.
+2021-05-23 16:02:49,104 - Scraping for id: H7QrqdA0zDQ
+2021-05-23 16:02:49,684 - Youtube Music link.
+2021-05-23 16:02:49,685 - Scraping for id: w0NIb8SoCLA
+2021-05-23 16:02:50,563 - Youtube Music link.
+2021-05-23 16:02:50,564 - Scraping for id: cQxIwp1OKL0
+2021-05-23 16:02:51,335 - Youtube Music link.
+2021-05-23 16:02:51,336 - Scraping for id: wDSOz2GOjhs
+2021-05-23 16:02:52,023 - Youtube Music link.
+2021-05-23 16:02:52,023 - Scraping for id: ZaCOiUya2Bs
+2021-05-23 16:02:52,839 - Youtube Music link.
+2021-05-23 16:02:52,839 - Scraping for id: JD_WTrb9Fjg
+2021-05-23 16:02:53,694 - Youtube Music link.
+2021-05-23 16:02:53,694 - Scraping for id: n8Rv4fN4xq0
+2021-05-23 16:02:54,790 - Youtube Music link.
+2021-05-23 16:02:54,791 - Scraping for id: 62Y6J4QMacQ
+2021-05-23 16:02:55,644 - Youtube Music link.
+2021-05-23 16:02:55,645 - Scraping for id: ATd3JqA0H1A
+2021-05-23 16:02:56,276 - Youtube Music link.
+2021-05-23 16:02:56,277 - Scraping for id: OsXHmAO12DE
+2021-05-23 16:02:57,026 - Youtube Music link.
+2021-05-23 16:02:57,026 - Scraping for id: RWoGjKMmbIo
+2021-05-23 16:02:57,874 - Youtube Music link.
+2021-05-23 16:02:57,874 - Scraping for id: rs4eZF7QXFQ
+2021-05-23 16:02:58,740 - Youtube Music link.
+2021-05-23 16:02:58,740 - Scraping for id: aWgJIQr2o60
+2021-05-23 16:02:59,595 - Youtube Music link.
+2021-05-23 16:02:59,595 - Scraping for id: 5E3wO_sDZjU
+2021-05-23 16:03:00,297 - Youtube Music link.
+2021-05-23 16:03:00,297 - Scraping for id: JMq_duMcVcc
+2021-05-23 16:03:01,219 - Youtube Music link.
+2021-05-23 16:03:01,219 - Scraping for id: tF4HewRW7PQ
+2021-05-23 16:03:02,089 - Youtube Music link.
+2021-05-23 16:03:02,089 - Scraping for id: QRHZTKKlXZE
+2021-05-23 16:03:02,592 - Youtube Music link.
+2021-05-23 16:03:02,593 - Scraping for id: -tJc31gItj8
+2021-05-23 16:03:03,202 - Youtube Music link.
+2021-05-23 16:03:03,203 - Scraping for id: BHTq2-B2B3I
+2021-05-23 16:03:04,050 - Youtube Music link.
+2021-05-23 16:03:04,050 - Scraping for id: _WV9QQ4evW4
+2021-05-23 16:03:04,820 - Youtube Music link.
+2021-05-23 16:03:04,821 - Scraping for id: Ehbx-knkjyQ
+2021-05-23 16:03:05,854 - Youtube Music link.
+2021-05-23 16:03:05,854 - Scraping for id: MGn0c_QGdPA
+2021-05-23 16:03:06,740 - Youtube Music link.
+2021-05-23 16:03:06,740 - Scraping for id: 159Cumao7-Q
+2021-05-23 16:03:07,508 - Youtube Music link.
+2021-05-23 16:03:07,509 - Scraping for id: i56cz-sbWq0
+2021-05-23 16:03:08,168 - Youtube Music link.
+2021-05-23 16:03:08,169 - Scraping for id: sPBq1VP17B8
+2021-05-23 16:03:09,067 - Youtube Music link.
+2021-05-23 16:03:09,067 - Scraping for id: k8UdMHHpthI
+2021-05-23 16:03:09,847 - Youtube Music link.
+2021-05-23 16:03:09,847 - Scraping for id: jDaitClPGrs
+2021-05-23 16:03:10,748 - Youtube Music link.
+2021-05-23 16:03:10,748 - Scraping for id: x3qNsneopSk
+2021-05-23 16:03:11,598 - Youtube Music link.
+2021-05-23 16:03:11,598 - Scraping for id: ko0fT6CEWag
+2021-05-23 16:03:12,560 - Youtube Music link.
+2021-05-23 16:03:12,561 - Scraping for id: yjQ9zpvOa7k
+2021-05-23 16:03:13,365 - Youtube Music link.
+2021-05-23 16:03:13,365 - Scraping for id: j1tTYrcJgjM
+2021-05-23 16:03:14,415 - Youtube Music link.
+2021-05-23 16:03:14,415 - Scraping for id: VQLtdKJJiSM
+2021-05-23 16:03:15,155 - Youtube Music link.
+2021-05-23 16:03:15,156 - Scraping for id: T-jhHnXLA3U
+2021-05-23 16:03:16,008 - Youtube Music link.
+2021-05-23 16:03:16,008 - Scraping for id: a5hwsRo-Cn8
+2021-05-23 16:03:16,744 - Youtube Music link.
+2021-05-23 16:03:16,745 - Scraping for id: kZnIpICYMfg
+2021-05-23 16:03:17,605 - Youtube Music link.
+2021-05-23 16:03:17,605 - Scraping for id: hVvUmJHh3ls
+2021-05-23 16:03:18,255 - Youtube Music link.
+2021-05-23 16:03:18,255 - Scraping for id: zelzKMLFlJU
+2021-05-23 16:03:19,182 - Youtube Music link.
+2021-05-23 16:03:19,182 - Scraping for id: LKBkNTiqwAc
+2021-05-23 16:03:20,190 - Youtube Music link.
+2021-05-23 16:03:20,191 - Scraping for id: IbkErCjV_cw
+2021-05-23 16:03:21,206 - Youtube Music link.
+2021-05-23 16:03:21,206 - Scraping for id: bmf63oUV2Ik
+2021-05-23 16:03:22,133 - Youtube Music link.
+2021-05-23 16:03:22,133 - Scraping for id: Il3G_wq7z8I
+2021-05-23 16:03:22,975 - Youtube Music link.
+2021-05-23 16:03:22,976 - Scraping for id: Dcj39NZ-73g
+2021-05-23 16:03:23,987 - Youtube Music link.
+2021-05-23 16:03:23,988 - Scraping for id: tZpxR8iM19s
+2021-05-23 16:03:24,897 - Youtube Music link.
+2021-05-23 16:03:24,898 - Scraping for id: 0A1oOAF2TtA
+2021-05-23 16:03:25,606 - Youtube Music link.
+2021-05-23 16:03:25,606 - Scraping for id: sgu0iTaWknE
+2021-05-23 16:03:26,274 - Youtube Music link.
+2021-05-23 16:03:26,275 - Scraping for id: hm2SoRiGJN8
+2021-05-23 16:03:27,211 - Youtube Music link.
+2021-05-23 16:03:27,212 - Scraping for id: Tfa_uMpvF-A
+2021-05-23 16:03:28,162 - Youtube Music link.
+2021-05-23 16:03:28,162 - Scraping for id: t9cHbQaxLI0
+2021-05-23 16:03:29,085 - Youtube Music link.
+2021-05-23 16:03:29,085 - Scraping for id: OqB-GYXIWOs
+2021-05-23 16:03:29,748 - Youtube Music link.
+2021-05-23 16:03:29,748 - Scraping for id: Bby0aBNPxlY
+2021-05-23 16:03:30,696 - Youtube Music link.
+2021-05-23 16:03:30,696 - Scraping for id: H4w0ZDECYZY
+2021-05-23 16:03:31,371 - Youtube Music link.
+2021-05-23 16:03:31,371 - Scraping for id: 0xAf6aIpO7A
+2021-05-23 16:03:32,089 - Youtube Music link.
+2021-05-23 16:03:32,089 - Scraping for id: gFfyRDui38k
+2021-05-23 16:03:32,628 - Youtube Music link.
+2021-05-23 16:03:32,628 - Scraping for id: q8-cpCR2A8Y
+2021-05-23 16:03:33,270 - Youtube Music link.
+2021-05-23 16:03:33,271 - Scraping for id: 9gMu5-DMvK0
+2021-05-23 16:03:34,026 - Youtube Music link.
+2021-05-23 16:03:34,026 - Scraping for id: BmaBtc8KD18
+2021-05-23 16:03:34,912 - Youtube Music link.
+2021-05-23 16:03:34,912 - Scraping for id: Q4Y9UI4Az38
+2021-05-23 16:03:35,885 - Youtube Music link.
+2021-05-23 16:03:35,885 - Scraping for id: g37i3WDG7TU
+2021-05-23 16:03:36,792 - Youtube Music link.
+2021-05-23 16:03:36,793 - Scraping for id: wOvzvuIrCg0
+2021-05-23 16:03:37,849 - Youtube Music link.
+2021-05-23 16:03:37,850 - Scraping for id: o0Q-yPVbYqA
+2021-05-23 16:03:38,646 - Youtube Music link.
+2021-05-23 16:03:38,647 - Scraping for id: XAh_PIseiCA
+2021-05-23 16:03:39,683 - Youtube Music link.
+2021-05-23 16:03:39,683 - Scraping for id: uTaFileejTY
+2021-05-23 16:03:40,679 - Youtube Music link.
+2021-05-23 16:03:40,679 - Scraping for id: lloKQIGn7ds
+2021-05-23 16:03:41,408 - Youtube Music link.
+2021-05-23 16:03:41,409 - Scraping for id: zBRH7ZTPe5Q
+2021-05-23 16:03:42,302 - Youtube Music link.
+2021-05-23 16:03:42,302 - Scraping for id: PW3W8AU79Tw
+2021-05-23 16:03:43,213 - Youtube Music link.
+2021-05-23 16:03:43,213 - Scraping for id: fc7-Oib8iu4
+2021-05-23 16:03:44,319 - Youtube Music link.
+2021-05-23 16:03:44,320 - Scraping for id: sOpHUfs_vfE
+2021-05-23 16:03:45,109 - Youtube Music link.
+2021-05-23 16:03:45,109 - Scraping for id: -XjN1XddB-s
+2021-05-23 16:03:46,322 - Youtube Music link.
+2021-05-23 16:03:46,323 - Scraping for id: NMZ5ZlvkdM0
+2021-05-23 16:03:47,305 - Youtube Music link.
+2021-05-23 16:03:47,305 - Scraping for id: qtIrnPeybLU
+2021-05-23 16:03:47,941 - Youtube Music link.
+2021-05-23 16:03:47,941 - Scraping for id: KkD5WTm4nG4
+2021-05-23 16:03:48,751 - Youtube Music link.
+2021-05-23 16:03:48,751 - Scraping for id: 8Dj89sMtAsQ
+2021-05-23 16:03:49,554 - Youtube Music link.
+2021-05-23 16:03:49,554 - Scraping for id: 8VN-eXcgdk8
+2021-05-23 16:03:50,265 - Youtube Music link.
+2021-05-23 16:03:50,265 - Scraping for id: h_SxM0cJAGE
+2021-05-23 16:03:51,256 - Youtube Music link.
+2021-05-23 16:03:51,256 - Scraping for id: -nWhgra9H70
+2021-05-23 16:03:52,039 - Youtube Music link.
+2021-05-23 16:03:52,039 - Scraping for id: ZXeYlDQq47A
+2021-05-23 16:03:53,087 - Youtube Music link.
+2021-05-23 16:03:53,087 - Scraping for id: SKpre3KjN20
+2021-05-23 16:03:53,869 - Youtube Music link.
+2021-05-23 16:03:53,870 - Scraping for id: w8Gk8cJFQgY
+2021-05-23 16:03:54,802 - Youtube Music link.
+2021-05-23 16:03:54,802 - Scraping for id: B8__eKtt2jg
+2021-05-23 16:03:55,729 - Youtube Music link.
+2021-05-23 16:03:55,729 - Scraping for id: 3wxHG2E_Wo8
+2021-05-23 16:03:56,652 - Youtube Music link.
+2021-05-23 16:03:56,652 - Scraping for id: DYcWoWM4Pi4
+2021-05-23 16:03:57,664 - Youtube Music link.
+2021-05-23 16:03:57,665 - Scraping for id: nh_i9QhTbH8
+2021-05-23 16:03:58,440 - Youtube Music link.
+2021-05-23 16:03:58,440 - Scraping for id: 4-cLqGxjIU8
+2021-05-23 16:03:59,467 - Youtube Music link.
+2021-05-23 16:03:59,468 - Scraping for id: I-hGQd8cLAI
+2021-05-23 16:04:00,353 - Youtube Music link.
+2021-05-23 16:04:00,353 - Scraping for id: oLFjH-vMR8c
+2021-05-23 16:04:01,310 - Youtube Music link.
+2021-05-23 16:04:01,310 - Scraping for id: jxmQbAXccuw
+2021-05-23 16:04:02,126 - Youtube Music link.
+2021-05-23 16:04:02,126 - Scraping for id: olhOWI8zoyA
+2021-05-23 16:04:02,902 - Youtube Music link.
+2021-05-23 16:04:02,903 - Scraping for id: n7yBn8YAtp4
+2021-05-23 16:04:03,968 - Youtube Music link.
+2021-05-23 16:04:03,968 - Scraping for id: ciTyoyEe8AU
+2021-05-23 16:04:04,854 - Youtube Music link.
+2021-05-23 16:04:04,854 - Scraping for id: A75vKPjQSxM
+2021-05-23 16:04:05,710 - Youtube Music link.
+2021-05-23 16:04:05,710 - Scraping for id: SincTlN-VjA
+2021-05-23 16:04:06,325 - Youtube Music link.
+2021-05-23 16:04:06,326 - Scraping for id: 3lAYr5O94Qo
+2021-05-23 16:04:07,193 - Youtube Music link.
+2021-05-23 16:04:07,194 - Scraping for id: 1RvfshRJXho
+2021-05-23 16:04:07,825 - Youtube Music link.
+2021-05-23 16:04:07,826 - Scraping for id: 58skmnPum7o
+2021-05-23 16:04:08,602 - Youtube Music link.
+2021-05-23 16:04:08,603 - Scraping for id: ELPdU_nhh4Y
+2021-05-23 16:04:09,560 - Youtube Music link.
+2021-05-23 16:04:09,560 - Scraping for id: a4v_4TF506A
+2021-05-23 16:04:11,343 - Youtube Music link.
+2021-05-23 16:04:11,344 - Scraping for id: lD3ctXaIcb4
+2021-05-23 16:04:12,187 - Youtube Music link.
+2021-05-23 16:04:12,188 - Scraping for id: 3NtxO2gR7B8
+2021-05-23 16:04:12,826 - Youtube Music link.
+2021-05-23 16:04:12,826 - Scraping for id: 7rqwRVdqB6c
+2021-05-23 16:04:13,745 - Youtube Music link.
+2021-05-23 16:04:13,745 - Scraping for id: XU6scPocLUM
+2021-05-23 16:04:14,289 - Youtube Video: https://youtu.be/XU6scPocLUM is unavailable
+2021-05-23 16:04:14,290 - Scraping for id: HITrT2OJHeg
+2021-05-23 16:04:15,284 - Youtube Music link.
+2021-05-23 16:04:15,285 - Scraping for id: B7eXAqVtQgc
+2021-05-23 16:04:16,044 - Youtube Music link.
+2021-05-23 16:04:16,045 - Scraping for id: dqtnkGNGCQc
+2021-05-23 16:04:16,882 - Youtube Music link.
+2021-05-23 16:04:16,882 - Scraping for id: paYS7DOSEWg
+2021-05-23 16:04:17,740 - Youtube Music link.
+2021-05-23 16:04:17,740 - Scraping for id: Ir7spien6Mg
+2021-05-23 16:04:18,535 - Youtube Music link.
+2021-05-23 16:04:18,535 - Scraping for id: vln5bsPhMxE
+2021-05-23 16:04:19,667 - Youtube Music link.
+2021-05-23 16:04:19,668 - Scraping for id: d0IF2gakPyw
+2021-05-23 16:04:20,328 - Youtube Music link.
+2021-05-23 16:04:20,328 - Scraping for id: OaOTaL3QiIY
+2021-05-23 16:04:21,335 - Youtube Music link.
+2021-05-23 16:04:21,336 - Scraping for id: oqLAqMKkoSc
+2021-05-23 16:04:22,277 - Youtube Music link.
+2021-05-23 16:04:22,278 - Scraping for id: AWXvSBHB210
+2021-05-23 16:04:23,185 - Youtube Music link.
+2021-05-23 16:04:23,185 - Scraping for id: -Mq_DO10BYc
+2021-05-23 16:04:24,039 - Youtube Music link.
+2021-05-23 16:04:24,040 - Scraping for id: 46Vr32OuJO8
+2021-05-23 16:04:24,851 - Youtube Music link.
+2021-05-23 16:04:24,852 - Scraping for id: R5NYsnmirLE
+2021-05-23 16:04:25,828 - Youtube Music link.
+2021-05-23 16:04:25,828 - Scraping for id: -2YoWfPvkv4
+2021-05-23 16:04:26,636 - Youtube Music link.
+2021-05-23 16:04:26,636 - Scraping for id: X1djwsrbkfE
+2021-05-23 16:04:27,461 - Youtube Music link.
+2021-05-23 16:04:27,461 - Scraping for id: 99vhP4CzvXQ
+2021-05-23 16:04:28,129 - Youtube Music link.
+2021-05-23 16:04:28,129 - Scraping for id: kkJAwAiv1AE
+2021-05-23 16:04:29,279 - Youtube Music link.
+2021-05-23 16:04:29,279 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/quOai1Jsxec.
+2021-05-23 16:04:36,254 - Done downloading video.
+2021-05-23 16:04:37,111 - Done downloading audio.
+2021-05-23 16:04:40,163 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FvyXeKic_9k.
+2021-05-23 16:05:06,048 - Done downloading video.
+2021-05-23 16:05:07,406 - Done downloading audio.
+2021-05-23 16:05:11,078 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tj0J9ZGHKO8.
+2021-05-23 16:06:15,327 - Done downloading video.
+2021-05-23 16:06:17,028 - Done downloading audio.
+2021-05-23 16:06:19,576 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ckqMernq3vg.
+2021-05-23 16:07:11,313 - Done downloading video.
+2021-05-23 16:07:12,565 - Done downloading audio.
+2021-05-23 16:07:14,546 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/A_qbWflVtG4.
+2021-05-23 16:07:47,135 - Done downloading video.
+2021-05-23 16:07:48,414 - Done downloading audio.
+2021-05-23 16:07:51,407 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3FpPH5pURIw.
+2021-05-23 16:09:24,399 - Done downloading video.
+2021-05-23 16:09:27,063 - Done downloading audio.
+2021-05-23 16:09:30,609 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LiTAzH1YjP8.
+2021-05-23 16:17:27,151 - Done downloading video.
+2021-05-23 16:17:30,355 - Done downloading audio.
+2021-05-23 16:17:55,043 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/DE0CAlM5eFw.
+2021-05-23 16:18:26,744 - Done downloading video.
+2021-05-23 16:18:27,841 - Done downloading audio.
+2021-05-23 16:18:30,641 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5FA_I2isKPk.
+2021-05-23 16:18:49,388 - Done downloading video.
+2021-05-23 16:18:51,525 - Done downloading audio.
+2021-05-23 16:18:53,332 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fANwLNPhgSk.
+2021-05-23 16:19:05,925 - Done downloading video.
+2021-05-23 16:19:07,892 - Done downloading audio.
+2021-05-23 16:19:14,753 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ol8aszmWMBA.
+2021-05-23 16:20:14,863 - Done downloading video.
+2021-05-23 16:20:17,730 - Done downloading audio.
+2021-05-23 16:20:19,831 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fQBjy5Y7qcM.
+2021-05-23 16:20:49,416 - Done downloading video.
+2021-05-23 16:20:51,564 - Done downloading audio.
+2021-05-23 16:20:55,173 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/H7QrqdA0zDQ.
+2021-05-23 16:21:06,096 - Done downloading video.
+2021-05-23 16:21:07,721 - Done downloading audio.
+2021-05-23 16:21:08,767 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/w0NIb8SoCLA.
+2021-05-23 16:28:48,024 - Done downloading video.
+2021-05-23 16:29:01,518 - Done downloading audio.
+2021-05-23 16:29:45,371 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/cQxIwp1OKL0.
+2021-05-23 16:30:24,699 - Done downloading video.
+2021-05-23 16:30:27,855 - Done downloading audio.
+2021-05-23 16:30:30,982 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/wDSOz2GOjhs.
+2021-05-23 16:30:45,035 - Done downloading video.
+2021-05-23 16:30:46,178 - Done downloading audio.
+2021-05-23 16:30:48,573 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZaCOiUya2Bs.
+2021-05-23 16:34:04,010 - Done downloading video.
+2021-05-23 16:34:06,969 - Done downloading audio.
+2021-05-23 16:34:28,573 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JD_WTrb9Fjg.
+2021-05-23 16:34:36,951 - Done downloading video.
+2021-05-23 16:34:37,849 - Done downloading audio.
+2021-05-23 16:34:40,753 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/n8Rv4fN4xq0.
+2021-05-23 16:35:05,943 - Done downloading video.
+2021-05-23 16:35:07,414 - Done downloading audio.
+2021-05-23 16:35:10,085 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/62Y6J4QMacQ.
+2021-05-23 16:35:43,894 - Done downloading video.
+2021-05-23 16:35:45,218 - Done downloading audio.
+2021-05-23 16:35:48,697 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ATd3JqA0H1A.
+2021-05-23 16:43:20,153 - Done downloading video.
+2021-05-23 16:43:25,965 - Done downloading audio.
+2021-05-23 16:44:01,387 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OsXHmAO12DE.
+2021-05-23 16:44:33,423 - Done downloading video.
+2021-05-23 16:44:34,560 - Done downloading audio.
+2021-05-23 16:44:37,954 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/RWoGjKMmbIo.
+2021-05-23 16:44:55,333 - Done downloading video.
+2021-05-23 16:44:56,300 - Done downloading audio.
+2021-05-23 16:44:59,079 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/rs4eZF7QXFQ.
+2021-05-23 16:45:19,168 - Done downloading video.
+2021-05-23 16:45:20,655 - Done downloading audio.
+2021-05-23 16:45:21,358 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/aWgJIQr2o60.
+2021-05-23 16:45:45,922 - Done downloading video.
+2021-05-23 16:45:47,006 - Done downloading audio.
+2021-05-23 16:45:49,346 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5E3wO_sDZjU.
+2021-05-23 16:46:07,388 - Done downloading video.
+2021-05-23 16:46:08,500 - Done downloading audio.
+2021-05-23 16:46:09,758 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JMq_duMcVcc.
+2021-05-23 16:46:32,123 - Done downloading video.
+2021-05-23 16:46:34,627 - Done downloading audio.
+2021-05-23 16:46:42,080 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tF4HewRW7PQ.
+2021-05-23 16:46:50,514 - Done downloading video.
+2021-05-23 16:46:52,205 - Done downloading audio.
+2021-05-23 16:46:56,060 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QRHZTKKlXZE.
+2021-05-23 16:48:01,885 - Done downloading video.
+2021-05-23 16:48:04,031 - Done downloading audio.
+2021-05-23 16:48:05,838 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-tJc31gItj8.
+2021-05-23 16:48:07,316 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 16:48:07,323 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/BHTq2-B2B3I.
+2021-05-23 16:51:00,604 - Done downloading video.
+2021-05-23 16:51:17,378 - Done downloading audio.
+2021-05-23 16:51:39,221 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/_WV9QQ4evW4.
+2021-05-23 16:51:42,719 - Done downloading video.
+2021-05-23 16:51:44,274 - Done downloading audio.
+2021-05-23 16:51:47,734 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Ehbx-knkjyQ.
+2021-05-23 16:53:48,875 - Done downloading video.
+2021-05-23 16:53:51,213 - Done downloading audio.
+2021-05-23 16:53:55,439 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/MGn0c_QGdPA.
+2021-05-23 16:54:06,582 - Done downloading video.
+2021-05-23 16:54:07,874 - Done downloading audio.
+2021-05-23 16:54:10,869 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/159Cumao7-Q.
+2021-05-23 16:56:01,215 - Done downloading video.
+2021-05-23 16:56:03,251 - Done downloading audio.
+2021-05-23 16:56:08,097 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/i56cz-sbWq0.
+2021-05-23 16:56:35,366 - Done downloading video.
+2021-05-23 16:56:36,370 - Done downloading audio.
+2021-05-23 16:56:39,630 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/sPBq1VP17B8.
+2021-05-23 16:57:07,288 - Done downloading video.
+2021-05-23 16:57:08,587 - Done downloading audio.
+2021-05-23 16:57:11,524 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/k8UdMHHpthI.
+2021-05-23 16:58:35,814 - Done downloading video.
+2021-05-23 16:58:37,814 - Done downloading audio.
+2021-05-23 16:58:52,260 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/jDaitClPGrs.
+2021-05-23 16:58:53,875 - Done downloading video.
+2021-05-23 16:58:54,737 - Done downloading audio.
+2021-05-23 16:58:57,393 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/x3qNsneopSk.
+2021-05-23 16:59:30,695 - Done downloading video.
+2021-05-23 16:59:33,030 - Done downloading audio.
+2021-05-23 16:59:35,753 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ko0fT6CEWag.
+2021-05-23 16:59:43,620 - Done downloading video.
+2021-05-23 16:59:44,575 - Done downloading audio.
+2021-05-23 16:59:47,695 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yjQ9zpvOa7k.
+2021-05-23 16:59:51,364 - Done downloading video.
+2021-05-23 16:59:52,508 - Done downloading audio.
+2021-05-23 16:59:55,819 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/j1tTYrcJgjM.
+2021-05-23 17:00:03,271 - Done downloading video.
+2021-05-23 17:00:04,454 - Done downloading audio.
+2021-05-23 17:00:07,236 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/VQLtdKJJiSM.
+2021-05-23 17:00:33,204 - Done downloading video.
+2021-05-23 17:00:34,161 - Done downloading audio.
+2021-05-23 17:00:37,008 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/T-jhHnXLA3U.
+2021-05-23 17:00:38,458 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 17:00:38,465 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/a5hwsRo-Cn8.
+2021-05-23 17:00:39,136 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 17:00:39,143 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/kZnIpICYMfg.
+2021-05-23 17:01:27,166 - Done downloading video.
+2021-05-23 17:01:35,878 - Done downloading audio.
+2021-05-23 17:01:47,357 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hVvUmJHh3ls.
+2021-05-23 17:01:48,420 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 17:01:48,429 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zelzKMLFlJU.
+2021-05-23 17:02:28,711 - Done downloading video.
+2021-05-23 17:02:30,685 - Done downloading audio.
+2021-05-23 17:02:33,913 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LKBkNTiqwAc.
+2021-05-23 17:03:29,492 - Done downloading video.
+2021-05-23 17:03:30,699 - Done downloading audio.
+2021-05-23 17:03:36,478 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/IbkErCjV_cw.
+2021-05-23 17:03:38,139 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 17:03:38,148 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/bmf63oUV2Ik.
+2021-05-23 17:04:21,310 - Done downloading video.
+2021-05-23 17:04:22,715 - Done downloading audio.
+2021-05-23 17:04:26,157 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Il3G_wq7z8I.
+2021-05-23 17:05:10,753 - Done downloading video.
+2021-05-23 17:05:13,567 - Done downloading audio.
+2021-05-23 17:05:16,505 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Dcj39NZ-73g.
+2021-05-23 17:05:39,322 - Done downloading video.
+2021-05-23 17:05:40,380 - Done downloading audio.
+2021-05-23 17:05:43,035 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tZpxR8iM19s.
+2021-05-23 17:05:48,425 - Done downloading video.
+2021-05-23 17:05:49,242 - Done downloading audio.
+2021-05-23 17:05:51,981 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0A1oOAF2TtA.
+2021-05-23 17:05:56,578 - Done downloading video.
+2021-05-23 17:05:57,971 - Done downloading audio.
+2021-05-23 17:05:59,420 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/sgu0iTaWknE.
+2021-05-23 17:06:26,702 - Done downloading video.
+2021-05-23 17:06:30,190 - Done downloading audio.
+2021-05-23 17:06:34,656 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hm2SoRiGJN8.
+2021-05-23 17:07:06,732 - Done downloading video.
+2021-05-23 17:07:07,965 - Done downloading audio.
+2021-05-23 17:07:11,219 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Tfa_uMpvF-A.
+2021-05-23 17:07:20,396 - Done downloading video.
+2021-05-23 17:07:21,589 - Done downloading audio.
+2021-05-23 17:07:24,210 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/t9cHbQaxLI0.
+2021-05-23 17:08:04,385 - Done downloading video.
+2021-05-23 17:08:05,349 - Done downloading audio.
+2021-05-23 17:08:08,240 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OqB-GYXIWOs.
+2021-05-23 17:08:15,422 - Done downloading video.
+2021-05-23 17:08:16,584 - Done downloading audio.
+2021-05-23 17:08:19,545 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Bby0aBNPxlY.
+2021-05-23 17:08:26,381 - Done downloading video.
+2021-05-23 17:08:27,325 - Done downloading audio.
+2021-05-23 17:08:30,278 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/H4w0ZDECYZY.
+2021-05-23 17:08:37,138 - Done downloading video.
+2021-05-23 17:08:38,181 - Done downloading audio.
+2021-05-23 17:08:40,810 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0xAf6aIpO7A.
+2021-05-23 17:08:44,394 - Done downloading video.
+2021-05-23 17:08:45,852 - Done downloading audio.
+2021-05-23 17:08:46,487 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/gFfyRDui38k.
+2021-05-23 17:08:47,001 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-05-23 17:08:47,011 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/q8-cpCR2A8Y.
+2021-05-23 17:09:34,181 - Done downloading video.
+2021-05-23 17:09:35,728 - Done downloading audio.
+2021-05-23 17:09:39,894 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/9gMu5-DMvK0.
+2021-05-23 17:10:07,162 - Done downloading video.
+2021-05-23 17:10:08,337 - Done downloading audio.
+2021-05-23 17:10:11,105 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/BmaBtc8KD18.
+2021-05-23 17:10:40,770 - Done downloading video.
+2021-05-23 17:10:42,025 - Done downloading audio.
+2021-05-23 17:10:45,273 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Q4Y9UI4Az38.
+2021-05-23 17:11:17,898 - Done downloading video.
+2021-05-23 17:11:18,952 - Done downloading audio.
+2021-05-23 17:11:22,410 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/g37i3WDG7TU.
+2021-05-23 17:13:17,500 - Done downloading video.
+2021-05-23 17:13:47,502 - Done downloading audio.
+2021-05-23 17:15:34,605 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/wOvzvuIrCg0.
+2021-05-23 17:16:05,136 - Done downloading video.
+2021-05-23 17:16:06,455 - Done downloading audio.
+2021-05-23 17:16:09,224 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/o0Q-yPVbYqA.
+2021-05-23 17:16:45,484 - Done downloading video.
+2021-05-23 17:16:46,690 - Done downloading audio.
+2021-05-23 17:16:49,997 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/XAh_PIseiCA.
+2021-05-23 17:17:13,542 - Done downloading video.
+2021-05-23 17:17:14,915 - Done downloading audio.
+2021-05-23 17:17:17,404 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/uTaFileejTY.
+2021-05-23 17:18:31,087 - Done downloading video.
+2021-05-23 17:18:33,761 - Done downloading audio.
+2021-05-23 17:18:36,806 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/lloKQIGn7ds.
+2021-05-23 17:18:44,800 - Done downloading video.
+2021-05-23 17:18:46,886 - Done downloading audio.
+2021-05-23 17:18:50,779 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zBRH7ZTPe5Q.
+2021-05-23 17:44:53,671 - ERROR: giving up after 0 retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 772, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 363, in real_download
+    self.report_error('giving up after %s retries' % retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 retries
+2021-05-23 17:44:53,681 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/PW3W8AU79Tw.
+2021-05-23 17:45:19,290 - Done downloading video.
+2021-05-23 17:45:20,348 - Done downloading audio.
+2021-05-23 17:45:22,398 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fc7-Oib8iu4.
+2021-05-23 17:45:56,822 - Done downloading video.
+2021-05-23 17:45:57,902 - Done downloading audio.
+2021-05-23 17:46:00,676 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/sOpHUfs_vfE.
+2021-05-23 17:46:10,167 - Done downloading video.
+2021-05-23 17:46:13,250 - Done downloading audio.
+2021-05-23 17:46:17,228 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-XjN1XddB-s.
+2021-05-23 17:46:33,929 - Done downloading video.
+2021-05-23 17:46:34,989 - Done downloading audio.
+2021-05-23 17:46:37,363 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/NMZ5ZlvkdM0.
+2021-05-23 17:46:54,577 - Done downloading video.
+2021-05-23 17:46:55,725 - Done downloading audio.
+2021-05-23 17:46:58,871 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/qtIrnPeybLU.
+2021-05-23 17:47:24,121 - Done downloading video.
+2021-05-23 17:47:30,716 - Done downloading audio.
+2021-05-23 17:47:41,542 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/KkD5WTm4nG4.
+2021-05-23 17:47:55,588 - Done downloading video.
+2021-05-23 17:47:57,112 - Done downloading audio.
+2021-05-23 17:47:59,054 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8Dj89sMtAsQ.
+2021-05-23 17:48:16,623 - Done downloading video.
+2021-05-23 17:48:17,675 - Done downloading audio.
+2021-05-23 17:48:20,246 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8VN-eXcgdk8.
+2021-05-23 18:05:44,645 - Done downloading video.
+2021-05-23 18:06:24,627 - Done downloading audio.
+2021-05-23 18:07:26,540 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/h_SxM0cJAGE.
+2021-05-23 18:07:44,058 - Done downloading video.
+2021-05-23 18:07:45,219 - Done downloading audio.
+2021-05-23 18:07:47,812 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-nWhgra9H70.
+2021-05-23 18:08:03,581 - Done downloading video.
+2021-05-23 18:08:04,622 - Done downloading audio.
+2021-05-23 18:08:06,868 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZXeYlDQq47A.
+2021-05-23 18:08:11,695 - Done downloading video.
+2021-05-23 18:08:13,068 - Done downloading audio.
+2021-05-23 18:08:15,860 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/SKpre3KjN20.
+2021-05-23 18:08:37,250 - Done downloading video.
+2021-05-23 18:08:38,338 - Done downloading audio.
+2021-05-23 18:08:41,485 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/w8Gk8cJFQgY.
+2021-05-23 18:09:45,854 - Done downloading video.
+2021-05-23 18:09:50,519 - Done downloading audio.
+2021-05-23 18:10:04,023 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/B8__eKtt2jg.
+2021-05-23 18:10:40,754 - Done downloading video.
+2021-05-23 18:10:43,276 - Done downloading audio.
+2021-05-23 18:10:47,385 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3wxHG2E_Wo8.
+2021-05-23 18:11:06,525 - Done downloading video.
+2021-05-23 18:11:07,710 - Done downloading audio.
+2021-05-23 18:11:10,403 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/DYcWoWM4Pi4.
+2021-05-23 18:11:30,161 - Done downloading video.
+2021-05-23 18:11:31,361 - Done downloading audio.
+2021-05-23 18:11:33,793 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/nh_i9QhTbH8.
+2021-05-23 18:12:16,725 - Done downloading video.
+2021-05-23 18:12:18,159 - Done downloading audio.
+2021-05-23 18:12:20,423 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4-cLqGxjIU8.
+2021-05-23 18:12:37,613 - Done downloading video.
+2021-05-23 18:12:38,824 - Done downloading audio.
+2021-05-23 18:12:41,134 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/I-hGQd8cLAI.
+2021-05-23 18:12:45,123 - Done downloading video.
+2021-05-23 18:12:46,032 - Done downloading audio.
+2021-05-23 18:12:48,318 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/oLFjH-vMR8c.
+2021-05-23 18:13:12,100 - Done downloading video.
+2021-05-23 18:13:13,492 - Done downloading audio.
+2021-05-23 18:13:16,653 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/jxmQbAXccuw.
+2021-05-23 18:13:32,753 - Done downloading video.
+2021-05-23 18:13:34,460 - Done downloading audio.
+2021-05-23 18:13:36,438 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/olhOWI8zoyA.
+2021-05-23 18:13:58,143 - Done downloading video.
+2021-05-23 18:14:00,525 - Done downloading audio.
+2021-05-23 18:14:03,222 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/n7yBn8YAtp4.
+2021-05-23 18:14:19,827 - Done downloading video.
+2021-05-23 18:14:21,571 - Done downloading audio.
+2021-05-23 18:14:23,663 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ciTyoyEe8AU.
+2021-05-23 18:15:12,476 - Done downloading video.
+2021-05-23 18:15:13,640 - Done downloading audio.
+2021-05-23 18:15:16,069 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/A75vKPjQSxM.
+2021-05-23 18:15:49,694 - Done downloading video.
+2021-05-23 18:15:51,301 - Done downloading audio.
+2021-05-23 18:15:52,938 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/SincTlN-VjA.
+2021-05-23 18:16:39,197 - Done downloading video.
+2021-05-23 18:16:52,367 - Done downloading audio.
+2021-05-23 18:17:07,622 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3lAYr5O94Qo.
+2021-05-23 18:17:44,287 - Done downloading video.
+2021-05-23 18:17:48,065 - Done downloading audio.
+2021-05-23 18:17:51,020 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1RvfshRJXho.
+2021-05-23 18:18:24,196 - Done downloading video.
+2021-05-23 18:18:25,256 - Done downloading audio.
+2021-05-23 18:18:27,406 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/58skmnPum7o.
+2021-05-23 18:18:57,922 - Done downloading video.
+2021-05-23 18:19:00,403 - Done downloading audio.
+2021-05-23 18:19:03,087 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ELPdU_nhh4Y.
+2021-05-23 18:19:34,851 - Done downloading video.
+2021-05-23 18:19:36,654 - Done downloading audio.
+2021-05-23 18:19:38,909 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/a4v_4TF506A.
+2021-05-23 18:20:12,329 - Done downloading video.
+2021-05-23 18:20:14,015 - Done downloading audio.
+2021-05-23 18:20:16,909 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/lD3ctXaIcb4.
+2021-05-23 18:20:59,090 - Done downloading video.
+2021-05-23 18:21:00,157 - Done downloading audio.
+2021-05-23 18:21:02,300 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3NtxO2gR7B8.
+2021-05-23 18:21:22,937 - Done downloading video.
+2021-05-23 18:21:24,797 - Done downloading audio.
+2021-05-23 18:21:26,881 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/7rqwRVdqB6c.
+2021-05-23 18:22:07,578 - Done downloading video.
+2021-05-23 18:22:08,835 - Done downloading audio.
+2021-05-23 18:22:11,140 - 'video_info'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 486, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 655, in download_handler
+    video_info = sub_object["video_info"]
+KeyError: 'video_info'
+2021-05-23 18:22:11,151 - Current: https://www.youtube.com/user/JoinedTheHerd 
+2021-05-23 18:22:11,152 - youtube link
+2021-05-23 18:22:11,440 - [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 342, in youtube_extractor
+    response = request.execute()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 905, in execute
+    resp, content = _retry_request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 207, in _retry_request
+    raise exception
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 176, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1708, in request
+    (response, content) = self._request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1424, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1376, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
