@@ -1,0 +1,244 @@
+2021-05-22 16:42:55,874 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-22 16:42:55,874 - Autocommand from settings: run
+2021-05-22 16:42:55,874 - Command: run
+2021-05-22 16:42:55,875 - Current: https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg 
+2021-05-22 16:42:55,875 - youtube link
+2021-05-22 16:42:56,485 - file_cache is only supported with oauth2client<4.0.0
+2021-05-22 16:42:56,597 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU-x-DwjROa7DhQvKvoqj-kg"
+}
+2021-05-22 16:42:56,597 - Upload Playlist: UU-x-DwjROa7DhQvKvoqj-kg
+2021-05-22 16:42:56,711 - Now downloading channel: ForgaLorga
+Video Count: 24
+2021-05-22 16:42:56,711 - Channel has 24 videos downloaded.
+2021-05-22 16:42:56,712 - Scraping for id: 1EkEKvaOuzU
+2021-05-22 16:42:57,460 - Youtube Music link.
+2021-05-22 16:42:57,460 - Scraping for id: A2TnYAmZDNg
+2021-05-22 16:42:58,130 - Youtube Music link.
+2021-05-22 16:42:58,131 - Scraping for id: 2vwv6j3C6L4
+2021-05-22 16:42:58,862 - Youtube Music link.
+2021-05-22 16:42:58,863 - Scraping for id: NkptC1jnG88
+2021-05-22 16:42:59,720 - Youtube Music link.
+2021-05-22 16:42:59,721 - Scraping for id: kGHNHaC0bf4
+2021-05-22 16:43:00,440 - Youtube Music link.
+2021-05-22 16:43:00,440 - Scraping for id: 4ONOBT-4pVk
+2021-05-22 16:43:00,899 - Youtube Music link.
+2021-05-22 16:43:00,900 - Scraping for id: Awe_dHFrHG8
+2021-05-22 16:43:01,605 - Youtube Music link.
+2021-05-22 16:43:01,606 - Scraping for id: V3iYsDJNNlk
+2021-05-22 16:43:02,221 - Youtube Music link.
+2021-05-22 16:43:02,222 - Scraping for id: DjY4pm0UgBA
+2021-05-22 16:43:02,714 - Youtube Music link.
+2021-05-22 16:43:02,714 - Scraping for id: 0tPkpuWEoHI
+2021-05-22 16:43:03,464 - Youtube Music link.
+2021-05-22 16:43:03,466 - Scraping for id: _668Rn8PJvk
+2021-05-22 16:43:04,074 - Youtube Music link.
+2021-05-22 16:43:04,075 - Scraping for id: NNla7ai3GLs
+2021-05-22 16:43:04,533 - Youtube Music link.
+2021-05-22 16:43:04,534 - Scraping for id: i9l8oOngxxw
+2021-05-22 16:43:05,132 - Youtube Music link.
+2021-05-22 16:43:05,133 - Scraping for id: w7X6rLQawE4
+2021-05-22 16:43:05,950 - Youtube Music link.
+2021-05-22 16:43:05,951 - Scraping for id: Yn_srm53wVI
+2021-05-22 16:43:06,684 - Youtube Music link.
+2021-05-22 16:43:06,685 - Scraping for id: ynyZ5F5aQN0
+2021-05-22 16:43:07,364 - Youtube Music link.
+2021-05-22 16:43:07,365 - Scraping for id: YgVyN3J4CiU
+2021-05-22 16:43:08,000 - Youtube Music link.
+2021-05-22 16:43:08,001 - Scraping for id: s0ecUWTPTcE
+2021-05-22 16:43:08,729 - Youtube Music link.
+2021-05-22 16:43:08,729 - Scraping for id: BHdPUT2q2y8
+2021-05-22 16:43:09,191 - Youtube Music link.
+2021-05-22 16:43:09,191 - Scraping for id: Z6IblxRHg_Y
+2021-05-22 16:43:09,688 - Youtube Music link.
+2021-05-22 16:43:09,689 - Scraping for id: lbtF_4KqBZA
+2021-05-22 16:43:10,376 - Youtube Music link.
+2021-05-22 16:43:10,376 - Scraping for id: 972Jpv3D3tk
+2021-05-22 16:43:10,924 - Youtube Music link.
+2021-05-22 16:43:10,924 - Scraping for id: hmWhQg5cZkc
+2021-05-22 16:43:11,463 - Youtube Music link.
+2021-05-22 16:43:11,464 - Scraping for id: QlnB7RChHqs
+2021-05-22 16:43:11,975 - Youtube Music link.
+2021-05-22 16:43:11,976 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:14,354 - Done downloading video.
+2021-05-22 16:43:15,348 - Done downloading audio.
+2021-05-22 16:43:19,019 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:20,677 - Done downloading video.
+2021-05-22 16:43:21,429 - Done downloading audio.
+2021-05-22 16:43:22,398 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:25,902 - Done downloading video.
+2021-05-22 16:43:26,887 - Done downloading audio.
+2021-05-22 16:43:30,769 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:32,944 - Done downloading video.
+2021-05-22 16:43:33,890 - Done downloading audio.
+2021-05-22 16:43:37,556 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:39,978 - Done downloading video.
+2021-05-22 16:43:40,834 - Done downloading audio.
+2021-05-22 16:43:42,978 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:46,395 - Done downloading video.
+2021-05-22 16:43:47,156 - Done downloading audio.
+2021-05-22 16:43:48,606 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:50,439 - Done downloading video.
+2021-05-22 16:43:51,686 - Done downloading audio.
+2021-05-22 16:43:54,954 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:43:57,379 - Done downloading video.
+2021-05-22 16:43:58,475 - Done downloading audio.
+2021-05-22 16:44:01,265 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:04,607 - Done downloading video.
+2021-05-22 16:44:05,555 - Done downloading audio.
+2021-05-22 16:44:09,507 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:11,838 - Done downloading video.
+2021-05-22 16:44:12,720 - Done downloading audio.
+2021-05-22 16:44:15,301 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:17,079 - Done downloading video.
+2021-05-22 16:44:17,918 - Done downloading audio.
+2021-05-22 16:44:19,187 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:21,853 - Done downloading video.
+2021-05-22 16:44:22,979 - Done downloading audio.
+2021-05-22 16:44:24,824 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:26,282 - Done downloading video.
+2021-05-22 16:44:26,808 - Done downloading audio.
+2021-05-22 16:44:28,643 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:30,666 - Done downloading video.
+2021-05-22 16:44:31,809 - Done downloading audio.
+2021-05-22 16:44:34,806 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:36,497 - Done downloading video.
+2021-05-22 16:44:37,213 - Done downloading audio.
+2021-05-22 16:44:39,630 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:41,366 - Done downloading video.
+2021-05-22 16:44:42,098 - Done downloading audio.
+2021-05-22 16:44:43,203 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:45,308 - Done downloading video.
+2021-05-22 16:44:46,041 - Done downloading audio.
+2021-05-22 16:44:48,059 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:49,474 - Done downloading video.
+2021-05-22 16:44:50,254 - Done downloading audio.
+2021-05-22 16:44:52,279 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:54,082 - Done downloading video.
+2021-05-22 16:44:54,754 - Done downloading audio.
+2021-05-22 16:44:57,045 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:44:58,561 - Done downloading video.
+2021-05-22 16:44:59,171 - Done downloading audio.
+2021-05-22 16:45:00,378 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:45:02,275 - Done downloading video.
+2021-05-22 16:45:02,988 - Done downloading audio.
+2021-05-22 16:45:04,976 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:45:06,543 - Done downloading video.
+2021-05-22 16:45:07,237 - Done downloading audio.
+2021-05-22 16:45:08,530 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:45:09,900 - Done downloading video.
+2021-05-22 16:45:10,784 - Done downloading audio.
+2021-05-22 16:45:11,778 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:45:12,793 - Done downloading video.
+2021-05-22 16:45:13,516 - Done downloading audio.
+2021-05-22 16:45:14,965 - Creating download information json.
+2021-05-22 16:45:14,966 - Writing text file.
+2021-05-22 16:45:14,966 - Downloading: ForgaLorga - Channel Image.png
+2021-05-22 16:45:21,829 - Writing text file.
+2021-05-22 16:45:21,829 - Downloading: Know Your Castle - Thumbnail.png
+2021-05-22 16:45:21,890 - Merging audio and video files.
+2021-05-22 16:45:26,014 - Adding thumbnail to video file.
+2021-05-22 16:45:31,242 - Writing text file.
+2021-05-22 16:45:31,242 - Downloading: Your little cat 4 - Thumbnail.png
+2021-05-22 16:45:31,307 - Merging audio and video files.
+2021-05-22 16:45:32,513 - Adding thumbnail to video file.
+2021-05-22 16:45:33,912 - Writing text file.
+2021-05-22 16:45:33,912 - Downloading: Two Retired Princesses - Thumbnail.png
+2021-05-22 16:45:33,954 - Merging audio and video files.
+2021-05-22 16:45:38,268 - Adding thumbnail to video file.
+2021-05-22 16:45:39,860 - Writing text file.
+2021-05-22 16:45:39,861 - Downloading: It's Picnic Time - Thumbnail.png
+2021-05-22 16:45:39,907 - Merging audio and video files.
+2021-05-22 16:45:43,780 - Adding thumbnail to video file.
+2021-05-22 16:45:45,076 - Writing text file.
+2021-05-22 16:45:45,076 - Downloading: Princess Twilight Sparkle - Thumbnail.png
+2021-05-22 16:45:45,125 - Merging audio and video files.
+2021-05-22 16:45:47,547 - Adding thumbnail to video file.
+2021-05-22 16:45:49,174 - Writing text file.
+2021-05-22 16:45:49,175 - Downloading: Your little cat 3 - Thumbnail.png
+2021-05-22 16:45:49,217 - Merging audio and video files.
+2021-05-22 16:45:50,953 - Adding thumbnail to video file.
+2021-05-22 16:45:52,080 - Writing text file.
+2021-05-22 16:45:52,080 - Downloading: Artifacts of Equestria - Thumbnail.png
+2021-05-22 16:45:52,138 - Merging audio and video files.
+2021-05-22 16:45:55,437 - Adding thumbnail to video file.
+2021-05-22 16:45:56,510 - Writing text file.
+2021-05-22 16:45:56,510 - Downloading: Princess Starlight Glimmer - Thumbnail.png
+2021-05-22 16:45:56,555 - Merging audio and video files.
+2021-05-22 16:45:59,888 - Adding thumbnail to video file.
+2021-05-22 16:46:01,075 - Writing text file.
+2021-05-22 16:46:01,075 - Downloading: Everypony is strange - Thumbnail.png
+2021-05-22 16:46:01,123 - Merging audio and video files.
+2021-05-22 16:46:05,126 - Adding thumbnail to video file.
+2021-05-22 16:46:06,200 - Writing text file.
+2021-05-22 16:46:06,200 - Downloading: Pony and Magical Artifact - Thumbnail.png
+2021-05-22 16:46:06,246 - Merging audio and video files.
+2021-05-22 16:46:08,939 - Adding thumbnail to video file.
+2021-05-22 16:46:10,428 - Writing text file.
+2021-05-22 16:46:10,428 - Downloading: Your little cat 2 - Thumbnail.png
+2021-05-22 16:46:10,470 - Merging audio and video files.
+2021-05-22 16:46:11,969 - Adding thumbnail to video file.
+2021-05-22 16:46:13,562 - Writing text file.
+2021-05-22 16:46:13,562 - Downloading: Best princesses ever - Thumbnail.png
+2021-05-22 16:46:13,756 - Merging audio and video files.
+2021-05-22 16:46:16,008 - Adding thumbnail to video file.
+2021-05-22 16:46:17,377 - Writing text file.
+2021-05-22 16:46:17,378 - Downloading: Weird Ponyville - Thumbnail.png
+2021-05-22 16:46:17,530 - Merging audio and video files.
+2021-05-22 16:46:19,346 - Adding thumbnail to video file.
+2021-05-22 16:46:20,880 - Writing text file.
+2021-05-22 16:46:20,880 - Downloading: Give me your wings - Thumbnail.png
+2021-05-22 16:46:20,927 - Merging audio and video files.
+2021-05-22 16:46:24,011 - Adding thumbnail to video file.
+2021-05-22 16:46:25,350 - Writing text file.
+2021-05-22 16:46:25,350 - Downloading: Secrets of the Mane 6 - Thumbnail.png
+2021-05-22 16:46:25,395 - Merging audio and video files.
+2021-05-22 16:46:27,947 - Adding thumbnail to video file.
+2021-05-22 16:46:29,017 - Writing text file.
+2021-05-22 16:46:29,017 - Downloading: Your little cat - Thumbnail.png
+2021-05-22 16:46:29,066 - Merging audio and video files.
+2021-05-22 16:46:30,382 - Adding thumbnail to video file.
+2021-05-22 16:46:31,536 - Writing text file.
+2021-05-22 16:46:31,536 - Downloading: Everyone loves Princess Luna - Thumbnail.png
+2021-05-22 16:46:31,585 - Merging audio and video files.
+2021-05-22 16:46:33,855 - Adding thumbnail to video file.
+2021-05-22 16:46:35,045 - Writing text file.
+2021-05-22 16:46:35,045 - Downloading: Starlight wants your Cutie Mark - Thumbnail.png
+2021-05-22 16:46:35,089 - Merging audio and video files.
+2021-05-22 16:46:37,396 - Adding thumbnail to video file.
+2021-05-22 16:46:46,970 - Writing text file.
+2021-05-22 16:46:46,971 - Downloading: Something about the princesses - Thumbnail.png
+2021-05-22 16:46:47,018 - Merging audio and video files.
+2021-05-22 16:46:49,647 - Adding thumbnail to video file.
+2021-05-22 16:46:59,189 - Writing text file.
+2021-05-22 16:46:59,189 - Downloading: Your little pets - Thumbnail.png
+2021-05-22 16:46:59,237 - Merging audio and video files.
+2021-05-22 16:47:00,534 - Adding thumbnail to video file.
+2021-05-22 16:47:18,140 - Writing text file.
+2021-05-22 16:47:18,140 - Downloading: Celestia is best princess - Thumbnail.png
+2021-05-22 16:47:18,182 - Merging audio and video files.
+2021-05-22 16:47:20,421 - Adding thumbnail to video file.
+2021-05-22 16:47:22,136 - Writing text file.
+2021-05-22 16:47:22,136 - Downloading: Starlight vs Mane 6 - Thumbnail.png
+2021-05-22 16:47:22,197 - Merging audio and video files.
+2021-05-22 16:47:23,539 - Adding thumbnail to video file.
+2021-05-22 16:47:25,115 - Writing text file.
+2021-05-22 16:47:25,116 - Downloading: Equestria for Alicorns - Thumbnail.png
+2021-05-22 16:47:25,159 - Merging audio and video files.
+2021-05-22 16:47:26,085 - Adding thumbnail to video file.
+2021-05-22 16:47:27,358 - Writing text file.
+2021-05-22 16:47:27,358 - Downloading: Twilight and the strange castle - Thumbnail.png
+2021-05-22 16:47:27,397 - Merging audio and video files.
+2021-05-22 16:47:28,827 - Adding thumbnail to video file.
+2021-05-22 16:47:30,429 - Download for https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg complete.
+
+2021-05-22 16:47:30,431 - Writing to history...
+2021-05-22 16:47:30,431 - Done.
+2021-05-22 16:47:32,008 - Command: 

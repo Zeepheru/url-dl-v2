@@ -130,12 +130,14 @@ class ytHistory():
         dicts_in_hist = ["channels","videos","playlists"]
         for a in dicts_in_hist:
             if a not in self.history:
-                self.history[a] = []
+                self.history[a] = {}
 
-        self.setDownloaderHist(Downloader)
+        self.Downloader = Downloader
+
+        self.setDownloaderHist()
     
-    def setDownloaderHist(self, Downloader): #in case, and for when the hist is not there in the first place
-        Downloader.history["youtube"] = self.history
+    def setDownloaderHist(self): #in case, and for when the hist is not there in the first place
+        self.Downloader.history["youtube"] = self.history
 
     def checkChannel(self, channel_Id, video_list):
         # returns a list of the undownloaded videos
@@ -155,13 +157,15 @@ class ytHistory():
     ## adding the channel dict to the main hist dict
     def addToChannel(self, channel_ID, video_list): 
 
-        channel_dict_mem = self.history[channel_ID]
-
-        current_vids = channel_dict_mem["videos"]
-        nomore_videos = []
-        for v in current_vids:
-            if v not in video_list:
-                nomore_videos.append(v)
+        try:
+            self.history["channels"][channel_ID]
+            current_vids = self.history["channels"][channel_ID]["videos"]
+            nomore_videos = []
+            for v in current_vids:
+                if v not in video_list:
+                    nomore_videos.append(v)
+        except:
+            nomore_videos = []
 
         channel_dict = {
             "date": utils.give_me_the_time_dashed(),
@@ -169,13 +173,15 @@ class ytHistory():
             "unavailable": nomore_videos
         }
 
-        channel_dict_mem = channel_dict
+        self.history["channels"][channel_ID] = channel_dict
 
         ## adding length to channel dict
-        if "unavailable" not in channel_dict_mem: #idk if this is needed lol
-            channel_dict_mem["length"] = len(channel_dict_mem["videos"])
+        if "unavailable" not in self.history["channels"][channel_ID]: #idk if this is needed lol
+            self.history["channels"][channel_ID]["length"] = len(self.history["channels"][channel_ID]["videos"])
         else:
-            channel_dict_mem["length"] = len(channel_dict_mem["videos"] + channel_dict_mem["unavailable"])
+            self.history["channels"][channel_ID]["length"] = (
+            len(self.history["channels"][channel_ID]["videos"] + 
+            self.history["channels"][channel_ID]["unavailable"]))
 
         self.setDownloaderHist()
 
@@ -201,7 +207,7 @@ def youtube_extractor(Downloader):
 
         if re.search(r'https://music.youtube',url):
             set_youtube_type("music")
-        elif re.search(r'youtube.com/channel',url) or re.search(r'youtube.com/c/',url):
+        elif re.search(r'youtube.com/channel',url) or re.search(r'youtube.com/c/',url) or re.search(r'youtube.com/user/',url):
             set_youtube_type("channel")
         elif re.search(r'youtube.com/playlist',url):
             set_youtube_type("playlist")
@@ -313,14 +319,20 @@ def youtube_extractor(Downloader):
         data["playlist_length"] = len(data["sub_objects"])
 
     elif data["type"] == "channel":
-        if re.search(r'youtube.com/channel/|youtube.com/c/',data["url"]) != None:
+        if re.search(r'youtube.com/channel/|youtube.com/c/|youtube.com/user/',data["url"]) != None:
             channel_url = data["url"]
             print(data["url"])
         else:
             channel_url = "I DONT KNOW WHAT OTHER LINK YOU ARE GIVING ME"
 
-        #channel id reegex
-        channel_Id = re.search(r'(?<=channel/).*?$|(?<=c/).*?$', data["url"]).group()
+        # new code - requests channel link html, sifts for the actual id 
+        # eg: <meta property="og:url" content="https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ">
+        
+        response = requests.get(channel_url)
+        response.raise_for_status()
+        channel_Id = re.search(r'(?<=content="https://www.youtube.com/channel/).*?(?=">)', response.text).group()
+
+        #channel_Id = re.search(r'(?<=channel/).*?$|(?<=c/).*?$', data["url"]).group() #old code
         
         ##API code baby
         youtube_api = get_youtube_api(Downloader)

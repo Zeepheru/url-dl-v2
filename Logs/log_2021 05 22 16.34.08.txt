@@ -1,0 +1,81 @@
+2021-05-22 16:34:08,687 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-22 16:34:08,688 - Autocommand from settings: run
+2021-05-22 16:34:08,688 - Command: run
+2021-05-22 16:34:08,688 - Current: https://www.youtube.com/channel/UC-x-DwjROa7DhQvKvoqj-kg 
+2021-05-22 16:34:08,689 - youtube link
+2021-05-22 16:34:09,293 - file_cache is only supported with oauth2client<4.0.0
+2021-05-22 16:34:09,387 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU-x-DwjROa7DhQvKvoqj-kg"
+}
+2021-05-22 16:34:09,387 - Upload Playlist: UU-x-DwjROa7DhQvKvoqj-kg
+2021-05-22 16:34:09,476 - Now downloading channel: ForgaLorga
+Video Count: 24
+2021-05-22 16:34:09,477 - Channel has 24 videos downloaded.
+2021-05-22 16:34:09,477 - Scraping for id: 1EkEKvaOuzU
+2021-05-22 16:34:10,093 - Youtube Music link.
+2021-05-22 16:34:10,093 - Scraping for id: A2TnYAmZDNg
+2021-05-22 16:34:10,603 - Youtube Music link.
+2021-05-22 16:34:10,603 - Scraping for id: 2vwv6j3C6L4
+2021-05-22 16:34:11,288 - Youtube Music link.
+2021-05-22 16:34:11,288 - Scraping for id: NkptC1jnG88
+2021-05-22 16:34:12,053 - Youtube Music link.
+2021-05-22 16:34:12,053 - Scraping for id: kGHNHaC0bf4
+2021-05-22 16:34:12,850 - Youtube Music link.
+2021-05-22 16:34:12,850 - Scraping for id: 4ONOBT-4pVk
+2021-05-22 16:34:13,501 - Youtube Music link.
+2021-05-22 16:34:13,501 - Scraping for id: Awe_dHFrHG8
+2021-05-22 16:34:14,070 - Youtube Music link.
+2021-05-22 16:34:14,071 - Scraping for id: V3iYsDJNNlk
+2021-05-22 16:34:14,810 - Youtube Music link.
+2021-05-22 16:34:14,810 - Scraping for id: DjY4pm0UgBA
+2021-05-22 16:34:15,484 - Youtube Music link.
+2021-05-22 16:34:15,484 - Scraping for id: 0tPkpuWEoHI
+2021-05-22 16:34:16,338 - Youtube Music link.
+2021-05-22 16:34:16,339 - Scraping for id: _668Rn8PJvk
+2021-05-22 16:34:16,879 - Youtube Music link.
+2021-05-22 16:34:16,879 - Scraping for id: NNla7ai3GLs
+2021-05-22 16:34:17,329 - Youtube Music link.
+2021-05-22 16:34:17,329 - Scraping for id: i9l8oOngxxw
+2021-05-22 16:34:17,978 - Youtube Music link.
+2021-05-22 16:34:17,979 - Scraping for id: w7X6rLQawE4
+2021-05-22 16:34:18,642 - Youtube Music link.
+2021-05-22 16:34:18,642 - Scraping for id: Yn_srm53wVI
+2021-05-22 16:34:19,297 - Youtube Music link.
+2021-05-22 16:34:19,298 - Scraping for id: ynyZ5F5aQN0
+2021-05-22 16:34:20,007 - Youtube Music link.
+2021-05-22 16:34:20,008 - Scraping for id: YgVyN3J4CiU
+2021-05-22 16:34:20,700 - Youtube Music link.
+2021-05-22 16:34:20,702 - Scraping for id: s0ecUWTPTcE
+2021-05-22 16:34:21,466 - Youtube Music link.
+2021-05-22 16:34:21,466 - Scraping for id: BHdPUT2q2y8
+2021-05-22 16:34:22,012 - Youtube Music link.
+2021-05-22 16:34:22,012 - Scraping for id: Z6IblxRHg_Y
+2021-05-22 16:34:22,688 - Youtube Music link.
+2021-05-22 16:34:22,689 - Scraping for id: lbtF_4KqBZA
+2021-05-22 16:34:23,284 - Youtube Music link.
+2021-05-22 16:34:23,285 - Scraping for id: 972Jpv3D3tk
+2021-05-22 16:34:23,770 - Youtube Music link.
+2021-05-22 16:34:23,770 - Scraping for id: hmWhQg5cZkc
+2021-05-22 16:34:24,367 - Youtube Music link.
+2021-05-22 16:34:24,367 - Scraping for id: QlnB7RChHqs
+2021-05-22 16:34:24,856 - Youtube Music link.
+2021-05-22 16:34:24,856 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:34:27,569 - Done downloading video.
+2021-05-22 16:34:28,635 - Done downloading audio.
+2021-05-22 16:34:32,394 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:34:33,755 - Done downloading video.
+2021-05-22 16:34:34,538 - Done downloading audio.
+2021-05-22 16:34:35,500 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:34:39,172 - Done downloading video.
+2021-05-22 16:34:39,926 - Done downloading audio.
+2021-05-22 16:34:43,800 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.
+2021-05-22 16:34:46,652 - Done downloading video.
+2021-05-22 16:34:47,642 - Done downloading audio.
+2021-05-22 16:34:51,319 - Unable to use main Youtube Extractor, switching to Youtube-dl backend.

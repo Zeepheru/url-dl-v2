@@ -1,0 +1,26 @@
+2021-05-23 14:49:04,550 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-23 14:49:04,550 - Autocommand from settings: run
+2021-05-23 14:49:04,550 - Command: run
+2021-05-23 14:49:04,551 - Current: https://youtube.com/user/NeverLaststanding 
+2021-05-23 14:49:04,551 - youtube link
+2021-05-23 14:49:05,491 - file_cache is only supported with oauth2client<4.0.0
+2021-05-23 14:49:05,597 - {
+    "favorites": "FLuEdwqGj0ZYoHMbMdJsDQFw",
+    "likes": "",
+    "uploads": "UUuEdwqGj0ZYoHMbMdJsDQFw"
+}
+2021-05-23 14:49:05,597 - Upload Playlist: UUuEdwqGj0ZYoHMbMdJsDQFw
+2021-05-23 14:49:05,709 - list indices must be integers or slices, not str
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 394, in youtube_extractor
+    dl_history.addToChannel(channel_Id, list_of_ids)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 176, in addToChannel
+    self.history["channels"][channel_ID] = channel_dict
+TypeError: list indices must be integers or slices, not str
