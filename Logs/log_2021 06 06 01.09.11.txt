@@ -1,0 +1,10 @@
+2021-06-06 01:09:11,230 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-06 01:09:11,231 - Finished sifting albums.
+2021-06-06 01:09:11,231 - Currently scraping: 514587
+2021-06-06 01:09:15,224 - Currently scraping: 461194
+2021-06-06 01:09:17,002 - Writing download info to Downloader.

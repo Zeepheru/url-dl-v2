@@ -85,10 +85,11 @@ def create_download_json(Downloader):
     dl_logger.log_to_file("Creating download information json.")
     if current.site == "Youtube":
         if current.data["type"] == "channel":
-            filename = "{}_channel_{}_{}.json".format(current.site, data["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group()) #data undefined????
+            # changed data to current lol
+            filename = "{}_channel_{}_{}.json".format(current.site, current["channel name"], re.search(utils.parent_dir_regex,current.download_info[0]).group()) #data undefined????
 
         elif current.data["type"] == "playlist":
-            filename = "{}_playlist_{}_{}.json".format(current.site, data["playlist name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
+            filename = "{}_playlist_{}_{}.json".format(current.site, current["playlist name"], re.search(utils.parent_dir_regex,current.download_info[0]).group())
 
         else:
             filename = "{}_{}.json".format(current.site, re.search(r'.*(?=\.)',current.download_info[-1]["filename"]).group())
