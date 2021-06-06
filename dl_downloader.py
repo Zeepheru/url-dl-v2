@@ -35,7 +35,11 @@ def applymetadata(download_object):
     new["album"] = download_object["metadata"]["playlist"]
     new["tracknumber"] = str(download_object["metadata"]["track number"])
     new["title"] = download_object["metadata"]["title"]
-    new["date"] = str(download_object["metadata"]["year"])
+    try:
+        new["date"] = str(download_object["metadata"]["year"])
+    except:
+        # some downloads may not have year / date metadata
+        pass
 
     new.save()
 

@@ -1,0 +1,520 @@
+2021-05-26 16:14:42,608 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-26 16:14:45,934 - Command: dl -youtube https://www.youtube.com/user/JoinedTheHerd
+2021-05-26 16:14:45,934 - youtube link
+2021-05-26 16:14:46,880 - file_cache is only supported with oauth2client<4.0.0
+2021-05-26 16:14:46,981 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUhveQ1F4fIqQcNfap0Kr37g"
+}
+2021-05-26 16:14:46,981 - Upload Playlist: UUhveQ1F4fIqQcNfap0Kr37g
+2021-05-26 16:14:47,088 - Now downloading channel: JoinedTheHerd
+Video Count: 49
+2021-05-26 16:14:47,089 - Channel has 49 videos downloaded.
+2021-05-26 16:14:47,089 - Scraping for id: SSprtubeY4s
+2021-05-26 16:14:47,912 - Youtube Music link.
+2021-05-26 16:14:47,912 - Scraping for id: 812IIH7okA0
+2021-05-26 16:14:48,494 - Youtube Music link.
+2021-05-26 16:14:48,495 - Scraping for id: RDP-Bol3vB8
+2021-05-26 16:14:49,307 - Youtube Music link.
+2021-05-26 16:14:49,307 - Scraping for id: 8ukxNZ0YMfs
+2021-05-26 16:14:50,047 - Youtube Music link.
+2021-05-26 16:14:50,047 - Scraping for id: 1FJyd3Sl0k0
+2021-05-26 16:14:50,773 - Youtube Music link.
+2021-05-26 16:14:50,773 - Scraping for id: ZVqlcNgaow4
+2021-05-26 16:14:51,326 - Youtube Music link.
+2021-05-26 16:14:51,326 - Scraping for id: 0PldFDraof0
+2021-05-26 16:14:51,924 - Youtube Music link.
+2021-05-26 16:14:51,925 - Scraping for id: 4-utOBVdOB4
+2021-05-26 16:14:52,701 - Youtube Music link.
+2021-05-26 16:14:52,702 - Scraping for id: ezjSAPo260U
+2021-05-26 16:14:53,404 - Youtube Music link.
+2021-05-26 16:14:53,404 - Scraping for id: Eao20v6P364
+2021-05-26 16:14:54,184 - Youtube Music link.
+2021-05-26 16:14:54,184 - Scraping for id: YeugLRxFoP8
+2021-05-26 16:14:54,749 - Youtube Music link.
+2021-05-26 16:14:54,749 - Scraping for id: X0vhj1c6PQo
+2021-05-26 16:14:55,307 - Youtube Music link.
+2021-05-26 16:14:55,308 - Scraping for id: FmiuoSyx4B0
+2021-05-26 16:14:55,908 - Youtube Music link.
+2021-05-26 16:14:55,908 - Scraping for id: 37pe2bMPrgQ
+2021-05-26 16:14:56,715 - Youtube Music link.
+2021-05-26 16:14:56,715 - Scraping for id: 1qUwIHHX4Vs
+2021-05-26 16:14:57,344 - Youtube Music link.
+2021-05-26 16:14:57,344 - Scraping for id: LpXO1xJ8ILg
+2021-05-26 16:14:58,005 - Youtube Music link.
+2021-05-26 16:14:58,005 - Scraping for id: EuSBCYcOOc4
+2021-05-26 16:14:58,584 - Youtube Music link.
+2021-05-26 16:14:58,584 - Scraping for id: s28ysvguuPc
+2021-05-26 16:14:59,171 - Youtube Music link.
+2021-05-26 16:14:59,172 - Scraping for id: 3egPnH4atyg
+2021-05-26 16:14:59,848 - Youtube Music link.
+2021-05-26 16:14:59,848 - Scraping for id: blu3s9IqLoI
+2021-05-26 16:15:00,563 - Youtube Music link.
+2021-05-26 16:15:00,564 - Scraping for id: GO4wrXGv_qI
+2021-05-26 16:15:01,560 - Youtube Music link.
+2021-05-26 16:15:01,560 - Scraping for id: -ZfvuuG7Wyo
+2021-05-26 16:15:02,462 - Youtube Music link.
+2021-05-26 16:15:02,462 - Scraping for id: zZAO0qf9bWo
+2021-05-26 16:15:03,573 - Youtube Music link.
+2021-05-26 16:15:03,573 - Scraping for id: TykkSYQMIjs
+2021-05-26 16:15:04,272 - Youtube Music link.
+2021-05-26 16:15:04,272 - Scraping for id: NDR4j6z7l5o
+2021-05-26 16:15:04,745 - Youtube Music link.
+2021-05-26 16:15:04,745 - Scraping for id: v6Xp8B6VOIE
+2021-05-26 16:15:05,519 - Youtube Music link.
+2021-05-26 16:15:05,520 - Scraping for id: 0ftJd8J9W20
+2021-05-26 16:15:06,301 - Youtube Music link.
+2021-05-26 16:15:06,301 - Scraping for id: ptv3QpRTvA0
+2021-05-26 16:15:07,158 - Youtube Music link.
+2021-05-26 16:15:07,158 - Scraping for id: RDuWZrPmLrs
+2021-05-26 16:15:07,722 - Youtube Music link.
+2021-05-26 16:15:07,722 - Scraping for id: 5bjuyDJmYls
+2021-05-26 16:15:08,355 - Youtube Music link.
+2021-05-26 16:15:08,355 - Scraping for id: snL_CBW2aas
+2021-05-26 16:15:08,842 - Youtube Music link.
+2021-05-26 16:15:08,843 - Scraping for id: 5G-90uUOl8I
+2021-05-26 16:15:09,398 - Youtube Music link.
+2021-05-26 16:15:09,398 - Scraping for id: Rx_L0uwMF_o
+2021-05-26 16:15:10,228 - Youtube Music link.
+2021-05-26 16:15:10,228 - Scraping for id: sIv0WQKAmqc
+2021-05-26 16:15:10,970 - Youtube Music link.
+2021-05-26 16:15:10,970 - Scraping for id: Ip5e6Ijq4DU
+2021-05-26 16:15:11,703 - Youtube Music link.
+2021-05-26 16:15:11,704 - Scraping for id: k8xCvVKFRnM
+2021-05-26 16:15:12,575 - Youtube Music link.
+2021-05-26 16:15:12,576 - Scraping for id: KiP9q_ok2DI
+2021-05-26 16:15:13,206 - Youtube Music link.
+2021-05-26 16:15:13,206 - Scraping for id: l0e02bANBBA
+2021-05-26 16:15:14,031 - Youtube Music link.
+2021-05-26 16:15:14,031 - Scraping for id: LaVBPCSN4qU
+2021-05-26 16:15:14,816 - Youtube Music link.
+2021-05-26 16:15:14,817 - Scraping for id: oCGa6a_4-Z8
+2021-05-26 16:15:15,506 - Youtube Music link.
+2021-05-26 16:15:15,506 - Scraping for id: cKwNRoWEccI
+2021-05-26 16:15:16,108 - Youtube Music link.
+2021-05-26 16:15:16,108 - Scraping for id: 22D4wnXMioY
+2021-05-26 16:15:16,811 - Youtube Music link.
+2021-05-26 16:15:16,812 - Scraping for id: QjKqpa4hrc4
+2021-05-26 16:15:17,577 - Youtube Music link.
+2021-05-26 16:15:17,578 - Scraping for id: fpzNfWouTQ0
+2021-05-26 16:15:18,370 - Youtube Music link.
+2021-05-26 16:15:18,371 - Scraping for id: FBSgwjq-8Hs
+2021-05-26 16:15:19,161 - Youtube Music link.
+2021-05-26 16:15:19,162 - Scraping for id: 4ZmVH_kUytY
+2021-05-26 16:15:19,715 - Youtube Music link.
+2021-05-26 16:15:19,715 - Scraping for id: z5_OqbyZnrE
+2021-05-26 16:15:20,435 - Youtube Music link.
+2021-05-26 16:15:20,436 - Scraping for id: 1daMknV-aBs
+2021-05-26 16:15:21,084 - Youtube Music link.
+2021-05-26 16:15:21,084 - Scraping for id: Sy3-haH9EHY
+2021-05-26 16:15:21,754 - Youtube Music link.
+2021-05-26 16:15:21,755 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/SSprtubeY4s.
+2021-05-26 16:15:26,283 - Done downloading video.
+2021-05-26 16:15:27,295 - Done downloading audio.
+2021-05-26 16:15:27,753 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/812IIH7okA0.
+2021-05-26 16:15:33,412 - Done downloading video.
+2021-05-26 16:15:35,373 - Done downloading audio.
+2021-05-26 16:15:37,730 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/RDP-Bol3vB8.
+2021-05-26 16:15:50,029 - Done downloading video.
+2021-05-26 16:15:52,249 - Done downloading audio.
+2021-05-26 16:15:55,195 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8ukxNZ0YMfs.
+2021-05-26 16:16:02,067 - Done downloading video.
+2021-05-26 16:16:03,678 - Done downloading audio.
+2021-05-26 16:16:07,270 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1FJyd3Sl0k0.
+2021-05-26 16:16:39,445 - Done downloading video.
+2021-05-26 16:16:40,816 - Done downloading audio.
+2021-05-26 16:16:43,834 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZVqlcNgaow4.
+2021-05-26 16:16:46,305 - Done downloading video.
+2021-05-26 16:16:47,073 - Done downloading audio.
+2021-05-26 16:16:49,856 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0PldFDraof0.
+2021-05-26 16:17:02,984 - Done downloading video.
+2021-05-26 16:17:04,293 - Done downloading audio.
+2021-05-26 16:17:07,163 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4-utOBVdOB4.
+2021-05-26 16:17:14,944 - Done downloading video.
+2021-05-26 16:17:16,659 - Done downloading audio.
+2021-05-26 16:17:19,153 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ezjSAPo260U.
+2021-05-26 16:17:22,479 - Done downloading video.
+2021-05-26 16:17:23,512 - Done downloading audio.
+2021-05-26 16:17:25,561 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Eao20v6P364.
+2021-05-26 16:17:39,001 - Done downloading video.
+2021-05-26 16:17:39,659 - Done downloading audio.
+2021-05-26 16:17:42,869 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YeugLRxFoP8.
+2021-05-26 16:17:54,059 - Done downloading video.
+2021-05-26 16:17:55,323 - Done downloading audio.
+2021-05-26 16:17:58,389 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/X0vhj1c6PQo.
+2021-05-26 16:18:01,686 - Done downloading video.
+2021-05-26 16:18:02,741 - Done downloading audio.
+2021-05-26 16:18:05,785 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FmiuoSyx4B0.
+2021-05-26 16:18:14,388 - Done downloading video.
+2021-05-26 16:18:15,607 - Done downloading audio.
+2021-05-26 16:18:18,736 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/37pe2bMPrgQ.
+2021-05-26 16:18:22,807 - Done downloading video.
+2021-05-26 16:18:23,834 - Done downloading audio.
+2021-05-26 16:18:26,624 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1qUwIHHX4Vs.
+2021-05-26 16:18:28,568 - Done downloading video.
+2021-05-26 16:18:29,560 - Done downloading audio.
+2021-05-26 16:18:32,221 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LpXO1xJ8ILg.
+2021-05-26 16:18:37,554 - Done downloading video.
+2021-05-26 16:18:39,570 - Done downloading audio.
+2021-05-26 16:18:40,116 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/EuSBCYcOOc4.
+2021-05-26 16:18:44,068 - Done downloading video.
+2021-05-26 16:18:45,515 - Done downloading audio.
+2021-05-26 16:18:48,792 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/s28ysvguuPc.
+2021-05-26 16:18:50,235 - Done downloading video.
+2021-05-26 16:18:51,621 - Done downloading audio.
+2021-05-26 16:18:51,768 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3egPnH4atyg.
+2021-05-26 16:18:53,219 - Done downloading video.
+2021-05-26 16:19:35,365 - Done downloading audio.
+2021-05-26 16:19:37,594 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/blu3s9IqLoI.
+2021-05-26 16:19:38,976 - Done downloading video.
+2021-05-26 16:19:39,962 - Done downloading audio.
+2021-05-26 16:19:41,755 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/GO4wrXGv_qI.
+2021-05-26 16:19:44,753 - Done downloading video.
+2021-05-26 16:19:46,531 - Done downloading audio.
+2021-05-26 16:19:49,678 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-ZfvuuG7Wyo.
+2021-05-26 16:19:51,103 - Done downloading video.
+2021-05-26 16:19:51,861 - Done downloading audio.
+2021-05-26 16:19:53,406 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zZAO0qf9bWo.
+2021-05-26 16:19:54,619 - Done downloading video.
+2021-05-26 16:19:55,457 - Done downloading audio.
+2021-05-26 16:19:58,667 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/TykkSYQMIjs.
+2021-05-26 16:20:00,081 - Done downloading video.
+2021-05-26 16:20:00,775 - Done downloading audio.
+2021-05-26 16:20:01,051 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/NDR4j6z7l5o.
+2021-05-26 16:20:15,649 - Done downloading video.
+2021-05-26 16:20:16,887 - Done downloading audio.
+2021-05-26 16:20:17,683 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/v6Xp8B6VOIE.
+2021-05-26 16:20:21,104 - Done downloading video.
+2021-05-26 16:20:22,040 - Done downloading audio.
+2021-05-26 16:20:24,340 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0ftJd8J9W20.
+2021-05-26 16:20:25,266 - Done downloading video.
+2021-05-26 16:20:25,994 - Done downloading audio.
+2021-05-26 16:20:28,261 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ptv3QpRTvA0.
+2021-05-26 16:20:29,536 - Done downloading video.
+2021-05-26 16:20:30,635 - Done downloading audio.
+2021-05-26 16:20:33,168 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/RDuWZrPmLrs.
+2021-05-26 16:20:35,585 - Done downloading video.
+2021-05-26 16:20:36,795 - Done downloading audio.
+2021-05-26 16:20:37,337 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5bjuyDJmYls.
+2021-05-26 16:20:40,885 - Done downloading video.
+2021-05-26 16:20:42,399 - Done downloading audio.
+2021-05-26 16:20:45,159 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/snL_CBW2aas.
+2021-05-26 16:20:49,116 - Done downloading video.
+2021-05-26 16:20:50,315 - Done downloading audio.
+2021-05-26 16:20:53,062 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5G-90uUOl8I.
+2021-05-26 16:20:55,421 - Done downloading video.
+2021-05-26 16:20:57,560 - Done downloading audio.
+2021-05-26 16:21:00,927 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Rx_L0uwMF_o.
+2021-05-26 16:22:13,765 - Done downloading video.
+2021-05-26 16:22:14,902 - Done downloading audio.
+2021-05-26 16:22:17,932 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/sIv0WQKAmqc.
+2021-05-26 16:22:21,470 - Done downloading video.
+2021-05-26 16:22:22,963 - Done downloading audio.
+2021-05-26 16:22:23,438 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Ip5e6Ijq4DU.
+2021-05-26 16:22:28,707 - Done downloading video.
+2021-05-26 16:22:31,070 - Done downloading audio.
+2021-05-26 16:22:34,889 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/k8xCvVKFRnM.
+2021-05-26 16:22:39,120 - Done downloading video.
+2021-05-26 16:22:40,378 - Done downloading audio.
+2021-05-26 16:22:43,665 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/KiP9q_ok2DI.
+2021-05-26 16:22:49,297 - Done downloading video.
+2021-05-26 16:22:50,345 - Done downloading audio.
+2021-05-26 16:22:53,055 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/l0e02bANBBA.
+2021-05-26 16:22:56,367 - Done downloading video.
+2021-05-26 16:22:58,506 - Done downloading audio.
+2021-05-26 16:23:01,974 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LaVBPCSN4qU.
+2021-05-26 16:23:18,368 - Done downloading video.
+2021-05-26 16:23:22,836 - Done downloading audio.
+2021-05-26 16:23:29,228 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/oCGa6a_4-Z8.
+2021-05-26 16:23:38,272 - Done downloading video.
+2021-05-26 16:23:40,798 - Done downloading audio.
+2021-05-26 16:23:44,581 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/cKwNRoWEccI.
+2021-05-26 16:23:50,981 - Done downloading video.
+2021-05-26 16:23:51,705 - Done downloading audio.
+2021-05-26 16:23:53,700 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/22D4wnXMioY.
+2021-05-26 16:23:58,564 - Done downloading video.
+2021-05-26 16:24:01,621 - Done downloading audio.
+2021-05-26 16:24:04,548 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QjKqpa4hrc4.
+2021-05-26 16:24:07,019 - Done downloading video.
+2021-05-26 16:24:08,423 - Done downloading audio.
+2021-05-26 16:24:11,720 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fpzNfWouTQ0.
+2021-05-26 16:24:34,394 - Done downloading video.
+2021-05-26 16:24:35,452 - Done downloading audio.
+2021-05-26 16:24:38,431 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FBSgwjq-8Hs.
+2021-05-26 16:24:41,859 - Done downloading video.
+2021-05-26 16:24:44,003 - Done downloading audio.
+2021-05-26 16:24:47,632 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4ZmVH_kUytY.
+2021-05-26 16:25:08,600 - Done downloading video.
+2021-05-26 16:25:10,413 - Done downloading audio.
+2021-05-26 16:25:13,959 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/z5_OqbyZnrE.
+2021-05-26 16:25:25,197 - Done downloading video.
+2021-05-26 16:25:26,332 - Done downloading audio.
+2021-05-26 16:25:29,534 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1daMknV-aBs.
+2021-05-26 16:25:34,540 - Done downloading video.
+2021-05-26 16:25:35,471 - Done downloading audio.
+2021-05-26 16:25:38,386 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Sy3-haH9EHY.
+2021-05-26 16:25:41,561 - Done downloading video.
+2021-05-26 16:25:42,348 - Done downloading audio.
+2021-05-26 16:25:44,349 - Creating download information json.
+2021-05-26 16:25:44,352 - Writing text file.
+2021-05-26 16:25:44,352 - Downloading: JoinedTheHerd - Channel Image.png
+2021-05-26 16:25:44,860 - Writing text file.
+2021-05-26 16:25:44,861 - Downloading: Cadet & JTH - A Heartfelt Melody - Thumbnail.png
+2021-05-26 16:25:45,126 - Merging audio and video files.
+2021-05-26 16:25:45,508 - Adding thumbnail to video file.
+2021-05-26 16:25:45,626 - Audio or Video file does not exist.
+2021-05-26 16:25:45,626 - Writing text file.
+2021-05-26 16:25:45,627 - Downloading: Rainbow Roadtrip - Opening Song (JTH Remix) - Thumbnail.png
+2021-05-26 16:25:46,127 - Merging audio and video files.
+2021-05-26 16:25:48,333 - Adding thumbnail to video file.
+2021-05-26 16:25:48,479 - Audio or Video file does not exist.
+2021-05-26 16:25:48,480 - Writing text file.
+2021-05-26 16:25:48,480 - Downloading: JoinedTheHerd - Faith - Thumbnail.png
+2021-05-26 16:25:48,668 - Merging audio and video files.
+2021-05-26 16:25:51,118 - Adding thumbnail to video file.
+2021-05-26 16:25:51,264 - Audio or Video file does not exist.
+2021-05-26 16:25:51,265 - Writing text file.
+2021-05-26 16:25:51,265 - Downloading: Magic Of Friendship Grows (JTH Remix) - Thumbnail.png
+2021-05-26 16:25:51,836 - Merging audio and video files.
+2021-05-26 16:25:54,881 - Adding thumbnail to video file.
+2021-05-26 16:25:55,037 - Audio or Video file does not exist.
+2021-05-26 16:25:55,037 - Writing text file.
+2021-05-26 16:25:55,038 - Downloading: Cadet Covers   I'll Fly (JTH Remix) - Thumbnail.png
+2021-05-26 16:25:55,200 - Merging audio and video files.
+2021-05-26 16:25:57,713 - Adding thumbnail to video file.
+2021-05-26 16:25:57,845 - Audio or Video file does not exist.
+2021-05-26 16:25:57,846 - Writing text file.
+2021-05-26 16:25:57,846 - Downloading: We'll Make Our Mark (JoinedTheHerd Remix) - Thumbnail.png
+2021-05-26 16:25:58,104 - Merging audio and video files.
+2021-05-26 16:26:00,471 - Adding thumbnail to video file.
+2021-05-26 16:26:00,609 - Audio or Video file does not exist.
+2021-05-26 16:26:00,609 - Writing text file.
+2021-05-26 16:26:00,609 - Downloading: JoinedTheHerd - Shelter - Thumbnail.png
+2021-05-26 16:26:00,652 - Merging audio and video files.
+2021-05-26 16:26:02,982 - Adding thumbnail to video file.
+2021-05-26 16:26:03,141 - Audio or Video file does not exist.
+2021-05-26 16:26:03,141 - Writing text file.
+2021-05-26 16:26:03,142 - Downloading: The True Gift of Gifting (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:04,202 - Merging audio and video files.
+2021-05-26 16:26:06,600 - Adding thumbnail to video file.
+2021-05-26 16:26:06,789 - Audio or Video file does not exist.
+2021-05-26 16:26:06,789 - Writing text file.
+2021-05-26 16:26:06,789 - Downloading: A Kirin Tale (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:07,365 - Merging audio and video files.
+2021-05-26 16:26:09,323 - Adding thumbnail to video file.
+2021-05-26 16:26:09,470 - Audio or Video file does not exist.
+2021-05-26 16:26:09,470 - Writing text file.
+2021-05-26 16:26:09,471 - Downloading: Your Heart Is In Two Places (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:11,400 - Merging audio and video files.
+2021-05-26 16:26:14,206 - Adding thumbnail to video file.
+2021-05-26 16:26:14,395 - Audio or Video file does not exist.
+2021-05-26 16:26:14,396 - Writing text file.
+2021-05-26 16:26:14,396 - Downloading: JoinedTheHerd - Memory Lane - Thumbnail.png
+2021-05-26 16:26:14,561 - Merging audio and video files.
+2021-05-26 16:26:17,123 - Adding thumbnail to video file.
+2021-05-26 16:26:17,277 - Audio or Video file does not exist.
+2021-05-26 16:26:17,278 - Writing text file.
+2021-05-26 16:26:17,278 - Downloading: One Small Thing (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:17,490 - Merging audio and video files.
+2021-05-26 16:26:19,980 - Adding thumbnail to video file.
+2021-05-26 16:26:20,117 - Audio or Video file does not exist.
+2021-05-26 16:26:20,118 - Writing text file.
+2021-05-26 16:26:20,118 - Downloading: We're Not Flawless (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:20,909 - Merging audio and video files.
+2021-05-26 16:26:23,548 - Adding thumbnail to video file.
+2021-05-26 16:26:23,732 - Audio or Video file does not exist.
+2021-05-26 16:26:23,733 - Writing text file.
+2021-05-26 16:26:23,733 - Downloading: Time To Be Awesome (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:24,348 - Merging audio and video files.
+2021-05-26 16:26:26,658 - Adding thumbnail to video file.
+2021-05-26 16:26:26,798 - Audio or Video file does not exist.
+2021-05-26 16:26:26,799 - Writing text file.
+2021-05-26 16:26:26,799 - Downloading: Best Friends Until the End of Time (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:27,068 - Merging audio and video files.
+2021-05-26 16:26:29,304 - Adding thumbnail to video file.
+2021-05-26 16:26:29,424 - Audio or Video file does not exist.
+2021-05-26 16:26:29,424 - Writing text file.
+2021-05-26 16:26:29,425 - Downloading: 10,000! - Thumbnail.png
+2021-05-26 16:26:29,974 - Merging audio and video files.
+2021-05-26 16:26:30,382 - Adding thumbnail to video file.
+2021-05-26 16:26:30,495 - Audio or Video file does not exist.
+2021-05-26 16:26:30,495 - Writing text file.
+2021-05-26 16:26:30,496 - Downloading: A Changeling Can Change (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:30,764 - Merging audio and video files.
+2021-05-26 16:26:33,500 - Adding thumbnail to video file.
+2021-05-26 16:26:33,638 - Audio or Video file does not exist.
+2021-05-26 16:26:33,638 - Writing text file.
+2021-05-26 16:26:33,638 - Downloading: My 1st ever SFM (just trying things out) - Thumbnail.png
+2021-05-26 16:26:33,676 - Merging audio and video files.
+2021-05-26 16:26:33,801 - Adding thumbnail to video file.
+2021-05-26 16:26:33,904 - Audio or Video file does not exist.
+2021-05-26 16:26:33,905 - Writing text file.
+2021-05-26 16:26:33,905 - Downloading: It's Gonna Work (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:33,942 - Merging audio and video files.
+2021-05-26 16:26:35,817 - Adding thumbnail to video file.
+2021-05-26 16:26:35,938 - Audio or Video file does not exist.
+2021-05-26 16:26:35,938 - Writing text file.
+2021-05-26 16:26:35,938 - Downloading: I can do it on my own (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:36,109 - Merging audio and video files.
+2021-05-26 16:26:37,629 - Adding thumbnail to video file.
+2021-05-26 16:26:37,751 - Audio or Video file does not exist.
+2021-05-26 16:26:37,751 - Writing text file.
+2021-05-26 16:26:37,752 - Downloading: Luna's Future (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:38,340 - Merging audio and video files.
+2021-05-26 16:26:40,946 - Adding thumbnail to video file.
+2021-05-26 16:26:41,074 - Audio or Video file does not exist.
+2021-05-26 16:26:41,074 - Writing text file.
+2021-05-26 16:26:41,074 - Downloading: Pinkie's Present (JTH Remix) - Thumbnail.png
+2021-05-26 16:26:41,220 - Merging audio and video files.
+2021-05-26 16:26:42,629 - Adding thumbnail to video file.
+2021-05-26 16:26:42,745 - Audio or Video file does not exist.
+2021-05-26 16:26:42,745 - Writing text file.
+2021-05-26 16:26:42,745 - Downloading: Out On My Own - (JoinedTheHerd Remix) - Thumbnail.png
+2021-05-26 16:26:42,804 - Merging audio and video files.
+2021-05-26 16:26:45,522 - Adding thumbnail to video file.
+2021-05-26 16:26:45,649 - Audio or Video file does not exist.
+2021-05-26 16:26:45,650 - Writing text file.
+2021-05-26 16:26:45,650 - Downloading: Trixie is best rap god - Thumbnail.png
+2021-05-26 16:26:47,452 - Merging audio and video files.
+2021-05-26 16:26:47,669 - Adding thumbnail to video file.
+2021-05-26 16:26:47,773 - Audio or Video file does not exist.
+2021-05-26 16:26:47,773 - Writing text file.
+2021-05-26 16:26:47,774 - Downloading: WHERE DFUQ AM I - Thumbnail.png
+2021-05-26 16:26:48,042 - Merging audio and video files.
+2021-05-26 16:26:48,685 - Adding thumbnail to video file.
+2021-05-26 16:26:48,794 - Audio or Video file does not exist.
+2021-05-26 16:26:48,794 - Writing text file.
+2021-05-26 16:26:48,795 - Downloading: Friends are always there for you (JoinedTheHerd Remix) - Thumbnail.png
+2021-05-26 16:26:49,167 - Merging audio and video files.
+2021-05-26 16:26:51,104 - Adding thumbnail to video file.
+2021-05-26 16:26:51,238 - Audio or Video file does not exist.
+2021-05-26 16:26:51,238 - Writing text file.
+2021-05-26 16:26:51,238 - Downloading: The Magic Inside (JoinedTheHerd Remix) - Thumbnail.png
+2021-05-26 16:26:51,435 - Merging audio and video files.
+2021-05-26 16:26:53,409 - Adding thumbnail to video file.
+2021-05-26 16:26:53,531 - Audio or Video file does not exist.
+2021-05-26 16:26:53,531 - Writing text file.
+2021-05-26 16:26:53,531 - Downloading: The Pony I Want To Be (Remix) - Thumbnail.png
+2021-05-26 16:26:53,563 - Merging audio and video files.
+2021-05-26 16:26:56,024 - Adding thumbnail to video file.
+2021-05-26 16:26:56,157 - Audio or Video file does not exist.
+2021-05-26 16:26:56,158 - Writing text file.
+2021-05-26 16:26:56,158 - Downloading: Happy bobby Shy (Original) - Thumbnail.png
+2021-05-26 16:26:56,277 - Merging audio and video files.
+2021-05-26 16:26:56,702 - Adding thumbnail to video file.
+2021-05-26 16:26:56,809 - Audio or Video file does not exist.
+2021-05-26 16:26:56,809 - Writing text file.
+2021-05-26 16:26:56,810 - Downloading: JoinedTheHerd - Inner Voice - Thumbnail.png
+2021-05-26 16:26:56,994 - Merging audio and video files.
+2021-05-26 16:26:59,261 - Adding thumbnail to video file.
+2021-05-26 16:26:59,386 - Audio or Video file does not exist.
+2021-05-26 16:26:59,387 - Writing text file.
+2021-05-26 16:26:59,387 - Downloading: JoinedTheHerd - Giggle - Thumbnail.png
+2021-05-26 16:27:00,502 - Merging audio and video files.
+2021-05-26 16:27:02,764 - Adding thumbnail to video file.
+2021-05-26 16:27:02,893 - Audio or Video file does not exist.
+2021-05-26 16:27:02,894 - Writing text file.
+2021-05-26 16:27:02,894 - Downloading: Sim Gretina feat. EileMonty - Again (JoinedTheHerd Remix) - Thumbnail.png
+2021-05-26 16:27:03,025 - Merging audio and video files.
+2021-05-26 16:27:05,764 - Adding thumbnail to video file.
+2021-05-26 16:27:05,891 - Audio or Video file does not exist.
+2021-05-26 16:27:05,892 - Writing text file.
+2021-05-26 16:27:05,892 - Downloading: JoinedTheHerd - Party Hard - Thumbnail.png
+2021-05-26 16:27:06,279 - Merging audio and video files.
+2021-05-26 16:27:08,950 - Adding thumbnail to video file.
+2021-05-26 16:27:09,187 - Audio or Video file does not exist.
+2021-05-26 16:27:09,187 - Writing text file.
+2021-05-26 16:27:09,188 - Downloading: (W.I.P) Sim Gretina feat. EileMonty - Again {REMIX} - Thumbnail.png
+2021-05-26 16:27:09,507 - Merging audio and video files.
+2021-05-26 16:27:09,895 - Adding thumbnail to video file.
+2021-05-26 16:27:09,997 - Audio or Video file does not exist.
+2021-05-26 16:27:09,998 - Writing text file.
+2021-05-26 16:27:09,998 - Downloading: JoinedTheHerd - Winter Shadows - Thumbnail.png
+2021-05-26 16:27:10,237 - Merging audio and video files.
+2021-05-26 16:27:13,366 - Adding thumbnail to video file.
+2021-05-26 16:27:13,500 - Audio or Video file does not exist.
+2021-05-26 16:27:13,500 - Writing text file.
+2021-05-26 16:27:13,500 - Downloading: Find a Way (Remix) by JoinedTheHerd - Thumbnail.png
+2021-05-26 16:27:13,681 - Merging audio and video files.
+2021-05-26 16:27:16,078 - Adding thumbnail to video file.
+2021-05-26 16:27:16,198 - Audio or Video file does not exist.
+2021-05-26 16:27:16,198 - Writing text file.
+2021-05-26 16:27:16,198 - Downloading: Raise this barn (Remix) By JoinedTheHerd - Thumbnail.png
+2021-05-26 16:27:16,383 - Merging audio and video files.
+2021-05-26 16:27:18,566 - Adding thumbnail to video file.
+2021-05-26 16:27:18,693 - Audio or Video file does not exist.
+2021-05-26 16:27:18,693 - Writing text file.
+2021-05-26 16:27:18,693 - Downloading: JoinedTheHerd - Love is in Bloom (Remix) - Thumbnail.png
+2021-05-26 16:27:19,445 - Merging audio and video files.
+2021-05-26 16:27:22,105 - Adding thumbnail to video file.
+2021-05-26 16:27:22,234 - Audio or Video file does not exist.
+2021-05-26 16:27:22,235 - Writing text file.
+2021-05-26 16:27:22,235 - Downloading: Friendship Album - Thumbnail.png
+2021-05-26 16:27:22,848 - Merging audio and video files.
+2021-05-26 16:27:27,638 - Adding thumbnail to video file.
+2021-05-26 16:27:27,812 - Audio or Video file does not exist.
+2021-05-26 16:27:27,813 - Writing text file.
+2021-05-26 16:27:27,813 - Downloading: JoinedTheHerd - The Crusaders - Thumbnail.png
+2021-05-26 16:27:28,006 - Merging audio and video files.
+2021-05-26 16:27:30,781 - Adding thumbnail to video file.
+2021-05-26 16:27:30,928 - Audio or Video file does not exist.
+2021-05-26 16:27:30,929 - Writing text file.
+2021-05-26 16:27:30,929 - Downloading: JoinedTheHerd - Eternal Fluttershii (Remix) - Thumbnail.png
+2021-05-26 16:27:31,387 - Merging audio and video files.
+2021-05-26 16:27:32,945 - Adding thumbnail to video file.
+2021-05-26 16:27:33,069 - Audio or Video file does not exist.
+2021-05-26 16:27:33,069 - Writing text file.
+2021-05-26 16:27:33,069 - Downloading: JoinedTheHerd - Friendship is Music - Thumbnail.png
+2021-05-26 16:27:33,256 - Merging audio and video files.
+2021-05-26 16:27:35,811 - Adding thumbnail to video file.
+2021-05-26 16:27:35,978 - Audio or Video file does not exist.
+2021-05-26 16:27:35,979 - Writing text file.
+2021-05-26 16:27:35,979 - Downloading: JoinedTheHerd -  Chasing Clouds (Liquid DnB) - Thumbnail.png
+2021-05-26 16:27:36,154 - Merging audio and video files.
+2021-05-26 16:27:38,670 - Adding thumbnail to video file.
+2021-05-26 16:27:38,797 - Audio or Video file does not exist.
+2021-05-26 16:27:38,797 - Writing text file.
+2021-05-26 16:27:38,797 - Downloading: Good Girl - [Dasha & The Living Tombstone] Remix - JoinedTheHerd - Thumbnail.png
+2021-05-26 16:27:38,840 - Merging audio and video files.
+2021-05-26 16:27:41,141 - Adding thumbnail to video file.
+2021-05-26 16:27:41,303 - Audio or Video file does not exist.
+2021-05-26 16:27:41,303 - Writing text file.
+2021-05-26 16:27:41,304 - Downloading: JoinedTheHerd - Living the dream - Thumbnail.png
+2021-05-26 16:27:41,349 - Merging audio and video files.
+2021-05-26 16:27:44,156 - Adding thumbnail to video file.
+2021-05-26 16:27:44,286 - Audio or Video file does not exist.
+2021-05-26 16:27:44,287 - Writing text file.
+2021-05-26 16:27:44,287 - Downloading: JoinedTheHerd - A Dash of Awesome - Thumbnail.png
+2021-05-26 16:27:44,541 - Merging audio and video files.
+2021-05-26 16:27:47,246 - Adding thumbnail to video file.
+2021-05-26 16:27:47,411 - Audio or Video file does not exist.
+2021-05-26 16:27:47,412 - Writing text file.
+2021-05-26 16:27:47,412 - Downloading: JoinedTheHerd - Hush Now - Thumbnail.png
+2021-05-26 16:27:48,086 - Merging audio and video files.
+2021-05-26 16:27:50,534 - Adding thumbnail to video file.
+2021-05-26 16:27:50,675 - Audio or Video file does not exist.
+2021-05-26 16:27:50,675 - Writing text file.
+2021-05-26 16:27:50,676 - Downloading: The Perfect Stallion (Remix) - JoinedTheHerd - Thumbnail.png
+2021-05-26 16:27:50,952 - Merging audio and video files.
+2021-05-26 16:27:53,313 - Adding thumbnail to video file.
+2021-05-26 16:27:53,467 - Audio or Video file does not exist.
+2021-05-26 16:27:53,468 - Writing text file.
+2021-05-26 16:27:53,468 - Downloading: BBBFF - Remix by JoinedTheHerd {PMV} - Thumbnail.png
+2021-05-26 16:27:53,633 - Merging audio and video files.
+2021-05-26 16:27:55,109 - Adding thumbnail to video file.
+2021-05-26 16:27:55,202 - Audio or Video file does not exist.
+2021-05-26 16:27:55,203 - Download for |https://www.youtube.com/user/JoinedTheHerd| complete.
+
+2021-05-26 16:27:55,204 - Writing to history...
+2021-05-26 16:27:55,204 - Done.
+2021-05-26 17:10:01,329 - Command: close
+2021-05-26 17:10:01,329 - 
+Log Ended.
+Total time: 0 hrs 55 min 18.72 sec
+

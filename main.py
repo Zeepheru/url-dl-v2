@@ -217,6 +217,14 @@ def parse_file(Downloader): #if run - is initialized
                     from extractors.mediafire import mediafire_extractor
                     Downloader = mediafire_extractor(Downloader)
 
+                #hahahahahahaha the custom thing
+                link_match = re.search(r'https://monster-siren.hypergryph.com/music/', dl_object_string)
+                if link_match != None:
+                    dl_logger.log_to_file("Custom downloader inititated.")
+                    dl_object.data["url"] = link_match.group()
+                    from extractors.arknights_ost import custom_extractor_a
+                    Downloader = custom_extractor_a(Downloader)
+
                 #Download handler
                 Downloader = download.download(Downloader)
                 dl_logger.log_info("Download for {} complete.\n".format(dl_object_string.replace(" ","")))

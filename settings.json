@@ -1,6 +1,6 @@
 {
     "debug": {
-        "autocommand": "run",
+        "autocommand": "",
         "descriptions only": false,
         "download": true,
         "export download info": true,

@@ -1,0 +1,907 @@
+2021-05-29 15:51:58,896 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-05-29 15:52:00,458 - Command: run
+2021-05-29 15:52:00,460 - Current: https://m.youtube.com/watch?v=SL_-RqReveA 
+2021-05-29 15:52:00,460 - youtube link
+2021-05-29 15:52:02,307 - Scraping for id: SL_-RqReveA
+2021-05-29 15:52:03,352 - Youtube Music link.
+2021-05-29 15:52:03,353 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/SL_-RqReveA.
+2021-05-29 15:52:07,008 - Done downloading video.
+2021-05-29 15:52:08,050 - Done downloading audio.
+2021-05-29 15:52:10,781 - Creating download information json.
+2021-05-29 15:52:10,783 - Writing text file.
+2021-05-29 15:52:10,783 - Downloading: ILLENIUM - Take You Down (Official Audio) - Thumbnail.png
+2021-05-29 15:52:10,854 - Merging audio and video files.
+2021-05-29 15:52:12,980 - Adding thumbnail to video file.
+2021-05-29 15:52:13,155 - Audio or Video file does not exist.
+2021-05-29 15:52:13,155 - Download for https://m.youtube.com/watch?v=SL_-RqReveA complete.
+
+2021-05-29 15:52:13,157 - Writing to history...
+2021-05-29 15:52:13,158 - Done.
+2021-05-29 15:52:13,158 - Current: https://m.youtube.com/watch?v=-vHARm6svv4 
+2021-05-29 15:52:13,158 - youtube link
+2021-05-29 15:52:13,159 - Scraping for id: -vHARm6svv4
+2021-05-29 15:52:14,785 - Youtube Music link.
+2021-05-29 15:52:14,786 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-vHARm6svv4.
+2021-05-29 15:52:16,549 - Done downloading video.
+2021-05-29 15:52:17,320 - Done downloading audio.
+2021-05-29 15:52:19,859 - Creating download information json.
+2021-05-29 15:52:19,860 - Writing text file.
+2021-05-29 15:52:19,861 - Downloading: ILLENIUM - Take You Down (Nurko Remix) - Thumbnail.png
+2021-05-29 15:52:19,989 - Merging audio and video files.
+2021-05-29 15:52:22,219 - Adding thumbnail to video file.
+2021-05-29 15:52:22,337 - Audio or Video file does not exist.
+2021-05-29 15:52:22,337 - Download for https://m.youtube.com/watch?v=-vHARm6svv4 complete.
+
+2021-05-29 15:52:22,337 - Writing to history...
+2021-05-29 15:52:22,338 - Done.
+2021-05-29 15:52:22,338 - Current: https://youtu.be/kee93se_K74 
+2021-05-29 15:52:22,338 - youtube link
+2021-05-29 15:52:22,339 - Scraping for id: kee93se_K74
+2021-05-29 15:52:23,315 - Youtube Music link.
+2021-05-29 15:52:23,316 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/kee93se_K74.
+2021-05-29 15:52:30,787 - Done downloading video.
+2021-05-29 15:52:33,546 - Done downloading audio.
+2021-05-29 15:53:00,239 - Creating download information json.
+2021-05-29 15:53:00,240 - Writing text file.
+2021-05-29 15:53:00,240 - Downloading: Free Streaming Music - Lost in Paradise (Retrowave_Synthwave) _ Royalty Free No Copyright - Thumbnail.png
+2021-05-29 15:53:00,292 - Merging audio and video files.
+2021-05-29 15:53:20,996 - Adding thumbnail to video file.
+2021-05-29 15:53:21,545 - Audio or Video file does not exist.
+2021-05-29 15:53:21,545 - Download for https://youtu.be/kee93se_K74 complete.
+
+2021-05-29 15:53:21,546 - Writing to history...
+2021-05-29 15:53:21,547 - Done.
+2021-05-29 15:53:21,547 - Current: https://youtu.be/CKqrQUHYgrM 
+2021-05-29 15:53:21,547 - youtube link
+2021-05-29 15:53:21,547 - Scraping for id: CKqrQUHYgrM
+2021-05-29 15:53:22,133 - Youtube Music link.
+2021-05-29 15:53:22,134 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/CKqrQUHYgrM.
+2021-05-29 15:53:53,390 - Done downloading video.
+2021-05-29 15:53:55,856 - Done downloading audio.
+2021-05-29 15:54:15,745 - Creating download information json.
+2021-05-29 15:54:15,747 - Writing text file.
+2021-05-29 15:54:15,747 - Downloading: Building a Giant Wooden Rocket in 5 Days - Thumbnail.png
+2021-05-29 15:54:15,812 - Merging audio and video files.
+2021-05-29 15:54:34,898 - Adding thumbnail to video file.
+2021-05-29 15:54:35,602 - Audio or Video file does not exist.
+2021-05-29 15:54:35,602 - Download for https://youtu.be/CKqrQUHYgrM complete.
+
+2021-05-29 15:54:35,603 - Writing to history...
+2021-05-29 15:54:35,603 - Done.
+2021-05-29 15:54:35,603 - Current: https://youtu.be/0J2QdDbelmY 
+2021-05-29 15:54:35,603 - youtube link
+2021-05-29 15:54:35,604 - Scraping for id: 0J2QdDbelmY
+2021-05-29 15:54:36,715 - Youtube Music link.
+2021-05-29 15:54:36,716 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0J2QdDbelmY.
+2021-05-29 15:54:41,299 - Done downloading video.
+2021-05-29 15:54:42,069 - Done downloading audio.
+2021-05-29 15:54:44,497 - Creating download information json.
+2021-05-29 15:54:44,498 - Writing text file.
+2021-05-29 15:54:44,498 - Downloading: The White Stripes - Seven Nation Army (Official Music Video) - Thumbnail.png
+2021-05-29 15:54:44,537 - Merging audio and video files.
+2021-05-29 15:54:46,622 - Adding thumbnail to video file.
+2021-05-29 15:54:46,770 - Audio or Video file does not exist.
+2021-05-29 15:54:46,770 - Download for https://youtu.be/0J2QdDbelmY complete.
+
+2021-05-29 15:54:46,770 - Writing to history...
+2021-05-29 15:54:46,771 - Done.
+2021-05-29 15:54:46,771 - Current: https://www.youtube.com/playlist?list=PLLrug9JZTq63nA9BIsB-U2BuXblItWZMK 
+2021-05-29 15:54:46,771 - youtube link
+2021-05-29 15:54:46,777 - file_cache is only supported with oauth2client<4.0.0
+2021-05-29 15:54:47,037 - Scraping for id: koXyl2b5uD0
+2021-05-29 15:54:47,722 - Youtube Music link.
+2021-05-29 15:54:47,723 - Scraping for id: fAPHKyTs1YA
+2021-05-29 15:54:48,379 - Youtube Music link.
+2021-05-29 15:54:48,379 - Scraping for id: lkpbRX6i_7w
+2021-05-29 15:54:49,038 - Youtube Music link.
+2021-05-29 15:54:49,039 - Scraping for id: yXjfw1CBYZI
+2021-05-29 15:54:51,212 - Youtube Music link.
+2021-05-29 15:54:51,212 - Scraping for id: QCWmOXT53UE
+2021-05-29 15:54:52,059 - Youtube Music link.
+2021-05-29 15:54:52,059 - Scraping for id: AanDupKYkJo
+2021-05-29 15:54:53,045 - Youtube Music link.
+2021-05-29 15:54:53,045 - Scraping for id: J_Nlw1PTNpk
+2021-05-29 15:54:53,841 - Youtube Music link.
+2021-05-29 15:54:53,841 - Scraping for id: deaT0kaQEQs
+2021-05-29 15:54:54,599 - Youtube Music link.
+2021-05-29 15:54:54,599 - Scraping for id: lO6JRaCmRjA
+2021-05-29 15:54:55,437 - Youtube Music link.
+2021-05-29 15:54:55,438 - Scraping for id: wmjEbopzenM
+2021-05-29 15:54:56,412 - Youtube Music link.
+2021-05-29 15:54:56,412 - Scraping for id: r5NbmGJIYRg
+2021-05-29 15:54:57,281 - Youtube Music link.
+2021-05-29 15:54:57,281 - Scraping for id: X5o1myMJqpo
+2021-05-29 15:54:58,059 - Youtube Music link.
+2021-05-29 15:54:58,059 - Scraping for id: JHtn369jqFM
+2021-05-29 15:54:58,710 - Youtube Music link.
+2021-05-29 15:54:58,711 - Scraping for id: 4qLw4uHXPk8
+2021-05-29 15:54:59,355 - Youtube Music link.
+2021-05-29 15:54:59,356 - Scraping for id: R4aW49y-Jh4
+2021-05-29 15:55:00,342 - Youtube Music link.
+2021-05-29 15:55:00,342 - Scraping for id: N1yfWJvrCdo
+2021-05-29 15:55:01,110 - Youtube Music link.
+2021-05-29 15:55:01,110 - Scraping for id: JKEJWKjyBRM
+2021-05-29 15:55:01,830 - Youtube Music link.
+2021-05-29 15:55:01,831 - Scraping for id: MtpXonpLHRE
+2021-05-29 15:55:02,753 - Youtube Music link.
+2021-05-29 15:55:02,754 - Scraping for id: ImdkKz6ZSek
+2021-05-29 15:55:03,675 - Youtube Music link.
+2021-05-29 15:55:03,675 - Scraping for id: EBiZw48P-gU
+2021-05-29 15:55:04,363 - Youtube Music link.
+2021-05-29 15:55:04,363 - Scraping for id: 5_LHm5IrXMI
+2021-05-29 15:55:05,288 - Youtube Music link.
+2021-05-29 15:55:05,288 - Scraping for id: Ano8ClT6lVk
+2021-05-29 15:55:05,966 - Youtube Music link.
+2021-05-29 15:55:05,966 - Scraping for id: xuGe60GxEa0
+2021-05-29 15:55:06,757 - Youtube Music link.
+2021-05-29 15:55:06,757 - Scraping for id: BCfp9c549r0
+2021-05-29 15:55:07,461 - Youtube Music link.
+2021-05-29 15:55:07,462 - Scraping for id: EKv1TxFqD9s
+2021-05-29 15:55:08,254 - Youtube Music link.
+2021-05-29 15:55:08,255 - Scraping for id: RRDiHMMj2q4
+2021-05-29 15:55:08,847 - Youtube Music link.
+2021-05-29 15:55:08,847 - Scraping for id: 2QKAOTlxmYY
+2021-05-29 15:55:09,444 - Youtube Music link.
+2021-05-29 15:55:09,445 - Scraping for id: yMBtvzuk8gg
+2021-05-29 15:55:10,159 - Youtube Music link.
+2021-05-29 15:55:10,159 - Scraping for id: 02VHWHSKnPE
+2021-05-29 15:55:10,754 - Youtube Music link.
+2021-05-29 15:55:10,754 - Scraping for id: fAw8Aazt3hc
+2021-05-29 15:55:11,422 - Youtube Music link.
+2021-05-29 15:55:11,423 - Scraping for id: ptm-5ErMmKw
+2021-05-29 15:55:12,306 - Youtube Music link.
+2021-05-29 15:55:12,307 - Scraping for id: UvJ1hMGTyTI
+2021-05-29 15:55:13,112 - Youtube Music link.
+2021-05-29 15:55:13,112 - Scraping for id: C4PLcUQQC5s
+2021-05-29 15:55:13,849 - Youtube Music link.
+2021-05-29 15:55:13,850 - Scraping for id: SlzuqdyK-l4
+2021-05-29 15:55:14,526 - Youtube Music link.
+2021-05-29 15:55:14,526 - Scraping for id: 0_NriePK1T8
+2021-05-29 15:55:15,214 - Youtube Music link.
+2021-05-29 15:55:15,214 - Scraping for id: gRiEJDV05jA
+2021-05-29 15:55:15,893 - Youtube Music link.
+2021-05-29 15:55:15,893 - Scraping for id: 4RRc7uc4uLc
+2021-05-29 15:55:16,721 - Youtube Music link.
+2021-05-29 15:55:16,722 - Scraping for id: YvxRprnf2XU
+2021-05-29 15:55:17,531 - Youtube Music link.
+2021-05-29 15:55:17,532 - Scraping for id: n_R5Oly7NS4
+2021-05-29 15:55:18,261 - Youtube Music link.
+2021-05-29 15:55:18,262 - Scraping for id: QDYKBvxra_w
+2021-05-29 15:55:19,007 - Youtube Music link.
+2021-05-29 15:55:19,008 - Scraping for id: JsVb0g-g7DA
+2021-05-29 15:55:19,687 - Youtube Music link.
+2021-05-29 15:55:19,687 - Scraping for id: EptNeZCJ3wo
+2021-05-29 15:55:20,577 - Youtube Music link.
+2021-05-29 15:55:20,577 - Scraping for id: WCmeSdLED68
+2021-05-29 15:55:21,197 - Youtube Music link.
+2021-05-29 15:55:21,197 - Scraping for id: mS6d89z7GMY
+2021-05-29 15:55:22,007 - Youtube Music link.
+2021-05-29 15:55:22,007 - Scraping for id: XDul2hx_1D8
+2021-05-29 15:55:22,967 - Youtube Music link.
+2021-05-29 15:55:22,967 - Scraping for id: hfOyFzup_8o
+2021-05-29 15:55:23,644 - Youtube Music link.
+2021-05-29 15:55:23,644 - Scraping for id: x5NwCUox-QI
+2021-05-29 15:55:24,338 - Youtube Music link.
+2021-05-29 15:55:24,338 - Scraping for id: 6wpq86DYfQk
+2021-05-29 15:55:24,988 - Youtube Music link.
+2021-05-29 15:55:24,989 - Scraping for id: 0w5A6wcx7b8
+2021-05-29 15:55:25,731 - Youtube Music link.
+2021-05-29 15:55:25,731 - Scraping for id: gQmGlNpow74
+2021-05-29 15:55:26,377 - Youtube Music link.
+2021-05-29 15:55:26,378 - Scraping for id: Z7R98sY5jHI
+2021-05-29 15:55:27,208 - Youtube Music link.
+2021-05-29 15:55:27,208 - Scraping for id: OiZP-rCuOA4
+2021-05-29 15:55:28,047 - Youtube Music link.
+2021-05-29 15:55:28,048 - Scraping for id: 8Q33Uk6sK6A
+2021-05-29 15:55:28,673 - Youtube Music link.
+2021-05-29 15:55:28,673 - Scraping for id: yBhKMPM8gCA
+2021-05-29 15:55:29,281 - Youtube Music link.
+2021-05-29 15:55:29,281 - Scraping for id: JxWLjMXWqDc
+2021-05-29 15:55:30,008 - Youtube Music link.
+2021-05-29 15:55:30,008 - Scraping for id: Rs4W33tEXPc
+2021-05-29 15:55:30,653 - Youtube Music link.
+2021-05-29 15:55:30,653 - Scraping for id: dshcgM_MeqY
+2021-05-29 15:55:31,612 - Youtube Music link.
+2021-05-29 15:55:31,613 - Scraping for id: rHWc9CquQGc
+2021-05-29 15:55:32,212 - Youtube Music link.
+2021-05-29 15:55:32,212 - Scraping for id: j5fd3DwFgzI
+2021-05-29 15:55:32,969 - Youtube Music link.
+2021-05-29 15:55:32,969 - Scraping for id: XCwLnlX9fcs
+2021-05-29 15:55:33,818 - Youtube Music link.
+2021-05-29 15:55:33,819 - Scraping for id: D9l4NRfYGH4
+2021-05-29 15:55:34,454 - Youtube Music link.
+2021-05-29 15:55:34,455 - Scraping for id: Nx9YJAcBOi0
+2021-05-29 15:55:35,039 - Youtube Music link.
+2021-05-29 15:55:35,040 - Scraping for id: LZ3rLCAYOV4
+2021-05-29 15:55:35,801 - Youtube Music link.
+2021-05-29 15:55:35,801 - Scraping for id: OYjlsO7-mzA
+2021-05-29 15:55:36,582 - Youtube Music link.
+2021-05-29 15:55:36,583 - Scraping for id: WxsGGG2Dj38
+2021-05-29 15:55:37,308 - Youtube Music link.
+2021-05-29 15:55:37,309 - Scraping for id: d-Vi5y0UlLY
+2021-05-29 15:55:37,931 - Youtube Music link.
+2021-05-29 15:55:37,931 - Scraping for id: AmAQXPRERYo
+2021-05-29 15:55:38,593 - Youtube Music link.
+2021-05-29 15:55:38,594 - Scraping for id: W8o8nfXVl28
+2021-05-29 15:55:39,516 - Youtube Music link.
+2021-05-29 15:55:39,517 - Scraping for id: cwJoHm3rv_k
+2021-05-29 15:55:40,240 - Youtube Music link.
+2021-05-29 15:55:40,241 - Scraping for id: xO0lh-Ane5Y
+2021-05-29 15:55:40,890 - Youtube Music link.
+2021-05-29 15:55:40,891 - Scraping for id: KqQhkADqamc
+2021-05-29 15:55:41,589 - Youtube Music link.
+2021-05-29 15:55:41,589 - Scraping for id: yzeY5WEjHY4
+2021-05-29 15:55:42,443 - Youtube Music link.
+2021-05-29 15:55:42,443 - Scraping for id: MhMKM75acic
+2021-05-29 15:55:43,068 - Youtube Music link.
+2021-05-29 15:55:43,068 - Scraping for id: hm1_NbwBFdI
+2021-05-29 15:55:43,980 - Youtube Music link.
+2021-05-29 15:55:43,980 - Scraping for id: JDSP0lZCyXU
+2021-05-29 15:55:44,589 - Youtube Music link.
+2021-05-29 15:55:44,589 - Scraping for id: J4d0rPnpnoQ
+2021-05-29 15:55:45,292 - Youtube Music link.
+2021-05-29 15:55:45,292 - Scraping for id: yrGshm2CUJM
+2021-05-29 15:55:46,068 - Youtube Music link.
+2021-05-29 15:55:46,068 - Scraping for id: QjPp6Dx4hqU
+2021-05-29 15:55:46,872 - Youtube Music link.
+2021-05-29 15:55:46,872 - Scraping for id: fMoczAexWNE
+2021-05-29 15:55:47,478 - Youtube Music link.
+2021-05-29 15:55:47,479 - Scraping for id: BIAn7QpRiI0
+2021-05-29 15:55:48,211 - Youtube Music link.
+2021-05-29 15:55:48,211 - Scraping for id: 2TlHYX77an0
+2021-05-29 15:55:48,829 - Youtube Music link.
+2021-05-29 15:55:48,829 - Scraping for id: kP3npsSrv7s
+2021-05-29 15:55:49,534 - Youtube Music link.
+2021-05-29 15:55:49,535 - Scraping for id: R6VM89nwztg
+2021-05-29 15:55:50,328 - Youtube Music link.
+2021-05-29 15:55:50,328 - Scraping for id: E7dcYWTg8lE
+2021-05-29 15:55:50,935 - Youtube Music link.
+2021-05-29 15:55:50,936 - Scraping for id: 5LF4gC_rxAM
+2021-05-29 15:55:51,583 - Youtube Music link.
+2021-05-29 15:55:51,584 - Scraping for id: O89h4mN6Vo8
+2021-05-29 15:55:52,300 - Youtube Music link.
+2021-05-29 15:55:52,300 - Scraping for id: ETE-Cj81EyM
+2021-05-29 15:55:53,052 - Youtube Music link.
+2021-05-29 15:55:53,052 - Scraping for id: B-tTXax25ZE
+2021-05-29 15:55:53,681 - Youtube Music link.
+2021-05-29 15:55:53,681 - Scraping for id: CEWyqA3m_8E
+2021-05-29 15:55:54,367 - Youtube Music link.
+2021-05-29 15:55:54,367 - Scraping for id: NgX_j0Nj2Ok
+2021-05-29 15:55:55,207 - Youtube Music link.
+2021-05-29 15:55:55,207 - Scraping for id: BaR6fyQm1mY
+2021-05-29 15:55:55,890 - Youtube Music link.
+2021-05-29 15:55:55,890 - Scraping for id: x1O2rYZemoQ
+2021-05-29 15:55:56,588 - Youtube Music link.
+2021-05-29 15:55:56,588 - Scraping for id: FzL-FmP492Y
+2021-05-29 15:55:57,248 - Youtube Music link.
+2021-05-29 15:55:57,248 - Scraping for id: fGirphutCiU
+2021-05-29 15:55:58,011 - Youtube Music link.
+2021-05-29 15:55:58,011 - Scraping for id: iQwbEr5gt2Y
+2021-05-29 15:55:58,807 - Youtube Music link.
+2021-05-29 15:55:58,807 - Scraping for id: dFrqomFbsCM
+2021-05-29 15:55:59,541 - Youtube Music link.
+2021-05-29 15:55:59,541 - Scraping for id: jKCi4fS05zw
+2021-05-29 15:56:00,251 - Youtube Music link.
+2021-05-29 15:56:00,251 - Scraping for id: Ian-XDqhzYI
+2021-05-29 15:56:01,100 - Youtube Music link.
+2021-05-29 15:56:01,100 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/koXyl2b5uD0.
+2021-05-29 15:56:04,088 - Done downloading video.
+2021-05-29 15:56:11,413 - Done downloading audio.
+2021-05-29 15:56:28,423 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fAPHKyTs1YA.
+2021-05-29 16:01:16,413 - Done downloading video.
+2021-05-29 16:01:21,040 - Done downloading audio.
+2021-05-29 16:01:40,644 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/lkpbRX6i_7w.
+2021-05-29 16:06:53,916 - Done downloading video.
+2021-05-29 16:06:57,216 - Done downloading audio.
+2021-05-29 16:07:19,832 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yXjfw1CBYZI.
+2021-05-29 16:07:23,548 - Done downloading video.
+2021-05-29 16:07:25,704 - Done downloading audio.
+2021-05-29 16:07:48,707 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QCWmOXT53UE.
+2021-05-29 16:07:51,414 - Done downloading video.
+2021-05-29 16:07:53,407 - Done downloading audio.
+2021-05-29 16:08:14,656 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/AanDupKYkJo.
+2021-05-29 16:08:18,759 - Done downloading video.
+2021-05-29 16:08:20,942 - Done downloading audio.
+2021-05-29 16:08:20,980 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-29 16:08:20,995 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/J_Nlw1PTNpk.
+2021-05-29 16:08:23,482 - Done downloading video.
+2021-05-29 16:08:25,587 - Done downloading audio.
+2021-05-29 16:08:43,888 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/deaT0kaQEQs.
+2021-05-29 16:08:46,343 - Done downloading video.
+2021-05-29 16:08:51,906 - Done downloading audio.
+2021-05-29 16:09:11,726 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/lO6JRaCmRjA.
+2021-05-29 16:09:14,514 - Done downloading video.
+2021-05-29 16:09:18,604 - Done downloading audio.
+2021-05-29 16:09:41,621 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/wmjEbopzenM.
+2021-05-29 16:14:27,468 - Done downloading video.
+2021-05-29 16:14:33,243 - Done downloading audio.
+2021-05-29 16:14:51,731 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/r5NbmGJIYRg.
+2021-05-29 16:14:53,691 - Done downloading video.
+2021-05-29 16:14:56,330 - Done downloading audio.
+2021-05-29 16:15:17,506 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/X5o1myMJqpo.
+2021-05-29 16:15:23,404 - Done downloading video.
+2021-05-29 16:22:05,144 - Done downloading audio.
+2021-05-29 16:22:23,756 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JHtn369jqFM.
+2021-05-29 16:22:27,009 - Done downloading video.
+2021-05-29 16:22:31,709 - Done downloading audio.
+2021-05-29 16:22:50,131 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4qLw4uHXPk8.
+2021-05-29 16:27:30,808 - Done downloading video.
+2021-05-29 16:27:40,724 - Done downloading audio.
+2021-05-29 16:28:02,887 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/R4aW49y-Jh4.
+2021-05-29 16:28:07,962 - Done downloading video.
+2021-05-29 16:28:10,880 - Done downloading audio.
+2021-05-29 16:28:33,411 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/N1yfWJvrCdo.
+2021-05-29 16:28:39,955 - Done downloading video.
+2021-05-29 16:28:49,220 - Done downloading audio.
+2021-05-29 16:29:07,453 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JKEJWKjyBRM.
+2021-05-29 16:34:38,940 - Done downloading video.
+2021-05-29 16:34:43,266 - Done downloading audio.
+2021-05-29 16:35:05,871 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/MtpXonpLHRE.
+2021-05-29 16:35:13,527 - Done downloading video.
+2021-05-29 16:35:17,714 - Done downloading audio.
+2021-05-29 16:35:17,828 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Friendly Fire' Game Version (Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+2021-05-29 16:35:17,834 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ImdkKz6ZSek.
+2021-05-29 16:40:01,276 - Done downloading video.
+2021-05-29 16:40:03,624 - Done downloading audio.
+2021-05-29 16:40:25,217 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/EBiZw48P-gU.
+2021-05-29 16:44:20,424 - Done downloading video.
+2021-05-29 16:44:25,164 - Done downloading audio.
+2021-05-29 16:44:47,327 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/5_LHm5IrXMI.
+2021-05-29 16:49:22,123 - Done downloading video.
+2021-05-29 16:49:25,164 - Done downloading audio.
+2021-05-29 16:49:25,288 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack\tmpaudio_'444th Air Base Briefing' (Extended) - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+2021-05-29 16:49:25,295 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Ano8ClT6lVk.
+2021-05-29 16:49:32,062 - Done downloading video.
+2021-05-29 16:49:36,602 - Done downloading audio.
+2021-05-29 16:49:58,463 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/xuGe60GxEa0.
+2021-05-29 16:50:02,495 - Done downloading video.
+2021-05-29 16:50:09,012 - Done downloading audio.
+2021-05-29 16:50:30,426 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/BCfp9c549r0.
+2021-05-29 16:55:40,360 - Done downloading video.
+2021-05-29 16:55:46,209 - Done downloading audio.
+2021-05-29 16:56:08,921 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/EKv1TxFqD9s.
+2021-05-29 17:01:26,085 - Done downloading video.
+2021-05-29 17:01:29,584 - Done downloading audio.
+2021-05-29 17:01:52,540 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/RRDiHMMj2q4.
+2021-05-29 17:06:35,967 - Done downloading video.
+2021-05-29 17:06:42,761 - Done downloading audio.
+2021-05-29 17:07:06,387 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/2QKAOTlxmYY.
+2021-05-29 17:07:09,321 - Done downloading video.
+2021-05-29 17:07:13,646 - Done downloading audio.
+2021-05-29 17:07:32,679 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yMBtvzuk8gg.
+2021-05-29 17:07:39,026 - Done downloading video.
+2021-05-29 17:07:43,134 - Done downloading audio.
+2021-05-29 17:08:06,344 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/02VHWHSKnPE.
+2021-05-29 17:08:12,600 - Done downloading video.
+2021-05-29 17:08:16,732 - Done downloading audio.
+2021-05-29 17:08:40,390 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/fAw8Aazt3hc.
+2021-05-29 17:08:44,315 - Done downloading video.
+2021-05-29 17:08:46,801 - Done downloading audio.
+2021-05-29 17:09:10,673 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ptm-5ErMmKw.
+2021-05-29 17:09:13,507 - Done downloading video.
+2021-05-29 17:09:17,559 - Done downloading audio.
+2021-05-29 17:09:35,458 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/UvJ1hMGTyTI.
+2021-05-29 17:09:38,813 - Done downloading video.
+2021-05-29 17:09:45,181 - Done downloading audio.
+2021-05-29 17:10:04,796 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/C4PLcUQQC5s.
+2021-05-29 17:10:07,863 - Done downloading video.
+2021-05-29 17:10:11,969 - Done downloading audio.
+2021-05-29 17:10:35,734 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/SlzuqdyK-l4.
+2021-05-29 17:14:43,424 - Done downloading video.
+2021-05-29 17:14:46,426 - Done downloading audio.
+2021-05-29 17:15:10,247 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0_NriePK1T8.
+2021-05-29 17:15:12,514 - Done downloading video.
+2021-05-29 17:15:17,583 - Done downloading audio.
+2021-05-29 17:15:39,128 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/gRiEJDV05jA.
+2021-05-29 17:15:43,979 - Done downloading video.
+2021-05-29 17:15:47,070 - Done downloading audio.
+2021-05-29 17:16:10,744 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/4RRc7uc4uLc.
+2021-05-29 17:16:13,483 - Done downloading video.
+2021-05-29 17:16:15,459 - Done downloading audio.
+2021-05-29 17:16:40,033 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YvxRprnf2XU.
+2021-05-29 17:20:59,281 - Done downloading video.
+2021-05-29 17:21:04,336 - Done downloading audio.
+2021-05-29 17:21:28,741 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/n_R5Oly7NS4.
+2021-05-29 17:21:32,304 - Done downloading video.
+2021-05-29 17:21:35,211 - Done downloading audio.
+2021-05-29 17:21:59,928 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QDYKBvxra_w.
+2021-05-29 17:22:03,371 - Done downloading video.
+2021-05-29 17:29:15,199 - Done downloading audio.
+2021-05-29 17:29:15,242 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-29 17:29:15,254 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JsVb0g-g7DA.
+2021-05-29 17:29:18,333 - Done downloading video.
+2021-05-29 17:29:20,337 - Done downloading audio.
+2021-05-29 17:29:46,976 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/EptNeZCJ3wo.
+2021-05-29 17:29:51,497 - Done downloading video.
+2021-05-29 17:29:56,993 - Done downloading audio.
+2021-05-29 17:30:18,366 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/WCmeSdLED68.
+2021-05-29 17:30:26,400 - Done downloading video.
+2021-05-29 17:30:28,852 - Done downloading audio.
+2021-05-29 17:30:55,138 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/mS6d89z7GMY.
+2021-05-29 17:30:57,549 - Done downloading video.
+2021-05-29 17:30:59,685 - Done downloading audio.
+2021-05-29 17:31:27,234 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/XDul2hx_1D8.
+2021-05-29 17:31:29,841 - Done downloading video.
+2021-05-29 17:31:31,843 - Done downloading audio.
+2021-05-29 17:32:00,658 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hfOyFzup_8o.
+2021-05-29 17:32:02,929 - Done downloading video.
+2021-05-29 17:32:07,293 - Done downloading audio.
+2021-05-29 17:32:28,570 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/x5NwCUox-QI.
+2021-05-29 17:36:34,682 - Done downloading video.
+2021-05-29 17:36:38,767 - Done downloading audio.
+2021-05-29 17:37:03,191 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/6wpq86DYfQk.
+2021-05-29 17:37:06,145 - Done downloading video.
+2021-05-29 17:37:09,269 - Done downloading audio.
+2021-05-29 17:37:29,373 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0w5A6wcx7b8.
+2021-05-29 17:37:31,456 - Done downloading video.
+2021-05-29 17:37:33,376 - Done downloading audio.
+2021-05-29 17:37:58,572 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/gQmGlNpow74.
+2021-05-29 17:43:15,969 - Done downloading video.
+2021-05-29 17:43:22,991 - Done downloading audio.
+2021-05-29 17:43:50,936 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Z7R98sY5jHI.
+2021-05-29 17:43:56,072 - Done downloading video.
+2021-05-29 17:43:58,957 - Done downloading audio.
+2021-05-29 17:44:26,147 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OiZP-rCuOA4.
+2021-05-29 17:49:07,603 - Done downloading video.
+2021-05-29 17:49:13,585 - Done downloading audio.
+2021-05-29 17:49:34,195 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8Q33Uk6sK6A.
+2021-05-29 17:54:34,041 - Done downloading video.
+2021-05-29 17:54:37,432 - Done downloading audio.
+2021-05-29 17:55:01,355 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yBhKMPM8gCA.
+2021-05-29 17:59:25,583 - Done downloading video.
+2021-05-29 17:59:38,790 - Done downloading audio.
+2021-05-29 17:59:59,738 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JxWLjMXWqDc.
+2021-05-29 18:06:22,856 - Done downloading video.
+2021-05-29 18:06:35,331 - Done downloading audio.
+2021-05-29 18:06:58,253 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Rs4W33tEXPc.
+2021-05-29 18:07:00,635 - Done downloading video.
+2021-05-29 18:07:02,826 - Done downloading audio.
+2021-05-29 18:07:27,460 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/dshcgM_MeqY.
+2021-05-29 18:07:33,847 - Done downloading video.
+2021-05-29 18:07:38,182 - Done downloading audio.
+2021-05-29 18:07:58,470 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/rHWc9CquQGc.
+2021-05-29 18:08:06,619 - Done downloading video.
+2021-05-29 18:08:11,642 - Done downloading audio.
+2021-05-29 18:08:11,780 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (1st half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+2021-05-29 18:08:11,795 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/j5fd3DwFgzI.
+2021-05-29 18:08:20,141 - Done downloading video.
+2021-05-29 18:08:26,296 - Done downloading audio.
+2021-05-29 18:08:26,436 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack\tmpaudio_'The UAV Factory' (2nd half) Extended - Ace Combat 7 Soundtrack.temp.m4a: No such file or directory
+2021-05-29 18:08:26,452 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/XCwLnlX9fcs.
+2021-05-29 18:08:30,893 - Done downloading video.
+2021-05-29 18:08:34,422 - Done downloading audio.
+2021-05-29 18:08:56,530 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/D9l4NRfYGH4.
+2021-05-29 18:08:59,052 - Done downloading video.
+2021-05-29 18:09:01,394 - Done downloading audio.
+2021-05-29 18:09:21,716 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Nx9YJAcBOi0.
+2021-05-29 18:09:25,455 - Done downloading video.
+2021-05-29 18:09:27,575 - Done downloading audio.
+2021-05-29 18:09:50,917 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LZ3rLCAYOV4.
+2021-05-29 18:09:54,025 - Done downloading video.
+2021-05-29 18:09:56,247 - Done downloading audio.
+2021-05-29 18:10:21,047 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OYjlsO7-mzA.
+2021-05-29 18:10:22,678 - Done downloading video.
+2021-05-29 18:10:24,597 - Done downloading audio.
+2021-05-29 18:10:47,432 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/WxsGGG2Dj38.
+2021-05-29 18:25:03,484 - Done downloading video.
+2021-05-29 18:25:08,562 - Done downloading audio.
+2021-05-29 18:25:32,216 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/d-Vi5y0UlLY.
+2021-05-29 18:25:38,740 - Done downloading video.
+2021-05-29 18:25:41,271 - Done downloading audio.
+2021-05-29 18:26:04,294 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/AmAQXPRERYo.
+2021-05-29 18:26:11,048 - Done downloading video.
+2021-05-29 18:26:15,020 - Done downloading audio.
+2021-05-29 18:26:15,155 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack\tmpaudio_'Determination' (Game Version - Extended) - Ace Combat 7 Soundtrack.m4a: No such file or directory
+2021-05-29 18:26:15,171 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/W8o8nfXVl28.
+2021-05-29 18:26:17,904 - Done downloading video.
+2021-05-29 18:26:21,059 - Done downloading audio.
+2021-05-29 18:26:42,146 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/cwJoHm3rv_k.
+2021-05-29 18:26:47,378 - Done downloading video.
+2021-05-29 18:26:49,826 - Done downloading audio.
+2021-05-29 18:27:14,041 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/xO0lh-Ane5Y.
+2021-05-29 18:27:17,779 - Done downloading video.
+2021-05-29 18:27:19,891 - Done downloading audio.
+2021-05-29 18:27:42,828 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/KqQhkADqamc.
+2021-05-29 18:27:47,508 - Done downloading video.
+2021-05-29 18:27:54,462 - Done downloading audio.
+2021-05-29 18:28:12,437 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yzeY5WEjHY4.
+2021-05-29 18:28:27,577 - Done downloading video.
+2021-05-29 18:28:30,681 - Done downloading audio.
+2021-05-29 18:28:54,816 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/MhMKM75acic.
+2021-05-29 18:33:26,385 - Done downloading video.
+2021-05-29 18:33:29,362 - Done downloading audio.
+2021-05-29 18:33:52,879 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hm1_NbwBFdI.
+2021-05-29 18:33:59,422 - Done downloading video.
+2021-05-29 18:34:04,885 - Done downloading audio.
+2021-05-29 18:34:04,931 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-29 18:34:04,947 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/JDSP0lZCyXU.
+2021-05-29 18:34:15,307 - Done downloading video.
+2021-05-29 18:34:23,218 - Done downloading audio.
+2021-05-29 18:34:23,281 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-05-29 18:34:23,299 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/J4d0rPnpnoQ.
+2021-05-29 18:34:28,758 - Done downloading video.
+2021-05-29 18:34:34,396 - Done downloading audio.
+2021-05-29 18:34:34,530 - ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack\tmpaudio_'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack.m4a: No such file or directory
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 574, in run
+    self.run_ffmpeg(filename, temp_filename, options)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 239, in run_ffmpeg
+    self.run_ffmpeg_multiple_files([path], out_path, opts)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 235, in run_ffmpeg_multiple_files
+    raise FFmpegPostProcessorError(msg)
+youtube_dl.postprocessor.ffmpeg.FFmpegPostProcessorError: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack\tmpaudio_'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack.m4a: No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 775, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: file:C:\Utilities\Scripts\url-dl-v2 output\youtube\playlists\Ace Combat 7# Skies Unknown - Original Soundtrack (Extended)\'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack\tmpaudio_'SENTRY'S BRUNT' (Arranged from Ace Combat 04 'Blockade') Extended - Ace Combat 7 Soundtrack.m4a: No such file or directory
+2021-05-29 18:34:34,550 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yrGshm2CUJM.
+2021-05-29 18:41:05,125 - Done downloading video.
+2021-05-29 18:41:08,681 - Done downloading audio.
+2021-05-29 18:41:32,669 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QjPp6Dx4hqU.

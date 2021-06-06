@@ -118,7 +118,8 @@ def custom_extractor_a(Downloader):
     """ #tracks are added later
     
     for i, track_info in enumerate(music_info["player"]["list"]):
-        if i == 1: # for testing, to reduce numver of tracks.
+        if i == 10000: # for testing, to reduce numver of tracks. 
+            # (lazy to remove from code, have a large int instead)
             break
 
         dl_logger.log_info("Currently scraping: {}".format(track_info["cid"]))
@@ -265,17 +266,11 @@ def download_handler(Downloader):
 
         del fileformat
 
-    utils.print_json(dl_object.download_info)
+    #utils.print_json(dl_object.download_info)
 
     """
     Current test output
-
-    paths and urls are okay.
-
-    Artist, album and maybe track names, not so much (at least in the json (not sure if it will affect o/p))
-    utils.string_escape() does not work.
-    Final output is untested (metadata, paths etc)
-
+    No issues, only the logger cannot log at times (harmless errors.)
     [
         {
             "contents": "https://res01.hycdn.cn/3607dc9a19e9c562ae3c777adab79002/60BBD978/siren/audio/20210531/548540c229d9015df8c1e03884dfb197.mp3",

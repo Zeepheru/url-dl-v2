@@ -1,0 +1,313 @@
+2021-06-06 11:22:45,326 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-06 11:22:46,387 - Command: run
+2021-06-06 11:22:46,388 - Current: https://monster-siren.hypergryph.com/music/ 
+2021-06-06 11:22:46,389 - Custom downloader inititated.
+2021-06-06 11:22:46,445 - Finished sifting albums.
+2021-06-06 11:22:46,446 - Currently scraping: 514587
+2021-06-06 11:22:47,347 - Currently scraping: 461194
+2021-06-06 11:22:48,240 - Currently scraping: 779439
+2021-06-06 11:22:49,128 - Currently scraping: 306850
+2021-06-06 11:22:50,058 - Currently scraping: 953922
+2021-06-06 11:22:50,999 - Currently scraping: 125011
+2021-06-06 11:22:51,923 - Currently scraping: 048745
+2021-06-06 11:22:52,850 - Currently scraping: 232203
+2021-06-06 11:22:53,758 - Currently scraping: 048746
+2021-06-06 11:22:54,686 - Currently scraping: 306851
+2021-06-06 11:22:55,612 - Currently scraping: 461195
+2021-06-06 11:22:56,761 - Currently scraping: 953923
+2021-06-06 11:22:57,690 - Currently scraping: 461196
+2021-06-06 11:22:58,590 - Currently scraping: 880378
+2021-06-06 11:22:59,500 - Currently scraping: 048747
+2021-06-06 11:23:00,429 - Currently scraping: 779430
+2021-06-06 11:23:01,311 - Currently scraping: 953928
+2021-06-06 11:23:02,244 - Currently scraping: 880371
+2021-06-06 11:23:03,234 - Currently scraping: 306855
+2021-06-06 11:23:04,200 - Currently scraping: 697663
+2021-06-06 11:23:05,153 - Currently scraping: 306856
+2021-06-06 11:23:06,058 - Currently scraping: 514582
+2021-06-06 11:23:06,977 - Currently scraping: 048740
+2021-06-06 11:23:07,924 - Currently scraping: 461199
+2021-06-06 11:23:08,842 - Currently scraping: 232207
+2021-06-06 11:23:09,735 - Currently scraping: 306854
+2021-06-06 11:23:10,639 - Currently scraping: 048749
+2021-06-06 11:23:11,556 - Currently scraping: 880370
+2021-06-06 11:23:12,471 - Currently scraping: 697662
+2021-06-06 11:23:13,397 - Currently scraping: 514581
+2021-06-06 11:23:14,357 - Currently scraping: 125015
+2021-06-06 11:23:15,316 - Currently scraping: 779433
+2021-06-06 11:23:16,258 - Currently scraping: 125016
+2021-06-06 11:23:17,174 - Currently scraping: 232208
+2021-06-06 11:23:18,125 - Currently scraping: 953927
+2021-06-06 11:23:19,030 - Currently scraping: 779434
+2021-06-06 11:23:19,982 - Currently scraping: 953926
+2021-06-06 11:23:20,884 - Currently scraping: 461198
+2021-06-06 11:23:21,813 - Currently scraping: 306853
+2021-06-06 11:23:22,848 - Currently scraping: 697669
+2021-06-06 11:23:23,765 - Currently scraping: 697661
+2021-06-06 11:23:24,676 - Currently scraping: 779432
+2021-06-06 11:23:25,567 - Currently scraping: 514580
+2021-06-06 11:23:26,431 - Currently scraping: 514588
+2021-06-06 11:23:27,420 - Currently scraping: 125014
+2021-06-06 11:23:28,315 - Currently scraping: 461197
+2021-06-06 11:23:29,233 - Currently scraping: 048748
+2021-06-06 11:23:30,161 - Currently scraping: 232204
+2021-06-06 11:23:31,089 - Currently scraping: 125013
+2021-06-06 11:23:32,006 - Currently scraping: 232205
+2021-06-06 11:23:33,185 - Currently scraping: 880377
+2021-06-06 11:23:34,101 - Currently scraping: 306852
+2021-06-06 11:23:35,004 - Currently scraping: 697660
+2021-06-06 11:23:35,915 - Currently scraping: 514589
+2021-06-06 11:23:36,869 - Currently scraping: 953924
+2021-06-06 11:23:37,807 - Currently scraping: 697664
+2021-06-06 11:23:38,718 - Currently scraping: 232209
+2021-06-06 11:23:39,590 - Currently scraping: 461190
+2021-06-06 11:23:40,505 - Currently scraping: 880372
+2021-06-06 11:23:41,445 - Currently scraping: 048741
+2021-06-06 11:23:42,373 - Currently scraping: 779435
+2021-06-06 11:23:43,345 - Currently scraping: 514583
+2021-06-06 11:23:44,267 - Currently scraping: 779436
+2021-06-06 11:23:45,206 - Currently scraping: 125018
+2021-06-06 11:23:46,113 - Currently scraping: 306857
+2021-06-06 11:23:47,028 - Currently scraping: 514584
+2021-06-06 11:23:47,970 - Currently scraping: 953929
+2021-06-06 11:23:48,909 - Currently scraping: 232200
+2021-06-06 11:23:49,832 - Currently scraping: 048742
+2021-06-06 11:23:50,738 - Currently scraping: 461191
+2021-06-06 11:23:51,798 - Currently scraping: 697665
+2021-06-06 11:23:52,676 - Currently scraping: 880373
+2021-06-06 11:23:53,596 - Currently scraping: 697666
+2021-06-06 11:23:54,490 - Currently scraping: 306858
+2021-06-06 11:23:55,380 - Currently scraping: 779437
+2021-06-06 11:23:56,302 - Currently scraping: 125012
+2021-06-06 11:23:57,462 - Currently scraping: 880374
+2021-06-06 11:23:58,404 - Currently scraping: 125019
+2021-06-06 11:23:59,314 - Currently scraping: 953920
+2021-06-06 11:24:00,274 - Currently scraping: 461192
+2021-06-06 11:24:01,239 - Currently scraping: 232201
+2021-06-06 11:24:02,154 - Currently scraping: 514585
+2021-06-06 11:24:03,069 - Currently scraping: 048743
+2021-06-06 11:24:04,011 - Currently scraping: 514586
+2021-06-06 11:24:04,940 - Currently scraping: 779438
+2021-06-06 11:24:05,913 - Currently scraping: 697667
+2021-06-06 11:24:06,870 - Currently scraping: 048744
+2021-06-06 11:24:07,788 - Currently scraping: 306859
+2021-06-06 11:24:08,747 - Currently scraping: 125010
+2021-06-06 11:24:09,698 - Currently scraping: 232202
+2021-06-06 11:24:10,615 - Currently scraping: 953921
+2021-06-06 11:24:11,547 - Currently scraping: 880375
+2021-06-06 11:24:12,471 - Writing download info to Downloader.
+2021-06-06 11:24:12,473 - Creating download information json.
+2021-06-06 11:24:12,473 - Downloading: Real Me.mp3
+2021-06-06 11:24:13,099 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Real Me\Real Me.mp3
+2021-06-06 11:24:13,231 - Downloading: Cover Art.jpg
+2021-06-06 11:24:13,283 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Reconnection
+2021-06-06 11:24:13,283 - Downloading: Reconnection.mp3
+2021-06-06 11:24:13,880 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Reconnection\Reconnection.mp3
+2021-06-06 11:24:14,029 - Downloading: Cover Art.jpg
+2021-06-06 11:24:14,090 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Reversed Time
+2021-06-06 11:24:14,090 - Downloading: Reversed time.mp3
+2021-06-06 11:24:14,511 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Reversed Time\Reversed time.mp3
+2021-06-06 11:24:14,578 - Downloading: Cover Art.jpg
+2021-06-06 11:24:14,641 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Tipsy
+2021-06-06 11:24:14,641 - Downloading: Tipsy.mp3
+2021-06-06 11:24:15,303 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Tipsy\Tipsy.mp3
+2021-06-06 11:24:15,359 - Downloading: Cover Art.jpg
+2021-06-06 11:24:15,404 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Till the Bell Tolls
+2021-06-06 11:24:15,404 - Downloading: Till the Bell Tolls.mp3
+2021-06-06 11:24:16,047 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Till the Bell Tolls\Till the Bell Tolls.mp3
+2021-06-06 11:24:16,100 - Downloading: Cover Art.jpg
+2021-06-06 11:24:16,195 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Speed of Light
+2021-06-06 11:24:16,195 - Downloading: Speed of Light (Instrumental).mp3
+2021-06-06 11:24:16,438 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Speed of Light\Speed of Light (Instrumental).mp3
+2021-06-06 11:24:16,545 - Downloading: Speed of Light.mp3
+2021-06-06 11:24:17,103 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Speed of Light\Speed of Light.mp3
+2021-06-06 11:24:17,162 - Downloading: Cover Art.jpg
+2021-06-06 11:24:17,231 - Downloading: .mp3
+2021-06-06 11:24:17,813 - Downloading: Cover Art.jpg
+2021-06-06 11:24:17,870 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Gearing Up
+2021-06-06 11:24:17,870 - Downloading: Gearing Up.mp3
+2021-06-06 11:24:18,510 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Gearing Up\Gearing Up.mp3
+2021-06-06 11:24:18,617 - Downloading: Cover Art.png
+2021-06-06 11:24:18,684 - Downloading:  (Instrumental).mp3
+2021-06-06 11:24:19,246 - Downloading: .mp3
+2021-06-06 11:24:19,775 - Downloading: Cover Art.jpg
+2021-06-06 11:24:19,832 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Sparkling Hydraulics
+2021-06-06 11:24:19,832 - Downloading: Sparkling Hydraulics.mp3
+2021-06-06 11:24:20,489 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Sparkling Hydraulics\Sparkling Hydraulics.mp3
+2021-06-06 11:24:20,546 - Downloading: Cover Art.jpg
+2021-06-06 11:24:20,600 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Immutable
+2021-06-06 11:24:20,600 - Downloading: Immutable (Instrumental).mp3
+2021-06-06 11:24:21,215 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Immutable\Immutable (Instrumental).mp3
+2021-06-06 11:24:21,321 - Downloading: Immutable.mp3
+2021-06-06 11:24:21,569 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Immutable\Immutable.mp3
+2021-06-06 11:24:21,621 - Downloading: Cover Art.png
+2021-06-06 11:24:21,679 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Everything's Alright
+2021-06-06 11:24:21,679 - Downloading: Everything's Alright (Instrumental).mp3
+2021-06-06 11:24:22,255 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Everything's Alright\Everything's Alright (Instrumental).mp3
+2021-06-06 11:24:22,316 - Downloading: Everything's Alright.mp3
+2021-06-06 11:24:22,974 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Everything's Alright\Everything's Alright.mp3
+2021-06-06 11:24:23,042 - Downloading: Cover Art.jpg
+2021-06-06 11:24:23,148 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Operation Barrenland
+2021-06-06 11:24:23,148 - Downloading: Operation Barrenland (W&W Soundtrack Mix).mp3
+2021-06-06 11:24:23,796 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Operation Barrenland\Operation Barrenland (W&W Soundtrack Mix).mp3
+2021-06-06 11:24:23,860 - Downloading: Cover Art.jpg
+2021-06-06 11:24:23,920 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\LITHOS
+2021-06-06 11:24:23,920 - Downloading: LITHOS.mp3
+2021-06-06 11:24:24,346 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\LITHOS\LITHOS.mp3
+2021-06-06 11:24:24,455 - Downloading: Cover Art.jpg
+2021-06-06 11:24:24,522 - Downloading: .mp3
+2021-06-06 11:24:24,933 - Downloading: .mp3
+2021-06-06 11:24:25,432 - Downloading: .mp3
+2021-06-06 11:24:25,980 - Downloading: .mp3
+2021-06-06 11:24:26,629 - Downloading: .mp3
+2021-06-06 11:24:26,997 - Downloading: Dash.mp3
+2021-06-06 11:24:27,658 - Downloading: .mp3
+2021-06-06 11:24:28,067 - Downloading: .mp3
+2021-06-06 11:24:28,804 - Downloading: 37.mp3
+2021-06-06 11:24:29,167 - Downloading:   (absolute zero).mp3
+2021-06-06 11:24:29,716 - Downloading: .mp3
+2021-06-06 11:24:30,085 - Downloading: 00001.mp3
+2021-06-06 11:24:30,494 - Downloading: Cover Art.jpg
+2021-06-06 11:24:30,594 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Voices
+2021-06-06 11:24:30,595 - Downloading: Voices.mp3
+2021-06-06 11:24:31,146 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Voices\Voices.mp3
+2021-06-06 11:24:31,196 - Downloading: Cover Art.jpg
+2021-06-06 11:24:31,306 - Downloading: .mp3
+2021-06-06 11:24:31,767 - Downloading: Cover Art.jpg
+2021-06-06 11:24:31,833 - Downloading: .mp3
+2021-06-06 11:24:32,356 - Downloading: Cover Art.jpg
+2021-06-06 11:24:32,425 - Downloading: .mp3
+2021-06-06 11:24:33,128 - Downloading: Cover Art.jpg
+2021-06-06 11:24:33,192 - Downloading: .mp3
+2021-06-06 11:24:33,902 - Downloading: Cover Art.jpg
+2021-06-06 11:24:33,964 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Hold Onto The Light
+2021-06-06 11:24:33,965 - Downloading: Hold Onto The Light.mp3
+2021-06-06 11:24:34,263 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Hold Onto The Light\Hold Onto The Light.mp3
+2021-06-06 11:24:34,326 - Downloading: Cover Art.jpg
+2021-06-06 11:24:34,445 - Downloading: Operation Cinder (Instrumental).mp3
+2021-06-06 11:24:35,212 - Downloading: Operation Blade (Instrumental).mp3
+2021-06-06 11:24:35,786 - Downloading: Operation Pyrite (Instrumental).mp3
+2021-06-06 11:24:36,432 - Downloading: Operation Cinder.mp3
+2021-06-06 11:24:37,043 - Downloading: Operation Blade.mp3
+2021-06-06 11:24:37,629 - Downloading: Operation Pyrite.mp3
+2021-06-06 11:24:38,251 - Downloading: Cover Art.jpg
+2021-06-06 11:24:38,310 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Renegade
+2021-06-06 11:24:38,310 - Downloading: Renegade (Instrumental).mp3
+2021-06-06 11:24:38,800 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Renegade\Renegade (Instrumental).mp3
+2021-06-06 11:24:38,858 - Downloading: Renegade.mp3
+2021-06-06 11:24:39,357 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Renegade\Renegade.mp3
+2021-06-06 11:24:39,419 - Downloading: Cover Art.jpg
+2021-06-06 11:24:39,492 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Rock the Night Away
+2021-06-06 11:24:39,492 - Downloading: Rock the Night Away (Instrumental).mp3
+2021-06-06 11:24:40,065 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Rock the Night Away\Rock the Night Away (Instrumental).mp3
+2021-06-06 11:24:40,147 - Downloading: Rock the Night Away.mp3
+2021-06-06 11:24:40,717 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Rock the Night Away\Rock the Night Away.mp3
+2021-06-06 11:24:40,782 - Downloading: Cover Art.jpg
+2021-06-06 11:24:40,854 - Downloading: .mp3
+2021-06-06 11:24:41,406 - Downloading: .mp3
+2021-06-06 11:24:41,991 - Downloading: .mp3
+2021-06-06 11:24:42,495 - Downloading: .mp3
+2021-06-06 11:24:42,856 - Downloading: .mp3
+2021-06-06 11:24:43,212 - Downloading: .mp3
+2021-06-06 11:24:43,576 - Downloading: .mp3
+2021-06-06 11:24:44,233 - Downloading: .mp3
+2021-06-06 11:24:44,699 - Downloading: 0.3.2.9f2.mp3
+2021-06-06 11:24:45,178 - Downloading: .mp3
+2021-06-06 11:24:45,749 - Downloading: part2.mp3
+2021-06-06 11:24:46,219 - Downloading: Synthetech.mp3
+2021-06-06 11:24:46,793 - Downloading: Cover Art.jpg
+2021-06-06 11:24:46,841 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Evolutionary Mechanization
+2021-06-06 11:24:46,841 - Downloading: Evolutionary Mechanization.mp3
+2021-06-06 11:24:47,339 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Evolutionary Mechanization\Evolutionary Mechanization.mp3
+2021-06-06 11:24:47,392 - Downloading: Cover Art.jpg
+2021-06-06 11:24:47,444 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Curtain Call
+2021-06-06 11:24:47,444 - Downloading: Curtain Call.mp3
+2021-06-06 11:24:48,068 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Curtain Call\Curtain Call.mp3
+2021-06-06 11:24:48,133 - Downloading: Cover Art.jpg
+2021-06-06 11:24:48,184 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Boiling Blood
+2021-06-06 11:24:48,185 - Downloading: Boiling Blood (Instrumental).mp3
+2021-06-06 11:24:48,670 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Boiling Blood\Boiling Blood (Instrumental).mp3
+2021-06-06 11:24:48,734 - Downloading: Boiling Blood.mp3
+2021-06-06 11:24:49,204 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Boiling Blood\Boiling Blood.mp3
+2021-06-06 11:24:49,267 - Downloading: Cover Art.jpg
+2021-06-06 11:24:49,325 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Daydaydream
+2021-06-06 11:24:49,325 - Downloading: Daydaydream (instrumental).mp3
+2021-06-06 11:24:49,847 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Daydaydream\Daydaydream (instrumental).mp3
+2021-06-06 11:24:49,905 - Downloading: Daydaydream.mp3
+2021-06-06 11:24:50,655 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Daydaydream\Daydaydream.mp3
+2021-06-06 11:24:50,709 - Downloading: Cover Art.jpg
+2021-06-06 11:24:50,772 - Downloading: .mp3
+2021-06-06 11:24:51,410 - Downloading: Cover Art.jpg
+2021-06-06 11:24:51,458 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Loyal to the beat
+2021-06-06 11:24:51,458 - Downloading: Loyal to the beatInstrumenta.mp3
+2021-06-06 11:24:52,025 - Downloading: Loyal to the beat.mp3
+2021-06-06 11:24:52,608 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Loyal to the beat\Loyal to the beat.mp3
+2021-06-06 11:24:52,686 - Downloading: Cover Art.jpg
+2021-06-06 11:24:52,741 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Lily of the Valley
+2021-06-06 11:24:52,741 - Downloading: Lily of the Valley.mp3
+2021-06-06 11:24:53,601 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Lily of the Valley\Lily of the Valley.mp3
+2021-06-06 11:24:53,665 - Downloading: Cover Art.jpg
+2021-06-06 11:24:53,781 - Downloading: .mp3
+2021-06-06 11:24:54,260 - Downloading: Cover Art.jpg
+2021-06-06 11:24:54,329 - Downloading: Zone 10.mp3
+2021-06-06 11:24:54,921 - Downloading: Cover Art.jpg
+2021-06-06 11:24:54,969 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Requiem
+2021-06-06 11:24:54,969 - Downloading: Requiem (Instrumental).mp3
+2021-06-06 11:24:55,548 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Requiem\Requiem (Instrumental).mp3
+2021-06-06 11:24:55,649 - Downloading: Requiem.mp3
+2021-06-06 11:24:56,267 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Requiem\Requiem.mp3
+2021-06-06 11:24:56,321 - Downloading: Cover Art.jpg
+2021-06-06 11:24:56,373 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\CONFRONT
+2021-06-06 11:24:56,373 - Downloading: CONFRONT.mp3
+2021-06-06 11:24:56,962 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\CONFRONT\CONFRONT.mp3
+2021-06-06 11:24:57,058 - Downloading: Cover Art.jpg
+2021-06-06 11:24:57,178 - Downloading:  (Instrumental).mp3
+2021-06-06 11:24:57,849 - Downloading: .mp3
+2021-06-06 11:24:58,594 - Downloading: Cover Art.jpg
+2021-06-06 11:24:58,644 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Feels
+2021-06-06 11:24:58,644 - Downloading: Feels.mp3
+2021-06-06 11:24:58,989 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Feels\Feels.mp3
+2021-06-06 11:24:59,034 - Downloading: Cover Art.jpg
+2021-06-06 11:24:59,127 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\El Brillo Solitario
+2021-06-06 11:24:59,127 - Downloading: El Brillo Solitario.mp3
+2021-06-06 11:24:59,727 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\El Brillo Solitario\El Brillo Solitario.mp3
+2021-06-06 11:24:59,778 - Downloading: Cover Art.jpg
+2021-06-06 11:24:59,924 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\ALIVE
+2021-06-06 11:24:59,924 - Downloading: ALIVE (Instrumental).mp3
+2021-06-06 11:25:00,431 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\ALIVE\ALIVE (Instrumental).mp3
+2021-06-06 11:25:00,497 - Downloading: ALIVE.mp3
+2021-06-06 11:25:01,019 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\ALIVE\ALIVE.mp3
+2021-06-06 11:25:01,085 - Downloading: Cover Art.jpg
+2021-06-06 11:25:01,151 - Downloading: .mp3
+2021-06-06 11:25:01,774 - Downloading: Cover Art.jpg
+2021-06-06 11:25:01,838 - Downloading: Ready.mp3
+2021-06-06 11:25:02,297 - Downloading: Not Your Business.mp3
+2021-06-06 11:25:02,657 - Downloading: Aflame Avenue.mp3
+2021-06-06 11:25:03,019 - Downloading: Cover Art.jpg
+2021-06-06 11:25:03,080 - Downloading: Under the Sands .mp3
+2021-06-06 11:25:03,503 - Downloading: Originium Abomination .mp3
+2021-06-06 11:25:04,021 - Downloading: Rainbow Team .mp3
+2021-06-06 11:25:04,454 - Downloading: Tactical Ambush .mp3
+2021-06-06 11:25:04,867 - Downloading: Cover Art.jpg
+2021-06-06 11:25:04,916 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Stay Gold
+2021-06-06 11:25:04,916 - Downloading: Stay Gold.mp3
+2021-06-06 11:25:05,438 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Stay Gold\Stay Gold.mp3
+2021-06-06 11:25:05,551 - Downloading: Cover Art.jpg
+2021-06-06 11:25:05,622 - Downloading: .mp3
+2021-06-06 11:25:06,246 - Downloading: .mp3
+2021-06-06 11:25:06,728 - Downloading: Cover Art.jpg
+2021-06-06 11:25:06,789 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\other\Lullabye
+2021-06-06 11:25:06,789 - Downloading: Lullabye (Instrumental).mp3
+2021-06-06 11:25:07,559 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Lullabye\Lullabye (Instrumental).mp3
+2021-06-06 11:25:07,621 - Downloading: Lullabye.mp3
+2021-06-06 11:25:08,228 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\other\Lullabye\Lullabye.mp3
+2021-06-06 11:25:08,282 - Downloading: Cover Art.jpg
+2021-06-06 11:25:08,333 - Download for https://monster-siren.hypergryph.com/music/ complete.
+
+2021-06-06 11:25:08,336 - Writing to history...
+2021-06-06 11:25:08,337 - Done.
