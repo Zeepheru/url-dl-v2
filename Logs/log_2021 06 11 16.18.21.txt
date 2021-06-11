@@ -1,0 +1,11 @@
+2021-06-11 16:18:21,722 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-11 16:19:12,715 - Command: close
+2021-06-11 16:19:12,715 - 
+Log Ended.
+Total time: 0 hrs 0 min 50.99 sec
+

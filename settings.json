@@ -2,7 +2,7 @@
     "debug": {
         "autocommand": "",
         "descriptions only": false,
-        "download": true,
+        "download": false,
         "export download info": true,
         "print download info": false,
         "redownload":true

@@ -1,0 +1,184 @@
+2021-06-11 16:19:17,039 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-11 16:19:23,975 - Command: dl -youtube https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg
+2021-06-11 16:19:23,975 - youtube link
+2021-06-11 16:19:24,905 - file_cache is only supported with oauth2client<4.0.0
+2021-06-11 16:19:25,123 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUZIfhUoFkVPphEtnaZaGDqg"
+}
+2021-06-11 16:19:25,123 - Upload Playlist: UUZIfhUoFkVPphEtnaZaGDqg
+2021-06-11 16:19:25,357 - Now downloading channel: Simply Software
+Video Count: 40
+2021-06-11 16:19:25,358 - Channel has 40 videos downloaded.
+2021-06-11 16:19:25,358 - Scraping for id: _EUVaj44-t0
+2021-06-11 16:19:26,557 - Youtube Music link.
+2021-06-11 16:19:26,557 - Scraping for id: aZYmYq7Po1U
+2021-06-11 16:19:27,692 - Youtube Music link.
+2021-06-11 16:19:27,692 - Scraping for id: ElQX82hmOt0
+2021-06-11 16:19:28,775 - Youtube Music link.
+2021-06-11 16:19:28,775 - Scraping for id: gN5Y2pMo9K4
+2021-06-11 16:19:29,792 - Youtube Music link.
+2021-06-11 16:19:29,792 - Scraping for id: FBk_VH2QpFs
+2021-06-11 16:19:30,879 - Youtube Music link.
+2021-06-11 16:19:30,879 - Scraping for id: 1JgDebbAiCU
+2021-06-11 16:19:32,025 - Youtube Music link.
+2021-06-11 16:19:32,026 - Scraping for id: fi8eRT_-UWw
+2021-06-11 16:19:33,068 - Youtube Music link.
+2021-06-11 16:19:33,068 - Scraping for id: 38cGjarMZ00
+2021-06-11 16:19:33,895 - Youtube Music link.
+2021-06-11 16:19:33,895 - Scraping for id: 18-2PKRU_BI
+2021-06-11 16:19:34,800 - Youtube Music link.
+2021-06-11 16:19:34,800 - Scraping for id: rABGhbU6bjE
+2021-06-11 16:19:35,713 - Youtube Music link.
+2021-06-11 16:19:35,713 - Scraping for id: HeYh0OrfNgk
+2021-06-11 16:19:36,747 - Youtube Music link.
+2021-06-11 16:19:36,747 - Scraping for id: xqPzmXDZCnM
+2021-06-11 16:19:37,670 - Youtube Music link.
+2021-06-11 16:19:37,671 - Scraping for id: 89aqjpIps6M
+2021-06-11 16:19:38,714 - Youtube Music link.
+2021-06-11 16:19:38,715 - Scraping for id: gLeWgC9WJhQ
+2021-06-11 16:19:39,700 - Youtube Music link.
+2021-06-11 16:19:39,701 - Scraping for id: Y0t-dmWkdSI
+2021-06-11 16:19:40,646 - Youtube Music link.
+2021-06-11 16:19:40,646 - Scraping for id: mKl5BMbOGfE
+2021-06-11 16:19:41,446 - Youtube Music link.
+2021-06-11 16:19:41,447 - Scraping for id: CPjPRzAjz1w
+2021-06-11 16:19:42,326 - Youtube Music link.
+2021-06-11 16:19:42,327 - Scraping for id: SK607ZReq_g
+2021-06-11 16:19:43,326 - Youtube Music link.
+2021-06-11 16:19:43,327 - Scraping for id: Kad9Pgz94Mo
+2021-06-11 16:19:44,229 - Youtube Music link.
+2021-06-11 16:19:44,229 - Scraping for id: Hyzkk9OuB-4
+2021-06-11 16:19:45,257 - Youtube Music link.
+2021-06-11 16:19:45,257 - Scraping for id: 4mx_IqJdhKo
+2021-06-11 16:19:46,382 - Youtube Music link.
+2021-06-11 16:19:46,383 - Scraping for id: zmWOHdjRtuk
+2021-06-11 16:19:47,390 - Youtube Music link.
+2021-06-11 16:19:47,390 - Scraping for id: FfDmVROwM0o
+2021-06-11 16:19:48,224 - Youtube Music link.
+2021-06-11 16:19:48,224 - Scraping for id: dQgXZ6MOKYY
+2021-06-11 16:19:49,022 - Youtube Music link.
+2021-06-11 16:19:49,023 - Scraping for id: WE0ZX_GApO0
+2021-06-11 16:19:49,847 - Youtube Music link.
+2021-06-11 16:19:49,848 - Scraping for id: SfDvvWVKl0w
+2021-06-11 16:19:51,004 - Youtube Music link.
+2021-06-11 16:19:51,004 - Scraping for id: KVmhgd_uo_Q
+2021-06-11 16:19:51,965 - Youtube Music link.
+2021-06-11 16:19:51,966 - Scraping for id: Rp4bPrgewO0
+2021-06-11 16:19:53,562 - Youtube Music link.
+2021-06-11 16:19:53,562 - Scraping for id: 7frSzoS7Yn4
+2021-06-11 16:19:54,683 - Youtube Music link.
+2021-06-11 16:19:54,684 - Scraping for id: tVgj1g64LFE
+2021-06-11 16:19:55,650 - Youtube Music link.
+2021-06-11 16:19:55,651 - Scraping for id: sI51pH0K_4c
+2021-06-11 16:19:56,610 - Youtube Music link.
+2021-06-11 16:19:56,611 - Scraping for id: N5_tZDjA7IM
+2021-06-11 16:19:57,502 - Youtube Music link.
+2021-06-11 16:19:57,502 - Scraping for id: 8gvRStJme0E
+2021-06-11 16:19:58,353 - Youtube Music link.
+2021-06-11 16:19:58,353 - Scraping for id: NfbsahPMpD4
+2021-06-11 16:19:59,269 - Youtube Music link.
+2021-06-11 16:19:59,269 - Scraping for id: VF1uv4JlvFQ
+2021-06-11 16:20:00,061 - Youtube Music link.
+2021-06-11 16:20:00,061 - Scraping for id: j32U2pJlMXQ
+2021-06-11 16:20:01,070 - Youtube Music link.
+2021-06-11 16:20:01,070 - Scraping for id: kU5QStUwM-I
+2021-06-11 16:20:02,211 - Youtube Music link.
+2021-06-11 16:20:02,211 - Scraping for id: tWuJQocEYFw
+2021-06-11 16:20:03,124 - Youtube Music link.
+2021-06-11 16:20:03,124 - Scraping for id: hLD3dmA6Pkc
+2021-06-11 16:20:04,005 - Youtube Music link.
+2021-06-11 16:20:04,006 - Scraping for id: TVqxXPgn550
+2021-06-11 16:20:04,891 - Youtube Music link.
+2021-06-11 16:20:04,913 - Creating download information json.
+2021-06-11 16:20:04,916 - Writing text file.
+2021-06-11 16:20:04,917 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\DaVinci Resolve 17 - Editing Your First Video #2
+2021-06-11 16:20:04,917 - Writing text file.
+2021-06-11 16:20:04,918 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\DaVinci Resolve 17 - BEST FREE Editing Software for Windows & Mac #1
+2021-06-11 16:20:04,919 - Writing text file.
+2021-06-11 16:20:04,920 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\6 Ways iPhones are JUST better.
+2021-06-11 16:20:04,920 - Writing text file.
+2021-06-11 16:20:04,921 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Best way to make YouTube thumbnails for FREE
+2021-06-11 16:20:04,921 - Writing text file.
+2021-06-11 16:20:04,922 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Garmin Vivoactive 3 Element Classy Sports Smartwatch
+2021-06-11 16:20:04,922 - Writing text file.
+2021-06-11 16:20:04,925 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Bitcoin is boring. A brief history of Bitcoin and cryptocurrencies
+2021-06-11 16:20:04,925 - Writing text file.
+2021-06-11 16:20:04,926 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Illegear Onyx V Ryzen Review - First impressions of this local branded gaming laptop
+2021-06-11 16:20:04,926 - Writing text file.
+2021-06-11 16:20:04,927 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lenovo Legion Y7000 SE PG0 Review The ultimate budget gaming laptop
+2021-06-11 16:20:04,928 - Writing text file.
+2021-06-11 16:20:04,928 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Watch THIS video before you buy a smartphone Choosing a phone based on its processor!
+2021-06-11 16:20:04,929 - Writing text file.
+2021-06-11 16:20:04,930 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Why you should STOP downloading 'free' pirated Minecraft and how computer virus infects a computer.
+2021-06-11 16:20:04,931 - Writing text file.
+2021-06-11 16:20:04,932 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Nokia 8110 Hands-on Review The Banana Phone is Back
+2021-06-11 16:20:04,932 - Writing text file.
+2021-06-11 16:20:04,933 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Tech Myths for Dummies
+2021-06-11 16:20:04,933 - Writing text file.
+2021-06-11 16:20:04,935 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Watch THIS before buying a new computer What's inside
+2021-06-11 16:20:04,935 - Writing text file.
+2021-06-11 16:20:04,936 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\NFT Aquaponics Farm System High Tech FARMING!
+2021-06-11 16:20:04,936 - Writing text file.
+2021-06-11 16:20:04,937 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Budget eBook Reader Review Amazon Kindle 2020
+2021-06-11 16:20:04,938 - Writing text file.
+2021-06-11 16:20:04,940 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Budget Apple Watch and iPhone Review Apple Watch SE & iPhone SE 2020 combo!
+2021-06-11 16:20:04,940 - Writing text file.
+2021-06-11 16:20:04,941 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Budget iPhone SE 2020 Review
+2021-06-11 16:20:04,941 - Writing text file.
+2021-06-11 16:20:04,942 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Who REALLY control the Internet
+2021-06-11 16:20:04,943 - Writing text file.
+2021-06-11 16:20:04,944 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Budget Gaming Mouse Review AULA S20, Lenovo Armaggeddon Textron Scorpion 5
+2021-06-11 16:20:04,944 - Writing text file.
+2021-06-11 16:20:04,945 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Top 7 Best Mobile Video Editing Apps
+2021-06-11 16:20:04,945 - Writing text file.
+2021-06-11 16:20:04,946 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Microsoft Office Suite Free Alternative
+2021-06-11 16:20:04,947 - Writing text file.
+2021-06-11 16:20:04,948 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Budget RGB Keyboards Review Aula F2088 & Armaggeddon AK666x Kalashnikov
+2021-06-11 16:20:04,948 - Writing text file.
+2021-06-11 16:20:04,949 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\iPad Pro 2020 Review  Beware PC Laptops
+2021-06-11 16:20:04,949 - Writing text file.
+2021-06-11 16:20:04,950 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Samsung Galaxy S10+ Review  Flagship of Yesteryear
+2021-06-11 16:20:04,951 - Writing text file.
+2021-06-11 16:20:04,952 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Huawei Y9 Prime 2019 Review
+2021-06-11 16:20:04,952 - Writing text file.
+2021-06-11 16:20:04,955 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Audacity Noise Reduction and Effects #3
+2021-06-11 16:20:04,955 - Writing text file.
+2021-06-11 16:20:04,957 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Audacity Advance Editing (Toolbars and Shortcuts) #2
+2021-06-11 16:20:04,957 - Writing text file.
+2021-06-11 16:20:04,958 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Audacity Basics #1
+2021-06-11 16:20:04,959 - Writing text file.
+2021-06-11 16:20:04,959 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Channel Trailer
+2021-06-11 16:20:04,960 - Writing text file.
+2021-06-11 16:20:04,961 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Top 4 Easy Special Effects (with DaVinci Resolve)
+2021-06-11 16:20:04,961 - Writing text file.
+2021-06-11 16:20:04,962 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Sony H.ear On 2 - First Step To Premium
+2021-06-11 16:20:04,963 - Writing text file.
+2021-06-11 16:20:04,964 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Virtual Private Networks - Private, Discrete, Incognito !
+2021-06-11 16:20:04,964 - Writing text file.
+2021-06-11 16:20:04,965 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\How To Protect Your Online Security
+2021-06-11 16:20:04,965 - Writing text file.
+2021-06-11 16:20:04,966 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lightworks Split Screen effects #5
+2021-06-11 16:20:04,966 - Writing text file.
+2021-06-11 16:20:04,967 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lightworks VFX (Effects, Titles, Transition and More!) #4
+2021-06-11 16:20:04,968 - Writing text file.
+2021-06-11 16:20:04,970 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lightworks Advance Editing (Keyboard Shortcuts, Commands and More!) #3
+2021-06-11 16:20:04,970 - Writing text file.
+2021-06-11 16:20:04,972 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lightworks Basics #1
+2021-06-11 16:20:04,972 - Writing text file.
+2021-06-11 16:20:04,973 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Lightworks Picture in Picture #2
+2021-06-11 16:20:04,973 - Writing text file.
+2021-06-11 16:20:04,974 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Channel Trailer Predecessor
+2021-06-11 16:20:04,974 - Writing text file.
+2021-06-11 16:20:04,975 - Created directory: C:\Utilities\Scripts\url-dl-v2 output\youtube\channels\Simply Software\Free video editing software WITHOUT WATERMARKS! Lightworks NLE
+2021-06-11 16:20:04,976 - Writing text file.
+2021-06-11 16:20:04,976 - Download for |https://www.youtube.com/channel/UCZIfhUoFkVPphEtnaZaGDqg| complete.
+
+2021-06-11 16:20:04,977 - Writing to history...
+2021-06-11 16:20:04,978 - Done.

@@ -705,6 +705,8 @@ Streams downloaded: {}, {}
             video_info["description"],
             video_stream["name"], audio_stream["name"]
         )
+        #print("{} | {}".format(video_info["title"], video_info["publish date"]))
+        ## lol
 
         #Text File
         dl_object.download_info.append({
