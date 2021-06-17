@@ -1,0 +1,19 @@
+2021-06-17 23:01:46,551 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-17 23:01:47,709 - Command: run
+2021-06-17 23:01:47,710 - Current: https://youtu.be/e3YzmjmAGoI 
+2021-06-17 23:01:47,710 - youtube link
+2021-06-17 23:01:48,389 - Scraping for id: e3YzmjmAGoI
+2021-06-17 23:01:50,721 - Youtube Music link.
+2021-06-17 23:01:50,722 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/e3YzmjmAGoI.
+2021-06-17 23:01:51,561 - Done downloading video.
+2021-06-17 23:02:01,840 - Done downloading audio.
+2021-06-17 23:02:06,995 - Creating download information json.
+2021-06-17 23:02:06,996 - Writing text file.
+2021-06-17 23:02:06,996 - Downloading: Hell March - Thumbnail.png
+2021-06-17 23:02:07,294 - Merging audio and video files.
+2021-06-17 23:02:11,357 - Adding thumbnail to video file.

@@ -1,8 +1,8 @@
 {
     "debug": {
-        "autocommand": "",
+        "autocommand": "run",
         "descriptions only": false,
-        "download": false,
+        "download": true,
         "export download info": true,
         "print download info": false,
         "redownload":true
@@ -20,7 +20,8 @@
             "other": [],
             "soundcloud": [],
             "youtube": [
-                "channels"
+                "channels",
+                "playlists"
             ]
         }
     },

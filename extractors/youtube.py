@@ -732,7 +732,7 @@ Streams downloaded: {}, {}
         video_stream["url"], audio_stream["url"] ="http_mergeonly","http_mergeonly" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
         #audio file
         if audio_stream["url"].startswith("http") == True:
-            audio_filename = "audio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+            audio_filename = "tmpaudio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
             dl_object.download_info.append({
                 "filename":audio_filename,
                 "path":(os.path.join(root_download_dir,audio_filename)),
@@ -748,7 +748,7 @@ Streams downloaded: {}, {}
         
         #Video File
         if video_stream["url"].startswith("http") == True:
-            video_filename = "video_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
+            video_filename = "tmpvideo_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
             dl_object.download_info.append({
                 "filename":video_filename,
                 "path":(os.path.join(root_download_dir,video_filename)),
@@ -758,7 +758,7 @@ Streams downloaded: {}, {}
                 "thumbnail": video_info["thumbnail url"],
                 "merge audio": audio_filename,
                 "metadata":{
-                    "title":video_filename,
+                    "title":video_info["title"],
                     "artist":video_info["channel"],
                     "track number":0,
                     "playlist":"",

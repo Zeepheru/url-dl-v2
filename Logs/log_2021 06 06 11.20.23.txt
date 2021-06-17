@@ -1,6 +1,0 @@
-2021-06-06 11:20:23,738 - 
-Downloading Utility Log. 
-Log started.
-
-Move log to Impt Logs if required as only the 10 most recent logs are kept.
-

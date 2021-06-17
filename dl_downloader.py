@@ -14,6 +14,8 @@ from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import EasyMP3
 from mutagen.id3 import ID3, APIC
 
+import eyed3
+
 from PIL import Image
 
 import dl_logger as dl_logger
@@ -29,6 +31,8 @@ def applymetadata(download_object):
         new.add_tags()
 
     #print(EasyID3.valid_keys.keys())
+
+    dl_logger.log_to_file("WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi")
 
     new["albumartist"] = download_object["metadata"]["artist"]
     new["artist"] = download_object["metadata"]["artist"]
@@ -64,7 +68,7 @@ def createallfolders(filepath):
                         os.mkdir(utils.remove_periods_from_end(current_folder))
 
 def mp3_apply_image(url, audio_path):
-    dl_logger.log_to_file("Applying mp3 metadata to {}".format(audio_path))
+    dl_logger.log_to_file("Applying mp3 cover")
     # album art. 
     # https://www.programcreek.com/python/example/63462/mutagen.mp3.EasyMP3
     # Thanks Internet
@@ -83,6 +87,18 @@ def mp3_apply_image(url, audio_path):
         )
     )
     audio.save()
+
+def mp3_apply_image_local(imgpath, audio_path):
+    dl_logger.log_to_file("Applying mp3 cover")
+
+    audiofile = eyed3.load(audio_path)
+    if audiofile.tag == None:
+        audiofile.initTag() #wipes???
+
+    audiofile.tag.images.set(3, open(imgpath,'rb').read(), 'image/png')
+
+    audiofile.tag.save(version=eyed3.id3.ID3_V2_3)
+    print("YES")
 
 def create_download_json(Downloader):
     current = Downloader.objects_list[Downloader.current]
@@ -154,24 +170,29 @@ def file_download_handler(download_object, Downloader):
                 if re.search(r'.mp3',output_path) != None:
                     applymetadata(download_object)
 
-        if download_object["path"][-3:] == "mp3":
-            try:
-                mp3_apply_image(download_object["thumbnail"], download_object["path"])
-            except:
-                pass
-    K = None
-    try:
-        download_object["merge audio"]
-        if download_object["merge audio"] != None:
-            K = True
-        else:
+        
+        K = None
+        try:
+            download_object["merge audio"]
+            if download_object["merge audio"] != None:
+                K = True
+            else:
+                k = False
+        except:
             k = False
-    except:
-        k = False
 
-    if K == True and Downloader.settings["debug"]["download"] == True:
-        merge_streams(download_object)
-        os.chdir(Downloader.settings["directories"]["main"]) #might now be broken.
+        if Downloader.settings["debug"]["download"] == True:
+            if K:
+                merge_streams(download_object)
+                os.chdir(Downloader.settings["directories"]["main"]) #might now be broken.
+
+            if download_object["path"][-3:] == "mp3":
+                # moved here so its no longer overwritten.
+                try:
+                    mp3_apply_image(download_object["thumbnail"], download_object["path"])
+                except Exception as e:
+                    dl_logger.log_info(e)
+                    dl_logger.log_to_file(e)
 
 def download(Downloader):
     if Downloader.objects_list[Downloader.current].site == "youtube" or Downloader.objects_list[Downloader.current].site == "bandcamp":
@@ -212,8 +233,13 @@ def merge_streams(download_object): #seems like a YT exclusive, as always
         ###
 
         #checks if the audio and video files exist in the first place because uh they may not lol
-        if not os.path.isfile(video_path) or not os.path.isfile(audio_path):
-            dl_logger.log_to_file("Audio or Video file does not exist.")
+        print(video_path)
+        print(audio_path)
+        if not os.path.isfile(video_path):
+            dl_logger.log_to_file("Video file does not exist.")
+            break
+        elif not os.path.isfile(audio_path):
+            dl_logger.log_to_file("Audio file does not exist.")
             break
         
         new_video_path = video_path.replace("tmpvideo_","temp_")
@@ -234,7 +260,6 @@ def merge_streams(download_object): #seems like a YT exclusive, as always
             os.system("ffmpeg -i {} -i {} -c:v copy -c:a aac {}".format(video_path,audio_path,new_video_path))
 
         #https://stackoverflow.com/questions/54717175/how-do-i-add-a-custom-thumbnail-to-a-mp4-file-using-ffmpeg
-        
 
         #lets try this random bosh - dont complain for using two ffmpeg commands I am too lazy or dumb to combine them
         dl_logger.log_to_file("Adding thumbnail to video file.")
@@ -254,6 +279,8 @@ def merge_streams(download_object): #seems like a YT exclusive, as always
 
         if not os.path.isfile(new_audio_path):
             os.rename(audio_path,new_audio_path)
+
+        breakpoint()
 
         #convert to mp3 for well? purposes.
         if new_audio_path[-4:] == 'webm' or new_audio_path[-3:] == 'm4a': #Youtube Checker removed, too lazy to fix it anyway so yeahhhhhhhhhh
@@ -277,13 +304,17 @@ def merge_streams(download_object): #seems like a YT exclusive, as always
                 os.remove(new_audio_path)
             except:
                 pass
-
-            mp3_apply_image(thumbnail, new_new_audio_path)
-            applymetadata({
-                "path": new_new_audio_path,
-                "metadata": download_object["metadata"]
-            }
-            )
+        
+        else:
+            new_new_audio_path = new_audio_path
+            
+        dl_logger.log_to_file("Trying to apply metadata")
+        mp3_apply_image_local(thumbnail, new_new_audio_path)
+        applymetadata({
+            "path": new_new_audio_path,
+            "metadata": download_object["metadata"]
+        })
+        dl_logger.log_to_file("Applied Metadata.")
 
         #finally deletes all temp files, manually because I cant find the right fecking variables
         for f in os.listdir(folder_path):

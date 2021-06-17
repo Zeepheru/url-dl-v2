@@ -1,0 +1,45 @@
+2021-06-17 23:17:45,254 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-17 23:17:45,255 - Autocommand from settings: run
+2021-06-17 23:17:45,256 - Command: run
+2021-06-17 23:17:45,257 - Current: https://youtu.be/e3YzmjmAGoI 
+2021-06-17 23:17:45,258 - youtube link
+2021-06-17 23:17:46,437 - Scraping for id: e3YzmjmAGoI
+2021-06-17 23:17:48,095 - Youtube Music link.
+2021-06-17 23:17:48,096 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/e3YzmjmAGoI.
+2021-06-17 23:18:29,491 - Done downloading video.
+2021-06-17 23:18:39,347 - Done downloading audio.
+2021-06-17 23:18:44,508 - Creating download information json.
+2021-06-17 23:19:03,027 - Writing text file.
+2021-06-17 23:19:03,028 - Downloading: Hell March - Thumbnail.png
+2021-06-17 23:19:08,794 - Merging audio and video files.
+2021-06-17 23:19:15,385 - Adding thumbnail to video file.
+2021-06-17 23:19:26,368 - Trying to apply metadata
+2021-06-17 23:19:27,018 - Applying mp3 metadata to C:\Utilities\Scripts\url-dl-v2 output\youtube\Hell March\Hell March.mp3
+2021-06-17 23:19:27,024 - <urlopen error unknown url type: c>
+Traceback (most recent call last):
+  File "c:\Utilities\Scripts\url-dl-v2\main.py", line 229, in parse_file
+    Downloader = download.download(Downloader)
+  File "c:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 201, in download
+    file_download_handler(download_object, Downloader)
+  File "c:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 172, in file_download_handler
+    merge_streams(download_object)
+  File "c:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 298, in merge_streams
+    mp3_apply_image(thumbnail, new_new_audio_path)
+  File "c:\Utilities\Scripts\url-dl-v2\dl_downloader.py", line 76, in mp3_apply_image
+    img = urllib.request.urlopen(url)
+  File "C:\Users\chang\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\chang\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\chang\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 539, in _open
+    return self._call_chain(self.handle_open, 'unknown',
+  File "C:\Users\chang\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\chang\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1413, in unknown_open
+    raise URLError('unknown url type: %s' % type)
+urllib.error.URLError: <urlopen error unknown url type: c>
