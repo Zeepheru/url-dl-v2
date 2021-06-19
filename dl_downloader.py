@@ -279,9 +279,7 @@ def merge_streams(download_object): #seems like a YT exclusive, as always
 
         if not os.path.isfile(new_audio_path):
             os.rename(audio_path,new_audio_path)
-
-        breakpoint()
-
+            
         #convert to mp3 for well? purposes.
         if new_audio_path[-4:] == 'webm' or new_audio_path[-3:] == 'm4a': #Youtube Checker removed, too lazy to fix it anyway so yeahhhhhhhhhh
             dl_logger.log_to_file("Coverting audio file to mp3.")
