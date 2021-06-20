@@ -6,7 +6,7 @@ import os
 
 def print_time():
     timenow = time.strftime("%Y %m %d %H.%M.%S")
-    return timenow
+    return "["+timenow+"]"
 
 def print_duration(start_time):
     duration_s = time.time()-start_time
