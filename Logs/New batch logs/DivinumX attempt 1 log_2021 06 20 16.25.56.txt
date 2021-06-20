@@ -1,0 +1,890 @@
+2021-06-20 16:25:56,859 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-20 16:25:59,625 - Command: dl -youtube https://www.youtube.com/user/DivinumX
+2021-06-20 16:25:59,625 - youtube link
+2021-06-20 16:26:01,925 - file_cache is only supported with oauth2client<4.0.0
+2021-06-20 16:26:02,024 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU_vhB9RXVG2IA2K0ON62hAw"
+}
+2021-06-20 16:26:02,024 - Upload Playlist: UU_vhB9RXVG2IA2K0ON62hAw
+2021-06-20 16:26:02,724 - Now downloading channel: DivinumX
+Video Count: 53
+2021-06-20 16:26:02,725 - Channel has 53 videos downloaded.
+2021-06-20 16:26:02,725 - Scraping for id: oJX9MsQzMAQ
+2021-06-20 16:26:03,371 - Youtube Music link.
+2021-06-20 16:26:03,371 - Scraping for id: U03CZ1Ak6NU
+2021-06-20 16:26:03,902 - Youtube Music link.
+2021-06-20 16:26:03,902 - Scraping for id: k2behdPR4gU
+2021-06-20 16:26:04,545 - Youtube Music link.
+2021-06-20 16:26:04,545 - Scraping for id: 9eg1_zPg29Q
+2021-06-20 16:26:05,130 - Youtube Music link.
+2021-06-20 16:26:05,130 - Scraping for id: q_VthucMPUQ
+2021-06-20 16:26:05,668 - Youtube Music link.
+2021-06-20 16:26:05,669 - Scraping for id: FYJqrc2RcUY
+2021-06-20 16:26:06,234 - Youtube Music link.
+2021-06-20 16:26:06,235 - Scraping for id: ncsZS7UCaOE
+2021-06-20 16:26:06,865 - Youtube Music link.
+2021-06-20 16:26:06,865 - Scraping for id: rbGqQWYwVK4
+2021-06-20 16:26:07,526 - Youtube Music link.
+2021-06-20 16:26:07,526 - Scraping for id: CJ6HBX0FeEY
+2021-06-20 16:26:08,325 - Youtube Music link.
+2021-06-20 16:26:08,325 - Scraping for id: j09jLXVXJK4
+2021-06-20 16:26:09,105 - Youtube Music link.
+2021-06-20 16:26:09,105 - Scraping for id: VdQ-1rn1HCs
+2021-06-20 16:26:09,681 - Youtube Music link.
+2021-06-20 16:26:09,682 - Scraping for id: 0D6GrKFNX6g
+2021-06-20 16:26:10,175 - Youtube Music link.
+2021-06-20 16:26:10,175 - Scraping for id: W82KMNQnPAA
+2021-06-20 16:26:10,701 - Youtube Music link.
+2021-06-20 16:26:10,701 - Scraping for id: 3WWbIDTSEZI
+2021-06-20 16:26:11,280 - Youtube Music link.
+2021-06-20 16:26:11,281 - Scraping for id: DWPvzu8YsQM
+2021-06-20 16:26:11,994 - Youtube Music link.
+2021-06-20 16:26:11,995 - Scraping for id: Nm0Ug05SaTA
+2021-06-20 16:26:12,570 - Youtube Music link.
+2021-06-20 16:26:12,571 - Scraping for id: z2RsF5RLFgc
+2021-06-20 16:26:13,121 - Youtube Music link.
+2021-06-20 16:26:13,121 - Scraping for id: ozH2bvH7c2E
+2021-06-20 16:26:13,670 - Youtube Music link.
+2021-06-20 16:26:13,670 - Scraping for id: rUo7S3fhjYs
+2021-06-20 16:26:14,290 - Youtube Music link.
+2021-06-20 16:26:14,291 - Scraping for id: OFXgHX5SqRM
+2021-06-20 16:26:14,926 - Youtube Music link.
+2021-06-20 16:26:14,926 - Scraping for id: 821JU5Mo76U
+2021-06-20 16:26:15,432 - Youtube Music link.
+2021-06-20 16:26:15,432 - Scraping for id: plgRcXpshdM
+2021-06-20 16:26:15,998 - Youtube Music link.
+2021-06-20 16:26:15,999 - Scraping for id: pzxGkqzWMtI
+2021-06-20 16:26:16,541 - Youtube Music link.
+2021-06-20 16:26:16,541 - Scraping for id: YNSfHIZIEds
+2021-06-20 16:26:17,089 - Youtube Music link.
+2021-06-20 16:26:17,089 - Scraping for id: hL87zspxX6M
+2021-06-20 16:26:17,679 - Youtube Music link.
+2021-06-20 16:26:17,680 - Scraping for id: 2O6n6_0ATA8
+2021-06-20 16:26:18,313 - Youtube Music link.
+2021-06-20 16:26:18,314 - Scraping for id: alE-xFBhp80
+2021-06-20 16:26:18,884 - Youtube Music link.
+2021-06-20 16:26:18,885 - Scraping for id: 01C1PV7DYno
+2021-06-20 16:26:19,593 - Youtube Music link.
+2021-06-20 16:26:19,593 - Scraping for id: nyoSlVGRNe8
+2021-06-20 16:26:20,146 - Youtube Music link.
+2021-06-20 16:26:20,146 - Scraping for id: QKAShdgMikU
+2021-06-20 16:26:20,808 - Youtube Music link.
+2021-06-20 16:26:20,808 - Scraping for id: MjdzK8kkOgk
+2021-06-20 16:26:21,637 - Youtube Music link.
+2021-06-20 16:26:21,637 - Scraping for id: QGUXZIVdPC8
+2021-06-20 16:26:22,253 - Youtube Music link.
+2021-06-20 16:26:22,253 - Scraping for id: _1mJhY6wjP0
+2021-06-20 16:26:22,828 - Youtube Music link.
+2021-06-20 16:26:22,828 - Scraping for id: E5kqzpOCixs
+2021-06-20 16:26:23,470 - Youtube Music link.
+2021-06-20 16:26:23,471 - Scraping for id: dQo0EotqBPY
+2021-06-20 16:26:24,186 - Youtube Music link.
+2021-06-20 16:26:24,187 - Scraping for id: csi3JnQB_7k
+2021-06-20 16:26:24,639 - Youtube Music link.
+2021-06-20 16:26:24,639 - Scraping for id: 2ohobP1orA8
+2021-06-20 16:26:25,311 - Youtube Music link.
+2021-06-20 16:26:25,312 - Scraping for id: Pk_Z3cif6hw
+2021-06-20 16:26:25,911 - Youtube Music link.
+2021-06-20 16:26:25,912 - Scraping for id: dDmGrzweZFg
+2021-06-20 16:26:26,680 - Youtube Music link.
+2021-06-20 16:26:26,681 - Scraping for id: FIOJTB38M5w
+2021-06-20 16:26:27,173 - Youtube Music link.
+2021-06-20 16:26:27,174 - Scraping for id: QGdEi3fyq94
+2021-06-20 16:26:27,772 - Youtube Music link.
+2021-06-20 16:26:27,772 - Scraping for id: 8y_LcHz5Tkg
+2021-06-20 16:26:28,349 - Youtube Music link.
+2021-06-20 16:26:28,349 - Scraping for id: FarUY5GHGns
+2021-06-20 16:26:29,015 - Youtube Music link.
+2021-06-20 16:26:29,015 - Scraping for id: 6ZgbgS9jLxk
+2021-06-20 16:26:29,742 - Youtube Music link.
+2021-06-20 16:26:29,742 - Scraping for id: HvJnzU5b8Jk
+2021-06-20 16:26:30,264 - Youtube Music link.
+2021-06-20 16:26:30,264 - Scraping for id: Zer3jyOSL8g
+2021-06-20 16:26:30,796 - Youtube Music link.
+2021-06-20 16:26:30,797 - Scraping for id: 1QDcaXe9mQY
+2021-06-20 16:26:31,308 - Youtube Music link.
+2021-06-20 16:26:31,308 - Scraping for id: -lstrZlasI0
+2021-06-20 16:26:31,940 - Youtube Music link.
+2021-06-20 16:26:31,940 - Scraping for id: yovejKSz_Qg
+2021-06-20 16:26:32,472 - Youtube Music link.
+2021-06-20 16:26:32,473 - Scraping for id: 6w5oAtfEc9s
+2021-06-20 16:26:33,071 - Youtube Music link.
+2021-06-20 16:26:33,072 - Scraping for id: W0lWB5f4tOw
+2021-06-20 16:26:33,734 - Youtube Music link.
+2021-06-20 16:26:33,735 - Scraping for id: LlN4uhJg_ks
+2021-06-20 16:26:34,305 - Youtube Music link.
+2021-06-20 16:26:34,306 - Scraping for id: zvzeOEV-ZHc
+2021-06-20 16:26:34,762 - Youtube Music link.
+2021-06-20 16:26:34,762 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/oJX9MsQzMAQ.
+2021-06-20 16:27:46,710 - Done downloading video.
+2021-06-20 16:27:49,038 - Done downloading audio.
+2021-06-20 16:27:51,863 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/U03CZ1Ak6NU.
+2021-06-20 16:28:24,821 - Done downloading video.
+2021-06-20 16:29:23,535 - Done downloading audio.
+2021-06-20 16:29:26,051 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/k2behdPR4gU.
+2021-06-20 16:29:30,528 - Done downloading video.
+2021-06-20 16:29:31,502 - Done downloading audio.
+2021-06-20 16:29:31,898 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/9eg1_zPg29Q.
+2021-06-20 16:29:48,049 - Done downloading video.
+2021-06-20 16:29:49,633 - Done downloading audio.
+2021-06-20 16:29:50,427 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/q_VthucMPUQ.
+2021-06-20 16:30:31,510 - Done downloading video.
+2021-06-20 16:30:34,006 - Done downloading audio.
+2021-06-20 16:30:36,373 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FYJqrc2RcUY.
+2021-06-20 16:31:36,119 - Done downloading video.
+2021-06-20 16:31:38,926 - Done downloading audio.
+2021-06-20 16:31:43,176 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ncsZS7UCaOE.
+2021-06-20 16:32:43,415 - Done downloading video.
+2021-06-20 16:32:45,647 - Done downloading audio.
+2021-06-20 16:32:49,826 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/rbGqQWYwVK4.
+2021-06-20 16:33:29,589 - Done downloading video.
+2021-06-20 16:33:31,621 - Done downloading audio.
+2021-06-20 16:33:34,121 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/CJ6HBX0FeEY.
+2021-06-20 16:34:52,135 - Done downloading video.
+2021-06-20 16:34:54,794 - Done downloading audio.
+2021-06-20 16:34:57,423 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/j09jLXVXJK4.
+2021-06-20 16:36:42,113 - Done downloading video.
+2021-06-20 16:36:44,895 - Done downloading audio.
+2021-06-20 16:36:48,447 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/VdQ-1rn1HCs.
+2021-06-20 16:37:13,702 - Done downloading video.
+2021-06-20 16:37:15,740 - Done downloading audio.
+2021-06-20 16:37:18,258 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0D6GrKFNX6g.
+2021-06-20 16:38:00,336 - Done downloading video.
+2021-06-20 16:38:02,248 - Done downloading audio.
+2021-06-20 16:38:05,244 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/W82KMNQnPAA.
+2021-06-20 17:04:16,286 - ERROR: unable to download video data: <urlopen error [Errno 11001] getaddrinfo failed>
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1276, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1225, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1004, in _send_output
+    self.send(msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 944, in send
+    self.connect()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1392, in connect
+    super().connect()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 915, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 351, in real_download
+    establish_connection()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 116, in establish_connection
+    raise err
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 110, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2279, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 525, in open
+    response = self._open(req, data)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\utils.py", line 2735, in https_open
+    return self.do_open(functools.partial(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 774, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1969, in process_info
+    self.report_error('unable to download video data: %s' % error_to_compat_str(err))
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: unable to download video data: <urlopen error [Errno 11001] getaddrinfo failed>
+2021-06-20 17:04:16,313 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/3WWbIDTSEZI.
+2021-06-20 17:04:54,257 - Done downloading video.
+2021-06-20 17:04:56,093 - Done downloading audio.
+2021-06-20 17:04:59,651 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/DWPvzu8YsQM.
+2021-06-20 17:05:48,971 - Done downloading video.
+2021-06-20 17:07:08,181 - Done downloading audio.
+2021-06-20 17:07:11,502 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Nm0Ug05SaTA.
+2021-06-20 17:08:03,959 - Done downloading video.
+2021-06-20 17:08:06,423 - Done downloading audio.
+2021-06-20 17:08:08,982 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/z2RsF5RLFgc.
+2021-06-20 17:08:37,478 - Done downloading video.
+2021-06-20 17:08:39,247 - Done downloading audio.
+2021-06-20 17:08:41,399 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ozH2bvH7c2E.
+2021-06-20 17:08:56,275 - Done downloading video.
+2021-06-20 17:08:58,806 - Done downloading audio.
+2021-06-20 17:09:00,519 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/rUo7S3fhjYs.
+2021-06-20 17:09:03,136 - Done downloading video.
+2021-06-20 17:09:05,084 - Done downloading audio.
+2021-06-20 17:09:07,929 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OFXgHX5SqRM.
+2021-06-20 17:09:17,640 - Done downloading video.
+2021-06-20 17:09:19,985 - Done downloading audio.
+2021-06-20 17:09:24,019 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/821JU5Mo76U.
+2021-06-20 17:14:48,937 - Done downloading video.
+2021-06-20 17:14:49,504 - ERROR: unable to download video data: HTTP Error 403: Forbidden
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 351, in real_download
+    establish_connection()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 116, in establish_connection
+    raise err
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\http.py", line 110, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2279, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 531, in open
+    response = meth(req, response)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 640, in http_response
+    response = self.parent.error(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 569, in error
+    return self._call_chain(*args)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\urllib\request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 777, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1969, in process_info
+    self.report_error('unable to download video data: %s' % error_to_compat_str(err))
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2021-06-20 17:14:49,509 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/plgRcXpshdM.
+2021-06-20 17:14:53,943 - Done downloading video.
+2021-06-20 17:14:55,505 - Done downloading audio.
+2021-06-20 17:14:57,226 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/pzxGkqzWMtI.
+2021-06-20 17:15:04,520 - Done downloading video.
+2021-06-20 17:15:06,312 - Done downloading audio.
+2021-06-20 17:15:09,141 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YNSfHIZIEds.
+2021-06-20 17:22:49,882 - Done downloading video.
+2021-06-20 17:22:52,461 - Done downloading audio.
+2021-06-20 17:22:57,243 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hL87zspxX6M.
+2021-06-20 17:23:12,611 - Done downloading video.
+2021-06-20 17:23:15,284 - Done downloading audio.
+2021-06-20 17:23:19,845 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/2O6n6_0ATA8.
+2021-06-20 17:23:27,985 - Done downloading video.
+2021-06-20 17:23:30,251 - Done downloading audio.
+2021-06-20 17:23:33,529 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/alE-xFBhp80.
+2021-06-20 17:28:57,097 - Done downloading video.
+2021-06-20 17:30:13,258 - Done downloading audio.
+2021-06-20 17:30:16,049 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/01C1PV7DYno.
+2021-06-20 17:31:31,559 - Done downloading video.
+2021-06-20 17:33:11,199 - Done downloading audio.
+2021-06-20 17:33:14,403 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/nyoSlVGRNe8.
+2021-06-20 17:36:26,217 - Done downloading video.
+2021-06-20 17:36:28,019 - Done downloading audio.
+2021-06-20 17:36:30,745 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QKAShdgMikU.
+2021-06-20 17:36:49,815 - Done downloading video.
+2021-06-20 17:36:52,926 - Done downloading audio.
+2021-06-20 17:36:54,675 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/MjdzK8kkOgk.
+2021-06-20 17:41:22,067 - Done downloading video.
+2021-06-20 17:41:31,042 - Done downloading audio.
+2021-06-20 17:41:44,855 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QGUXZIVdPC8.
+2021-06-20 17:41:56,137 - Done downloading video.
+2021-06-20 17:43:09,073 - Done downloading audio.
+2021-06-20 17:43:11,715 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/_1mJhY6wjP0.
+2021-06-20 17:43:14,776 - Done downloading video.
+2021-06-20 17:43:17,181 - Done downloading audio.
+2021-06-20 17:43:21,761 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/E5kqzpOCixs.
+2021-06-20 17:43:29,431 - Done downloading video.
+2021-06-20 17:43:31,470 - Done downloading audio.
+2021-06-20 17:43:33,861 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/dQo0EotqBPY.
+2021-06-20 17:43:38,305 - Done downloading video.
+2021-06-20 17:43:40,670 - Done downloading audio.
+2021-06-20 17:43:44,178 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/csi3JnQB_7k.
+2021-06-20 17:43:46,927 - Done downloading video.
+2021-06-20 17:43:49,162 - Done downloading audio.
+2021-06-20 17:43:52,895 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/2ohobP1orA8.
+2021-06-20 17:46:04,113 - Done downloading video.
+2021-06-20 17:46:08,083 - Done downloading audio.
+2021-06-20 17:46:13,549 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Pk_Z3cif6hw.
+2021-06-20 17:46:16,019 - Done downloading video.
+2021-06-20 17:46:17,861 - Done downloading audio.
+2021-06-20 17:46:20,167 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/dDmGrzweZFg.
+2021-06-20 17:46:23,890 - Done downloading video.
+2021-06-20 17:46:26,993 - Done downloading audio.
+2021-06-20 17:46:31,857 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FIOJTB38M5w.
+2021-06-20 17:47:41,304 - Done downloading video.
+2021-06-20 17:47:44,260 - Done downloading audio.
+2021-06-20 17:47:47,341 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/QGdEi3fyq94.
+2021-06-20 17:48:12,173 - Done downloading video.
+2021-06-20 17:49:08,342 - Done downloading audio.
+2021-06-20 17:49:11,048 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8y_LcHz5Tkg.
+2021-06-20 17:49:40,975 - Done downloading video.
+2021-06-20 17:49:43,067 - Done downloading audio.
+2021-06-20 17:49:45,805 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FarUY5GHGns.
+2021-06-20 17:50:11,808 - Done downloading video.
+2021-06-20 17:51:06,647 - Done downloading audio.
+2021-06-20 17:51:09,576 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/6ZgbgS9jLxk.
+2021-06-20 17:52:09,127 - Done downloading video.
+2021-06-20 17:52:11,948 - Done downloading audio.
+2021-06-20 17:52:15,636 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/HvJnzU5b8Jk.
+2021-06-20 17:52:20,139 - Done downloading video.
+2021-06-20 17:52:22,647 - Done downloading audio.
+2021-06-20 17:52:26,660 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Zer3jyOSL8g.
+2021-06-20 17:53:16,528 - Done downloading video.
+2021-06-20 17:53:19,063 - Done downloading audio.
+2021-06-20 17:53:22,495 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1QDcaXe9mQY.
+2021-06-20 17:53:25,385 - Done downloading video.
+2021-06-20 17:53:27,061 - Done downloading audio.
+2021-06-20 17:53:30,045 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-lstrZlasI0.
+2021-06-20 17:53:33,393 - Done downloading video.
+2021-06-20 17:53:35,444 - Done downloading audio.
+2021-06-20 17:53:38,077 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/yovejKSz_Qg.
+2021-06-20 17:54:02,119 - Done downloading video.
+2021-06-20 17:54:04,389 - Done downloading audio.
+2021-06-20 17:54:07,354 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/6w5oAtfEc9s.
+2021-06-20 17:55:05,499 - Done downloading video.
+2021-06-20 17:55:08,092 - Done downloading audio.
+2021-06-20 17:55:12,093 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/W0lWB5f4tOw.
+2021-06-20 17:55:24,755 - Done downloading video.
+2021-06-20 17:55:26,380 - Done downloading audio.
+2021-06-20 17:55:27,602 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/LlN4uhJg_ks.
+2021-06-20 17:55:30,155 - Done downloading video.
+2021-06-20 17:55:32,397 - Done downloading audio.
+2021-06-20 17:55:35,201 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/zvzeOEV-ZHc.
+2021-06-20 18:00:09,474 - Done downloading video.
+2021-06-20 18:00:11,750 - Done downloading audio.
+2021-06-20 18:00:14,177 - Creating download information json.
+2021-06-20 18:00:14,181 - Writing text file.
+2021-06-20 18:00:14,181 - Downloading: DivinumX - Channel Image.png
+2021-06-20 18:00:26,386 - Writing text file.
+2021-06-20 18:00:26,386 - Downloading: DivinumX - The Lost Beyond Reason (Deathgrind) (EXPLICIT) - Thumbnail.png
+2021-06-20 18:00:26,622 - Merging audio and video files.
+2021-06-20 18:00:28,788 - Adding thumbnail to video file.
+2021-06-20 18:00:28,943 - Trying to apply metadata
+2021-06-20 18:00:28,943 - Applying mp3 cover
+2021-06-20 18:00:28,970 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:28,971 - Applied Metadata.
+2021-06-20 18:00:28,974 - Video file does not exist.
+2021-06-20 18:00:28,975 - Writing text file.
+2021-06-20 18:00:28,975 - Downloading: Anaal Nathrakh - Endarkenment - 1 Take Vocal Cover (No backing) - Thumbnail.png
+2021-06-20 18:00:29,155 - Merging audio and video files.
+2021-06-20 18:00:31,157 - Adding thumbnail to video file.
+2021-06-20 18:00:31,307 - Trying to apply metadata
+2021-06-20 18:00:31,307 - Applying mp3 cover
+2021-06-20 18:00:31,320 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:31,320 - Applied Metadata.
+2021-06-20 18:00:31,326 - Video file does not exist.
+2021-06-20 18:00:31,326 - Writing text file.
+2021-06-20 18:00:31,327 - Downloading: 240bpm death metal drumming - Thumbnail.png
+2021-06-20 18:00:31,476 - Merging audio and video files.
+2021-06-20 18:00:31,701 - Adding thumbnail to video file.
+2021-06-20 18:00:31,791 - Trying to apply metadata
+2021-06-20 18:00:31,792 - Applying mp3 cover
+2021-06-20 18:00:31,796 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:31,797 - Applied Metadata.
+2021-06-20 18:00:31,798 - Video file does not exist.
+2021-06-20 18:00:31,798 - Writing text file.
+2021-06-20 18:00:31,798 - Downloading: Novagrove EP Teaser - Thumbnail.png
+2021-06-20 18:00:31,928 - Merging audio and video files.
+2021-06-20 18:00:32,528 - Adding thumbnail to video file.
+2021-06-20 18:00:32,618 - Trying to apply metadata
+2021-06-20 18:00:32,619 - Applying mp3 cover
+2021-06-20 18:00:32,624 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:32,625 - Applied Metadata.
+2021-06-20 18:00:32,625 - Video file does not exist.
+2021-06-20 18:00:32,626 - Writing text file.
+2021-06-20 18:00:32,626 - Downloading: Major Announcements (NEW PROJECT) - Thumbnail.png
+2021-06-20 18:00:32,791 - Merging audio and video files.
+2021-06-20 18:00:34,938 - Adding thumbnail to video file.
+2021-06-20 18:00:35,103 - Trying to apply metadata
+2021-06-20 18:00:35,103 - Applying mp3 cover
+2021-06-20 18:00:35,115 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:35,116 - Applied Metadata.
+2021-06-20 18:00:35,122 - Video file does not exist.
+2021-06-20 18:00:35,122 - Writing text file.
+2021-06-20 18:00:35,122 - Downloading: Divinum X - Annihilation Celebration (Orchestral Instrumental) - Thumbnail.png
+2021-06-20 18:00:35,499 - Merging audio and video files.
+2021-06-20 18:00:38,493 - Adding thumbnail to video file.
+2021-06-20 18:00:38,613 - Trying to apply metadata
+2021-06-20 18:00:38,613 - Applying mp3 cover
+2021-06-20 18:00:38,627 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:38,627 - Applied Metadata.
+2021-06-20 18:00:38,629 - Video file does not exist.
+2021-06-20 18:00:38,629 - Writing text file.
+2021-06-20 18:00:38,629 - Downloading: Divinum X - Annihilation Celebration (Symphonic Death Metal) (P@D Release) - Thumbnail.png
+2021-06-20 18:00:38,879 - Merging audio and video files.
+2021-06-20 18:00:41,839 - Adding thumbnail to video file.
+2021-06-20 18:00:41,952 - Trying to apply metadata
+2021-06-20 18:00:41,952 - Applying mp3 cover
+2021-06-20 18:00:41,965 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:41,966 - Applied Metadata.
+2021-06-20 18:00:41,967 - Video file does not exist.
+2021-06-20 18:00:41,968 - Writing text file.
+2021-06-20 18:00:41,968 - Downloading: (Glaze & The Living Tombstone) Love Me Cheerilee Metal Cover - Thumbnail.png
+2021-06-20 18:00:42,140 - Merging audio and video files.
+2021-06-20 18:00:43,942 - Adding thumbnail to video file.
+2021-06-20 18:00:44,048 - Trying to apply metadata
+2021-06-20 18:00:44,048 - Applying mp3 cover
+2021-06-20 18:00:44,058 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:44,059 - Applied Metadata.
+2021-06-20 18:00:44,060 - Video file does not exist.
+2021-06-20 18:00:44,060 - Writing text file.
+2021-06-20 18:00:44,060 - Downloading: DivinumX - Kindling (Melodic Metal) (Ponies @ Dawn Release) - Thumbnail.png
+2021-06-20 18:00:44,169 - Merging audio and video files.
+2021-06-20 18:00:46,214 - Adding thumbnail to video file.
+2021-06-20 18:00:46,335 - Trying to apply metadata
+2021-06-20 18:00:46,335 - Applying mp3 cover
+2021-06-20 18:00:46,347 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:46,348 - Applied Metadata.
+2021-06-20 18:00:46,349 - Video file does not exist.
+2021-06-20 18:00:46,349 - Writing text file.
+2021-06-20 18:00:46,350 - Downloading: Thorns of Heed - DivinumX (MLP Black Metal) - Thumbnail.png
+2021-06-20 18:00:46,518 - Merging audio and video files.
+2021-06-20 18:00:49,283 - Adding thumbnail to video file.
+2021-06-20 18:00:49,461 - Trying to apply metadata
+2021-06-20 18:00:49,461 - Applying mp3 cover
+2021-06-20 18:00:49,476 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:49,477 - Applied Metadata.
+2021-06-20 18:00:49,481 - Video file does not exist.
+2021-06-20 18:00:49,482 - Writing text file.
+2021-06-20 18:00:49,482 - Downloading: Spyro the Dragon Metal Cover by Spyro the Dragon - Thumbnail.png
+2021-06-20 18:00:49,603 - Merging audio and video files.
+2021-06-20 18:00:51,345 - Adding thumbnail to video file.
+2021-06-20 18:00:51,488 - Trying to apply metadata
+2021-06-20 18:00:51,488 - Applying mp3 cover
+2021-06-20 18:00:51,498 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:51,499 - Applied Metadata.
+2021-06-20 18:00:51,502 - Video file does not exist.
+2021-06-20 18:00:51,503 - Writing text file.
+2021-06-20 18:00:51,503 - Downloading: (Wow) The Salty Sailor - DivinumX - Thumbnail.png
+2021-06-20 18:00:51,703 - Merging audio and video files.
+2021-06-20 18:00:53,833 - Adding thumbnail to video file.
+2021-06-20 18:00:54,023 - Trying to apply metadata
+2021-06-20 18:00:54,023 - Applying mp3 cover
+2021-06-20 18:00:54,035 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:54,035 - Applied Metadata.
+2021-06-20 18:00:54,041 - Video file does not exist.
+2021-06-20 18:00:54,042 - Writing text file.
+2021-06-20 18:00:54,042 - Downloading: Quality Game (Original League of Legends Fan Song) - DivinumX - Thumbnail.png
+2021-06-20 18:00:54,230 - Audio file does not exist.
+2021-06-20 18:00:54,231 - Writing text file.
+2021-06-20 18:00:54,231 - Downloading: Where Her Demons Go, We Will Follow (Symphonic Black Metal) - DivinumX - Thumbnail.png
+2021-06-20 18:00:54,387 - Merging audio and video files.
+2021-06-20 18:00:57,147 - Adding thumbnail to video file.
+2021-06-20 18:00:57,297 - Trying to apply metadata
+2021-06-20 18:00:57,298 - Applying mp3 cover
+2021-06-20 18:00:57,314 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:00:57,314 - Applied Metadata.
+2021-06-20 18:00:57,318 - Video file does not exist.
+2021-06-20 18:00:57,318 - Writing text file.
+2021-06-20 18:00:57,318 - Downloading: DivinumX - Child of Starfall (MLP Death Metal) - Thumbnail.png
+2021-06-20 18:00:57,448 - Merging audio and video files.
+2021-06-20 18:01:00,089 - Adding thumbnail to video file.
+2021-06-20 18:01:00,266 - Trying to apply metadata
+2021-06-20 18:01:00,267 - Applying mp3 cover
+2021-06-20 18:01:00,281 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:00,281 - Applied Metadata.
+2021-06-20 18:01:00,287 - Video file does not exist.
+2021-06-20 18:01:00,288 - Writing text file.
+2021-06-20 18:01:00,288 - Downloading: Bird With a Broken Wing - Owl City (DivinumX Cover) - Thumbnail.png
+2021-06-20 18:01:00,456 - Merging audio and video files.
+2021-06-20 18:01:02,525 - Adding thumbnail to video file.
+2021-06-20 18:01:02,629 - Trying to apply metadata
+2021-06-20 18:01:02,629 - Applying mp3 cover
+2021-06-20 18:01:02,641 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:02,642 - Applied Metadata.
+2021-06-20 18:01:02,643 - Video file does not exist.
+2021-06-20 18:01:02,643 - Writing text file.
+2021-06-20 18:01:02,643 - Downloading: Twilight Cove - DivinumX (Vocal Trance) - Thumbnail.png
+2021-06-20 18:01:02,765 - Merging audio and video files.
+2021-06-20 18:01:04,544 - Adding thumbnail to video file.
+2021-06-20 18:01:04,680 - Trying to apply metadata
+2021-06-20 18:01:04,680 - Applying mp3 cover
+2021-06-20 18:01:04,691 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:04,691 - Applied Metadata.
+2021-06-20 18:01:04,695 - Video file does not exist.
+2021-06-20 18:01:04,695 - Writing text file.
+2021-06-20 18:01:04,695 - Downloading: DivinumX - Born of Nihility (Death Metal) - Thumbnail.png
+2021-06-20 18:01:04,800 - Merging audio and video files.
+2021-06-20 18:01:06,160 - Adding thumbnail to video file.
+2021-06-20 18:01:06,288 - Trying to apply metadata
+2021-06-20 18:01:06,288 - Applying mp3 cover
+2021-06-20 18:01:06,297 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:06,297 - Applied Metadata.
+2021-06-20 18:01:06,300 - Video file does not exist.
+2021-06-20 18:01:06,300 - Writing text file.
+2021-06-20 18:01:06,300 - Downloading: Days Apart - DivinumX (Punk Rock) - Thumbnail.png
+2021-06-20 18:01:06,419 - Merging audio and video files.
+2021-06-20 18:01:08,644 - Adding thumbnail to video file.
+2021-06-20 18:01:08,753 - Trying to apply metadata
+2021-06-20 18:01:08,753 - Applying mp3 cover
+2021-06-20 18:01:08,766 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:08,766 - Applied Metadata.
+2021-06-20 18:01:08,767 - Video file does not exist.
+2021-06-20 18:01:08,768 - Writing text file.
+2021-06-20 18:01:08,768 - Downloading: Intra - (09) Where the Mass Collides - Thumbnail.png
+2021-06-20 18:01:08,933 - Merging audio and video files.
+2021-06-20 18:01:11,805 - Adding thumbnail to video file.
+2021-06-20 18:01:11,935 - Trying to apply metadata
+2021-06-20 18:01:11,935 - Applying mp3 cover
+2021-06-20 18:01:11,949 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:11,950 - Applied Metadata.
+2021-06-20 18:01:11,952 - Video file does not exist.
+2021-06-20 18:01:11,953 - Writing text file.
+2021-06-20 18:01:11,953 - Downloading: Intra - (08) Writing on the Walls - Thumbnail.png
+2021-06-20 18:01:12,127 - Audio file does not exist.
+2021-06-20 18:01:12,127 - Writing text file.
+2021-06-20 18:01:12,127 - Downloading: Intra - (07) PrinceWhateverer - Luna Caps Lock -- Reupload - Thumbnail.png
+2021-06-20 18:01:12,254 - Merging audio and video files.
+2021-06-20 18:01:13,599 - Adding thumbnail to video file.
+2021-06-20 18:01:13,707 - Trying to apply metadata
+2021-06-20 18:01:13,707 - Applying mp3 cover
+2021-06-20 18:01:13,716 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:13,717 - Applied Metadata.
+2021-06-20 18:01:13,718 - Video file does not exist.
+2021-06-20 18:01:13,718 - Writing text file.
+2021-06-20 18:01:13,718 - Downloading: Intra - (06) Obey - Thumbnail.png
+2021-06-20 18:01:13,844 - Merging audio and video files.
+2021-06-20 18:01:15,921 - Adding thumbnail to video file.
+2021-06-20 18:01:16,036 - Trying to apply metadata
+2021-06-20 18:01:16,036 - Applying mp3 cover
+2021-06-20 18:01:16,047 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:16,047 - Applied Metadata.
+2021-06-20 18:01:16,049 - Video file does not exist.
+2021-06-20 18:01:16,050 - Writing text file.
+2021-06-20 18:01:16,050 - Downloading: Intra - (05) Silent Author - Thumbnail.png
+2021-06-20 18:01:16,173 - Merging audio and video files.
+2021-06-20 18:01:19,726 - Adding thumbnail to video file.
+2021-06-20 18:01:19,866 - Trying to apply metadata
+2021-06-20 18:01:19,866 - Applying mp3 cover
+2021-06-20 18:01:19,882 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:19,883 - Applied Metadata.
+2021-06-20 18:01:19,885 - Video file does not exist.
+2021-06-20 18:01:19,886 - Writing text file.
+2021-06-20 18:01:19,886 - Downloading: Intra - (04) My Despair -- Reupload - Thumbnail.png
+2021-06-20 18:01:20,064 - Merging audio and video files.
+2021-06-20 18:01:23,466 - Adding thumbnail to video file.
+2021-06-20 18:01:23,604 - Trying to apply metadata
+2021-06-20 18:01:23,604 - Applying mp3 cover
+2021-06-20 18:01:23,619 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:23,620 - Applied Metadata.
+2021-06-20 18:01:23,622 - Video file does not exist.
+2021-06-20 18:01:23,622 - Writing text file.
+2021-06-20 18:01:23,622 - Downloading: Intra - (03) In My Sorrows - Thumbnail.png
+2021-06-20 18:01:23,789 - Merging audio and video files.
+2021-06-20 18:01:26,139 - Adding thumbnail to video file.
+2021-06-20 18:01:26,265 - Trying to apply metadata
+2021-06-20 18:01:26,265 - Applying mp3 cover
+2021-06-20 18:01:26,278 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:26,278 - Applied Metadata.
+2021-06-20 18:01:26,280 - Video file does not exist.
+2021-06-20 18:01:26,280 - Writing text file.
+2021-06-20 18:01:26,280 - Downloading: Intra -  (02) Your Shadow - Thumbnail.png
+2021-06-20 18:01:26,485 - Merging audio and video files.
+2021-06-20 18:01:28,719 - Adding thumbnail to video file.
+2021-06-20 18:01:28,838 - Trying to apply metadata
+2021-06-20 18:01:28,838 - Applying mp3 cover
+2021-06-20 18:01:28,851 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:28,852 - Applied Metadata.
+2021-06-20 18:01:28,854 - Video file does not exist.
+2021-06-20 18:01:28,854 - Writing text file.
+2021-06-20 18:01:28,854 - Downloading: Intra - (01) Bitter Blood (Album out July 29!) - Thumbnail.png
+2021-06-20 18:01:29,027 - Merging audio and video files.
+2021-06-20 18:01:31,619 - Adding thumbnail to video file.
+2021-06-20 18:01:31,735 - Trying to apply metadata
+2021-06-20 18:01:31,735 - Applying mp3 cover
+2021-06-20 18:01:31,750 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:31,751 - Applied Metadata.
+2021-06-20 18:01:31,752 - Video file does not exist.
+2021-06-20 18:01:31,752 - Writing text file.
+2021-06-20 18:01:31,753 - Downloading: Owl City - Fireflies Metal Cover by DivinumX (Thanks for 500 subs!) - Thumbnail.png
+2021-06-20 18:01:31,875 - Merging audio and video files.
+2021-06-20 18:01:33,892 - Adding thumbnail to video file.
+2021-06-20 18:01:33,998 - Trying to apply metadata
+2021-06-20 18:01:33,998 - Applying mp3 cover
+2021-06-20 18:01:34,009 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:34,009 - Applied Metadata.
+2021-06-20 18:01:34,011 - Video file does not exist.
+2021-06-20 18:01:34,011 - Writing text file.
+2021-06-20 18:01:34,011 - Downloading: PRINCEWHATEVERER - LUNA CAPS LOCK (DIVINUMX COVER) - Thumbnail.png
+2021-06-20 18:01:34,183 - Merging audio and video files.
+2021-06-20 18:01:35,540 - Adding thumbnail to video file.
+2021-06-20 18:01:35,658 - Trying to apply metadata
+2021-06-20 18:01:35,658 - Applying mp3 cover
+2021-06-20 18:01:35,668 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:35,668 - Applied Metadata.
+2021-06-20 18:01:35,669 - Video file does not exist.
+2021-06-20 18:01:35,670 - Writing text file.
+2021-06-20 18:01:35,670 - Downloading: The Narrow Divide Instrumental - DivinumX - Thumbnail.png
+2021-06-20 18:01:35,785 - Merging audio and video files.
+2021-06-20 18:01:46,963 - Adding thumbnail to video file.
+2021-06-20 18:01:47,199 - Trying to apply metadata
+2021-06-20 18:01:47,200 - Applying mp3 cover
+2021-06-20 18:01:47,251 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:47,251 - Applied Metadata.
+2021-06-20 18:01:47,255 - Video file does not exist.
+2021-06-20 18:01:47,255 - Writing text file.
+2021-06-20 18:01:47,256 - Downloading: Hearth's Warming In Ponyville - Acoustic Pop by DivinumX - Thumbnail.png
+2021-06-20 18:01:47,382 - Merging audio and video files.
+2021-06-20 18:01:49,392 - Adding thumbnail to video file.
+2021-06-20 18:01:49,510 - Trying to apply metadata
+2021-06-20 18:01:49,510 - Applying mp3 cover
+2021-06-20 18:01:49,520 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:49,521 - Applied Metadata.
+2021-06-20 18:01:49,523 - Video file does not exist.
+2021-06-20 18:01:49,524 - Writing text file.
+2021-06-20 18:01:49,524 - Downloading: My Despair - Shoegaze Metal by DivinumX - Thumbnail.png
+2021-06-20 18:01:49,634 - Merging audio and video files.
+2021-06-20 18:01:53,023 - Adding thumbnail to video file.
+2021-06-20 18:01:53,141 - Trying to apply metadata
+2021-06-20 18:01:53,142 - Applying mp3 cover
+2021-06-20 18:01:53,157 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:53,157 - Applied Metadata.
+2021-06-20 18:01:53,159 - Video file does not exist.
+2021-06-20 18:01:53,159 - Writing text file.
+2021-06-20 18:01:53,159 - Downloading: Abominable Cuteness - Grindcore by DivinumX (TND now free and I say thanks!) - Thumbnail.png
+2021-06-20 18:01:53,332 - Merging audio and video files.
+2021-06-20 18:01:55,270 - Adding thumbnail to video file.
+2021-06-20 18:01:55,381 - Trying to apply metadata
+2021-06-20 18:01:55,381 - Applying mp3 cover
+2021-06-20 18:01:55,392 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:55,393 - Applied Metadata.
+2021-06-20 18:01:55,394 - Video file does not exist.
+2021-06-20 18:01:55,395 - Writing text file.
+2021-06-20 18:01:55,395 - Downloading: Deicide Remaster - Technical Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:01:55,513 - Merging audio and video files.
+2021-06-20 18:01:58,315 - Adding thumbnail to video file.
+2021-06-20 18:01:58,430 - Trying to apply metadata
+2021-06-20 18:01:58,430 - Applying mp3 cover
+2021-06-20 18:01:58,444 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:01:58,445 - Applied Metadata.
+2021-06-20 18:01:58,446 - Video file does not exist.
+2021-06-20 18:01:58,447 - Writing text file.
+2021-06-20 18:01:58,447 - Downloading: Creatures and Beasts - Progressive Metal by DivinumX - Thumbnail.png
+2021-06-20 18:01:58,624 - Merging audio and video files.
+2021-06-20 18:02:01,298 - Adding thumbnail to video file.
+2021-06-20 18:02:01,409 - Trying to apply metadata
+2021-06-20 18:02:01,409 - Applying mp3 cover
+2021-06-20 18:02:01,422 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:01,422 - Applied Metadata.
+2021-06-20 18:02:01,423 - Video file does not exist.
+2021-06-20 18:02:01,424 - Writing text file.
+2021-06-20 18:02:01,424 - Downloading: Moonlight Drifters - Symphonic Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:01,595 - Merging audio and video files.
+2021-06-20 18:02:06,010 - Adding thumbnail to video file.
+2021-06-20 18:02:06,150 - Trying to apply metadata
+2021-06-20 18:02:06,150 - Applying mp3 cover
+2021-06-20 18:02:06,171 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:06,172 - Applied Metadata.
+2021-06-20 18:02:06,173 - Video file does not exist.
+2021-06-20 18:02:06,174 - Writing text file.
+2021-06-20 18:02:06,174 - Downloading: Scoots - WildStar Theme Metal Cover - Thumbnail.png
+2021-06-20 18:02:06,304 - Merging audio and video files.
+2021-06-20 18:02:07,866 - Adding thumbnail to video file.
+2021-06-20 18:02:07,972 - Trying to apply metadata
+2021-06-20 18:02:07,972 - Applying mp3 cover
+2021-06-20 18:02:07,981 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:07,981 - Applied Metadata.
+2021-06-20 18:02:07,982 - Video file does not exist.
+2021-06-20 18:02:07,983 - Writing text file.
+2021-06-20 18:02:07,983 - Downloading: Everblack Eternal - My Little Pony Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:08,104 - Merging audio and video files.
+2021-06-20 18:02:11,620 - Adding thumbnail to video file.
+2021-06-20 18:02:11,735 - Trying to apply metadata
+2021-06-20 18:02:11,735 - Applying mp3 cover
+2021-06-20 18:02:11,752 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:11,752 - Applied Metadata.
+2021-06-20 18:02:11,754 - Video file does not exist.
+2021-06-20 18:02:11,754 - Writing text file.
+2021-06-20 18:02:11,754 - Downloading: Enmity - Trance Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:11,937 - Merging audio and video files.
+2021-06-20 18:02:14,503 - Adding thumbnail to video file.
+2021-06-20 18:02:14,616 - Trying to apply metadata
+2021-06-20 18:02:14,616 - Applying mp3 cover
+2021-06-20 18:02:14,630 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:14,631 - Applied Metadata.
+2021-06-20 18:02:14,632 - Video file does not exist.
+2021-06-20 18:02:14,633 - Writing text file.
+2021-06-20 18:02:14,633 - Downloading: Sentiment - Groove Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:14,799 - Merging audio and video files.
+2021-06-20 18:02:16,760 - Adding thumbnail to video file.
+2021-06-20 18:02:16,868 - Trying to apply metadata
+2021-06-20 18:02:16,868 - Applying mp3 cover
+2021-06-20 18:02:16,879 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:16,879 - Applied Metadata.
+2021-06-20 18:02:16,880 - Video file does not exist.
+2021-06-20 18:02:16,881 - Writing text file.
+2021-06-20 18:02:16,881 - Downloading: Metropolis - Owl City (DivinumX Cover ) - Thumbnail.png
+2021-06-20 18:02:17,060 - Merging audio and video files.
+2021-06-20 18:02:19,036 - Adding thumbnail to video file.
+2021-06-20 18:02:19,152 - Trying to apply metadata
+2021-06-20 18:02:19,153 - Applying mp3 cover
+2021-06-20 18:02:19,163 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:19,164 - Applied Metadata.
+2021-06-20 18:02:19,166 - Video file does not exist.
+2021-06-20 18:02:19,166 - Writing text file.
+2021-06-20 18:02:19,166 - Downloading: The Start - Pop Rock DivinumX - Thumbnail.png
+2021-06-20 18:02:19,330 - Merging audio and video files.
+2021-06-20 18:02:21,499 - Adding thumbnail to video file.
+2021-06-20 18:02:21,601 - Trying to apply metadata
+2021-06-20 18:02:21,601 - Applying mp3 cover
+2021-06-20 18:02:21,612 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:21,613 - Applied Metadata.
+2021-06-20 18:02:21,614 - Video file does not exist.
+2021-06-20 18:02:21,615 - Writing text file.
+2021-06-20 18:02:21,615 - Downloading: The Skyline - Industrial Metal by DivinumX (200 Sub Special) - Thumbnail.png
+2021-06-20 18:02:21,744 - Merging audio and video files.
+2021-06-20 18:02:24,425 - Adding thumbnail to video file.
+2021-06-20 18:02:24,540 - Trying to apply metadata
+2021-06-20 18:02:24,540 - Applying mp3 cover
+2021-06-20 18:02:24,553 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:24,554 - Applied Metadata.
+2021-06-20 18:02:24,555 - Video file does not exist.
+2021-06-20 18:02:24,556 - Writing text file.
+2021-06-20 18:02:24,556 - Downloading: A Kingdoms Plead - My Little Pony Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:24,808 - Merging audio and video files.
+2021-06-20 18:02:27,652 - Adding thumbnail to video file.
+2021-06-20 18:02:27,769 - Trying to apply metadata
+2021-06-20 18:02:27,769 - Applying mp3 cover
+2021-06-20 18:02:27,782 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:27,783 - Applied Metadata.
+2021-06-20 18:02:27,784 - Video file does not exist.
+2021-06-20 18:02:27,785 - Writing text file.
+2021-06-20 18:02:27,785 - Downloading: Stargazer - Vocal Trance by DivinumX - Thumbnail.png
+2021-06-20 18:02:28,007 - Merging audio and video files.
+2021-06-20 18:02:30,548 - Adding thumbnail to video file.
+2021-06-20 18:02:30,652 - Trying to apply metadata
+2021-06-20 18:02:30,652 - Applying mp3 cover
+2021-06-20 18:02:30,667 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:30,667 - Applied Metadata.
+2021-06-20 18:02:30,668 - Video file does not exist.
+2021-06-20 18:02:30,668 - Writing text file.
+2021-06-20 18:02:30,669 - Downloading: Betrayer - My Little Pony Blackened Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:30,885 - Merging audio and video files.
+2021-06-20 18:02:33,069 - Adding thumbnail to video file.
+2021-06-20 18:02:33,170 - Trying to apply metadata
+2021-06-20 18:02:33,170 - Applying mp3 cover
+2021-06-20 18:02:33,181 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:33,182 - Applied Metadata.
+2021-06-20 18:02:33,183 - Video file does not exist.
+2021-06-20 18:02:33,183 - Writing text file.
+2021-06-20 18:02:33,183 - Downloading: Above the World - My Little Pony Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:33,343 - Merging audio and video files.
+2021-06-20 18:02:35,267 - Adding thumbnail to video file.
+2021-06-20 18:02:35,372 - Trying to apply metadata
+2021-06-20 18:02:35,372 - Applying mp3 cover
+2021-06-20 18:02:35,382 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:35,383 - Applied Metadata.
+2021-06-20 18:02:35,384 - Video file does not exist.
+2021-06-20 18:02:35,384 - Writing text file.
+2021-06-20 18:02:35,384 - Downloading: United In Harmony - Symphonic Metal_Post-Rock by DivinumX - Thumbnail.png
+2021-06-20 18:02:35,536 - Merging audio and video files.
+2021-06-20 18:02:37,547 - Adding thumbnail to video file.
+2021-06-20 18:02:37,649 - Trying to apply metadata
+2021-06-20 18:02:37,649 - Applying mp3 cover
+2021-06-20 18:02:37,661 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:37,662 - Applied Metadata.
+2021-06-20 18:02:37,662 - Video file does not exist.
+2021-06-20 18:02:37,663 - Writing text file.
+2021-06-20 18:02:37,663 - Downloading: Deicide - My Little Pony Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:37,774 - Merging audio and video files.
+2021-06-20 18:02:40,743 - Adding thumbnail to video file.
+2021-06-20 18:02:40,853 - Trying to apply metadata
+2021-06-20 18:02:40,853 - Applying mp3 cover
+2021-06-20 18:02:40,866 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:40,867 - Applied Metadata.
+2021-06-20 18:02:40,868 - Video file does not exist.
+2021-06-20 18:02:40,868 - Writing text file.
+2021-06-20 18:02:40,868 - Downloading: The Queens Heart - My Little Pony Death Metal by DivinumX - Thumbnail.png
+2021-06-20 18:02:41,033 - Merging audio and video files.
+2021-06-20 18:02:41,977 - Adding thumbnail to video file.
+2021-06-20 18:02:42,066 - Trying to apply metadata
+2021-06-20 18:02:42,066 - Applying mp3 cover
+2021-06-20 18:02:42,073 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:42,074 - Applied Metadata.
+2021-06-20 18:02:42,075 - Video file does not exist.
+2021-06-20 18:02:42,075 - Writing text file.
+2021-06-20 18:02:42,075 - Downloading: Luna's Ascension  - DivinumX - Thumbnail.png
+2021-06-20 18:02:42,278 - Merging audio and video files.
+2021-06-20 18:02:44,360 - Adding thumbnail to video file.
+2021-06-20 18:02:44,462 - Trying to apply metadata
+2021-06-20 18:02:44,462 - Applying mp3 cover
+2021-06-20 18:02:44,473 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:44,473 - Applied Metadata.
+2021-06-20 18:02:44,474 - Video file does not exist.
+2021-06-20 18:02:44,475 - Writing text file.
+2021-06-20 18:02:44,475 - Downloading: Theories - DivinumX - Thumbnail.png
+2021-06-20 18:02:44,575 - Merging audio and video files.
+2021-06-20 18:02:46,725 - Adding thumbnail to video file.
+2021-06-20 18:02:46,826 - Trying to apply metadata
+2021-06-20 18:02:46,826 - Applying mp3 cover
+2021-06-20 18:02:46,837 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-20 18:02:46,838 - Applied Metadata.
+2021-06-20 18:02:46,839 - Video file does not exist.
+2021-06-20 18:02:46,839 - Download for |https://www.youtube.com/user/DivinumX| complete.
+
+2021-06-20 18:02:46,839 - Writing to history...
+2021-06-20 18:02:46,840 - Done.
+2021-06-20 18:08:04,292 - Command: close
+2021-06-20 18:08:04,293 - 
+Log Ended.
+Total time: 1 hrs 42 min 7.44 sec
+

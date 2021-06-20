@@ -603,45 +603,51 @@ def extract_video_info(yt_id):
 
         foo = test["microformat"]["playerMicroformatRenderer"]
         video_info = {}
-        video_info["description"] = foo["description"]["simpleText"]
         try:
-            video_info["category"] = foo["category"]
-        except:
-            video_info["category"] = ""
-        video_info["url"] = url
-        video_info["channel id"] = foo["externalChannelId"]
-        video_info["length"] = foo["lengthSeconds"]
-        video_info["channel"] = foo["ownerChannelName"]
-        video_info["publish date"] = foo["publishDate"]
-        video_info["thumbnail url"] = foo["thumbnail"]["thumbnails"][0]["url"]
-        video_info["title"] = foo["title"]["simpleText"]
-        video_info["title"] = utils.apostrophe(video_info["title"])
-        video_info["views"] = foo["viewCount"]
-
-        #### Checks for music.youtube.
-        music_url = "https://music.youtube.com/watch?v=" + yt_id
-        if requests.get(music_url).status_code == 200:
-            dl_logger.log_info("Youtube Music link.")
-            video_info["music url"] = music_url
-        else:
-            video_info["music url"] = False
-
-        def what():
+            video_info["description"] = foo["description"]["simpleText"]
             try:
-                random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
-                video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
-                #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
-                video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
-                #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+                video_info["category"] = foo["category"]
             except:
-                video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
-                video_info["channel description"] = "unavailable"
-                dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+                video_info["category"] = ""
+            video_info["url"] = url
+            video_info["channel id"] = foo["externalChannelId"]
+            video_info["length"] = foo["lengthSeconds"]
+            video_info["channel"] = foo["ownerChannelName"]
+            video_info["publish date"] = foo["publishDate"]
+            video_info["thumbnail url"] = foo["thumbnail"]["thumbnails"][0]["url"]
+            video_info["title"] = foo["title"]["simpleText"]
+            video_info["title"] = utils.apostrophe(video_info["title"])
+            video_info["views"] = foo["viewCount"]
 
-        for k in dict(video_info):
-            video_info[k] = utils.string_escape(video_info[k])
+            #### Checks for music.youtube.
+            music_url = "https://music.youtube.com/watch?v=" + yt_id
+            if requests.get(music_url).status_code == 200:
+                dl_logger.log_info("Youtube Music link.")
+                video_info["music url"] = music_url
+            else:
+                video_info["music url"] = False
 
-        return video_info, streams
+            def what():
+                try:
+                    random_variable_223 = test["endscreen"]["endscreenRenderer"]["elements"][0]["endscreenElementRenderer"]
+                    video_info["channel image"] = random_variable_223["image"]["thumbnails"][-1]["url"]
+                    #video_info["subscriber count"] = random_variable_223 - doesnt work lol (at least not there)
+                    video_info["channel description"] = random_variable_223["metadata"]["simpleText"]
+                    #src="https://yt3.ggpht.com/ytc/AAUvwnhDuaemX6BXptBi4KtxnVzhNaV6L97P3nKpXAgmJA=s48-c-k-c0xffffffff-no-rj-mo"
+                except:
+                    video_info["channel image"] = "https://derpicdn.net/img/view/2012/10/14/122701__safe_artist-colon-inkwell_derpy+hooves_female_i+just+don%27t+know+what+went+wrong_mare_pegasus_pony_solo_technical+difficulties_wallpaper.jpg" #lol sorry in advance for this madness
+                    video_info["channel description"] = "unavailable"
+                    dl_logger.log_to_file('json["endscreen"]probably does not return anything. Recommended fix is to try the scrape again. Usually no problem unless its the first video link (For channels only).')
+
+            for k in dict(video_info):
+                video_info[k] = utils.string_escape(video_info[k])
+
+            return video_info, streams
+
+        except Exception as e:
+            dl_logger.log_to_file("Failed scrape: {}".format(url))
+            dl_logger.log_exception(e)
+            return False, False
     else:
         dl_logger.log_info("Youtube Video: {} is unavailable".format(url))
         return False, False

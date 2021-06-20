@@ -32,8 +32,6 @@ def applymetadata(download_object):
 
     #print(EasyID3.valid_keys.keys())
 
-    dl_logger.log_to_file("WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi")
-
     new["albumartist"] = download_object["metadata"]["artist"]
     new["artist"] = download_object["metadata"]["artist"]
     new["album"] = download_object["metadata"]["playlist"]

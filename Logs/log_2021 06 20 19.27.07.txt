@@ -1,0 +1,220 @@
+2021-06-20 19:27:07,687 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-20 19:27:08,447 - Command: run
+2021-06-20 19:27:08,448 - Current: https://www.youtube.com/channel/UC2jRI1B1vEIPOTDjfz6V5hw 
+2021-06-20 19:27:08,448 - youtube link
+2021-06-20 19:27:16,356 - file_cache is only supported with oauth2client<4.0.0
+2021-06-20 19:27:16,422 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU2jRI1B1vEIPOTDjfz6V5hw"
+}
+2021-06-20 19:27:16,422 - Upload Playlist: UU2jRI1B1vEIPOTDjfz6V5hw
+2021-06-20 19:27:16,746 - Now downloading channel: Tw3Lv3
+Video Count: 97
+2021-06-20 19:27:16,746 - Channel has 97 videos downloaded.
+2021-06-20 19:27:16,746 - Scraping for id: C5qlL2F6f20
+2021-06-20 19:27:17,391 - Youtube Music link.
+2021-06-20 19:27:17,392 - Scraping for id: ORn9uOXtVxI
+2021-06-20 19:27:17,964 - Youtube Music link.
+2021-06-20 19:27:17,964 - Scraping for id: FLbBTvgc9Jw
+2021-06-20 19:27:18,644 - Youtube Music link.
+2021-06-20 19:27:18,644 - Scraping for id: vav4dwjYPSM
+2021-06-20 19:27:19,323 - Youtube Music link.
+2021-06-20 19:27:19,324 - Scraping for id: 8uVYHaD363w
+2021-06-20 19:27:19,966 - Youtube Music link.
+2021-06-20 19:27:19,966 - Scraping for id: z5gTKBzpbqk
+2021-06-20 19:27:20,601 - Youtube Music link.
+2021-06-20 19:27:20,601 - Scraping for id: HQBaIMxo3Jo
+2021-06-20 19:27:21,183 - Youtube Music link.
+2021-06-20 19:27:21,184 - Scraping for id: FMjk0BqpbnE
+2021-06-20 19:27:21,948 - Youtube Music link.
+2021-06-20 19:27:21,949 - Scraping for id: BJGW9_LHFac
+2021-06-20 19:27:22,484 - Youtube Music link.
+2021-06-20 19:27:22,485 - Scraping for id: ko0ZNbrarbo
+2021-06-20 19:27:23,033 - Youtube Music link.
+2021-06-20 19:27:23,034 - Scraping for id: wwU8kcYjKZM
+2021-06-20 19:27:23,730 - Youtube Music link.
+2021-06-20 19:27:23,731 - Scraping for id: -ytbQJAgqFY
+2021-06-20 19:27:24,233 - Youtube Music link.
+2021-06-20 19:27:24,234 - Scraping for id: 8agLcHXhIXQ
+2021-06-20 19:27:24,768 - Youtube Music link.
+2021-06-20 19:27:24,769 - Scraping for id: ZShnlibrZGI
+2021-06-20 19:27:25,464 - Youtube Music link.
+2021-06-20 19:27:25,464 - Scraping for id: CKAESol74h0
+2021-06-20 19:27:26,215 - Youtube Music link.
+2021-06-20 19:27:26,215 - Scraping for id: DkhftcTGDto
+2021-06-20 19:27:26,752 - Youtube Music link.
+2021-06-20 19:27:26,753 - Scraping for id: tPjqlOKm9ew
+2021-06-20 19:27:27,304 - Youtube Music link.
+2021-06-20 19:27:27,305 - Scraping for id: AF4spGHg_Po
+2021-06-20 19:27:27,799 - Youtube Music link.
+2021-06-20 19:27:27,800 - Scraping for id: RYooS6CJgB8
+2021-06-20 19:27:28,511 - Youtube Music link.
+2021-06-20 19:27:28,512 - Scraping for id: 5iNXJZyalSY
+2021-06-20 19:27:29,153 - Youtube Music link.
+2021-06-20 19:27:29,154 - Scraping for id: w8n_J_KXRJE
+2021-06-20 19:27:29,699 - Youtube Music link.
+2021-06-20 19:27:29,700 - Scraping for id: f38EerKoCfA
+2021-06-20 19:27:30,408 - Youtube Music link.
+2021-06-20 19:27:30,408 - Scraping for id: 7rIJkQIyo4c
+2021-06-20 19:27:31,021 - Youtube Music link.
+2021-06-20 19:27:31,021 - Scraping for id: ZSNM_zXueLs
+2021-06-20 19:27:31,592 - Youtube Music link.
+2021-06-20 19:27:31,592 - Scraping for id: VSWgfl4cxo0
+2021-06-20 19:27:32,300 - Youtube Music link.
+2021-06-20 19:27:32,301 - Scraping for id: USG51whbZlo
+2021-06-20 19:27:32,819 - Youtube Music link.
+2021-06-20 19:27:32,819 - Scraping for id: dZeJWPbAyYs
+2021-06-20 19:27:33,503 - Youtube Music link.
+2021-06-20 19:27:33,504 - Scraping for id: Pl4enylanTo
+2021-06-20 19:27:34,208 - Youtube Music link.
+2021-06-20 19:27:34,208 - Scraping for id: bt5l9KCt6po
+2021-06-20 19:27:34,749 - Youtube Music link.
+2021-06-20 19:27:34,749 - Scraping for id: UiunHeYP6aI
+2021-06-20 19:27:35,212 - Youtube Music link.
+2021-06-20 19:27:35,213 - Scraping for id: JZJEtaiHEUc
+2021-06-20 19:27:35,766 - Youtube Music link.
+2021-06-20 19:27:35,767 - Scraping for id: 5aI6VzRLqsM
+2021-06-20 19:27:36,341 - Youtube Music link.
+2021-06-20 19:27:36,341 - Scraping for id: sMrvkcrmE6M
+2021-06-20 19:27:36,821 - Youtube Music link.
+2021-06-20 19:27:36,821 - Scraping for id: iRSaXtq83qA
+2021-06-20 19:27:37,363 - Youtube Music link.
+2021-06-20 19:27:37,363 - Scraping for id: YH3qwOB-1AU
+2021-06-20 19:27:38,025 - Youtube Music link.
+2021-06-20 19:27:38,025 - Scraping for id: _EWnQYpFJoo
+2021-06-20 19:27:38,569 - Youtube Music link.
+2021-06-20 19:27:38,570 - Scraping for id: WZYtsmLGbdM
+2021-06-20 19:27:39,207 - Youtube Music link.
+2021-06-20 19:27:39,208 - Scraping for id: 38KyZg1SBXk
+2021-06-20 19:27:39,769 - Youtube Music link.
+2021-06-20 19:27:39,770 - Scraping for id: mJz34tf4m2s
+2021-06-20 19:27:40,324 - Youtube Music link.
+2021-06-20 19:27:40,325 - Scraping for id: Md3BzzP_sTI
+2021-06-20 19:27:40,847 - Youtube Music link.
+2021-06-20 19:27:40,848 - Scraping for id: HLBOStMnk8I
+2021-06-20 19:27:41,416 - Youtube Music link.
+2021-06-20 19:27:41,416 - Scraping for id: vXcg2n1ojTM
+2021-06-20 19:27:42,024 - Youtube Music link.
+2021-06-20 19:27:42,025 - Scraping for id: 4B0zosJyiqk
+2021-06-20 19:27:42,752 - Youtube Music link.
+2021-06-20 19:27:42,752 - Scraping for id: x-EARA1llmc
+2021-06-20 19:27:43,409 - Youtube Music link.
+2021-06-20 19:27:43,410 - Scraping for id: rsAACAPpe1U
+2021-06-20 19:27:43,930 - Youtube Music link.
+2021-06-20 19:27:43,930 - Scraping for id: OL0UrOnFzM8
+2021-06-20 19:27:44,508 - Youtube Music link.
+2021-06-20 19:27:44,508 - Scraping for id: vNpOdP9BaU8
+2021-06-20 19:27:45,034 - Youtube Music link.
+2021-06-20 19:27:45,034 - Scraping for id: f0GbETxAqSs
+2021-06-20 19:27:45,734 - Youtube Music link.
+2021-06-20 19:27:45,735 - Scraping for id: 95s3wS6_5vQ
+2021-06-20 19:27:46,391 - Youtube Music link.
+2021-06-20 19:27:46,392 - Scraping for id: GFZsGdyHk8E
+2021-06-20 19:27:47,080 - Youtube Music link.
+2021-06-20 19:27:47,081 - Scraping for id: tcwQufgq2vI
+2021-06-20 19:27:47,727 - Youtube Music link.
+2021-06-20 19:27:47,728 - Scraping for id: ET5ZHfYrYh4
+2021-06-20 19:27:48,502 - Youtube Music link.
+2021-06-20 19:27:48,503 - Scraping for id: UdcD4igb_Oo
+2021-06-20 19:27:49,022 - Youtube Music link.
+2021-06-20 19:27:49,022 - Scraping for id: m9e5sVaAi1o
+2021-06-20 19:27:49,699 - Youtube Music link.
+2021-06-20 19:27:49,700 - Scraping for id: T-XEzWwW2GA
+2021-06-20 19:27:50,262 - Youtube Music link.
+2021-06-20 19:27:50,263 - Scraping for id: HHCke0k70tA
+2021-06-20 19:27:50,729 - Youtube Music link.
+2021-06-20 19:27:50,730 - Scraping for id: ksuMeYKGNtY
+2021-06-20 19:27:51,428 - Youtube Music link.
+2021-06-20 19:27:51,429 - Scraping for id: 7WXC1h-ognY
+2021-06-20 19:27:52,125 - Youtube Music link.
+2021-06-20 19:27:52,126 - Scraping for id: 6s1cSV82gaM
+2021-06-20 19:27:52,677 - Youtube Music link.
+2021-06-20 19:27:52,678 - Scraping for id: ZCLvTEJY0hc
+2021-06-20 19:27:53,231 - Youtube Music link.
+2021-06-20 19:27:53,232 - Scraping for id: 2suuBsgDWSU
+2021-06-20 19:27:53,666 - Failed scrape: https://youtu.be/2suuBsgDWSU
+2021-06-20 19:27:53,666 - 'description'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 607, in extract_video_info
+    video_info["description"] = foo["description"]["simpleText"]
+KeyError: 'description'
+2021-06-20 19:27:53,670 - Scraping for id: y6mKBkLpvNU
+2021-06-20 19:27:54,398 - Youtube Music link.
+2021-06-20 19:27:54,398 - Scraping for id: S_Rvlet8X0c
+2021-06-20 19:27:55,131 - Youtube Music link.
+2021-06-20 19:27:55,132 - Scraping for id: XGHAT-6R3fU
+2021-06-20 19:27:55,725 - Youtube Music link.
+2021-06-20 19:27:55,726 - Scraping for id: ZUjEuPhFsdI
+2021-06-20 19:27:56,276 - Youtube Music link.
+2021-06-20 19:27:56,277 - Scraping for id: x9HjADLARYY
+2021-06-20 19:27:56,895 - Youtube Music link.
+2021-06-20 19:27:56,896 - Scraping for id: OvXouoYIjAg
+2021-06-20 19:27:57,605 - Youtube Music link.
+2021-06-20 19:27:57,606 - Scraping for id: SjdYWMLeykE
+2021-06-20 19:27:58,331 - Youtube Music link.
+2021-06-20 19:27:58,331 - Scraping for id: 8ff1AHzZPP4
+2021-06-20 19:27:58,931 - Youtube Music link.
+2021-06-20 19:27:58,932 - Scraping for id: LergxCAKA54
+2021-06-20 19:27:59,463 - Youtube Music link.
+2021-06-20 19:27:59,463 - Scraping for id: 93iT-8_5udA
+2021-06-20 19:28:00,029 - Youtube Music link.
+2021-06-20 19:28:00,030 - Scraping for id: yyPTX5Ivuz8
+2021-06-20 19:28:00,651 - Youtube Music link.
+2021-06-20 19:28:00,652 - Scraping for id: ojIzzrnuNiI
+2021-06-20 19:28:01,254 - Youtube Music link.
+2021-06-20 19:28:01,255 - Scraping for id: v_bflHDZ5B0
+2021-06-20 19:28:02,027 - Youtube Music link.
+2021-06-20 19:28:02,028 - Scraping for id: LTEwBaY0HnI
+2021-06-20 19:28:02,649 - Youtube Music link.
+2021-06-20 19:28:02,650 - Scraping for id: 2XzfhinhfLQ
+2021-06-20 19:28:03,196 - Youtube Music link.
+2021-06-20 19:28:03,196 - Scraping for id: -SmxswUrdg8
+2021-06-20 19:28:03,946 - Youtube Music link.
+2021-06-20 19:28:03,946 - Scraping for id: _KfSGqj0zEE
+2021-06-20 19:28:04,681 - Youtube Music link.
+2021-06-20 19:28:04,681 - Scraping for id: C8fT3IO21sE
+2021-06-20 19:28:05,287 - Youtube Music link.
+2021-06-20 19:28:05,287 - Scraping for id: V9MAz1bu_HE
+2021-06-20 19:28:05,974 - Youtube Music link.
+2021-06-20 19:28:05,975 - Scraping for id: 2-Ev0_Gf5LI
+2021-06-20 19:28:06,562 - Youtube Music link.
+2021-06-20 19:28:06,563 - Scraping for id: vDxV3rurGF4
+2021-06-20 19:28:07,126 - Youtube Music link.
+2021-06-20 19:28:07,127 - Scraping for id: bQqaVr7mgHo
+2021-06-20 19:28:07,773 - Youtube Music link.
+2021-06-20 19:28:07,773 - Scraping for id: 24mANg79U4w
+2021-06-20 19:28:08,400 - Youtube Music link.
+2021-06-20 19:28:08,401 - Scraping for id: KsYkVQWC86U
+2021-06-20 19:28:09,051 - Youtube Music link.
+2021-06-20 19:28:09,051 - Scraping for id: 8qve10Qk4h4
+2021-06-20 19:28:09,674 - Youtube Music link.
+2021-06-20 19:28:09,674 - Scraping for id: D5GLLFyJ8bI
+2021-06-20 19:28:10,274 - Youtube Music link.
+2021-06-20 19:28:10,275 - Scraping for id: VhFQX_TQEoU
+2021-06-20 19:28:11,026 - Youtube Music link.
+2021-06-20 19:28:11,027 - Scraping for id: 2m2GM-IsXKY
+2021-06-20 19:28:11,494 - Youtube Music link.
+2021-06-20 19:28:11,494 - Scraping for id: k1z22ZceTaA
+2021-06-20 19:28:12,119 - Youtube Music link.
+2021-06-20 19:28:12,120 - Scraping for id: x_QEENab94U
+2021-06-20 19:28:12,745 - Youtube Music link.
+2021-06-20 19:28:12,746 - Scraping for id: BeUPSJIqcXo
+2021-06-20 19:28:13,306 - Youtube Music link.
+2021-06-20 19:28:13,307 - Scraping for id: tSOLRTWYIuw
+2021-06-20 19:28:13,743 - Failed scrape: https://youtu.be/tSOLRTWYIuw
+2021-06-20 19:28:13,743 - 'description'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 607, in extract_video_info
+    video_info["description"] = foo["description"]["simpleText"]
+KeyError: 'description'
+2021-06-20 19:28:13,747 - Scraping for id: M51I115XMAQ
+2021-06-20 19:28:14,259 - Youtube Music link.
+2021-06-20 19:28:14,260 - Scraping for id: Qf7hnjzoK90
+2021-06-20 19:28:14,812 - Youtube Music link.
+2021-06-20 19:28:14,812 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/C5qlL2F6f20.

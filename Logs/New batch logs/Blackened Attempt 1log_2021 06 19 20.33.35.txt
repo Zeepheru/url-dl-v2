@@ -1,0 +1,698 @@
+2021-06-19 20:33:35,416 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-06-19 20:33:35,416 - Autocommand from settings: run
+2021-06-19 20:33:35,416 - Command: run
+2021-06-19 20:33:35,419 - Current: https://youtube.com/c/BlackenedBlue 
+2021-06-19 20:33:35,419 - youtube link
+2021-06-19 20:33:36,489 - file_cache is only supported with oauth2client<4.0.0
+2021-06-19 20:33:36,580 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUQ8BlAGzAP689jJU0bisAdA"
+}
+2021-06-19 20:33:36,581 - Upload Playlist: UUQ8BlAGzAP689jJU0bisAdA
+2021-06-19 20:33:36,695 - Now downloading channel: Blackened Blue
+Video Count: 41
+2021-06-19 20:33:36,695 - Channel has 41 videos downloaded.
+2021-06-19 20:33:36,695 - Scraping for id: Nj_ff5mcz0s
+2021-06-19 20:33:37,406 - Youtube Music link.
+2021-06-19 20:33:37,407 - Scraping for id: AfQlkcThojA
+2021-06-19 20:33:38,032 - Youtube Music link.
+2021-06-19 20:33:38,033 - Scraping for id: wQab0htUdCY
+2021-06-19 20:33:38,659 - Youtube Music link.
+2021-06-19 20:33:38,659 - Scraping for id: TTkomkU4Crg
+2021-06-19 20:33:39,581 - Youtube Music link.
+2021-06-19 20:33:39,582 - Scraping for id: vcqcQ8mnJxc
+2021-06-19 20:33:40,446 - Youtube Music link.
+2021-06-19 20:33:40,447 - Scraping for id: u8yPR-HldVs
+2021-06-19 20:33:41,028 - Youtube Music link.
+2021-06-19 20:33:41,028 - Scraping for id: XfgGBDfnHI8
+2021-06-19 20:33:41,685 - Youtube Music link.
+2021-06-19 20:33:41,686 - Scraping for id: pHuY51ihpOY
+2021-06-19 20:33:42,255 - Youtube Music link.
+2021-06-19 20:33:42,256 - Scraping for id: jewOL2gRtIU
+2021-06-19 20:33:42,883 - Youtube Music link.
+2021-06-19 20:33:42,884 - Scraping for id: -RRj9vgKvX8
+2021-06-19 20:33:43,521 - Youtube Music link.
+2021-06-19 20:33:43,522 - Scraping for id: Lpwhe5W6ORw
+2021-06-19 20:33:44,349 - Youtube Music link.
+2021-06-19 20:33:44,350 - Scraping for id: tWMJwTetZsc
+2021-06-19 20:33:45,117 - Youtube Music link.
+2021-06-19 20:33:45,118 - Scraping for id: 14VMShvhAxo
+2021-06-19 20:33:45,852 - Youtube Music link.
+2021-06-19 20:33:45,852 - Scraping for id: pnVBYHiGvIQ
+2021-06-19 20:33:46,441 - Youtube Music link.
+2021-06-19 20:33:46,441 - Scraping for id: __JPFOlQM_w
+2021-06-19 20:33:47,117 - Youtube Music link.
+2021-06-19 20:33:47,117 - Scraping for id: X-PcCCggWuI
+2021-06-19 20:33:47,706 - Youtube Music link.
+2021-06-19 20:33:47,707 - Scraping for id: 8n3F7CSpzOM
+2021-06-19 20:33:48,339 - Youtube Music link.
+2021-06-19 20:33:48,339 - Scraping for id: 0plZFFgvoX0
+2021-06-19 20:33:49,101 - Youtube Music link.
+2021-06-19 20:33:49,101 - Scraping for id: k4IEpTYA0WE
+2021-06-19 20:33:49,668 - Youtube Music link.
+2021-06-19 20:33:49,668 - Scraping for id: mfnJ_IBKjNA
+2021-06-19 20:33:50,669 - Youtube Music link.
+2021-06-19 20:33:50,669 - Scraping for id: Sy2wwlumrKE
+2021-06-19 20:33:51,277 - Youtube Music link.
+2021-06-19 20:33:51,277 - Scraping for id: EUL7J9oHj8w
+2021-06-19 20:33:51,959 - Youtube Music link.
+2021-06-19 20:33:51,959 - Scraping for id: TJx09oIjWhs
+2021-06-19 20:33:52,753 - Youtube Music link.
+2021-06-19 20:33:52,753 - Scraping for id: MPz_IiJKCOw
+2021-06-19 20:33:53,373 - Youtube Music link.
+2021-06-19 20:33:53,374 - Scraping for id: A0Cv3SnYHKs
+2021-06-19 20:33:54,115 - Youtube Music link.
+2021-06-19 20:33:54,115 - Scraping for id: hey_vaLVL1g
+2021-06-19 20:33:54,657 - Youtube Music link.
+2021-06-19 20:33:54,658 - Scraping for id: 1O9GN8uh_mg
+2021-06-19 20:33:55,387 - Youtube Music link.
+2021-06-19 20:33:55,387 - Scraping for id: WxftPG3fPr0
+2021-06-19 20:33:55,936 - Youtube Music link.
+2021-06-19 20:33:55,936 - Scraping for id: -HAPeei43zU
+2021-06-19 20:33:56,754 - Youtube Music link.
+2021-06-19 20:33:56,755 - Scraping for id: 8fCUslWXmUo
+2021-06-19 20:33:57,462 - Youtube Music link.
+2021-06-19 20:33:57,463 - Scraping for id: kEN1k5h8qiU
+2021-06-19 20:33:58,269 - Youtube Music link.
+2021-06-19 20:33:58,270 - Scraping for id: KtqWvZGNu-Q
+2021-06-19 20:33:58,886 - Youtube Music link.
+2021-06-19 20:33:58,886 - Scraping for id: Gjahu4VZ5g4
+2021-06-19 20:33:59,523 - Youtube Music link.
+2021-06-19 20:33:59,524 - Scraping for id: 2Dr2un4fxxY
+2021-06-19 20:34:00,142 - Youtube Music link.
+2021-06-19 20:34:00,142 - Scraping for id: e1oDDDiVHP8
+2021-06-19 20:34:00,733 - Youtube Music link.
+2021-06-19 20:34:00,734 - Scraping for id: 2L5jrhIjaHU
+2021-06-19 20:34:01,379 - Youtube Music link.
+2021-06-19 20:34:01,380 - Scraping for id: I0qD2myeR4A
+2021-06-19 20:34:01,929 - Youtube Music link.
+2021-06-19 20:34:01,930 - Scraping for id: Px96TIR9lHo
+2021-06-19 20:34:02,426 - Youtube Music link.
+2021-06-19 20:34:02,427 - Scraping for id: PApM7ASbnTg
+2021-06-19 20:34:02,901 - Youtube Music link.
+2021-06-19 20:34:02,902 - Scraping for id: n0S0l1haXpc
+2021-06-19 20:34:03,464 - Youtube Music link.
+2021-06-19 20:34:03,465 - Scraping for id: cNznj89HQs0
+2021-06-19 20:34:03,966 - Youtube Music link.
+2021-06-19 20:34:03,967 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Nj_ff5mcz0s.
+2021-06-19 20:35:10,244 - Done downloading video.
+2021-06-19 20:36:39,155 - Done downloading audio.
+2021-06-19 20:36:42,053 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/AfQlkcThojA.
+2021-06-19 20:37:26,229 - Done downloading video.
+2021-06-19 20:37:28,970 - Done downloading audio.
+2021-06-19 20:37:31,968 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/wQab0htUdCY.
+2021-06-19 20:37:56,391 - Done downloading video.
+2021-06-19 20:37:58,423 - Done downloading audio.
+2021-06-19 20:38:00,899 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/TTkomkU4Crg.
+2021-06-19 20:38:37,759 - Done downloading video.
+2021-06-19 20:38:39,671 - Done downloading audio.
+2021-06-19 20:38:42,166 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/vcqcQ8mnJxc.
+2021-06-19 20:39:36,138 - Done downloading video.
+2021-06-19 20:39:38,138 - Done downloading audio.
+2021-06-19 20:39:40,487 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/u8yPR-HldVs.
+2021-06-19 20:40:35,451 - Done downloading video.
+2021-06-19 20:40:38,079 - Done downloading audio.
+2021-06-19 20:40:40,919 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/XfgGBDfnHI8.
+2021-06-19 20:41:35,302 - Done downloading video.
+2021-06-19 20:41:38,003 - Done downloading audio.
+2021-06-19 20:41:41,099 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/pHuY51ihpOY.
+2021-06-19 20:51:47,923 - Done downloading video.
+2021-06-19 20:51:51,208 - Done downloading audio.
+2021-06-19 20:51:54,605 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/jewOL2gRtIU.
+2021-06-19 20:52:04,861 - Done downloading video.
+2021-06-19 20:52:06,911 - Done downloading audio.
+2021-06-19 20:52:09,980 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-RRj9vgKvX8.
+2021-06-19 20:53:16,086 - Done downloading video.
+2021-06-19 20:53:18,634 - Done downloading audio.
+2021-06-19 20:53:21,955 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Lpwhe5W6ORw.
+2021-06-19 20:53:30,838 - Done downloading video.
+2021-06-19 20:53:31,891 - Done downloading audio.
+2021-06-19 20:53:32,273 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/tWMJwTetZsc.
+2021-06-19 20:54:35,175 - Done downloading video.
+2021-06-19 20:54:36,287 - Done downloading audio.
+2021-06-19 20:54:39,199 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/14VMShvhAxo.
+2021-06-19 20:54:58,143 - Done downloading video.
+2021-06-19 20:55:10,714 - Done downloading audio.
+2021-06-19 20:55:11,301 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/pnVBYHiGvIQ.
+2021-06-19 20:56:17,374 - Done downloading video.
+2021-06-19 20:56:19,941 - Done downloading audio.
+2021-06-19 20:56:22,579 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/__JPFOlQM_w.
+2021-06-19 20:57:00,127 - Done downloading video.
+2021-06-19 20:57:02,475 - Done downloading audio.
+2021-06-19 20:57:04,179 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/X-PcCCggWuI.
+2021-06-19 21:01:46,062 - Done downloading video.
+2021-06-19 21:01:48,935 - Done downloading audio.
+2021-06-19 21:01:51,909 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8n3F7CSpzOM.
+2021-06-19 21:02:49,240 - Done downloading video.
+2021-06-19 21:02:51,413 - Done downloading audio.
+2021-06-19 21:02:53,882 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/0plZFFgvoX0.
+2021-06-19 21:03:05,467 - Done downloading video.
+2021-06-19 21:03:06,698 - Done downloading audio.
+2021-06-19 21:03:07,166 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/k4IEpTYA0WE.
+2021-06-19 21:06:43,644 - Done downloading video.
+2021-06-19 21:06:45,771 - Done downloading audio.
+2021-06-19 21:06:48,620 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/mfnJ_IBKjNA.
+2021-06-19 21:07:52,634 - Done downloading video.
+2021-06-19 21:07:55,069 - Done downloading audio.
+2021-06-19 21:07:57,740 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Sy2wwlumrKE.
+2021-06-19 21:08:39,345 - Done downloading video.
+2021-06-19 21:08:41,436 - Done downloading audio.
+2021-06-19 21:08:43,506 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/EUL7J9oHj8w.
+2021-06-19 21:09:34,849 - Done downloading video.
+2021-06-19 21:09:37,337 - Done downloading audio.
+2021-06-19 21:09:40,624 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/TJx09oIjWhs.
+2021-06-19 21:09:44,159 - Done downloading video.
+2021-06-19 21:09:46,501 - Done downloading audio.
+2021-06-19 21:09:46,978 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/MPz_IiJKCOw.
+2021-06-19 21:11:21,527 - Done downloading video.
+2021-06-19 21:11:23,894 - Done downloading audio.
+2021-06-19 21:11:27,905 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/A0Cv3SnYHKs.
+2021-06-19 21:12:30,723 - Done downloading video.
+2021-06-19 21:12:32,830 - Done downloading audio.
+2021-06-19 21:12:35,528 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/hey_vaLVL1g.
+2021-06-19 21:13:02,583 - Done downloading video.
+2021-06-19 21:13:03,883 - Done downloading audio.
+2021-06-19 21:13:03,919 - ERROR: WARNING: unable to obtain file audio codec with ffprobe
+Traceback (most recent call last):
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2106, in post_process
+    files_to_delete, info = pp.run(info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\postprocessor\ffmpeg.py", line 274, in run
+    raise PostProcessingError('WARNING: unable to obtain file audio codec with ffprobe')
+youtube_dl.utils.PostProcessingError: WARNING: unable to obtain file audio codec with ffprobe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 777, in download_handler
+    youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 97, in youtube_dl_backup_audio
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2041, in process_info
+    self.post_process(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2108, in post_process
+    self.report_error(e.msg)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: WARNING: unable to obtain file audio codec with ffprobe
+2021-06-19 21:13:03,923 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/1O9GN8uh_mg.
+2021-06-19 21:14:11,707 - Done downloading video.
+2021-06-19 21:14:14,814 - Done downloading audio.
+2021-06-19 21:14:18,289 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/WxftPG3fPr0.
+2021-06-19 21:18:46,727 - Done downloading video.
+2021-06-19 21:18:48,304 - Done downloading audio.
+2021-06-19 21:18:49,009 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/-HAPeei43zU.
+2021-06-19 21:19:54,235 - Done downloading video.
+2021-06-19 21:19:57,168 - Done downloading audio.
+2021-06-19 21:20:00,283 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8fCUslWXmUo.
+2021-06-19 21:20:05,348 - ERROR: giving up after 0 fragment retries
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 774, in download_handler
+    youtube_dl_backup_video(video_info["url"],root_download_dir)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 117, in youtube_dl_backup_video
+    ydl.download([url])
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 2059, in download
+    res = self.extract_info(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 799, in extract_info
+    return self.__extract_info(url, ie, download, extra_info, process)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 806, in wrapper
+    return func(self, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 838, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 872, in process_ie_result
+    return self.process_video_result(ie_result, download=download)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1683, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1967, in process_info
+    success = dl(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 1906, in dl
+    return fd.download(name, info)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 366, in download
+    return self.real_download(filename, info_dict)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\dash.py", line 75, in real_download
+    self.report_error('giving up after %s fragment retries' % fragment_retries)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\downloader\common.py", line 165, in report_error
+    self.ydl.report_error(*args, **kargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 628, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\youtube_dl\YoutubeDL.py", line 598, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: giving up after 0 fragment retries
+2021-06-19 21:20:05,353 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/kEN1k5h8qiU.
+2021-06-19 21:23:30,308 - Done downloading video.
+2021-06-19 21:23:38,211 - Done downloading audio.
+2021-06-19 21:23:48,347 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/KtqWvZGNu-Q.
+2021-06-19 21:32:53,071 - Done downloading video.
+2021-06-19 21:32:55,971 - Done downloading audio.
+2021-06-19 21:32:59,606 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Gjahu4VZ5g4.
+2021-06-19 21:33:46,305 - Done downloading video.
+2021-06-19 21:33:48,540 - Done downloading audio.
+2021-06-19 21:33:50,261 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/2Dr2un4fxxY.
+2021-06-19 21:34:35,851 - Done downloading video.
+2021-06-19 21:35:27,869 - Done downloading audio.
+2021-06-19 21:35:29,584 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/e1oDDDiVHP8.
+2021-06-19 21:36:33,017 - Done downloading video.
+2021-06-19 21:36:35,410 - Done downloading audio.
+2021-06-19 21:36:38,449 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/2L5jrhIjaHU.
+2021-06-19 21:37:41,358 - Done downloading video.
+2021-06-19 21:37:44,498 - Done downloading audio.
+2021-06-19 21:37:47,576 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/I0qD2myeR4A.
+2021-06-19 21:38:52,056 - Done downloading video.
+2021-06-19 21:38:55,097 - Done downloading audio.
+2021-06-19 21:38:58,445 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/Px96TIR9lHo.
+2021-06-19 21:39:14,420 - Done downloading video.
+2021-06-19 21:39:15,836 - Done downloading audio.
+2021-06-19 21:39:16,494 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/PApM7ASbnTg.
+2021-06-19 21:40:21,170 - Done downloading video.
+2021-06-19 21:41:50,982 - Done downloading audio.
+2021-06-19 21:41:54,732 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/n0S0l1haXpc.
+2021-06-19 21:42:53,494 - Done downloading video.
+2021-06-19 21:42:55,462 - Done downloading audio.
+2021-06-19 21:42:57,980 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/cNznj89HQs0.
+2021-06-19 21:46:43,387 - Done downloading video.
+2021-06-19 21:48:06,306 - Done downloading audio.
+2021-06-19 21:48:09,120 - Creating download information json.
+2021-06-19 21:48:09,124 - Writing text file.
+2021-06-19 21:48:09,124 - Downloading: Blackened Blue - Channel Image.png
+2021-06-19 21:48:09,749 - Writing text file.
+2021-06-19 21:48:09,750 - Downloading: Blackened Blue - Down Below [P@D Oceansong] - Thumbnail.png
+2021-06-19 21:48:09,952 - Merging audio and video files.
+2021-06-19 21:48:12,211 - Adding thumbnail to video file.
+2021-06-19 21:48:12,340 - Trying to apply metadata
+2021-06-19 21:48:12,340 - Applying mp3 cover
+2021-06-19 21:48:12,366 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:12,367 - Applied Metadata.
+2021-06-19 21:48:12,369 - Video file does not exist.
+2021-06-19 21:48:12,370 - Writing text file.
+2021-06-19 21:48:12,370 - Downloading: Blackened Blue - Who I Am (Metal Core Pony Cover) - Thumbnail.png
+2021-06-19 21:48:12,933 - Merging audio and video files.
+2021-06-19 21:48:15,563 - Adding thumbnail to video file.
+2021-06-19 21:48:15,709 - Trying to apply metadata
+2021-06-19 21:48:15,709 - Applying mp3 cover
+2021-06-19 21:48:15,722 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:15,723 - Applied Metadata.
+2021-06-19 21:48:15,726 - Video file does not exist.
+2021-06-19 21:48:15,727 - Writing text file.
+2021-06-19 21:48:15,727 - Downloading: Blackened Blue - One Small Thing (feat. Koa, Drummershy and MC-Arch) (Tw3Lv3 Cover) - Thumbnail.png
+2021-06-19 21:48:15,888 - Merging audio and video files.
+2021-06-19 21:48:17,780 - Adding thumbnail to video file.
+2021-06-19 21:48:17,906 - Trying to apply metadata
+2021-06-19 21:48:17,906 - Applying mp3 cover
+2021-06-19 21:48:17,916 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:17,917 - Applied Metadata.
+2021-06-19 21:48:17,919 - Video file does not exist.
+2021-06-19 21:48:17,920 - Writing text file.
+2021-06-19 21:48:17,920 - Downloading: Blackened Blue - The Road Less Travelled - Thumbnail.png
+2021-06-19 21:48:18,106 - Merging audio and video files.
+2021-06-19 21:48:20,067 - Adding thumbnail to video file.
+2021-06-19 21:48:20,184 - Trying to apply metadata
+2021-06-19 21:48:20,184 - Applying mp3 cover
+2021-06-19 21:48:20,195 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:20,195 - Applied Metadata.
+2021-06-19 21:48:20,197 - Video file does not exist.
+2021-06-19 21:48:20,198 - Writing text file.
+2021-06-19 21:48:20,198 - Downloading: Blackened Blue - All You Need - Thumbnail.png
+2021-06-19 21:48:20,653 - Merging audio and video files.
+2021-06-19 21:48:22,688 - Adding thumbnail to video file.
+2021-06-19 21:48:22,800 - Trying to apply metadata
+2021-06-19 21:48:22,801 - Applying mp3 cover
+2021-06-19 21:48:22,812 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:22,813 - Applied Metadata.
+2021-06-19 21:48:22,814 - Video file does not exist.
+2021-06-19 21:48:22,815 - Writing text file.
+2021-06-19 21:48:22,815 - Downloading: Blackened Blue & Tw3Lv3 - Aurora35 - Thumbnail.png
+2021-06-19 21:48:22,934 - Merging audio and video files.
+2021-06-19 21:48:25,048 - Adding thumbnail to video file.
+2021-06-19 21:48:25,156 - Trying to apply metadata
+2021-06-19 21:48:25,156 - Applying mp3 cover
+2021-06-19 21:48:25,167 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:25,168 - Applied Metadata.
+2021-06-19 21:48:25,169 - Video file does not exist.
+2021-06-19 21:48:25,169 - Writing text file.
+2021-06-19 21:48:25,170 - Downloading: Blackened Blue - Between Two Worlds - Thumbnail.png
+2021-06-19 21:48:25,334 - Merging audio and video files.
+2021-06-19 21:48:28,129 - Adding thumbnail to video file.
+2021-06-19 21:48:28,250 - Trying to apply metadata
+2021-06-19 21:48:28,250 - Applying mp3 cover
+2021-06-19 21:48:28,265 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:28,265 - Applied Metadata.
+2021-06-19 21:48:28,267 - Video file does not exist.
+2021-06-19 21:48:28,268 - Writing text file.
+2021-06-19 21:48:28,268 - Downloading: Blackened Blue - Flight [2020 REMAKE] - Thumbnail.png
+2021-06-19 21:48:28,455 - Merging audio and video files.
+2021-06-19 21:48:31,233 - Adding thumbnail to video file.
+2021-06-19 21:48:31,356 - Trying to apply metadata
+2021-06-19 21:48:31,356 - Applying mp3 cover
+2021-06-19 21:48:31,371 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:31,372 - Applied Metadata.
+2021-06-19 21:48:31,374 - Video file does not exist.
+2021-06-19 21:48:31,374 - Writing text file.
+2021-06-19 21:48:31,374 - Downloading: Blackened Blue - Dark Secret [2020 REMAKE] - Thumbnail.png
+2021-06-19 21:48:31,542 - Merging audio and video files.
+2021-06-19 21:48:34,094 - Adding thumbnail to video file.
+2021-06-19 21:48:34,212 - Trying to apply metadata
+2021-06-19 21:48:34,212 - Applying mp3 cover
+2021-06-19 21:48:34,225 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:34,226 - Applied Metadata.
+2021-06-19 21:48:34,228 - Video file does not exist.
+2021-06-19 21:48:34,228 - Writing text file.
+2021-06-19 21:48:34,228 - Downloading: Blackened Blue - Falling Away - Thumbnail.png
+2021-06-19 21:48:34,712 - Merging audio and video files.
+2021-06-19 21:48:37,110 - Adding thumbnail to video file.
+2021-06-19 21:48:37,229 - Trying to apply metadata
+2021-06-19 21:48:37,229 - Applying mp3 cover
+2021-06-19 21:48:37,241 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:37,242 - Applied Metadata.
+2021-06-19 21:48:37,243 - Video file does not exist.
+2021-06-19 21:48:37,244 - Writing text file.
+2021-06-19 21:48:37,244 - Downloading: Blackened Blue - Spark (P@D IGNITE TEASER) - Thumbnail.png
+2021-06-19 21:48:37,352 - Merging audio and video files.
+2021-06-19 21:48:37,574 - Adding thumbnail to video file.
+2021-06-19 21:48:37,659 - Trying to apply metadata
+2021-06-19 21:48:37,659 - Applying mp3 cover
+2021-06-19 21:48:37,664 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:37,664 - Applied Metadata.
+2021-06-19 21:48:37,665 - Video file does not exist.
+2021-06-19 21:48:37,666 - Writing text file.
+2021-06-19 21:48:37,666 - Downloading: Blackened Blue - Maybe (feat. MC-Arch) [ASOS BROWNIE] - Thumbnail.png
+2021-06-19 21:48:37,783 - Merging audio and video files.
+2021-06-19 21:48:39,923 - Adding thumbnail to video file.
+2021-06-19 21:48:40,030 - Trying to apply metadata
+2021-06-19 21:48:40,030 - Applying mp3 cover
+2021-06-19 21:48:40,042 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:40,042 - Applied Metadata.
+2021-06-19 21:48:40,043 - Video file does not exist.
+2021-06-19 21:48:40,044 - Writing text file.
+2021-06-19 21:48:40,044 - Downloading: Blackened Blue EP   OUT NOW! - Thumbnail.png
+2021-06-19 21:48:40,503 - Merging audio and video files.
+2021-06-19 21:48:40,895 - Adding thumbnail to video file.
+2021-06-19 21:48:40,979 - Trying to apply metadata
+2021-06-19 21:48:40,979 - Applying mp3 cover
+2021-06-19 21:48:40,986 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:40,986 - Applied Metadata.
+2021-06-19 21:48:40,987 - Video file does not exist.
+2021-06-19 21:48:40,987 - Writing text file.
+2021-06-19 21:48:40,987 - Downloading: Blackened Blue - If I Were To Fall [2020 REMAKE] - Thumbnail.png
+2021-06-19 21:48:41,464 - Merging audio and video files.
+2021-06-19 21:48:43,678 - Adding thumbnail to video file.
+2021-06-19 21:48:43,787 - Trying to apply metadata
+2021-06-19 21:48:43,787 - Applying mp3 cover
+2021-06-19 21:48:43,799 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:43,800 - Applied Metadata.
+2021-06-19 21:48:43,801 - Video file does not exist.
+2021-06-19 21:48:43,802 - Writing text file.
+2021-06-19 21:48:43,802 - Downloading: Blackened Blue - Night of the Brain Dead - Thumbnail.png
+2021-06-19 21:48:44,243 - Merging audio and video files.
+2021-06-19 21:48:45,570 - Adding thumbnail to video file.
+2021-06-19 21:48:45,671 - Trying to apply metadata
+2021-06-19 21:48:45,671 - Applying mp3 cover
+2021-06-19 21:48:45,680 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:45,680 - Applied Metadata.
+2021-06-19 21:48:45,681 - Video file does not exist.
+2021-06-19 21:48:45,682 - Writing text file.
+2021-06-19 21:48:45,682 - Downloading: Blackened Blue - Delirious - Thumbnail.png
+2021-06-19 21:48:46,113 - Merging audio and video files.
+2021-06-19 21:48:48,501 - Adding thumbnail to video file.
+2021-06-19 21:48:48,623 - Trying to apply metadata
+2021-06-19 21:48:48,623 - Applying mp3 cover
+2021-06-19 21:48:48,636 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:48,637 - Applied Metadata.
+2021-06-19 21:48:48,639 - Video file does not exist.
+2021-06-19 21:48:48,639 - Writing text file.
+2021-06-19 21:48:48,639 - Downloading: Blackened Blue - Time To Go - Thumbnail.png
+2021-06-19 21:48:49,097 - Merging audio and video files.
+2021-06-19 21:48:51,009 - Adding thumbnail to video file.
+2021-06-19 21:48:51,123 - Trying to apply metadata
+2021-06-19 21:48:51,123 - Applying mp3 cover
+2021-06-19 21:48:51,135 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:51,135 - Applied Metadata.
+2021-06-19 21:48:51,137 - Video file does not exist.
+2021-06-19 21:48:51,138 - Writing text file.
+2021-06-19 21:48:51,138 - Downloading: Blackened Blue - Set in Stone (P@D ETERNAL TEASER) - Thumbnail.png
+2021-06-19 21:48:51,326 - Merging audio and video files.
+2021-06-19 21:48:51,616 - Adding thumbnail to video file.
+2021-06-19 21:48:51,701 - Trying to apply metadata
+2021-06-19 21:48:51,701 - Applying mp3 cover
+2021-06-19 21:48:51,707 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:51,707 - Applied Metadata.
+2021-06-19 21:48:51,708 - Video file does not exist.
+2021-06-19 21:48:51,709 - Writing text file.
+2021-06-19 21:48:51,709 - Downloading: Blackened Blue - The King Is Back (Vylet Pony Cover_Remix) - Thumbnail.png
+2021-06-19 21:48:51,860 - Merging audio and video files.
+2021-06-19 21:48:53,926 - Adding thumbnail to video file.
+2021-06-19 21:48:54,042 - Trying to apply metadata
+2021-06-19 21:48:54,042 - Applying mp3 cover
+2021-06-19 21:48:54,053 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:54,054 - Applied Metadata.
+2021-06-19 21:48:54,055 - Video file does not exist.
+2021-06-19 21:48:54,056 - Writing text file.
+2021-06-19 21:48:54,056 - Downloading: Blackened Blue - Who Am I - Thumbnail.png
+2021-06-19 21:48:54,212 - Merging audio and video files.
+2021-06-19 21:48:56,298 - Adding thumbnail to video file.
+2021-06-19 21:48:56,414 - Trying to apply metadata
+2021-06-19 21:48:56,414 - Applying mp3 cover
+2021-06-19 21:48:56,426 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:56,426 - Applied Metadata.
+2021-06-19 21:48:56,428 - Video file does not exist.
+2021-06-19 21:48:56,428 - Writing text file.
+2021-06-19 21:48:56,428 - Downloading: Blackened Blue - Payout - Thumbnail.png
+2021-06-19 21:48:56,552 - Merging audio and video files.
+2021-06-19 21:48:58,124 - Adding thumbnail to video file.
+2021-06-19 21:48:58,231 - Trying to apply metadata
+2021-06-19 21:48:58,231 - Applying mp3 cover
+2021-06-19 21:48:58,241 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:48:58,242 - Applied Metadata.
+2021-06-19 21:48:58,243 - Video file does not exist.
+2021-06-19 21:48:58,243 - Writing text file.
+2021-06-19 21:48:58,244 - Downloading: Blackened Blue - Wrath [PONIES AT DAWN SKYWARD] - Thumbnail.png
+2021-06-19 21:48:58,678 - Merging audio and video files.
+2021-06-19 21:49:00,924 - Adding thumbnail to video file.
+2021-06-19 21:49:01,042 - Trying to apply metadata
+2021-06-19 21:49:01,042 - Applying mp3 cover
+2021-06-19 21:49:01,054 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:01,055 - Applied Metadata.
+2021-06-19 21:49:01,057 - Video file does not exist.
+2021-06-19 21:49:01,057 - Writing text file.
+2021-06-19 21:49:01,057 - Downloading: Blackened Blue - Wrath (TEASER FOR P@D SKYWARD) - Thumbnail.png
+2021-06-19 21:49:01,620 - Merging audio and video files.
+2021-06-19 21:49:01,894 - Adding thumbnail to video file.
+2021-06-19 21:49:01,983 - Trying to apply metadata
+2021-06-19 21:49:01,983 - Applying mp3 cover
+2021-06-19 21:49:01,988 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:01,989 - Applied Metadata.
+2021-06-19 21:49:01,989 - Video file does not exist.
+2021-06-19 21:49:01,990 - Writing text file.
+2021-06-19 21:49:01,990 - Downloading: Blackened Blue - Silent Rage - Thumbnail.png
+2021-06-19 21:49:02,096 - Merging audio and video files.
+2021-06-19 21:49:04,951 - Adding thumbnail to video file.
+2021-06-19 21:49:05,076 - Trying to apply metadata
+2021-06-19 21:49:05,076 - Applying mp3 cover
+2021-06-19 21:49:05,090 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:05,091 - Applied Metadata.
+2021-06-19 21:49:05,093 - Video file does not exist.
+2021-06-19 21:49:05,093 - Writing text file.
+2021-06-19 21:49:05,094 - Downloading: Blackened Blue - Tartarus (ft. Reverbrony) - Thumbnail.png
+2021-06-19 21:49:05,313 - Merging audio and video files.
+2021-06-19 21:49:07,335 - Adding thumbnail to video file.
+2021-06-19 21:49:07,436 - Trying to apply metadata
+2021-06-19 21:49:07,437 - Applying mp3 cover
+2021-06-19 21:49:07,449 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:07,449 - Applied Metadata.
+2021-06-19 21:49:07,450 - Video file does not exist.
+2021-06-19 21:49:07,451 - Writing text file.
+2021-06-19 21:49:07,451 - Downloading: PrinceWhateverer & Frozen Night - This is Nightmare Night (PREVIEW; LINK IN DESCRIPTION!) - Thumbnail.png
+2021-06-19 21:49:07,657 - Merging audio and video files.
+2021-06-19 21:49:07,791 - Adding thumbnail to video file.
+2021-06-19 21:49:07,855 - Coverting audio file to mp3.
+2021-06-19 21:49:08,143 - Trying to apply metadata
+2021-06-19 21:49:08,143 - Applying mp3 cover
+2021-06-19 21:49:08,149 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:08,150 - Applied Metadata.
+2021-06-19 21:49:08,150 - Video file does not exist.
+2021-06-19 21:49:08,151 - Writing text file.
+2021-06-19 21:49:08,151 - Downloading: Blackened Blue - From The Shadows - Thumbnail.png
+2021-06-19 21:49:08,323 - Merging audio and video files.
+2021-06-19 21:49:10,742 - Adding thumbnail to video file.
+2021-06-19 21:49:10,852 - Trying to apply metadata
+2021-06-19 21:49:10,852 - Applying mp3 cover
+2021-06-19 21:49:10,864 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:10,865 - Applied Metadata.
+2021-06-19 21:49:10,866 - Video file does not exist.
+2021-06-19 21:49:10,867 - Writing text file.
+2021-06-19 21:49:10,867 - Downloading: BLACKENED BLUE MAKES DEATHCORE 2018 [SHITPOST] - Thumbnail.png
+2021-06-19 21:49:10,968 - Merging audio and video files.
+2021-06-19 21:49:11,445 - Adding thumbnail to video file.
+2021-06-19 21:49:11,537 - Trying to apply metadata
+2021-06-19 21:49:11,537 - Applying mp3 cover
+2021-06-19 21:49:11,543 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:11,544 - Applied Metadata.
+2021-06-19 21:49:11,545 - Video file does not exist.
+2021-06-19 21:49:11,546 - Writing text file.
+2021-06-19 21:49:11,546 - Downloading: Blackened Blue - If I Were To Fall - Thumbnail.png
+2021-06-19 21:49:11,646 - Merging audio and video files.
+2021-06-19 21:49:13,819 - Adding thumbnail to video file.
+2021-06-19 21:49:13,935 - Trying to apply metadata
+2021-06-19 21:49:13,935 - Applying mp3 cover
+2021-06-19 21:49:13,947 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:13,947 - Applied Metadata.
+2021-06-19 21:49:13,949 - Video file does not exist.
+2021-06-19 21:49:13,950 - Writing text file.
+2021-06-19 21:49:13,950 - Downloading: Blackened Blue - The Rising Sun - Thumbnail.png
+2021-06-19 21:49:14,120 - Audio file does not exist.
+2021-06-19 21:49:14,121 - Writing text file.
+2021-06-19 21:49:14,121 - Downloading: PrinceWhateverer Cover Medley (Birthday Tribute) - Thumbnail.png
+2021-06-19 21:49:14,540 - Merging audio and video files.
+2021-06-19 21:49:21,457 - Adding thumbnail to video file.
+2021-06-19 21:49:21,639 - Trying to apply metadata
+2021-06-19 21:49:21,639 - Applying mp3 cover
+2021-06-19 21:49:21,671 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:21,671 - Applied Metadata.
+2021-06-19 21:49:21,674 - Video file does not exist.
+2021-06-19 21:49:21,674 - Writing text file.
+2021-06-19 21:49:21,675 - Downloading: Blackened Blue - Dark Secret - Thumbnail.png
+2021-06-19 21:49:21,807 - Merging audio and video files.
+2021-06-19 21:49:24,229 - Adding thumbnail to video file.
+2021-06-19 21:49:24,342 - Trying to apply metadata
+2021-06-19 21:49:24,342 - Applying mp3 cover
+2021-06-19 21:49:24,356 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:24,356 - Applied Metadata.
+2021-06-19 21:49:24,357 - Video file does not exist.
+2021-06-19 21:49:24,358 - Writing text file.
+2021-06-19 21:49:24,358 - Downloading: Linkin Park - One Step Closer (Full cover ft. PrinceWhateverer and Sable Symphony) - Thumbnail.png
+2021-06-19 21:49:24,851 - Merging audio and video files.
+2021-06-19 21:49:26,293 - Adding thumbnail to video file.
+2021-06-19 21:49:26,390 - Trying to apply metadata
+2021-06-19 21:49:26,390 - Applying mp3 cover
+2021-06-19 21:49:26,400 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:26,400 - Applied Metadata.
+2021-06-19 21:49:26,401 - Video file does not exist.
+2021-06-19 21:49:26,402 - Writing text file.
+2021-06-19 21:49:26,402 - Downloading: Linkin Park - One Step Closer (instrumental cover) - Thumbnail.png
+2021-06-19 21:49:26,720 - Merging audio and video files.
+2021-06-19 21:49:28,134 - Adding thumbnail to video file.
+2021-06-19 21:49:28,231 - Trying to apply metadata
+2021-06-19 21:49:28,231 - Applying mp3 cover
+2021-06-19 21:49:28,241 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:28,241 - Applied Metadata.
+2021-06-19 21:49:28,242 - Video file does not exist.
+2021-06-19 21:49:28,243 - Writing text file.
+2021-06-19 21:49:28,243 - Downloading: Blackened Blue - Immortality - Thumbnail.png
+2021-06-19 21:49:28,396 - Merging audio and video files.
+2021-06-19 21:49:30,446 - Adding thumbnail to video file.
+2021-06-19 21:49:30,567 - Trying to apply metadata
+2021-06-19 21:49:30,567 - Applying mp3 cover
+2021-06-19 21:49:30,578 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:30,579 - Applied Metadata.
+2021-06-19 21:49:30,581 - Video file does not exist.
+2021-06-19 21:49:30,582 - Writing text file.
+2021-06-19 21:49:30,582 - Downloading: Blackened Blue - Clip The Wings - Thumbnail.png
+2021-06-19 21:49:30,750 - Merging audio and video files.
+2021-06-19 21:49:32,947 - Adding thumbnail to video file.
+2021-06-19 21:49:33,051 - Trying to apply metadata
+2021-06-19 21:49:33,051 - Applying mp3 cover
+2021-06-19 21:49:33,063 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:33,063 - Applied Metadata.
+2021-06-19 21:49:33,064 - Video file does not exist.
+2021-06-19 21:49:33,065 - Writing text file.
+2021-06-19 21:49:33,065 - Downloading: Mr. A.M. - Thunder (Blackened Blue Cover) - Thumbnail.png
+2021-06-19 21:49:33,336 - Merging audio and video files.
+2021-06-19 21:49:35,685 - Adding thumbnail to video file.
+2021-06-19 21:49:35,794 - Trying to apply metadata
+2021-06-19 21:49:35,794 - Applying mp3 cover
+2021-06-19 21:49:35,806 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:35,807 - Applied Metadata.
+2021-06-19 21:49:35,808 - Video file does not exist.
+2021-06-19 21:49:35,808 - Writing text file.
+2021-06-19 21:49:35,809 - Downloading: Linkin Park - A.06 (cover) - Thumbnail.png
+2021-06-19 21:49:35,927 - Merging audio and video files.
+2021-06-19 21:49:36,386 - Adding thumbnail to video file.
+2021-06-19 21:49:36,471 - Trying to apply metadata
+2021-06-19 21:49:36,472 - Applying mp3 cover
+2021-06-19 21:49:36,477 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:36,478 - Applied Metadata.
+2021-06-19 21:49:36,479 - Video file does not exist.
+2021-06-19 21:49:36,479 - Writing text file.
+2021-06-19 21:49:36,479 - Downloading: Blackened Blue - Flight - Thumbnail.png
+2021-06-19 21:49:36,980 - Merging audio and video files.
+2021-06-19 21:49:39,669 - Adding thumbnail to video file.
+2021-06-19 21:49:39,773 - Trying to apply metadata
+2021-06-19 21:49:39,773 - Applying mp3 cover
+2021-06-19 21:49:39,786 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:39,787 - Applied Metadata.
+2021-06-19 21:49:39,788 - Video file does not exist.
+2021-06-19 21:49:39,788 - Writing text file.
+2021-06-19 21:49:39,788 - Downloading: Blackened Blue - Return - Thumbnail.png
+2021-06-19 21:49:39,972 - Merging audio and video files.
+2021-06-19 21:49:41,933 - Adding thumbnail to video file.
+2021-06-19 21:49:42,033 - Trying to apply metadata
+2021-06-19 21:49:42,033 - Applying mp3 cover
+2021-06-19 21:49:42,045 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:42,045 - Applied Metadata.
+2021-06-19 21:49:42,046 - Video file does not exist.
+2021-06-19 21:49:42,047 - Writing text file.
+2021-06-19 21:49:42,047 - Downloading: Blackened Blue - Pinkamena's Haunting (Remix) - Thumbnail.png
+2021-06-19 21:49:42,298 - Merging audio and video files.
+2021-06-19 21:49:44,278 - Adding thumbnail to video file.
+2021-06-19 21:49:44,386 - Trying to apply metadata
+2021-06-19 21:49:44,386 - Applying mp3 cover
+2021-06-19 21:49:44,397 - WHAT WHAT WHAT WWHAT THAWTRAFSDHFsidjhgfbsdkfjhtlkdrjhv gblkesrjdghb tfklsjerdhbgfi
+2021-06-19 21:49:44,397 - Applied Metadata.
+2021-06-19 21:49:44,399 - Video file does not exist.
+2021-06-19 21:49:44,399 - Download for https://youtube.com/c/BlackenedBlue complete.
+
+2021-06-19 21:49:44,399 - Writing to history...
+2021-06-19 21:49:44,400 - Done.
+2021-06-19 21:49:44,400 - Current: https://www.youtube.com/channel/UC2jRI1B1vEIPOTDjfz6V5hw 
+2021-06-19 21:49:44,400 - youtube link
+2021-06-19 21:49:44,877 - [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 202, in parse_file
+    Downloader = youtube_extractor(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 342, in youtube_extractor
+    response = request.execute()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 905, in execute
+    resp, content = _retry_request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 207, in _retry_request
+    raise exception
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\googleapiclient\http.py", line 176, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1708, in request
+    (response, content) = self._request(
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1424, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\site-packages\httplib2\__init__.py", line 1376, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 1322, in getresponse
+    response.begin()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\http\client.py", line 264, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\sanpee\AppData\Local\Programs\Python\Python38-32\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
