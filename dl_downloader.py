@@ -165,7 +165,7 @@ def file_download_handler(download_object, Downloader):
                         f.write(data)
                 t.close()
 
-                if re.search(r'.mp3',output_path) != None:
+                if re.search(r'.mp3',output_path) != None: 
                     applymetadata(download_object)
 
         
