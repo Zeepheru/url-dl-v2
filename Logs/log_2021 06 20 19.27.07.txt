@@ -218,3 +218,30 @@ KeyError: 'description'
 2021-06-20 19:28:14,260 - Scraping for id: Qf7hnjzoK90
 2021-06-20 19:28:14,812 - Youtube Music link.
 2021-06-20 19:28:14,812 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/C5qlL2F6f20.
+2021-06-20 19:36:11,182 - Done downloading video.
+2021-06-20 19:36:27,182 - Done downloading audio.
+2021-06-20 19:36:51,768 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ORn9uOXtVxI.
+2021-06-20 19:37:11,743 - Done downloading video.
+2021-06-20 19:37:13,646 - Done downloading audio.
+2021-06-20 19:37:15,267 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FLbBTvgc9Jw.
+2021-06-20 19:37:48,118 - Done downloading video.
+2021-06-20 19:37:50,241 - Done downloading audio.
+2021-06-20 19:37:53,046 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/vav4dwjYPSM.
+2021-06-20 19:39:18,368 - Done downloading video.
+2021-06-20 19:39:21,882 - Done downloading audio.
+2021-06-20 19:39:26,192 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/8uVYHaD363w.
+2021-06-20 19:42:14,210 - Done downloading video.
+2021-06-20 19:42:17,365 - Done downloading audio.
+2021-06-20 19:42:21,108 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/z5gTKBzpbqk.
+2021-06-20 19:43:32,482 - Done downloading video.
+2021-06-20 19:44:34,927 - Done downloading audio.
+2021-06-20 19:44:38,571 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/HQBaIMxo3Jo.
+2021-06-20 19:45:13,826 - Done downloading video.
+2021-06-20 19:45:15,489 - Done downloading audio.
+2021-06-20 19:45:17,986 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FMjk0BqpbnE.
+2021-06-20 19:46:26,303 - Done downloading video.
+2021-06-20 19:46:28,508 - Done downloading audio.
+2021-06-20 19:46:33,716 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/BJGW9_LHFac.
+2021-06-20 19:47:02,977 - Done downloading video.
+2021-06-20 19:47:04,914 - Done downloading audio.
+2021-06-20 19:47:07,090 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ko0ZNbrarbo.
