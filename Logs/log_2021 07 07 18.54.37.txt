@@ -1,0 +1,28 @@
+2021-07-07 18:54:37,515 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-07 18:54:39,378 - Command: dl -youtube https://www.youtube.com/watch?v=YgmFIVOR1-I
+2021-07-07 18:54:39,378 - youtube link
+2021-07-07 18:54:40,946 - Scraping for id: YgmFIVOR1-I
+2021-07-07 18:54:42,189 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/YgmFIVOR1-I.
+2021-07-07 18:54:47,192 - Done downloading video.
+2021-07-07 18:54:48,363 - Done downloading audio.
+2021-07-07 18:54:51,051 - Creating download information json.
+2021-07-07 18:54:51,052 - Writing text file.
+2021-07-07 18:54:51,052 - Downloading: MV (ZUTOMAYO - Stay Foolish) - Thumbnail.png
+2021-07-07 18:54:51,139 - Merging audio and video files.
+2021-07-07 18:54:53,533 - Adding thumbnail to video file.
+2021-07-07 18:54:53,698 - Trying to apply metadata
+2021-07-07 18:54:53,698 - Applying mp3 cover
+2021-07-07 18:54:53,762 - Applied Metadata.
+2021-07-07 18:54:53,767 - Video file does not exist.
+2021-07-07 18:54:53,768 - Download for |https://www.youtube.com/watch?v=YgmFIVOR1-I| complete.
+
+2021-07-07 18:54:53,768 - Writing to history...
+2021-07-07 18:54:53,769 - Done.
+2021-07-07 18:57:21,514 - Command: dl -bandcamp https://vyletpony.bandcamp.com/track/antonymph
+2021-07-07 18:57:21,514 - Writing to history...
+2021-07-07 18:57:21,515 - Done.

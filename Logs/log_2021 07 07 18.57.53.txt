@@ -1,0 +1,52 @@
+2021-07-07 18:57:53,947 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-07 18:57:55,625 - Command: run
+2021-07-07 18:57:55,627 - Current: https://vyletpony.bandcamp.com/track/antonymph 
+2021-07-07 18:57:55,627 - bandcamp link
+2021-07-07 18:57:58,267 - Creating download information json.
+2021-07-07 18:57:58,268 - Downloading: ANTONYMPH.mp3
+2021-07-07 18:57:58,678 - Applying mp3 cover
+2021-07-07 18:57:58,768 - Downloading: Cover Art.jpg
+2021-07-07 18:57:58,861 - Download for https://vyletpony.bandcamp.com/track/antonymph complete.
+
+2021-07-07 18:57:58,862 - Writing to history...
+2021-07-07 18:57:58,862 - Done.
+2021-07-07 18:57:58,862 - Current: https://vyletpony.bandcamp.com/track/lesbian-ponies-with-weapons-2 
+2021-07-07 18:57:58,863 - bandcamp link
+2021-07-07 18:58:01,744 - Creating download information json.
+2021-07-07 18:58:01,744 - Downloading: LESBIAN PONIES WITH WEAPONS.mp3
+2021-07-07 18:58:03,002 - Applying mp3 cover
+2021-07-07 18:58:03,471 - Downloading: Cover Art.jpg
+2021-07-07 18:58:03,545 - Download for https://vyletpony.bandcamp.com/track/lesbian-ponies-with-weapons-2 complete.
+
+2021-07-07 18:58:03,545 - Writing to history...
+2021-07-07 18:58:03,545 - Done.
+2021-07-07 18:58:03,546 - Current: https://vyletpony.bandcamp.com/track/bonnie-2 
+2021-07-07 18:58:03,546 - bandcamp link
+2021-07-07 18:58:07,926 - Creating download information json.
+2021-07-07 18:58:07,927 - Downloading: BONNIE.mp3
+2021-07-07 18:58:08,162 - Applying mp3 cover
+2021-07-07 18:58:09,113 - Downloading: Cover Art.jpg
+2021-07-07 18:58:09,167 - Download for https://vyletpony.bandcamp.com/track/bonnie-2 complete.
+
+2021-07-07 18:58:09,168 - Writing to history...
+2021-07-07 18:58:09,169 - Done.
+2021-07-07 18:58:09,169 - Current: https://vyletpony.bandcamp.com/track/isometrica 
+2021-07-07 18:58:09,169 - bandcamp link
+2021-07-07 18:58:12,135 - Creating download information json.
+2021-07-07 18:58:12,135 - Downloading: ISOMETRICA.mp3
+2021-07-07 18:58:12,430 - Applying mp3 cover
+2021-07-07 18:58:12,765 - Downloading: Cover Art.jpg
+2021-07-07 18:58:12,829 - Download for https://vyletpony.bandcamp.com/track/isometrica complete.
+
+2021-07-07 18:58:12,830 - Writing to history...
+2021-07-07 18:58:12,831 - Done.
+2021-07-07 18:58:17,962 - Command: close
+2021-07-07 18:58:17,962 - 
+Log Ended.
+Total time: 0 hrs 0 min 24.02 sec
+

@@ -1,0 +1,79 @@
+2021-07-04 16:07:46,879 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-04 16:07:50,817 - Command: dl -youtube https://www.youtube.com/c/ZUTOMAYO
+2021-07-04 16:07:50,817 - youtube link
+2021-07-04 16:07:52,980 - file_cache is only supported with oauth2client<4.0.0
+2021-07-04 16:07:53,084 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UUv6P5nsS9rP4tDtFlqLU_QQ"
+}
+2021-07-04 16:07:53,084 - Upload Playlist: UUv6P5nsS9rP4tDtFlqLU_QQ
+2021-07-04 16:07:53,190 - Now downloading channel: 
+Video Count: 24
+2021-07-04 16:07:53,190 - Channel has 24 videos downloaded.
+2021-07-04 16:07:53,190 - Scraping for id: YgmFIVOR1-I
+2021-07-04 16:07:53,742 - Youtube Video: https://youtu.be/YgmFIVOR1-I is unavailable
+2021-07-04 16:07:53,742 - Scraping for id: XH-gOoeoZD8
+2021-07-04 16:07:54,687 - Youtube Music link.
+2021-07-04 16:07:54,688 - Scraping for id: 4QePrv24TBU
+2021-07-04 16:07:55,510 - Youtube Music link.
+2021-07-04 16:07:55,510 - Scraping for id: wQPgM-9LatM
+2021-07-04 16:07:56,614 - Youtube Music link.
+2021-07-04 16:07:56,615 - Scraping for id: ER4Xykgdono
+2021-07-04 16:07:57,247 - Youtube Music link.
+2021-07-04 16:07:57,248 - Scraping for id: dcOwj-QE_ZE
+2021-07-04 16:07:58,429 - Youtube Music link.
+2021-07-04 16:07:58,429 - Scraping for id: 258qUAI7rck
+2021-07-04 16:07:59,534 - Youtube Music link.
+2021-07-04 16:07:59,535 - Scraping for id: ugpywe34_30
+2021-07-04 16:08:00,485 - Youtube Music link.
+2021-07-04 16:08:00,485 - Scraping for id: ouLndhBRL4w
+2021-07-04 16:08:01,579 - Youtube Music link.
+2021-07-04 16:08:01,580 - Scraping for id: COll6PdtI5w
+2021-07-04 16:08:02,523 - Youtube Music link.
+2021-07-04 16:08:02,523 - Scraping for id: I88PrE-KUPk
+2021-07-04 16:08:03,462 - Youtube Music link.
+2021-07-04 16:08:03,462 - Scraping for id: Atvsg_zogxo
+2021-07-04 16:08:04,432 - Youtube Music link.
+2021-07-04 16:08:04,433 - Scraping for id: ubrovjZUi64
+2021-07-04 16:08:05,488 - Youtube Music link.
+2021-07-04 16:08:05,489 - Scraping for id: Qw-FSw7d2zE
+2021-07-04 16:08:06,253 - Youtube Music link.
+2021-07-04 16:08:06,253 - Scraping for id: PwVFxexqenE
+2021-07-04 16:08:06,921 - Youtube Music link.
+2021-07-04 16:08:06,921 - Scraping for id: ElnxZtiBDvs
+2021-07-04 16:08:07,880 - Youtube Music link.
+2021-07-04 16:08:07,881 - Scraping for id: mlA-Z7zSLHU
+2021-07-04 16:08:08,873 - Youtube Music link.
+2021-07-04 16:08:08,873 - Scraping for id: iyCRK5WfFOI
+2021-07-04 16:08:10,156 - Youtube Music link.
+2021-07-04 16:08:10,157 - Scraping for id: 7kUbX4DoZoc
+2021-07-04 16:08:11,151 - Youtube Music link.
+2021-07-04 16:08:11,152 - Scraping for id: VJy8qZ77bpE
+2021-07-04 16:08:12,045 - Youtube Music link.
+2021-07-04 16:08:12,046 - Scraping for id: GAB26GgJ8V8
+2021-07-04 16:08:12,891 - Youtube Music link.
+2021-07-04 16:08:12,892 - Scraping for id: 3iAXclHlTTg
+2021-07-04 16:08:13,941 - Youtube Music link.
+2021-07-04 16:08:13,942 - Scraping for id: GJI4Gv7NbmE
+2021-07-04 16:08:14,942 - Youtube Music link.
+2021-07-04 16:08:14,943 - 'video_info'
+Traceback (most recent call last):
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 276, in <module>
+    parse_input()
+  File "C:\Utilities\Scripts\url-dl-v2\main.py", line 142, in parse_input
+    Downloader = youtube_extractor(Downloader) #Downloader_2 because Downloader causes errors.
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 486, in youtube_extractor
+    download_handler(Downloader)
+  File "C:\Utilities\Scripts\url-dl-v2\extractors\youtube.py", line 661, in download_handler
+    video_info = sub_object["video_info"]
+KeyError: 'video_info'
+2021-07-04 16:08:14,946 - 
+Log Ended.
+Total time: 0 hrs 0 min 28.07 sec
+
