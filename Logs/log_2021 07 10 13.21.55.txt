@@ -1,0 +1,117 @@
+2021-07-10 13:21:55,134 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-10 13:22:08,215 - Command: run
+2021-07-10 13:22:08,216 - Current: https://www.youtube.com/channel/UC2jRI1B1vEIPOTDjfz6V5hw 
+2021-07-10 13:22:08,216 - youtube link
+2021-07-10 13:22:09,516 - file_cache is only supported with oauth2client<4.0.0
+2021-07-10 13:22:09,758 - {
+    "favorites": "",
+    "likes": "",
+    "uploads": "UU2jRI1B1vEIPOTDjfz6V5hw"
+}
+2021-07-10 13:22:09,758 - Upload Playlist: UU2jRI1B1vEIPOTDjfz6V5hw
+2021-07-10 13:22:10,544 - Now downloading channel: Tw3Lv3
+Video Count: 97
+2021-07-10 13:22:10,544 - Channel has 97 videos downloaded.
+2021-07-10 13:22:10,544 - Scraping for id: C5qlL2F6f20
+2021-07-10 13:22:11,299 - Scraping for id: ORn9uOXtVxI
+2021-07-10 13:22:12,166 - Scraping for id: FLbBTvgc9Jw
+2021-07-10 13:22:13,006 - Scraping for id: vav4dwjYPSM
+2021-07-10 13:22:13,623 - Scraping for id: 8uVYHaD363w
+2021-07-10 13:22:14,500 - Scraping for id: z5gTKBzpbqk
+2021-07-10 13:22:15,319 - Scraping for id: HQBaIMxo3Jo
+2021-07-10 13:22:16,166 - Scraping for id: FMjk0BqpbnE
+2021-07-10 13:22:16,821 - Scraping for id: BJGW9_LHFac
+2021-07-10 13:22:17,495 - Scraping for id: ko0ZNbrarbo
+2021-07-10 13:22:18,395 - Scraping for id: wwU8kcYjKZM
+2021-07-10 13:22:18,995 - Scraping for id: -ytbQJAgqFY
+2021-07-10 13:22:19,624 - Scraping for id: 8agLcHXhIXQ
+2021-07-10 13:22:20,265 - Scraping for id: ZShnlibrZGI
+2021-07-10 13:22:20,962 - Scraping for id: CKAESol74h0
+2021-07-10 13:22:21,917 - Scraping for id: DkhftcTGDto
+2021-07-10 13:22:22,530 - Scraping for id: tPjqlOKm9ew
+2021-07-10 13:22:23,233 - Scraping for id: AF4spGHg_Po
+2021-07-10 13:22:23,739 - Scraping for id: RYooS6CJgB8
+2021-07-10 13:22:24,493 - Scraping for id: 5iNXJZyalSY
+2021-07-10 13:22:25,332 - Scraping for id: w8n_J_KXRJE
+2021-07-10 13:22:26,221 - Scraping for id: f38EerKoCfA
+2021-07-10 13:22:27,162 - Scraping for id: 7rIJkQIyo4c
+2021-07-10 13:22:27,859 - Scraping for id: ZSNM_zXueLs
+2021-07-10 13:22:28,535 - Scraping for id: VSWgfl4cxo0
+2021-07-10 13:22:29,213 - Scraping for id: USG51whbZlo
+2021-07-10 13:22:30,024 - Scraping for id: dZeJWPbAyYs
+2021-07-10 13:22:31,030 - Scraping for id: Pl4enylanTo
+2021-07-10 13:22:31,900 - Scraping for id: bt5l9KCt6po
+2021-07-10 13:22:32,531 - Scraping for id: UiunHeYP6aI
+2021-07-10 13:22:33,257 - Scraping for id: JZJEtaiHEUc
+2021-07-10 13:22:34,166 - Scraping for id: 5aI6VzRLqsM
+2021-07-10 13:22:34,818 - Scraping for id: sMrvkcrmE6M
+2021-07-10 13:22:35,485 - Scraping for id: iRSaXtq83qA
+2021-07-10 13:22:36,228 - Scraping for id: YH3qwOB-1AU
+2021-07-10 13:22:37,132 - Scraping for id: _EWnQYpFJoo
+2021-07-10 13:22:38,066 - Scraping for id: WZYtsmLGbdM
+2021-07-10 13:22:38,761 - Scraping for id: 38KyZg1SBXk
+2021-07-10 13:22:40,108 - Scraping for id: mJz34tf4m2s
+2021-07-10 13:22:40,964 - Scraping for id: Md3BzzP_sTI
+2021-07-10 13:22:41,670 - Scraping for id: HLBOStMnk8I
+2021-07-10 13:22:42,559 - Scraping for id: vXcg2n1ojTM
+2021-07-10 13:22:43,449 - Scraping for id: 4B0zosJyiqk
+2021-07-10 13:22:44,224 - Scraping for id: x-EARA1llmc
+2021-07-10 13:22:45,017 - Scraping for id: rsAACAPpe1U
+2021-07-10 13:22:45,655 - Scraping for id: OL0UrOnFzM8
+2021-07-10 13:22:46,223 - Scraping for id: vNpOdP9BaU8
+2021-07-10 13:22:47,191 - Scraping for id: f0GbETxAqSs
+2021-07-10 13:22:48,122 - Scraping for id: 95s3wS6_5vQ
+2021-07-10 13:22:48,769 - Scraping for id: GFZsGdyHk8E
+2021-07-10 13:22:49,740 - Scraping for id: tcwQufgq2vI
+2021-07-10 13:22:50,375 - Scraping for id: ET5ZHfYrYh4
+2021-07-10 13:22:51,253 - Scraping for id: UdcD4igb_Oo
+2021-07-10 13:22:51,978 - Scraping for id: m9e5sVaAi1o
+2021-07-10 13:22:52,839 - Scraping for id: T-XEzWwW2GA
+2021-07-10 13:22:53,693 - Scraping for id: HHCke0k70tA
+2021-07-10 13:22:54,247 - Scraping for id: ksuMeYKGNtY
+2021-07-10 13:22:54,859 - Scraping for id: 7WXC1h-ognY
+2021-07-10 13:22:55,660 - Scraping for id: 6s1cSV82gaM
+2021-07-10 13:22:56,526 - Scraping for id: ZCLvTEJY0hc
+2021-07-10 13:22:57,377 - Scraping for id: 2suuBsgDWSU
+2021-07-10 13:22:58,056 - Scraping for id: dR8ah2VgpyQ
+2021-07-10 13:22:58,729 - Scraping for id: y6mKBkLpvNU
+2021-07-10 13:22:59,921 - Scraping for id: S_Rvlet8X0c
+2021-07-10 13:23:00,681 - Scraping for id: XGHAT-6R3fU
+2021-07-10 13:23:01,694 - Scraping for id: ZUjEuPhFsdI
+2021-07-10 13:23:02,548 - Scraping for id: x9HjADLARYY
+2021-07-10 13:23:03,564 - Scraping for id: OvXouoYIjAg
+2021-07-10 13:23:04,379 - Scraping for id: SjdYWMLeykE
+2021-07-10 13:23:05,002 - Scraping for id: 8ff1AHzZPP4
+2021-07-10 13:23:05,956 - Scraping for id: LergxCAKA54
+2021-07-10 13:23:06,584 - Scraping for id: 93iT-8_5udA
+2021-07-10 13:23:07,184 - Scraping for id: yyPTX5Ivuz8
+2021-07-10 13:23:07,982 - Scraping for id: ojIzzrnuNiI
+2021-07-10 13:23:08,894 - Scraping for id: v_bflHDZ5B0
+2021-07-10 13:23:09,603 - Scraping for id: LTEwBaY0HnI
+2021-07-10 13:23:10,281 - Scraping for id: 2XzfhinhfLQ
+2021-07-10 13:23:11,091 - Scraping for id: -SmxswUrdg8
+2021-07-10 13:23:12,049 - Scraping for id: _KfSGqj0zEE
+2021-07-10 13:23:12,928 - Scraping for id: C8fT3IO21sE
+2021-07-10 13:23:13,664 - Scraping for id: V9MAz1bu_HE
+2021-07-10 13:23:14,314 - Scraping for id: 2-Ev0_Gf5LI
+2021-07-10 13:23:15,446 - Scraping for id: vDxV3rurGF4
+2021-07-10 13:23:16,347 - Scraping for id: bQqaVr7mgHo
+2021-07-10 13:23:17,041 - Scraping for id: 24mANg79U4w
+2021-07-10 13:23:17,763 - Scraping for id: KsYkVQWC86U
+2021-07-10 13:23:18,600 - Scraping for id: 8qve10Qk4h4
+2021-07-10 13:23:19,532 - Scraping for id: D5GLLFyJ8bI
+2021-07-10 13:23:20,245 - Scraping for id: VhFQX_TQEoU
+2021-07-10 13:23:21,207 - Scraping for id: 2m2GM-IsXKY
+2021-07-10 13:23:21,889 - Scraping for id: k1z22ZceTaA
+2021-07-10 13:23:22,521 - Scraping for id: x_QEENab94U
+2021-07-10 13:23:23,161 - Scraping for id: BeUPSJIqcXo
+2021-07-10 13:23:23,929 - Scraping for id: tSOLRTWYIuw
+2021-07-10 13:23:24,784 - Scraping for id: iDVtr9MB9y8
+2021-07-10 13:23:25,683 - Scraping for id: M51I115XMAQ
+2021-07-10 13:23:26,323 - Scraping for id: Qf7hnjzoK90
+2021-07-10 13:23:26,964 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/C5qlL2F6f20.

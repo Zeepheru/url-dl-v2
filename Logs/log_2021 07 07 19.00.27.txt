@@ -1,0 +1,12 @@
+2021-07-07 19:00:27,323 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-07 19:00:31,258 - Command: dl -youtube https://www.youtube.com/watch?v=FTQbiNvZqaY
+2021-07-07 19:00:31,258 - youtube link
+2021-07-07 19:00:31,865 - Scraping for id: FTQbiNvZqaY
+2021-07-07 19:00:32,813 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/FTQbiNvZqaY.
+2021-07-07 19:00:35,602 - Done downloading video.
+2021-07-07 19:00:36,664 - Done downloading audio.

@@ -603,8 +603,12 @@ def extract_video_info(yt_id):
 
         foo = test["microformat"]["playerMicroformatRenderer"]
         video_info = {}
-        try:
-            video_info["description"] = foo["description"]["simpleText"]
+        try:    
+            try:
+                video_info["description"] = foo["description"]["simpleText"]
+            except:
+                video_info["description"] = ""
+                
             try:
                 video_info["category"] = foo["category"]
             except:
@@ -622,7 +626,9 @@ def extract_video_info(yt_id):
             #### Checks for music.youtube.
             music_url = "https://music.youtube.com/watch?v=" + yt_id
             if requests.get(music_url).status_code == 200:
-                dl_logger.log_info("Youtube Music link.")
+                #### disabled by default, seems to be buggy in a sense anyway.
+                # dl_logger.log_info("Youtube Music link.")
+
                 video_info["music url"] = music_url
             else:
                 video_info["music url"] = False
@@ -658,33 +664,34 @@ def extract_video_info(yt_id):
 def download_handler(Downloader):
     dl_object = Downloader.objects_list[Downloader.current]
     for sub_object in dl_object.data["sub_objects"]:
-        video_info = sub_object["video_info"]
-        if dl_object.data["type"] == "channel":
-            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
-            "youtube",
-            "channels",
-            utils.remove_periods_from_end(dl_object.data["channel name"]),
-            utils.remove_periods_from_end(video_info["title"]))
-            #already appended
-            #other Stuff for Download handler is in a seperate function
-        elif dl_object.data["type"] == "playlist":
-            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
-            "youtube",
-            "playlists",
-            utils.remove_periods_from_end(dl_object.data["playlist name"]),
-            utils.remove_periods_from_end(video_info["title"]))
-        else:
-            root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
-            "youtube",
-            utils.remove_periods_from_end(utils.apostrophe(video_info["title"])))
-            dl_object.download_info.append(root_download_dir)
+        try:
+            video_info = sub_object["video_info"]
+            if dl_object.data["type"] == "channel":
+                root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+                "youtube",
+                "channels",
+                utils.remove_periods_from_end(dl_object.data["channel name"]),
+                utils.remove_periods_from_end(video_info["title"]))
+                #already appended
+                #other Stuff for Download handler is in a seperate function
+            elif dl_object.data["type"] == "playlist":
+                root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+                "youtube",
+                "playlists",
+                utils.remove_periods_from_end(dl_object.data["playlist name"]),
+                utils.remove_periods_from_end(video_info["title"]))
+            else:
+                root_download_dir = os.path.join(Downloader.settings["directories"]["output"],
+                "youtube",
+                utils.remove_periods_from_end(utils.apostrophe(video_info["title"])))
+                dl_object.download_info.append(root_download_dir)
 
-        streams = sub_object["streams"]
+            streams = sub_object["streams"]
 
-        video_stream = get_best_video(streams)
-        audio_stream = get_best_audio(streams)
-        
-        info_string = """{}
+            video_stream = get_best_video(streams)
+            audio_stream = get_best_audio(streams)
+            
+            info_string = """{}
 
 Video URL: {}
 Channel: {}
@@ -699,93 +706,97 @@ Description:
 
 
 Streams downloaded: {}, {}
-        """.format(
-            video_info["url"],
-            video_info["title"],
-            video_info["channel"],
-            video_info["channel id"],
-            video_info["category"],
-            video_info["views"],
-            video_info["publish date"],
-            video_info["length"],
-            video_info["description"],
-            video_stream["name"], audio_stream["name"]
-        )
-        #print("{} | {}".format(video_info["title"], video_info["publish date"]))
-        ## lol
+            """.format(
+                video_info["url"],
+                video_info["title"],
+                video_info["channel"],
+                video_info["channel id"],
+                video_info["category"],
+                video_info["views"],
+                video_info["publish date"],
+                video_info["length"],
+                video_info["description"],
+                video_stream["name"], audio_stream["name"]
+            )
+            #print("{} | {}".format(video_info["title"], video_info["publish date"]))
+            ## lol
 
-        #Text File
-        dl_object.download_info.append({
-            "filename":utils.apostrophe(video_info["title"])+" - Info.txt", #Better to organsise with the video name as well
-            "path":(os.path.join(root_download_dir,video_info["title"]+" - Info.txt")),
-            "text file": True,
-            "download": False,
-            "contents": info_string,
-            "thumbnail": None,
-            "merge audio": None
-        })
-        #Thumbnail - not sure if a forced png works
-        dl_object.download_info.append({
-            "filename":utils.apostrophe(video_info["title"])+" - Thumbnail.png",
-            "path":(os.path.join(root_download_dir,video_info["title"]+" - Thumbnail.png")),
-            "text file": False,
-            "download": True,
-            "contents": video_info["thumbnail url"],
-            "thumbnail": None,
-            "merge audio": None
-        })
-
-        video_stream["url"], audio_stream["url"] ="http_mergeonly","http_mergeonly" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
-        #audio file
-        if audio_stream["url"].startswith("http") == True:
-            audio_filename = "tmpaudio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+            #Text File
             dl_object.download_info.append({
-                "filename":audio_filename,
-                "path":(os.path.join(root_download_dir,audio_filename)),
-                "text file": False,
-                "download": True,
-                "contents": audio_stream["url"],
-                "thumbnail": video_info["thumbnail url"],
+                "filename":utils.apostrophe(video_info["title"])+" - Info.txt", #Better to organsise with the video name as well
+                "path":(os.path.join(root_download_dir,video_info["title"]+" - Info.txt")),
+                "text file": True,
+                "download": False,
+                "contents": info_string,
+                "thumbnail": None,
                 "merge audio": None
             })
-        else:
-            dl_logger.log_info("! Video ({}|{}) usual forced error.".format(video_info["url"],video_info["title"])) #log some form of error
-            
-        
-        #Video File
-        if video_stream["url"].startswith("http") == True:
-            video_filename = "tmpvideo_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
+            #Thumbnail - not sure if a forced png works
             dl_object.download_info.append({
-                "filename":video_filename,
-                "path":(os.path.join(root_download_dir,video_filename)),
-                "text file": True,
+                "filename":utils.apostrophe(video_info["title"])+" - Thumbnail.png",
+                "path":(os.path.join(root_download_dir,video_info["title"]+" - Thumbnail.png")),
+                "text file": False,
                 "download": True,
-                "contents": video_stream["url"],
-                "thumbnail": video_info["thumbnail url"],
-                "merge audio": audio_filename,
-                "metadata":{
-                    "title":video_info["title"],
-                    "artist":video_info["channel"],
-                    "track number":0,
-                    "playlist":"",
-                    "year":re.search(utils.year_regex,video_info["publish date"]).group()
-                }
+                "contents": video_info["thumbnail url"],
+                "thumbnail": None,
+                "merge audio": None
             })
+
+            video_stream["url"], audio_stream["url"] ="http_mergeonly","http_mergeonly" #Forces youtubedl backend (faster downloading, its a shame but youtube throttles my downloads without proxies etc - its clear cuz it works fine for bandcamp)
+            #audio file
+            if audio_stream["url"].startswith("http") == True:
+                audio_filename = "tmpaudio_"+utils.apostrophe(video_info["title"])+"."+audio_stream["file_type"]
+                dl_object.download_info.append({
+                    "filename":audio_filename,
+                    "path":(os.path.join(root_download_dir,audio_filename)),
+                    "text file": False,
+                    "download": True,
+                    "contents": audio_stream["url"],
+                    "thumbnail": video_info["thumbnail url"],
+                    "merge audio": None
+                })
+            else:
+                dl_logger.log_info("! Video ({}|{}) usual forced error.".format(video_info["url"],video_info["title"])) #log some form of error
+                
             
-        if video_stream["url"] == "http_mergeonly": #forcing this to happen the new way
-            #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
-            if Downloader.settings["debug"]["download"] == True:
-                try:
-                    dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend for {}.".format(video_info["url"]))
-                    youtube_dl_backup_video(video_info["url"],root_download_dir)
+            #Video File
+            if video_stream["url"].startswith("http") == True:
+                video_filename = "tmpvideo_"+utils.apostrophe(video_info["title"])+"."+video_stream["file_type"]
+                dl_object.download_info.append({
+                    "filename":video_filename,
+                    "path":(os.path.join(root_download_dir,video_filename)),
+                    "text file": True,
+                    "download": True,
+                    "contents": video_stream["url"],
+                    "thumbnail": video_info["thumbnail url"],
+                    "merge audio": audio_filename,
+                    "metadata":{
+                        "title":video_info["title"],
+                        "artist":video_info["channel"],
+                        "track number":0,
+                        "playlist":"",
+                        "year":re.search(utils.year_regex,video_info["publish date"]).group()
+                    }
+                })
+                
+            if video_stream["url"] == "http_mergeonly": #forcing this to happen the new way
+                #dl_logger.log_info("Video stream undownloadable (copyrighted music ftw")#log some form of error
+                if Downloader.settings["debug"]["download"] == True:
+                    try:
+                        dl_logger.log_info("Unable to use main Youtube Extractor, switching to Youtube-dl backend for {}.".format(video_info["url"]))
+                        youtube_dl_backup_video(video_info["url"],root_download_dir)
 
-                    if video_info["music url"] != False:
-                        youtube_dl_backup_audio(video_info["music url"],root_download_dir)
-                    else:
-                        youtube_dl_backup_audio(video_info["url"],root_download_dir)
+                        if video_info["music url"] != False:
+                            youtube_dl_backup_audio(video_info["music url"],root_download_dir)
+                        else:
+                            youtube_dl_backup_audio(video_info["url"],root_download_dir)
 
-                except Exception as e:
-                    dl_logger.log_exception(e)
+                    except Exception as e:
+                        dl_logger.log_exception(e)
+        except:
+            dl_logger.log_info("Video info not available for {}".format(sub_object["id"]))
+            # usually its a unavailable error iirc.
+            pass
 
     #utils.print_json(dl_object.download_info)
 

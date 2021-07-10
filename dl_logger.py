@@ -8,6 +8,9 @@ def print_time():
     timenow = time.strftime("%Y %m %d %H.%M.%S")
     return "["+timenow+"]"
 
+def print_time_filename():
+    return time.strftime("%Y %m %d %H.%M.%S")
+
 def print_duration(start_time):
     duration_s = time.time()-start_time
     if duration_s >=60:
@@ -28,7 +31,7 @@ def print_duration(start_time):
 def init_logger(log_folder_path, *custom_start):
     global logpath, logger, log_stream, logger_console, start_time
     start_time = time.time()
-    logpath = os.path.join(log_folder_path,"Logs","log_"+print_time()+".txt")
+    logpath = os.path.join(log_folder_path,"Logs","log_"+print_time_filename()+".txt")
 
     loglist = os.listdir(os.path.join(log_folder_path,"Logs")) #Old log removal
     if len(loglist) > 9:
