@@ -287,8 +287,32 @@ def youtube_extractor(Downloader):
         for a in list_of_ids:
             if a not in newlist_of_playlist_ids:
                 newlist_of_playlist_ids.append(a)
-
+        
+        dl_logger.log_info("Scraped upload video count: "+str(len(newlist_of_playlist_ids)))
+        
         del list_of_ids
+
+        ## Download in stages: code:
+        if Downloader.settings["download config"]["use"]:
+            stage = Downloader.settings["download config"]["current"]
+            n = Downloader.settings["download config"]["count"]
+
+            if Downloader.settings["download config"]["alt start"] == 0:
+                start = n * (stage - 1)
+            else:
+                start = Downloader.settings["download config"]["alt start"] - 1
+
+            end = n * stage 
+            print(start, end)
+            dl_logger.log_info("Downloading stage {}, Video {} - {}.".format(stage, start + 1, end))
+
+            # new list
+            newlist_of_playlist_ids = newlist_of_playlist_ids[start:end]
+
+            # reset for settings.
+            dl_logger.log_info("New [current] for download set: {}".format(stage + 1))
+            Downloader.settings["download config"]["current"] += 1
+
 
         return newlist_of_playlist_ids, playlist_name
 
@@ -393,8 +417,9 @@ def youtube_extractor(Downloader):
 
         #print(data["sub_objects"])
         dl_logger.log_info("Now downloading channel: {}\nVideo Count: {}".format(channel_name, len(list_of_ids)))
+        dl_logger.log_info('Proper video count: ' + str(video_count))
         if len(list_of_ids) != int(video_count):
-            dl_logger.log_info("Channel video counts differ ({}, {}).".format(len(list_of_ids), video_count))
+            dl_logger.log_info("Channel video counts differ ({}, {}). (Might just be due to staged download)".format(len(list_of_ids), video_count))
 
         channel_info_string = """Channel: {channel_name}
 Channel URL: {url}

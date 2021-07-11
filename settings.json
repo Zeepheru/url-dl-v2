@@ -1,13 +1,22 @@
 {
     "debug": {
-        "autocommand": "",
+        "autocommand": "run",
         "descriptions only": false,
         "download": true,
         "export download info": true,
         "print download info": false,
-        "redownload":true,
-        "verbose":true,
-        "verbose1":false
+        "redownload": true,
+        "verbose": true,
+        "verbose1": false,
+        "youtube channel altmethod": true,
+        "audio only": true,
+        "video only": false
+    },
+    "download config": {
+        "use": true,
+        "current":1,
+        "alt start":0,
+        "count":1000
     },
     "directories": {
         "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json",

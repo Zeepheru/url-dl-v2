@@ -1,0 +1,87 @@
+2021-07-10 17:52:13,968 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-10 17:52:14,646 - Command: run
+2021-07-10 17:52:14,647 - Current: https://youtu.be/S_Rvlet8X0c 
+2021-07-10 17:52:14,647 - youtube link
+2021-07-10 17:52:15,260 - Scraping for id: S_Rvlet8X0c
+2021-07-10 17:52:15,913 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/S_Rvlet8X0c.
+2021-07-10 17:53:01,736 - Done downloading video.
+2021-07-10 17:53:04,054 - Done downloading audio.
+2021-07-10 17:53:07,065 - Creating download information json.
+2021-07-10 17:53:07,066 - Writing text file.
+2021-07-10 17:53:07,066 - Downloading: [Hardstyle] Tw3Lv3 - Hooves [Helpie's Corner  The Other Side of The Mirror] - Thumbnail.png
+2021-07-10 17:53:07,271 - Merging audio and video files.
+2021-07-10 17:53:10,040 - Adding thumbnail to video file.
+2021-07-10 17:53:10,217 - Trying to apply metadata
+2021-07-10 17:53:10,217 - Applying mp3 cover
+2021-07-10 17:53:10,246 - Applied Metadata.
+2021-07-10 17:53:10,252 - Video file does not exist.
+2021-07-10 17:53:10,252 - Download for https://youtu.be/S_Rvlet8X0c complete.
+
+2021-07-10 17:53:10,253 - Writing to history...
+2021-07-10 17:53:10,254 - Done.
+2021-07-10 17:53:10,254 - Current: https://youtu.be/XGHAT-6R3fU 
+2021-07-10 17:53:10,254 - youtube link
+2021-07-10 17:53:10,255 - Scraping for id: XGHAT-6R3fU
+2021-07-10 17:53:11,070 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/XGHAT-6R3fU.
+2021-07-10 17:53:33,448 - Done downloading video.
+2021-07-10 17:53:35,340 - Done downloading audio.
+2021-07-10 17:53:37,447 - Creating download information json.
+2021-07-10 17:53:37,448 - Writing text file.
+2021-07-10 17:53:37,448 - Downloading: [Future Bass] Tw3Lv3 & TheTaZe - Keep Calm and Flutter On - Thumbnail.png
+2021-07-10 17:53:37,606 - Merging audio and video files.
+2021-07-10 17:53:39,303 - Adding thumbnail to video file.
+2021-07-10 17:53:39,441 - Trying to apply metadata
+2021-07-10 17:53:39,442 - Applying mp3 cover
+2021-07-10 17:53:39,452 - Applied Metadata.
+2021-07-10 17:53:39,455 - Video file does not exist.
+2021-07-10 17:53:39,455 - Download for https://youtu.be/XGHAT-6R3fU complete.
+
+2021-07-10 17:53:39,456 - Writing to history...
+2021-07-10 17:53:39,457 - Done.
+2021-07-10 17:53:39,457 - Current: https://youtu.be/ZUjEuPhFsdI 
+2021-07-10 17:53:39,457 - youtube link
+2021-07-10 17:53:39,458 - Scraping for id: ZUjEuPhFsdI
+2021-07-10 17:53:40,130 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/ZUjEuPhFsdI.
+2021-07-10 17:54:25,725 - Done downloading video.
+2021-07-10 17:54:28,671 - Done downloading audio.
+2021-07-10 17:54:31,399 - Creating download information json.
+2021-07-10 17:54:31,400 - Writing text file.
+2021-07-10 17:54:31,400 - Downloading: [Lo-Fi] Tw3Lv3 - Old Vibes - Thumbnail.png
+2021-07-10 17:54:31,667 - Merging audio and video files.
+2021-07-10 17:54:33,777 - Adding thumbnail to video file.
+2021-07-10 17:54:33,952 - Trying to apply metadata
+2021-07-10 17:54:33,952 - Applying mp3 cover
+2021-07-10 17:54:33,963 - Applied Metadata.
+2021-07-10 17:54:33,970 - Video file does not exist.
+2021-07-10 17:54:33,970 - Download for https://youtu.be/ZUjEuPhFsdI complete.
+
+2021-07-10 17:54:33,971 - Writing to history...
+2021-07-10 17:54:33,972 - Done.
+2021-07-10 17:54:33,972 - Current: https://youtu.be/x9HjADLARYY 
+2021-07-10 17:54:33,972 - youtube link
+2021-07-10 17:54:33,973 - Scraping for id: x9HjADLARYY
+2021-07-10 17:54:35,808 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/x9HjADLARYY.
+2021-07-10 17:56:45,230 - Done downloading video.
+2021-07-10 17:56:47,630 - Done downloading audio.
+2021-07-10 17:56:49,483 - Creating download information json.
+2021-07-10 17:56:49,484 - Writing text file.
+2021-07-10 17:56:49,484 - Downloading: [Lo-Fi] Tw3Lv3 - Canterlot Suburb - Thumbnail.png
+2021-07-10 17:56:49,653 - Merging audio and video files.
+2021-07-10 17:56:51,127 - Adding thumbnail to video file.
+2021-07-10 17:56:51,246 - Trying to apply metadata
+2021-07-10 17:56:51,247 - Applying mp3 cover
+2021-07-10 17:56:51,257 - Applied Metadata.
+2021-07-10 17:56:51,259 - Video file does not exist.
+2021-07-10 17:56:51,259 - Download for https://youtu.be/x9HjADLARYY complete.
+
+2021-07-10 17:56:51,260 - Writing to history...
+2021-07-10 17:56:51,261 - Done.
+2021-07-10 17:56:51,261 - Current: https://youtu.be/OvXouoYIjAg 
+2021-07-10 17:56:51,262 - youtube link
+2021-07-10 17:56:51,262 - Scraping for id: OvXouoYIjAg
+2021-07-10 17:56:52,246 - Unable to use main Youtube Extractor, switching to Youtube-dl backend for https://youtu.be/OvXouoYIjAg.

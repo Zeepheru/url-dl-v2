@@ -1,0 +1,138 @@
+2021-07-10 18:16:19,734 - 
+Downloading Utility Log. 
+Log started.
+
+Move log to Impt Logs if required as only the 10 most recent logs are kept.
+
+2021-07-10 18:16:19,735 - Autocommand from settings: run
+2021-07-10 18:16:19,735 - Command: run
+2021-07-10 18:16:19,736 - Current: https://eoxstudios.bandcamp.com/album/retro-grooves-vol-3-2 
+2021-07-10 18:16:19,736 - bandcamp link
+2021-07-10 18:16:22,876 - Creating download information json.
+2021-07-10 18:16:22,877 - Downloading: Dancing Hearts.mp3
+2021-07-10 18:16:25,605 - Applying mp3 cover
+2021-07-10 18:16:26,150 - Downloading: A Song Long Ago.mp3
+2021-07-10 18:16:27,080 - Applying mp3 cover
+2021-07-10 18:16:27,124 - Downloading: Technics K200 Song.mp3
+2021-07-10 18:16:28,349 - Applying mp3 cover
+2021-07-10 18:16:28,393 - Downloading: The Gathering.mp3
+2021-07-10 18:16:30,446 - Applying mp3 cover
+2021-07-10 18:16:30,502 - Downloading: FM Love.mp3
+2021-07-10 18:16:32,253 - Applying mp3 cover
+2021-07-10 18:16:32,294 - Downloading: Escape Your Fear.mp3
+2021-07-10 18:16:33,159 - Applying mp3 cover
+2021-07-10 18:16:33,206 - Downloading: Thinking of You.mp3
+2021-07-10 18:16:34,389 - Applying mp3 cover
+2021-07-10 18:16:34,437 - Downloading: DiscoVision.mp3
+2021-07-10 18:16:36,521 - Applying mp3 cover
+2021-07-10 18:16:36,574 - Downloading: Summer Love.mp3
+2021-07-10 18:16:38,084 - Applying mp3 cover
+2021-07-10 18:16:38,131 - Downloading: Let&#39;s Fly (feat. Gina).mp3
+2021-07-10 18:16:38,869 - Applying mp3 cover
+2021-07-10 18:16:38,913 - Downloading: Borderline.mp3
+2021-07-10 18:16:39,606 - Applying mp3 cover
+2021-07-10 18:16:39,650 - Downloading: Hohner PSK-30 Song.mp3
+2021-07-10 18:16:40,861 - Applying mp3 cover
+2021-07-10 18:16:40,906 - Downloading: Isabella&#39;s Dream.mp3
+2021-07-10 18:16:42,655 - Applying mp3 cover
+2021-07-10 18:16:42,710 - Downloading: Alpha Polaris.mp3
+2021-07-10 18:16:43,609 - Applying mp3 cover
+2021-07-10 18:16:43,650 - Downloading: Dancing Hearts (Instrumental).mp3
+2021-07-10 18:16:45,680 - Applying mp3 cover
+2021-07-10 18:16:45,722 - Downloading: A Song Long Ago (Instrumental).mp3
+2021-07-10 18:16:46,905 - Applying mp3 cover
+2021-07-10 18:16:46,946 - Downloading: A Song Long Ago (No Sax).mp3
+2021-07-10 18:16:48,223 - Applying mp3 cover
+2021-07-10 18:16:48,279 - Downloading: The Gathering (Instrumental).mp3
+2021-07-10 18:16:50,456 - Applying mp3 cover
+2021-07-10 18:16:50,503 - Downloading: The Gathering (No Samples).mp3
+2021-07-10 18:16:52,053 - Applying mp3 cover
+2021-07-10 18:16:52,097 - Downloading: FM Love (Instrumental).mp3
+2021-07-10 18:16:53,622 - Applying mp3 cover
+2021-07-10 18:16:53,683 - Downloading: Escape Your Fear (Instrumental).mp3
+2021-07-10 18:16:54,711 - Applying mp3 cover
+2021-07-10 18:16:54,754 - Downloading: Escape Your Fear (Singback).mp3
+2021-07-10 18:16:56,019 - Applying mp3 cover
+2021-07-10 18:16:56,077 - Downloading: Thinking of You (Instrumental).mp3
+2021-07-10 18:16:57,234 - Applying mp3 cover
+2021-07-10 18:16:57,281 - Downloading: DiscoVision (No Samples).mp3
+2021-07-10 18:16:58,618 - Applying mp3 cover
+2021-07-10 18:16:58,678 - Downloading: DiscoVision (Instrumental).mp3
+2021-07-10 18:17:01,346 - Applying mp3 cover
+2021-07-10 18:17:01,390 - Downloading: Summer Love (Instrumental).mp3
+2021-07-10 18:17:04,728 - Applying mp3 cover
+2021-07-10 18:17:04,781 - Downloading: Let&#39;s Fly (Instrumental).mp3
+2021-07-10 18:17:06,424 - Applying mp3 cover
+2021-07-10 18:17:06,483 - Downloading: Let&#39;s Fly (Singback).mp3
+2021-07-10 18:17:08,343 - Applying mp3 cover
+2021-07-10 18:17:08,386 - Downloading: Borderline (Instrumental).mp3
+2021-07-10 18:17:10,650 - Applying mp3 cover
+2021-07-10 18:17:10,701 - Downloading: Hohner PSK-30 Song (Instrumental).mp3
+2021-07-10 18:17:13,085 - Applying mp3 cover
+2021-07-10 18:17:13,136 - Downloading: Isabella&#39;s Dream (Instrumental).mp3
+2021-07-10 18:17:14,768 - Applying mp3 cover
+2021-07-10 18:17:14,813 - Downloading: Cover Art.jpg
+2021-07-10 18:17:14,855 - Download for https://eoxstudios.bandcamp.com/album/retro-grooves-vol-3-2 complete.
+
+2021-07-10 18:17:14,857 - Writing to history...
+2021-07-10 18:17:14,858 - Done.
+2021-07-10 18:17:14,858 - Current: https://vyletpony.bandcamp.com/album/queen-of-misfits 
+2021-07-10 18:17:14,859 - bandcamp link
+2021-07-10 18:17:17,980 - Creating download information json.
+2021-07-10 18:17:17,981 - Downloading: Showtime.mp3
+2021-07-10 18:17:18,754 - Applying mp3 cover
+2021-07-10 18:17:18,822 - Downloading: Where Everything is New (ft. Namii & GalaxySquid).mp3
+2021-07-10 18:17:19,673 - Applying mp3 cover
+2021-07-10 18:17:19,720 - Downloading: Ursa Major (ft. Just Fern).mp3
+2021-07-10 18:17:20,471 - Applying mp3 cover
+2021-07-10 18:17:20,520 - Downloading: Different Kind of Magic.mp3
+2021-07-10 18:17:21,595 - Applying mp3 cover
+2021-07-10 18:17:21,644 - Downloading: Couldn&#39;t Care Less (ft. Lavender Harmony, Namii, & GalaxySquid).mp3
+2021-07-10 18:17:23,324 - Applying mp3 cover
+2021-07-10 18:17:23,369 - Downloading: When I Close My Eyes (with Namii).mp3
+2021-07-10 18:17:24,159 - Applying mp3 cover
+2021-07-10 18:17:24,221 - Downloading: To Blame.mp3
+2021-07-10 18:17:24,976 - Applying mp3 cover
+2021-07-10 18:17:25,023 - Downloading: Down the Way.mp3
+2021-07-10 18:17:26,802 - Applying mp3 cover
+2021-07-10 18:17:26,863 - Downloading: Sheltered Destinies.mp3
+2021-07-10 18:17:27,988 - Applying mp3 cover
+2021-07-10 18:17:28,035 - Downloading: Sorceress.mp3
+2021-07-10 18:17:29,707 - Applying mp3 cover
+2021-07-10 18:17:29,775 - Downloading:  (with ChibaDeer).mp3
+2021-07-10 18:17:30,284 - Applying mp3 cover
+2021-07-10 18:17:30,332 - Downloading: Magic Bitch (ft. Chi Chi, Namii, & Silva Hound).mp3
+2021-07-10 18:17:31,167 - Applying mp3 cover
+2021-07-10 18:17:31,213 - Downloading: Regality (ft. Briakitten).mp3
+2021-07-10 18:17:32,110 - Applying mp3 cover
+2021-07-10 18:17:32,162 - Downloading: Mad This Time.mp3
+2021-07-10 18:17:32,599 - Applying mp3 cover
+2021-07-10 18:17:32,646 - Downloading: As Strong as Horses.mp3
+2021-07-10 18:17:34,107 - Applying mp3 cover
+2021-07-10 18:17:34,155 - Downloading: My Letter to the Princess.mp3
+2021-07-10 18:17:35,446 - Applying mp3 cover
+2021-07-10 18:17:35,514 - Downloading: Nomad.mp3
+2021-07-10 18:17:37,376 - Applying mp3 cover
+2021-07-10 18:17:37,427 - Downloading: The Wanderer.mp3
+2021-07-10 18:17:38,362 - Applying mp3 cover
+2021-07-10 18:17:38,413 - Downloading: Eyes On Me (ft. PrinceWhateverer).mp3
+2021-07-10 18:17:39,068 - Applying mp3 cover
+2021-07-10 18:17:39,116 - Downloading: The Magic Show (On Your Knees _ The Moment _ Thrill of the Fight).mp3
+2021-07-10 18:17:41,290 - Applying mp3 cover
+2021-07-10 18:17:41,380 - Downloading: Queen of Misfits (ft. Cabi & Namii).mp3
+2021-07-10 18:17:43,132 - Applying mp3 cover
+2021-07-10 18:17:43,177 - Downloading: Cover Art.jpg
+2021-07-10 18:17:43,229 - Download for https://vyletpony.bandcamp.com/album/queen-of-misfits complete.
+
+2021-07-10 18:17:43,230 - Writing to history...
+2021-07-10 18:17:43,230 - Done.
+2021-07-10 18:17:43,231 - Current: https://vyletpony.bandcamp.com/track/everything-glimmer-ft-chi-chi-namii 
+2021-07-10 18:17:43,231 - bandcamp link
+2021-07-10 18:17:47,503 - Creating download information json.
+2021-07-10 18:17:47,503 - Downloading: Everything Glimmer (ft. Chi Chi & Namii).mp3
+2021-07-10 18:17:48,348 - Applying mp3 cover
+2021-07-10 18:17:48,656 - Downloading: Cover Art.jpg
+2021-07-10 18:17:48,696 - Download for https://vyletpony.bandcamp.com/track/everything-glimmer-ft-chi-chi-namii complete.
+
+2021-07-10 18:17:48,697 - Writing to history...
+2021-07-10 18:17:48,698 - Done.
