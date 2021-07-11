@@ -227,8 +227,7 @@ def getComments(videoId):
     return allcomments
 
 def main(jsonOut=True, textOut=True):
-    videoId = 1061253129
-     # drunk stream
+    videoId = 1068497233
 
     allcommentsA = getComments(videoId)
     allcomments = []
