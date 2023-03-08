@@ -1,6 +1,7 @@
 {
     "debug": {
-        "autocommand": "run",
+        "audio only": true,
+        "autocommand": "",
         "descriptions only": false,
         "download": true,
         "export download info": true,
@@ -8,15 +9,8 @@
         "redownload": true,
         "verbose": true,
         "verbose1": false,
-        "youtube channel altmethod": true,
-        "audio only": true,
-        "video only": false
-    },
-    "download config": {
-        "use": true,
-        "current":1,
-        "alt start":0,
-        "count":1000
+        "video only": false,
+        "youtube channel altmethod": true
     },
     "directories": {
         "json": "C:\\Utilities\\Scripts\\url-dl-v2 output\\json",
@@ -35,6 +29,12 @@
                 "playlists"
             ]
         }
+    },
+    "download config": {
+        "alt start": 0,
+        "count": 1000,
+        "current": 1,
+        "use": true
     },
     "get best stream": true,
     "max download": 1000

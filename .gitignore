@@ -1,2 +1,6 @@
-settings.json
+/settings.json
 *.pyc
+*.txt
+*.png
+*.log
+twitch_c*
