@@ -4,3 +4,4 @@
 *.png
 *.log
 twitch_c*
+client*.json
